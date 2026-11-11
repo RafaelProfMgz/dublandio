@@ -41,6 +41,17 @@ function h(tag, atributos = {}, ...filhos) {
   return el;
 }
 
+const SVG = "http://www.w3.org/2000/svg";
+function icone(nome) {
+  const svg = document.createElementNS(SVG, "svg");
+  svg.setAttribute("class", "icone");
+  svg.setAttribute("aria-hidden", "true");
+  const uso = document.createElementNS(SVG, "use");
+  uso.setAttribute("href", `#i-${nome}`);
+  svg.append(uso);
+  return svg;
+}
+
 async function api(caminho, opcoes = {}) {
   const resp = await fetch(caminho, {
     ...opcoes,
@@ -133,6 +144,20 @@ async function aoMudarHash() {
     render();
   }
 }
+
+function aplicarTema(tema) {
+  if (tema === "light" || tema === "dark") document.documentElement.dataset.theme = tema;
+  else delete document.documentElement.dataset.theme;
+  for (const b of document.querySelectorAll(".tema button")) b.setAttribute("aria-checked", String(b.dataset.tema === (tema || "auto")));
+}
+function temaSalvo() { try { return localStorage.getItem("dublandio-tema") || "auto"; } catch { return "auto"; } }
+for (const b of document.querySelectorAll(".tema button")) {
+  b.addEventListener("click", () => {
+    try { localStorage.setItem("dublandio-tema", b.dataset.tema); } catch { /* sem armazenamento: vale só nesta aba */ }
+    aplicarTema(b.dataset.tema);
+  });
+}
+aplicarTema(temaSalvo());
 
 window.addEventListener("hashchange", aoMudarHash);
 window.addEventListener("beforeunload", (e) => { if (estado.sujo) e.preventDefault(); });
@@ -249,7 +274,7 @@ function renderChaves() {
   }
   el.replaceChildren(
     h("div", { class: "chaves-topo" },
-      h("span", {}, "Chaves"),
+      h("h2", { class: "lateral-titulo" }, icone("chave"), "Chaves"),
       h("button", { class: "botao-icone", type: "button", title: "Conferir de novo", "aria-label": "Conferir as chaves de novo",
                     onclick: () => carregarChaves(true) }, "↻"),
     ),
@@ -268,14 +293,22 @@ function renderChaves() {
 
 // ---------- barra lateral ----------
 
+// Cor estável por livro (a mesma paleta dos personagens).
+function corDoLivro(slug) {
+  let n = 0;
+  for (const c of slug) n = (n * 31 + c.charCodeAt(0)) >>> 0;
+  return CORES[n % CORES.length];
+}
+
 function renderLateral() {
   $("livros").replaceChildren(...estado.livros.map((l) => {
     const pct = l.capitulos ? Math.round((100 * l.com_audio) / l.capitulos) : 0;
     return h("li", {},
       h("button", {
         class: "livro-link", type: "button", "aria-current": l.slug === estado.slug ? "page" : null,
-        onclick: () => ir(l.slug),
+        onclick: () => ir(l.slug), style: { "--cor": corDoLivro(l.slug) },
       },
+        h("span", { class: "livro-inicial", "aria-hidden": "true" }, (l.titulo.match(/[\p{L}\p{N}]/u) || ["?"])[0].toUpperCase()),
         h("span", { class: "livro-titulo" }, l.titulo),
         h("span", { class: "livro-meta" }, l.erro ? "livro.yaml com erro"
           : `${l.com_audio} de ${plural(l.capitulos, "capítulo", "capítulos")} com áudio`),
@@ -311,14 +344,14 @@ function render() {
     aba("config", "Configuração"),
   );
   const corpo = { capitulos: telaCapitulos, vozes: telaVozes, catalogo: telaCatalogo, config: telaConfig, videos: telaVideos }[estado.aba](l);
-  principal.replaceChildren(cabecalho(l), alertaChaves(l) || "", abas, corpo);
+  principal.replaceChildren(h("div", { class: "topo-livro" }, cabecalho(l), abas), alertaChaves(l) || "", corpo);
 }
 
 function aba(id, rotulo, contagem) {
   return h("button", {
     class: "aba", role: "tab", type: "button", "aria-selected": String(estado.aba === id),
     onclick: () => ir(estado.slug, id === "capitulos" ? "" : id),
-  }, rotulo, contagem != null ? h("span", { class: "aba-contagem" }, contagem) : null);
+  }, icone(id), rotulo, contagem != null ? h("span", { class: "aba-contagem" }, contagem) : null);
 }
 
 function cabecalho(l) {
