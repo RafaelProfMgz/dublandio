@@ -1,0 +1,1112 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No Posto Varnhal havia uma lousa onde os soldados apostavam em quem ia morrer primeiro. Meu nome estava no topo."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não estava sozinho lá em cima, para ser justo. Dividia a posição com um ex-mineiro de sessenta anos chamado Custódio, que tossia sangue desde a caravana, e com um rapaz magrelo de cabelo vermelho cujo nome ninguém tinha se dado ao trabalho de aprender e que estava escrito na lousa só como RUIVO. Ao lado de cada nome, alguém tinha anotado com giz um número. O meu era 1 PARA 2."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Isso é bom ou ruim?"
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "perguntou Tami, ao meu lado, apertando os olhos para a lousa."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pagando um para dois"
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse uma voz atrás de nós —, é o favorito. Parabéns, novato. Todo mundo acha que você morre."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Me virei. Eram dois. Um homem e uma mulher, mais ou menos da mesma altura, com o mesmo cabelo castanho cortado curto, o mesmo nariz quebrado no mesmo lugar e o mesmo sorriso, que ia até as orelhas e não chegava perto dos olhos. Usavam armaduras leves de couro escuro, remendadas em tantos lugares que já não dava para saber a cor original, Ele trazia nas costas um par de lâminas curtas, cruzadas em X. Ela, uma vara comprida, mais alta que ela, com uma lâmina curva em cada ponta, e no ombro uma coisa verde e lustrosa que eu tomei por broche até ela se mexer."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tor Dace"
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse o homem, e bateu no próprio peito."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mira Dace"
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse a mulher, e bateu no peito dele."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E vocês fazem as apostas"
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "adivinhei."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A gente administra as apostas"
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "corrigiu Mira."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É diferente. Quem aposta são os soldados da guarnição. Eles não vão, então apostam. É o jeito deles de participar."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E vocês? Vocês vão?"
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os dois riram exatamente ao mesmo tempo."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Tor",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A gente vai"
+  },
+  {
+    "ordem": 20,
+    "personagem": "Tor",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A gente está na lousa também. Olha lá embaixo."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olhei. Lá embaixo, quase na última linha, estava escrito GÊMEOS DACE e, ao lado, 1 PARA 40."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Isso quer dizer que..."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Mira",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que eles acham que a gente volta"
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse Mira, e piscou para Tami."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Mira",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eles não conhecem a gente muito bem."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A caravana levou onze dias de Três Pontes até Varnhal."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Éramos seis voluntários ao todo, recolhidos em três postos pelo caminho: eu, Tami, o velho Custódio, o Ruivo e dois irmãos quietos de uma vila de caçadores de peles, que andavam sempre juntos e que, em onze dias, disseram talvez vinte palavras. Viajávamos numa carroça coberta puxada por dois Aptonoth de carga, com um cocheiro da Guilda que fumava sem parar e não respondia pergunta nenhuma."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A paisagem foi mudando devagar. Primeiro, os campos do sul, amarelos de fim de verão. Depois, florestas de pinheiros escuros, cada vez mais densas, cada vez mais silenciosas. Depois, os pinheiros foram rareando e ficando baixos e tortos, como velhos, e o chão foi virando pedra, e o vento começou a soprar de um jeito que eu conhecia de Pedravento, só que mais frio, mais seco, mais antigo."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No oitavo dia, vimos neve nos picos pela primeira vez. No nono, Custódio começou a tossir sangue. No décimo, uma nevasca curta nos pegou na estrada, e a Tami, que nunca tinha visto neve na vida, saiu correndo da carroça, rindo e girando com os braços abertos, e o cocheiro gritou com ela pela primeira e única vez na viagem."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No décimo primeiro dia, no fim da tarde, fizemos uma curva numa estrada escavada na encosta de uma montanha, e lá estava ele."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Posto Varnhal não era um posto. Era uma fortaleza."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficava pendurado na beira de um penhasco, sobre um vale largo e vazio, com muralhas de pedra negra que pareciam ter crescido da própria montanha. Tinha torres, pátios, estábulos, uma forja que soltava fumaça dia e noite, alojamentos, armazéns e, na ponta mais alta do penhasco, três torres de ferro e madeira, altíssimas, finas como agulhas, com cabos grossos pendurados entre elas."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eram torres de atracação. E, preso a uma delas, balançando devagar no vento como um peixe gigantesco adormecido na água, havia um dirigível."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu nunca tinha visto um de perto. Tinha visto de longe, em Três Pontes, uma vez, quando era criança: um ponto escuro no céu, cruzando o horizonte, que minha mãe disse que era a Guilda indo para algum lugar importante. De perto era outra coisa. O balão era enorme, cinza-chumbo, remendado em dezenas de lugares com retalhos de cores diferentes. Embaixo dele, a gôndola de madeira era do tamanho de uma casa de dois andares, com hélices nas laterais, janelas redondas e um nome pintado na proa em letras brancas descascadas."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "ANDORINHA-CINZA."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A gente vai naquilo?"
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "sussurrou Tami, com os olhos brilhando."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não respondi. Estava ocupado demais medindo, com o estômago, a distância entre a gôndola e o chão."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na entrada do posto, um soldado de armadura amassada anotou nossos nomes numa lista e nos mandou para o pátio de reunião, onde havia uma segunda lousa, bem maior que a das apostas e sem nenhum número."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era a lista da 33ª."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava dividida em quatro colunas, com letras pintadas em branco em cima de cada uma."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "VOLUNTÁRIOS. DESIGNADOS. REINTEGRADOS. COMUTAÇÃO DE PENA."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A primeira coluna era a mais curta. Estavam lá os seis nomes da nossa carroça e mais uns quatro ou cinco. A segunda era mais longa: soldados, carregadores, cozinheiros, artesãos, gente que tinha sido mandada pela Guilda sem ter pedido. A terceira tinha poucos nomes, mas todos acompanhados de uma idade, entre parênteses, e as idades eram altas. Kovač, B. (51). Holt, V. (42). Rhel, K. (35)."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A quarta coluna não tinha nomes. Só números."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que é reintegrado?"
+  },
+  {
+    "ordem": 46,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gente que já tinha saído da Guilda e foi chamada de volta"
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "respondi. Tinha ouvido os soldados falando no portão."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aposentados. Feridos. Gente que já tinha feito a parte dela."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E comutação de pena?"
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olhei para a coluna de números."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Presos. Trocaram a cadeia pela expedição."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tami ficou em silêncio por um tempo. Depois disse, baixinho, como se estivesse descobrindo uma coisa que devia ter percebido antes:"
+  },
+  {
+    "ordem": 53,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A gente não é uma expedição, é?"
+  },
+  {
+    "ordem": 54,
+    "personagem": "Olhei",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olhei para as quatro colunas, para as idades altas, para os números sem nome, para a nossa coluna, a mais curta de todas."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Olhei",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A gente é o que sobrou."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi aí que alguém bateu nas minhas costas com uma pilha de papéis, e o mundo se encheu de mapas."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eram muitos. Rolos compridos, folhas soltas, cadernos amarrados com barbante, todos voando ao mesmo tempo, espalhando-se pelo chão do pátio, levados pelo vento em direções diferentes. Tami gritou e saiu correndo atrás de um que ia para o precipício. Eu me joguei no chão em cima de outros três."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "uma: Não, não, não, não, não!"
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "uma: Não pisa, não pisa, esse é o original!"
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Levantei o pé. Embaixo dele havia uma folha de papel grosso, amarelado, com o desenho de uma cordilheira em anel, feito à tinta, com cuidado, pico por pico. E, dentro do anel, nada. Um espaço em branco, enorme, só com algumas linhas pontilhadas e pontos de interrogação."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desculpa"
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu disse, pegando a folha com cuidado."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desculpa, eu não vi..."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não, a culpa é minha, eu que estava andando de costas, eu sempre ando de costas quando estou contando coisas, minha mãe dizia que eu ia cair num poço algum dia e..."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era uma moça mais ou menos da minha idade, um pouco mais velha, talvez. Baixa, com o cabelo castanho-avermelhado preso num coque que tinha se desfeito pela metade, óculos redondos tortos no nariz e as bochechas vermelhas de frio e de vergonha. Usava o uniforme azul-escuro dos coordenadores da Guilda, com um broche de latão em forma de pena no colarinho, e tinha manchas de tinta nos dedos, iguais às do Osmar. Só que nela ficavam diferentes."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela pegou a folha da minha mão e a apertou contra o peito com as duas mãos, aliviada, como se fosse uma coisa viva."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Obrigada. De verdade. Esse é o único mapa das Coroas Partidas que tem as altitudes corrigidas pela trigésima. Se eu perdesse esse, a Comandante ia me jogar do penhasco pessoalmente."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela parou, me olhou e piscou duas vezes por trás dos óculos."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Espera. Eu te conheço."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Acho que não."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Conheço, sim."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela fechou os olhos por um segundo, como se estivesse lendo alguma coisa escrita por dentro das pálpebras."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kest. Ilian. Pedravento. Espada e escudo. Voluntário. Rank..."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela abriu os olhos e fez uma careta de desculpa."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O mais baixo."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fiquei olhando para ela."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Como você sabe disso?"
+  },
+  {
+    "ordem": 79,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu decorei a lista. Toda."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela ajeitou os óculos."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sessenta e dois nomes. Bom, sessenta e um, porque um dos designados morreu de febre na semana passada, antes de chegar, mas ainda não tiraram o nome dele da lousa porque ninguém tem tinta branca."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela estendeu a mão livre, a que não estava segurando o mapa."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nessa Orlen. Coordenadora de campo da 33ª. Eu sou a sua guia."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Minha guia?"
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "De todo mundo. Eu organizo as rotas, os suprimentos, as montarias, os Palicos, os turnos de guarda, os relatórios para a Guilda, os mapas..."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela olhou em volta, para os papéis ainda espalhados pelo pátio."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Principalmente os mapas."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Apertei a mão dela. Estava gelada e firme."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tami voltou correndo, ofegante, com três rolos debaixo do braço e um quarto preso entre os dentes. Ajudamos Nessa a juntar o resto. Levou um bom tempo. Um dos cadernos tinha caído num bebedouro de Aptonoth e outro tinha ficado preso numa grade, e, quando terminamos, o sol já tinha sumido atrás das montanhas e o pátio estava azul de frio."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Antes de ir embora, Nessa desenrolou de novo o mapa das Coroas, só por um momento, e me mostrou o espaço em branco no meio."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sabe o que é mais bonito nisso?"
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse ela, e a voz dela mudou, ficou mais baixa, mais séria, quase reverente."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém nunca desenhou isso aqui. Trinta e duas expedições e ninguém nunca voltou com um mapa inteiro de dentro. Só pedaços. Anotações. Coisas que não batem umas com as outras."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Nessa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E você quer desenhar."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Nessa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu vou desenhar."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela enrolou o mapa com cuidado."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Nessa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amanhã de manhã eu distribuo as montarias e os Palicos. Chega cedo, Kest. Os bons acabam rápido."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E foi embora, andando de costas, contando alguma coisa em voz baixa nos dedos manchados de tinta."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O refeitório do Posto Varnhal era um salão comprido de pedra, com mesas de madeira grossa, bancos sem encosto e uma lareira em cada ponta que não esquentava nada no meio. Quando Tami e eu chegamos, a fila para a comida já tinha acabado, e a comida também."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Acabou"
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse o cozinheiro, um homem enorme e suado, raspando o fundo de um caldeirão com uma concha."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quem chega tarde come amanhã."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A gente estava ajudando a coordenadora com os..."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quem chega tarde"
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "repetiu ele, devagar"
+  },
+  {
+    "ordem": 106,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "come amanhã."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tami olhou para mim. Eu olhei para o caldeirão vazio. Meu estômago, que não via comida quente desde o ensopado da Maren, fez um barulho que deve ter sido ouvido do outro lado do salão."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi ouvido, pelo menos, na mesa mais próxima."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senta aqui, garoto."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era uma voz grossa, rouca, que parecia ter sido lixada com pedra de amolar."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senta aqui, você e a mocinha do arco, antes que esse barulho acorde algum dragão."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era um homem grande. Não gordo, mas largo, como um barril de carvalho, com uma barriga redonda e dura por baixo da camisa e ombros que ocupavam o espaço de duas pessoas no banco. Tinha a cabeça raspada, uma barba grisalha e espessa, trançada em duas pontas, e um nariz vermelho e cheio de veias que dizia muito sobre a relação dele com a bebida. Encostado no banco, ao lado dele, havia um martelo."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não era um martelo como o do Bento, para bater prego. Era uma coisa que só podia ser chamada de martelo porque não havia outra palavra: uma cabeça de metal escuro do tamanho de um tronco de árvore, presa a um cabo grosso como meu braço, envolto em couro gasto. Estava coberto de marcas, amassados, arranhões e manchas escuras que eu preferi não pensar de onde vinham."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sentamos. O homem empurrou a tigela dele para o meio da mesa. Estava pela metade: um ensopado grosso e escuro, com pedaços de carne e batata."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Divide aí"
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu já comi o suficiente. Meu médico disse que eu tenho que perder peso."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O senhor tem médico?"
+  },
+  {
+    "ordem": 118,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele soltou uma gargalhada que fez a mesa inteira tremer."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mas, se tivesse, ia dizer isso."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tami e eu dividimos o ensopado com uma colher só, passando de mão em mão. Estava salgado demais e frio nas bordas. Foi a melhor coisa que eu comi em onze dias."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann"
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann Kovač. Uns me chamam de Velho Martelo, mas só os que eu deixo."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele apontou para o martelo com o queixo."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E essa é a Dona Berta."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O martelo tem nome?"
+  },
+  {
+    "ordem": 127,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tudo que salva a sua vida mais de dez vezes merece um nome, garoto."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele me olhou de cima a baixo, demorando no escudo do Tadeu, que eu tinha encostado no banco, e depois no meu rosto."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E você, quem é?"
+  },
+  {
+    "ordem": 130,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilian Kest."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele não parou como Gault. Não piscou como Osmar. Só assentiu, devagar, e bebeu um gole longo de uma caneca de latão que cheirava a coisa muito mais forte do que cerveja."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Voluntário"
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse ele, e não era pergunta."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Como o senhor sabe?"
+  },
+  {
+    "ordem": 135,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque você está com cara de quem escolheu estar aqui."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele bateu a caneca na mesa."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os designados têm cara de raiva. Os presos têm cara de nada. E a gente, os velhos, os reintegrados, a gente tem cara de ressaca."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E o senhor foi reintegrado?"
+  },
+  {
+    "ordem": 139,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fui desenterrado."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele riu de novo, mas dessa vez mais baixo, e a risada não foi até o fim."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vinte e sete anos de Guilda, garoto. Aposentei faz quatro. Estava muito bem, obrigado, numa cabana na beira de um lago, pescando e bebendo e esquecendo o nome de todo mundo que eu vi morrer. Aí chega uma carta dizendo que a Guilda, em sua infinita sabedoria, precisa dos meus serviços mais uma vez. E que, se eu não for, perco a pensão."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele girou a caneca na mesa."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sabe como eles chamam a gente, lá na capital? A 33ª?"
+  },
+  {
+    "ordem": 144,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tami e eu fizemos que não."
+  },
+  {
+    "ordem": 145,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os descartáveis."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann deu de ombros."
+  },
+  {
+    "ordem": 147,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não é segredo. Eles dizem na nossa cara. A 33ª é feita de três tipos de gente, garoto: gente que não sabe, gente que não tem escolha e gente que já devia estar morta."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele apontou para Tami."
+  },
+  {
+    "ordem": 149,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sabe."
+  },
+  {
+    "ordem": 150,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Apontou para a porta, para o pátio, onde estava a lousa com a coluna de números."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não têm escolha."
+  },
+  {
+    "ordem": 152,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Apontou para o próprio peito."
+  },
+  {
+    "ordem": 153,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Já devia estar morto."
+  },
+  {
+    "ordem": 154,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois olhou para mim, com os olhos pequenos, vermelhos e surpreendentemente afiados por baixo das sobrancelhas grossas."
+  },
+  {
+    "ordem": 155,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E você, Kest? Você é de qual?"
+  },
+  {
+    "ordem": 156,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pensei na carta junto do peito. No círculo no latão. Na caixa com o lacre de cera cinza."
+  },
+  {
+    "ordem": 157,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pagamento triplo"
+  },
+  {
+    "ordem": 158,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "respondi."
+  },
+  {
+    "ordem": 159,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann ficou me olhando por um bom tempo. Depois soltou uma risada curta pelo nariz, bebeu mais um gole e não disse nada. Não precisava. Nós dois sabíamos que era mentira."
+  },
+  {
+    "ordem": 160,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os condenados chegaram depois do jantar."
+  },
+  {
+    "ordem": 161,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ouvimos antes de ver: um barulho de rodas pesadas no pátio, cascos, correntes, gritos de soldados. Metade do refeitório se levantou e foi até as janelas estreitas para olhar. Tami me puxou pela manga, e eu fui junto. Brann ficou sentado, bebendo, como se já tivesse visto aquilo vezes demais."
+  },
+  {
+    "ordem": 162,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lá embaixo, no pátio iluminado por tochas, havia uma carroça diferente das outras. Não era coberta de lona. Era uma jaula, de barras de ferro grossas, presa em cima de rodas, puxada por quatro Aptonoth. Dentro, sentados no chão de tábuas, havia umas dez ou doze pessoas, todas com as mãos presas por correntes a um cabo que corria pelo meio da jaula."
+  },
+  {
+    "ordem": 163,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os soldados abriram a porta e começaram a tirar os presos um por um. A maioria desceu de cabeça baixa, arrastando os pés. Um homem enorme, cheio de tatuagens, tentou empurrar um soldado e levou um golpe de cabo de lança no estômago que o dobrou ao meio. Outro chorava. Outro ria sozinho, sem motivo."
+  },
+  {
+    "ordem": 164,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A última a descer foi uma mulher."
+  },
+  {
+    "ordem": 165,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela desceu devagar, sem ajuda, com as mãos presas na frente do corpo, e ficou parada no meio do pátio, na luz das tochas, olhando em volta. Não de cabeça baixa. Não com medo. Olhava como quem mede, como quem conta. As muralhas, as torres, os soldados, as saídas, o dirigível lá no alto. Era alta, magra e com a pele morena. O cabelo preto e liso estava cortado de qualquer jeito na altura do queixo, como se alguém tivesse usado uma faca. Tinha uma cicatriz fina atravessando o lábio de cima. Mesmo com as correntes, mesmo com a roupa suja de presa, ficava de pé de um jeito que fazia os soldados em volta dela parecerem menores."
+  },
+  {
+    "ordem": 166,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Um deles a empurrou com o cabo da lança, nas costas, para que andasse. Ela não se mexeu. Só virou a cabeça, devagar, e olhou para ele. O soldado deu um passo para trás sem perceber."
+  },
+  {
+    "ordem": 167,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quem é aquela?"
+  },
+  {
+    "ordem": 168,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "sussurrou Tami."
+  },
+  {
+    "ordem": 169,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Varn"
+  },
+  {
+    "ordem": 170,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse Brann, lá da mesa, sem se levantar, sem olhar."
+  },
+  {
+    "ordem": 171,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sila Varn. Arqueira. A melhor que eu já vi, e eu já vi muitas. Matou um homem na capital. Um figurão."
+  },
+  {
+    "ordem": 172,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por quê?"
+  },
+  {
+    "ordem": 173,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Isso você pergunta para ela."
+  },
+  {
+    "ordem": 174,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele bebeu."
+  },
+  {
+    "ordem": 175,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Se tiver coragem."
+  },
+  {
+    "ordem": 176,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lá embaixo, os soldados conseguiram fazer Sila Varn andar. Ela atravessou o pátio em direção aos alojamentos dos presos, com as correntes tilintando, sem pressa nenhuma. Quando passou por baixo da janela onde estávamos, parou."
+  },
+  {
+    "ordem": 177,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E olhou para cima."
+  },
+  {
+    "ordem": 178,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sei como ela soube que eu estava ali. Havia umas vinte pessoas naquela janela, espremidas, empurrando umas às outras para ver. Mas ela olhou direto para mim, como se tivesse me escolhido numa lousa. Os olhos dela eram escuros, quase pretos, e não tinham nada dentro. Nem raiva, nem medo, nem curiosidade. Só uma espécie de cálculo frio, rápido e exato, como o de alguém medindo a distância até um alvo."
+  },
+  {
+    "ordem": 179,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Me mediu. Desceu os olhos pelo meu rosto, pelo galo que ainda restava na testa, pelas mãos agarradas no parapeito da janela."
+  },
+  {
+    "ordem": 180,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois sorriu. Um sorriso pequeno, torto, que puxou a cicatriz do lábio para cima."
+  },
+  {
+    "ordem": 181,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Novato"
+  },
+  {
+    "ordem": 182,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse ela, e a voz subiu clara e baixa pelo pátio, como se estivesse falando no meu ouvido."
+  },
+  {
+    "ordem": 183,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aposto que você é o primeiro a morrer."
+  },
+  {
+    "ordem": 184,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E continuou andando."
+  },
+  {
+    "ordem": 185,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Atrás de mim, no refeitório, alguém soltou uma gargalhada. Depois outro. Depois, lá do fundo, perto da porta, ouvi a voz de Tor Dace, ou talvez de Mira, gritando para alguém que corresse até a lousa das apostas, porque a Varn tinha acabado de fazer a dela."
+  }
+]

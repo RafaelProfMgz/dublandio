@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>dublandio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Schibsted+Grotesk:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="app.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><rect x='1' y='6' width='2' height='4' rx='1' fill='%230F6E6E'/><rect x='5' y='3' width='2' height='10' rx='1' fill='%230F6E6E'/><rect x='9' y='5' width='2' height='6' rx='1' fill='%23D7263D'/><rect x='13' y='7' width='2' height='2' rx='1' fill='%230F6E6E'/></svg>">
+</head>
+<body>
+  <div class="app">
+    <aside class="lateral">
+      <div class="marca">
+        <svg class="marca-icone" viewBox="0 0 16 16" aria-hidden="true">
+          <rect x="1" y="6" width="2" height="4" rx="1"/><rect x="5" y="3" width="2" height="10" rx="1"/>
+          <rect x="9" y="5" width="2" height="6" rx="1" class="rec"/><rect x="13" y="7" width="2" height="2" rx="1"/>
+        </svg>
+        dublandio
+      </div>
+      <nav aria-label="Livros">
+        <ul id="livros" class="livros"></ul>
+      </nav>
+      <a href="#/+novo" id="adicionar-livro" class="adicionar-livro">
+        <span aria-hidden="true">+</span> Adicionar livro
+      </a>
+      <section id="chaves" class="chaves" aria-label="Chaves dos provedores"></section>
+    </aside>
+
+    <main id="principal" class="principal">
+      <div class="vazio">Carregando livros…</div>
+    </main>
+  </div>
+
+  <section id="progresso" class="progresso" hidden aria-live="polite">
+    <div class="progresso-topo">
+      <span class="progresso-luz" aria-hidden="true"></span>
+      <strong id="progresso-titulo"></strong>
+      <span id="progresso-contagem" class="progresso-contagem"></span>
+      <button id="progresso-fechar" class="botao-icone" type="button" aria-label="Fechar painel" hidden>×</button>
+    </div>
+    <div class="barra"><div id="progresso-barra" class="barra-cheia"></div></div>
+    <ol id="progresso-log" class="progresso-log"></ol>
+  </section>
+
+  <dialog id="dialogo" class="dialogo">
+    <form method="dialog">
+      <h2 id="dialogo-titulo"></h2>
+      <div id="dialogo-texto" class="dialogo-texto"></div>
+      <div class="dialogo-acoes">
+        <button value="cancelar" class="botao">Cancelar</button>
+        <button value="ok" id="dialogo-ok" class="botao primario"></button>
+      </div>
+    </form>
+  </dialog>
+
+  <div id="aviso" class="aviso" role="status" hidden></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

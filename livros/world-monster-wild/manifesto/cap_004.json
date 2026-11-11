@@ -1,0 +1,908 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando contei para a Maren que tinha assinado, ela quebrou o cachimbo."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não jogou no chão. Não bateu na mesa. Só apertou. Estava com ele na mão, como sempre, o fornilho de barro ainda morno, e, enquanto eu falava, os dedos dela foram se fechando em volta dele, devagar, cada vez mais, até que ouvi um estalo seco e o cachimbo se partiu em dois, e as brasas caíram no chão da cozinha e ficaram ali, piscando no escuro."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela não olhou para elas. Olhava para mim."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kharvaal"
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não era uma pergunta. Eu não tinha dito o nome. Tinha dito expedição especial, norte, pagamento triplo, todas as palavras do cartaz, mas não o nome. Ela disse mesmo assim, com a mesma voz com que Gault o tinha dito, a voz de quem cospe uma pedra."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A senhora sabia."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tua mãe me contou. Há muito tempo."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela abriu a mão e olhou para as duas metades do cachimbo como se não soubesse de onde tinham vindo."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sai da minha cozinha, Ilian."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Maren..."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sai."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu saí."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinha chegado em Pedravento no fim da tarde do quinto dia, com os pés em carne viva e o escudo do Tadeu marcando meus ombros em duas linhas roxas. A estrada de volta sobe o tempo todo, e eu subi rápido demais, porque tinha pouco tempo e porque, se andasse devagar, ia pensar. A caravana saía de Três Pontes na manhã do nono dia. Descontando a descida, sobravam dois dias."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dois dias para desmontar uma vida inteira. Achei que seria pouco. No fim, foi demais."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A notícia se espalhou pela vila antes do anoitecer. Não sei quem contou. Talvez a própria Maren, mas duvido. Talvez alguém tenha me visto passar com a plaqueta de ferro por cima da camisa, que eu tinha esquecido de esconder. Em Pedravento, as notícias andam com o vento, e o vento não tem dono."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na manhã seguinte, havia gente na minha porta."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O primeiro foi o Bento."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bateu duas vezes, devagar, e ficou parado no degrau com um saco de farinha no ombro e a cara de quem veio a um velório e não sabe onde pôr as mãos."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pão de viagem"
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Minha mulher assou a noite toda. Dura um mês se não molhar."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bento, eu não posso..."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pode."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele empurrou o saco contra o meu peito até eu segurar. Pesava como uma criança."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela disse que, se você não levar, ela vai pessoalmente até esse tal norte para entregar. E ela vai. Você conhece a minha Dalva."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu conhecia a Dalva. Levei o pão."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Bento não foi embora logo. Ficou no degrau, olhando para o chão, depois para o céu, depois para as próprias botas, como um homem que tem uma coisa entalada e está com vergonha de tossir."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aquela Aptonoth"
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A da Maren. A Teimosa."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que tem?"
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A gente foi buscar. Depois que você saiu. Eu, o Joca, que cuida das cabras lá de cima, e os dois meninos do Aldo ferreiro, com a carroça, para queimar lá embaixo, que é o costume, para não atrair bicho."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele coçou a barba."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilian, ela ainda estava fria."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fiquei quieto."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quatro dias debaixo do sol, e ainda fria. Não tinha mosca. Nenhuma. Não tinha cheiro."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele baixou a voz, embora não houvesse ninguém por perto."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E a grama em volta, onde ela estava, continuava branca. A geada não derreteu. O Joca pisou e disse que queimou o pé de tanto frio, atravessando a bota."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E vocês queimaram?"
+  },
+  {
+    "ordem": 38,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tentamos."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Bento finalmente olhou para mim. Tinha medo nos olhos."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O fogo não pegava. A gente jogou óleo, jogou palha, jogou lenha seca. Pegava na lenha, na palha, mas não pegava nela. Parecia que a carne estava... sei lá. Molhada por dentro. Levou a tarde inteira. No fim, sobrou uma coisa preta e dura, e a gente enterrou fundo, longe do riacho."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficamos um tempo em silêncio. Lá do alto da encosta, o vento do norte começava a descer, e a gente ouvia o assobio dele nas pedras da Cabeça-de-Boi."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você acha que é de lá?"
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do lugar para onde você vai?"
+  },
+  {
+    "ordem": 44,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não sei."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mas acha."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não respondi. Ele assentiu devagar, como se o silêncio já fosse resposta suficiente, se benzeu do jeito antigo, testa e chão, e foi embora sem se despedir."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois do Bento vieram os outros."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A velha Zefa, que tinha sido parteira da vila por quarenta anos e que tinha tirado a mim do ventre da minha mãe, trouxe um cachecol de lã grossa, cinza, tricotado com uma pressa que dava para ver nos pontos. Disse que tinha começado na noite anterior, assim que soube, e que não tinha dormido. Estava com os olhos vermelhos, e eu não soube se era de sono ou de outra coisa."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os meninos do Aldo trouxeram um par de botas de couro de Aptonoth, velhas, mas inteiras, que tinham sido do avô deles. Ficaram grandes nos meus pés, e eles me mostraram como enfiar palha na ponta para não escorregar. Depois pediram para ver a plaqueta, e eu deixei, e eles passaram de mão em mão aquele pedaço de ferro frio com o selo da Guilda como se fosse ouro, lendo meu nome em voz alta, errando as letras."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você vai matar um dragão?"
+  },
+  {
+    "ordem": 51,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por que não?"
+  },
+  {
+    "ordem": 53,
+    "personagem": "Me",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque eu não sei."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Me agachei na altura dele."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Me",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sabe o Kulu-Ya-Ku que eu enfrentei na prova? Ele me jogou no rio. Com uma pedra."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os meninos riram, e depois ficaram sérios, e depois riram de novo, sem saber direito o que sentir, do jeito que as crianças fazem quando os adultos estão estranhos."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A família do Joca trouxe um pote de banha de porco para passar na espada, contra a ferrugem. A viúva Rosa trouxe um saquinho de sal grosso, \"para jogar na porta de onde você dormir, que espanta coisa ruim\". Alguém, que eu nunca descobri quem, deixou na minha janela, durante a noite, um casaco de pele de ovelha forrado, com o cheiro de guardado de quem não usa há muito tempo, e três moedas de prata costuradas por dentro da gola."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No fim do primeiro dia, a mesa da minha cozinha estava coberta de coisas. Comida, roupa, remédio de erva, amuletos, uma faca, um cantil. Era mais do que eu conseguiria carregar, e bem mais do que a vila podia dar."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fiquei sentado na frente daquilo tudo, à noite, com o fogo baixo, e entendi uma coisa que não tinha entendido na hora de assinar: não era só eu que ia. Era um pedaço de Pedravento inteiro. E, se eu não voltasse, era esse pedaço que ficaria lá."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Obrigado"
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu disse para a mesa, para a cozinha vazia, para as coisas."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém respondeu, é claro. Mas eu já estava acostumado com isso."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Maren não apareceu naquele dia. Nem na manhã seguinte."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Passei pela casa dela duas vezes. Na primeira, a porta estava fechada. Na segunda, a porta estava aberta, e eu a vi lá dentro, sentada perto do fogo, de costas, com as duas metades do cachimbo em cima da mesa, uma do lado da outra, como se estivesse esperando que elas se juntassem sozinhas."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não entrei."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Em vez disso, subi até o cemitério."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O cemitério de Pedravento fica numa elevação acima da vila, num lugar onde a encosta faz uma espécie de ombro antes de continuar subindo para a Mesa. Diziam que era para que os mortos pudessem ver as casas lá embaixo e não se sentissem sozinhos. Eu sempre achei que era para que os vivos, quando olhassem para cima, se lembrassem deles."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinha um caminho de pedras soltas que subia em zigue-zague pelo ombro da encosta, com uma queda de uns dez metros de um dos lados. Não era a saliência da Cabeça-de-Boi, nem de longe, mas meu estômago virou do mesmo jeito. Subi olhando para os pés, contando as pedras."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O túmulo da minha mãe era simples. Uma lápide de pedra cinza, que o Bento tinha cortado e o Aldo tinha gravado, com o nome dela e dois anos. Nada mais. Ela não quis mais nada. Eu tinha plantado em volta umas mudas de trevo, as mesmas da Mesa, e elas tinham se espalhado bem. No verão, abriam florzinhas brancas."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Naquele fim de verão, estavam fechadas. Todas."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fiquei um tempo olhando para isso. Depois me sentei na grama ao lado da lápide, com as costas contra a pedra fria, como eu fazia quando era mais novo e vinha ali para não chorar na frente de ninguém."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oi, mãe."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O vento passou. As flores fechadas balançaram."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Tirei",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu assinei."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tirei a plaqueta de dentro da camisa e a segurei na frente da lápide, como se ela pudesse ver."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Tirei",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Rank mais baixo que existe. O examinador disse que abaixo disso só tem os mortos e os escrivães."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ri um pouco. Parei."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Minha",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu vi o Muro, mãe. Em Três Pontes."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Minha voz saiu mais baixa do que eu queria."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Minha",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vi o nome dele. E o círculo."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Silêncio."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Apertei",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você nunca me contou. Doze anos, mãe. Doze anos descendo aquela estrada, subindo aquela estrada, e você dizia que ia no mercado."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Apertei a plaqueta até o ferro morder a palma da mão."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Apertei",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por que você não me contou? Eu podia ter ido com você. Eu podia ter... sei lá. Brigado. Gritado com aquele escrivão. Qualquer coisa."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O vento. As flores."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sabia por que ela não tinha contado. Sabia desde o momento em que Osmar disse o nome dela naquele cômodo sem janela. Ela não tinha contado pelo mesmo motivo por que não tinha me dado a carta antes do quinto dia da febre. Tinha medo do que eu ia fazer depois."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E tinha razão."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Me desculpa"
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu disse, e dessa vez a voz quebrou no meio."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Osmar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Me desculpa, mãe. Eu sei o que ele pediu. Eu sei o que você prometeu. Eu li. Eu li devagar, dessa vez. Não deixe ele ir."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Enxuguei o rosto com a manga, com raiva."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Encostei",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mas você não me deixou. Você cumpriu. Até o fim."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Encostei a testa na pedra fria da lápide."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Encostei",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sou eu que estou indo. Sozinho. Isso não é culpa sua. Está me ouvindo? Não é culpa sua."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fiquei ali muito tempo. Não sei quanto. O sol andou no céu e a sombra da lápide andou na grama. Em algum momento, parei de falar e só fiquei ouvindo o vento, as pedras, o sino da vila lá embaixo marcando as horas."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Antes de descer, fiz a ela uma promessa. Uma que eu nunca disse a ninguém, nem à Maren, nem a Tami, nem, muito depois, às pessoas que viriam a significar para mim o mesmo que Pedravento. Disse baixinho, com a boca quase encostada na pedra, e o vento levou."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu vou trazer ele de volta, mãe. Nem que seja uma parte suficiente."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Maren veio na última noite."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu estava tentando enfiar a mesa da cozinha inteira dentro de uma mochila quando ouvi a porta. Não bateu. A Maren nunca batia. Entrou como se a casa fosse dela, e, de certa forma, depois de tantos anos, era mesmo. Trazia uma panela de ferro enrolada num pano e um embrulho debaixo do braço."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senta"
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sentei."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela botou a panela na mesa, afastando com o cotovelo metade das coisas que a vila tinha me dado, e tirou a tampa. Era ensopado de carne de Aptonoth com raiz-de-pedra e cebola, o que ela fazia nos dias de festa e nos dias de enterro. O cheiro encheu a cozinha e, de repente, eu tinha doze anos de novo e estava sentado naquela mesma cadeira, com os pés sem alcançar o chão, na noite em que minha mãe e ela brigaram por causa de uma cabra e depois se abraçaram chorando e comeram aquilo juntas até de madrugada."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Comemos em silêncio. Ela comeu pouco. Eu comi três pratos. Quando terminei, ela recolheu os pratos, lavou, secou, guardou no lugar certo, sem precisar perguntar onde era o lugar certo, e depois voltou a sentar na minha frente e pôs o embrulho em cima da mesa."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tadeu não morreu em Kharvaal"
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Se é isso que você está pensando."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não estava pensando."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava. Te conheço."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela desenrolou o embrulho devagar."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Morreu no sul, numa caçada de Rathalos, quando eu tinha trinta anos. Um tiro de fogo, bem no peito. Me mandaram o escudo, as botas e uma carta dizendo que ele tinha sido muito corajoso."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela fez uma pausa."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu preferia que ele tivesse sido um covarde vivo."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dentro do embrulho havia uma faca de destrinchar, com cabo de osso gasto e lâmina fina, afiadíssima, brilhando à luz do fogo."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era dele também. Não é arma. É para trabalhar a carne depois."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela empurrou a faca na minha direção."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os caçadores esquecem que a caçada não termina quando o bicho cai. Termina quando você aproveitou tudo. Tadeu dizia isso. Era a única coisa inteligente que ele dizia."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Peguei a faca. Era leve e perfeitamente equilibrada, como se tivesse sido feita para a minha mão."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Maren, eu..."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tua mãe me fez prometer"
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "ela me interrompeu, sem levantar a voz."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No quinto dia. Depois que ela te pediu a caixa e você foi buscar. Ela segurou minha mão, assim, e me fez prometer que eu não ia te deixar ir. Nunca. Para lá."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não respondi."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu prometi."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela olhou para o fogo."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Menti para uma moribunda. Porque eu sabia, desde que você tinha quatro anos e desenhava aquela espiral nas paredes do meu celeiro com carvão, que um dia você ia. E que nem eu, nem ela, nem o Tadeu voltando dos mortos, ninguém ia te segurar."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela bateu com o dedo seco na mesa, uma vez."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então não vou te segurar. Mas vou te dizer uma coisa, Ilian Kest, e você vai me ouvir."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estou ouvindo."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aquele escudo volta."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Outra batida."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aquela faca volta."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Outra."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E você volta junto, porque eu não sei carregar escudo e faca ao mesmo tempo, estou velha."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Soltei uma risada que saiu molhada. Ela não riu."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois tirou do bolso do avental as duas metades do cachimbo e as colocou na mesa, lado a lado."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E traz um cachimbo novo. Esse não tem conserto."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Deixei a chave da casa na mesa da Maren, na manhã seguinte, antes de o sol nascer."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinha pensado em entregar na mão dela, mas sabia o que ela ia dizer. Ia dizer que não queria casa de defunto, que eu voltasse e buscasse, que ela tinha mais o que fazer. Então deixei a chave em cima da mesa, perto do fogão apagado, com um bilhete. Eu, sim, escrevia bilhetes."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Se eu não voltar, a casa é sua. Se eu voltar, também é, mas eu durmo lá."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Levei o que dava para levar. O pão da Dalva, o cachecol da Zefa, as botas do avô dos meninos, a banha, o sal, o casaco com as três moedas na gola, a faca do Tadeu. A espada na cintura, o escudo nas costas, a carta no peito, por baixo da plaqueta. O resto, dividi entre as casas da vila, deixando na porta de cada uma alguma coisa minha, ou da minha mãe, que eu achava que fosse servir. A roca dela ficou para a Zefa. As panelas, para a Dalva. Os livros de cartilha, que eu nunca terminei, para os meninos do Aldo."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando saí da vila, o céu estava clareando por trás das montanhas do leste, e o vento do norte tinha parado, como sempre para naquela hora, no pequeno intervalo entre a noite e o dia em que Pedravento fica em silêncio."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A estrada para Três Pontes começa subindo. Sobe por uma crista estreita que contorna a vila pelo oeste, com o vale inteiro aberto de um lado e o paredão da encosta do outro, antes de virar e começar a descer para o sul. É dali, da crista, que se vê Pedravento inteira pela última vez: as casas de pedra cinza, os telhados de turfa, o riacho brilhando, o moinho do Bento, o celeiro da Maren, o cemitério no ombro da encosta e, lá em cima, a Mesa."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A crista é estreita. Não tanto quanto a saliência da Cabeça-de-Boi, mas estreita o bastante. De um lado, a parede. Do outro, um barranco comprido, de pedra solta e capim, que desce até as primeiras casas."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Andei com as costas coladas na parede, como sempre, contando os passos. No meio do caminho, parei."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sabia exatamente o que ia ver se virasse a cabeça. Sabia que a fumaça estaria começando a subir das chaminés, que a Dalva estaria acendendo o forno, que o Bento estaria abrindo a comporta do moinho, que os meninos do Aldo estariam dormindo, que a Maren estaria sentada no degrau, sem cachimbo, olhando para o outro lado. Sabia que, se eu virasse a cabeça, ia olhar para baixo também. Para o barranco. Para a queda. E que meu estômago ia virar, e eu ia ter que sentar, e talvez não conseguisse levantar de novo."
+  },
+  {
+    "ordem": 145,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E sabia outra coisa, que só entendi ali, com as costas contra a pedra fria e o coração batendo na garganta. Que, se eu olhasse para trás, não ia mais conseguir ir."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não olha"
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu disse baixinho."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Maren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não olha para baixo, não olha para trás. Não olha para nada."
+  },
+  {
+    "ordem": 149,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lá embaixo, o sino da vila começou a bater a primeira hora do dia. Uma, duas, três vezes. O som subiu pela encosta, pela crista, até mim, fraco e claro, como se viesse de muito longe, de outro mundo, de um lugar para onde eu não ia voltar por muito tempo."
+  },
+  {
+    "ordem": 150,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fechei os olhos até o sino parar."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois abri, olhei só para a frente, só para a estrada, e continuei andando."
+  }
+]

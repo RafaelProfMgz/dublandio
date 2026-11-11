@@ -1,0 +1,944 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Comando do Pacífico, Pearl Harbor"
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O telex chegou à sala do almirante Wyle à uma e cinco da tarde, dobrado em três, nas mãos da suboficial secretária, que o pôs em cima da mesa sem dizer de onde vinha porque não precisava."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Wyle leu em pé."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "CONSELHO FEDERAL, RESOLUÇÃO DE EMERGÊNCIA 0087/14, APROVADA 2140 DAKAR. EFEITO IMEDIATO. TODAS AS FORÇAS DE DEFESA COSTEIRA DA REGIÃO DO PACÍFICO PASSAM AO COMANDO UNIFICADO DOS TITANS. COMANDO DO PACÍFICO, PEARL HARBOR, SUBORDINADO. AGUARDAR INSTRUÇÕES DO OFICIAL DE LIGAÇÃO DESIGNADO. ZONA DE EXCLUSÃO COSTA OESTE DE OAHU, MAKUA A KAHE POINT, INCLUSIVE ÁGUAS ATÉ TRÊS MILHAS: AUTORIDADE EXCLUSIVA DOS TITANS. CONFIRMAR RECEBIMENTO."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele dobrou a folha outra vez em três."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "à: Confirme o recebimento"
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim, senhor."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E me diga quem é o oficial de ligação designado."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela não precisou ir buscar. O telefone vermelho da mesa tocou antes de ela chegar à porta."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Boa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Almirante Wyle. — A voz educada, sem sotaque, que ele tinha ouvido duas vezes nos últimos dois dias."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Acabei de receber."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Kessing",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então vou ser breve, porque o senhor tem muito trabalho e eu também. A partir desta tarde, os pedidos do comando unificado ao Comando do Pacífico vão passar por mim. Não são ordens minhas, naturalmente. Eu sou só o tenente que telefona."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fora das três milhas."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fora das três milhas, almirante. A praia tem tudo o que precisa."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Wyle olhou pela janela. Do terceiro andar do prédio do comando se via o porto, os cruzadores velhos na doca, e lá longe, depois de Ewa, a linha das montanhas de Waianae, que naquela tarde tinha um véu fino em cima, mais claro que o resto do céu."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O meu médico em Nanakuli pediu uma amostra da névoa. Tenho quarenta e um queimados de pulmão."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei. Os números foram citados em Dakar ontem. Muito bem citados. — A voz não mudou. — A análise está sendo feita pela equipe científica que chegou hoje de manhã. Os resultados vão ser compartilhados com os serviços de saúde quando for apropriado."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando for apropriado."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Kessing",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O senhor deve entender que um material biológico desconhecido, com essa toxicidade, não pode circular por hospitais civis em frascos. Há riscos que o senhor não imagina."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então boa tarde. E obrigado pela evacuação de ontem. Foi muito bem feita. Muito rápida."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A linha caiu. Wyle pôs o fone no gancho com o mesmo cuidado com que tinha posto o telex na mesa."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A doutora Kalani Akana estava sentada na cadeira do canto da sala desde o meio-dia, com um rolo de cartas náuticas no colo e uma garrafa térmica de café que ela mesma tinha trazido do Instituto porque o café de Pearl, dizia, era um crime federal. Tinha ouvido a conversa inteira."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Três milhas"
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Três milhas."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela desenrolou a primeira carta em cima da mesa dele, sem pedir, prendendo os cantos com o cinzeiro, o telefone vermelho, o telex dobrado e a garrafa térmica. Era a carta da costa oeste de Oahu, de Kaena Point a Barbers Point, com as profundidades em braças e as correntes de maio desenhadas a lápis por cima, na letra dela."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sangue entrou no mar ontem à noite — disse. — Muito sangue. O senhor viu a fotografia do avião de patrulha de hoje de manhã. A mancha. — Ela pôs o dedo na praia entre Makaha e Waianae e foi arrastando para o noroeste, ao longo da costa, e depois para fora. — A corrente de maré vaza para o norte, ao longo da costa, até a altura de Makua. Lá encontra a corrente do canal de Kauai e faz a curva para fora. Às duas da manhã, na vazante, a mancha passa por aqui. — O dedo parou num ponto do mar, a oeste de Makua. — Quatro milhas da costa. Cinco, talvez."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fora da zona."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fora da zona. Com o que vier dentro dela."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Wyle olhou o ponto embaixo do dedo dela por muito tempo."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kalani. O telex diz que autoridade sobre \"material biológico de origem desconhecida\" é exclusiva dos Titans. Em qualquer lugar. Não só na zona."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu li o telex. — Ela tirou o dedo da carta. — O telex fala de material. Eu sou geofísica. Eu vou medir a temperatura da água. A salinidade. A turbidez. Vou coletar água do mar a quatro milhas da costa, num barco, de noite, porque é na vazante. Se tiver alguma coisa dentro da água, a culpa é da água."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A senhora não é da Marinha. Não pode pegar um barco da Marinha."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Akana",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Praia de Makaha, zona de exclusão"
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O cabo Lukas Haas, das forças de reação dos Titans, tinha vinte e dois anos e nunca tinha visto um morto até as sete e vinte da noite anterior. Na noite seguinte, à meia-noite, ainda estava olhando para o mesmo."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava de pé na areia, no limite da fita amarela e preta, a uns sessenta metros da cabeça, com o fuzil atravessado no peito e a máscara de gás no rosto, a máscara de filtro redondo, que embaçava por dentro a cada quatro respirações. Fazia três horas que estava ali. A equipe científica que tinha descido de um transporte às dez da manhã trabalhava desde então sob seis holofotes montados em tripés, que transformavam a praia num palco branco e o mar, atrás, numa parede preta."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A coisa estava mudando."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Haas não tinha palavra melhor. Na véspera, caída de lado na água rasa, ela era cinzenta, dura, com as placas da cabeça rachadas e as fendas das costas abertas, sangrando. Agora estava maior. O flanco que ficava para cima tinha inchado durante o dia, a pele esticada entre as placas, lisa, brilhante sob os holofotes, e de vez em quando, sem aviso, o flanco inteiro estremecia, como a superfície de uma piscina quando alguém pula do outro lado. Nas costas, as três fendas não sangravam mais: tinham secado numa crosta azul-escura, e em volta delas a carne tinha ficado da cor de um hematoma velho. Na água rasa, em volta do corpo, o mar continuava acendendo de azul cada vez que uma onda batia."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E havia o vapor."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Subia do corpo inteiro, o tempo todo, fino, azulado, das rachaduras das placas, das fendas, da boca aberta. À luz dos holofotes ele se via bem, uma névoa que dançava no ar parado da noite e se juntava em cima do corpo como a fumaça de um incêndio que ninguém via. Era por causa dele que Haas usava a máscara. Era por causa dele, também, que a equipe científica trabalhava de roupa de borracha amarela inteira, com capuz e cilindro de ar nas costas, e trocava de turno a cada quarenta minutos."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ao meio-dia, na hora da comida, dois rapazes da segunda companhia tinham tirado a máscara para comer, na areia, de costas para o corpo, a cem metros. Às duas da tarde, um deles tossia sangue. O outro tinha os olhos fechados de tão inchados. O sargento tinha mandado os dois para o transporte, de maca, e reunido o pelotão inteiro na areia para dizer, sem gritar, que o próximo que tirasse a máscara dentro da fita ia para a corte marcial, se sobrevivesse."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém mais tinha tirado."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "À meia-noite e dez, a equipe científica começou a cortar a cabeça."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Haas viu de onde estava. Tinham montado um andaime de tubos ao lado da cabeça em forma de bigorna, que caída de lado era mais alta que um prédio de três andares, e quatro homens de amarelo subiram nele com uma serra de disco, dessas de cortar concreto, ligada a um gerador por um cabo comprido. Queriam as placas. Ou o que estava debaixo delas. Haas não sabia. Ninguém dizia nada aos cabos."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A serra começou a gritar contra a placa."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era um barulho que Haas sentiu nos dentes. O disco entrava na placa centímetro a centímetro, soltando uma poeira cinza e uma faísca azulada, fria, que caía no andaime como neve. Durou cinco minutos. Seis. A placa, do tamanho de uma porta de garagem, começou a soltar de um lado."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então o flanco estremeceu outra vez."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dessa vez foi diferente. Foi mais forte, uma onda que correu de trás para a frente, do rabo até a cabeça, e Haas viu, debaixo da pele esticada do flanco, uma coisa se mexer, comprida, rolando. O andaime balançou. Os quatro homens de amarelo se agarraram nos tubos. A serra parou."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por um segundo, nada."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E o flanco rompeu."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não foi uma explosão. Não teve fogo. Foi um estouro surdo, molhado, que Haas sentiu no peito, como uma porta enorme batendo longe, e um rasgo de dez metros se abriu na pele lisa, de uma placa a outra, e de dentro saiu uma golfada de gás e de sangue podre que subiu no ar em leque, azul, iluminada por trás pelos holofotes, linda, e caiu."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Caiu em cima do andaime."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os gritos vieram pelo rádio antes de virem pelo ar. Dois dos homens de amarelo pularam do andaime para a água rasa. Um terceiro escorregou e ficou pendurado num tubo pelos braços, com as pernas balançando, e a roupa de borracha nas pernas dele fumegava. O quarto não se mexeu. Estava deitado no estrado mais alto, com a máscara do capuz coberta de azul."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Equipe médica! — Era o rádio, no ouvido de Haas. — Equipe médica para o andaime! Ninguém sem roupa completa dentro da fita! Ninguém!"
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Haas ficou onde estava. Era o que tinham mandado."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O gás que tinha saído do rasgo se espalhou pela praia, rente à areia, mais pesado que o ar, uma maré azulada que vinha andando na direção da fita, na direção dele. Passou pelas botas de Haas. Ele sentiu o frio pela borracha. Viu a areia escurecer onde o gás passava. Um caranguejo pequeno, desses que corriam pela praia de noite, saiu de um buraco, deu três passos de lado e parou."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os homens de amarelo da equipe médica tiraram o que estava pendurado no tubo e o levaram correndo para o transporte. O que estava deitado no alto do andaime eles desceram com uma corda, com cuidado, porque ele não ajudava. Ninguém correu com esse."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Às doze e quarenta, quando a praia já estava mais quieta e o gás já tinha escorrido para o mar, Haas viu a primeira coisa sair do corpo."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Saiu do rasgo do flanco. Rolou pela pele inchada, caiu na água rasa, de costas, e se endireitou. Era achatada, translúcida, do tamanho de um cachorro, com uma porção de patas curtas que se mexiam ao mesmo tempo, rápido, como os dedos de um pianista. Sob os holofotes, dava para ver por dentro dela: uns fios azuis que brilhavam, um caroço escuro no meio."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela ficou parada na água rasa um momento."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então saiu outra. E mais duas. Saíram do rasgo, das fendas secas das costas, de baixo das placas da cabeça, de onde a serra tinha começado a soltar. Seis. Dez. Haas parou de contar."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "no: Sargento"
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Repita, Haas."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tem coisa saindo. Pequena. Muitas. Andando."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não iam para lugar nenhum. Foi o que Haas viu primeiro, e o que, no relatório, quando contou, não conseguiram fazê-lo explicar direito. Não vinham para a fita, nem para os homens, nem para a terra. Andavam em círculos pequenos na água rasa, devagar, tropeçando umas nas outras, e algumas paravam e não se mexiam mais. Outras voltavam para o corpo e tentavam subir pela pele, e escorregavam, e tentavam outra vez."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uma delas encontrou o homem que estava deitado na areia ao pé do andaime, à espera da maca. Subiu pela perna dele. O homem estava de roupa de borracha amarela inteira e não se mexia, e a coisa subiu pela roupa até o peito e se espalhou ali, as patas abertas, e ficou."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Haas ouviu o enfermeiro gritar e viu o enfermeiro chutá-la. Ela não soltou."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sargento mandou atirar."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Atiraram com os fuzis, de perto, de cima, nas coisas que estavam na água, e cada tiro espirrava azul, e o azul virava vapor. Haas atirou em duas. Uma delas, atingida, não morreu: ficou rodando no mesmo lugar, numa poça que acendia. A da roupa amarela eles tiraram com uma pá, e a roupa saiu junto, rasgada, com a pele do peito do homem por baixo, e Haas parou de olhar."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "À uma da manhã, as que ainda se mexiam tinham ido para o mar, carregadas pelas ondas que voltavam, e a água da praia estava cheia de pequenos clarões azuis que iam para o fundo e se apagavam, um a um."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sargento, de pé ao lado de Haas, com a máscara suja de areia, ficou olhando a água."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Isso não aconteceu — disse."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sargento?"
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você não viu nada sair do bicho, Haas. Ninguém viu. Você ouviu?"
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ouvi, sargento."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Repete."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não vi nada."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sargento bateu no ombro dele, duas vezes, e foi embora pela areia na direção do transporte, onde, sob a luz branca da rampa, os homens de amarelo cobriam alguém com um lençol."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mar a oeste de Makua, fora da zona de exclusão"
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A lancha do Comando do Pacífico era uma embarcação de onze metros, de casco cinza, com uma cabine pequena na frente e o convés de trás aberto, que servia para levar mergulhadores de manutenção do porto e que, desde as nove da noite, oficialmente, estava medindo a temperatura da água a oeste de Oahu para um relatório de oceanografia do capitão de fragata Daniel Imai."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava com as luzes de navegação apagadas desde a uma e meia."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No leme, o suboficial que Imai tinha escolhido, um homem de cinquenta anos chamado Pacheco, que não fazia pergunta nenhuma havia trinta, mantinha o barco quase parado, contra a corrente, com o motor no mínimo. No convés de trás estavam Akana, de jaqueta de chuva e luvas de borracha de lavar louça até o cotovelo, e Imai, segurando a lanterna vermelha. E, encostado na borda, de macacão de voo e colete salva-vidas, Sam Kealoha."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sam não tinha sido convidado. Tinha aparecido no cais às oito e meia, sujo, sem ter dormido, porque tinha ouvido de alguém no Kahului que Imai ia sair com a geofísica para ver o sangue. Disse que a mulher dele estava num hospital de Nanakuli respirando por um tubo por causa daquilo e que ia junto. Imai olhou para ele um bom tempo e disse que sim."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Akana",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aqui"
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A água tinha mudado de cor. Sam viu antes dela, porque estava olhando. Em volta do barco, no preto da noite sem lua, o mar tinha começado a acender, fraco, aos pedaços, um azul-claro que aparecia quando a proa cortava uma onda e sumia logo. Não era o brilho de plâncton que ele conhecia das noites de pesca com o pai, verde, espalhado. Era outra coisa. Vinha em faixas compridas, retas, que a corrente puxava para o oeste."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Akana jogou o primeiro balde amarrado na corda e puxou. Encheu um frasco de vidro. Tampou. Escreveu a hora na tampa com caneta de tinta permanente. Jogou o balde de novo."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Imai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quatro milhas e meia"
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei onde estamos, Daniel."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lá longe, a leste, a costa de Oahu era uma linha escura contra um céu menos escuro, e no meio da linha, sobre a praia de Makaha, havia uma mancha de luz branca, os holofotes, que dali pareciam uma lâmpada só."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "À uma e quarenta e cinco, a lâmpada piscou."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não piscou: vários pontos dela se apagaram e acenderam de novo, um atrás do outro, como se alguém passasse na frente. Então, pela água, chegou um som. Muito fraco, a nove quilômetros. Estalos secos, curtos, em séries."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sam conhecia o som."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tiro — disse."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Akana parou com o balde na mão. Imai baixou a lanterna."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Sam",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fuzil"
+  },
+  {
+    "ordem": 97,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficaram ouvindo. Os estalos vieram por mais um minuto, talvez dois, em rajadas, e então pararam, e o silêncio do mar voltou, e o motor no mínimo, e a água batendo no casco."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Imai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Atirando em quê?"
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém respondeu. Akana voltou a jogar o balde."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi no quinto balde, às duas e cinco, que Sam viu a coisa na água."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava a dez metros, a bombordo, boiando no meio de uma das faixas azuis, uma mancha mais clara que as outras, achatada, que a corrente trazia na direção do barco. Ele pegou a lanterna da mão de Imai sem pedir e acendeu. Na luz vermelha, a coisa apareceu inteira: translúcida, do tamanho de um cachorro grande, com uma franja de patas curtas em volta do corpo inteiro, de cabeça para baixo, ou do que devia ser a cabeça."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Doutora."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Akana veio para a borda. Viu. Tirou os óculos, limpou nas costas da luva, pôs de novo."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nas fotografias do avião de hoje de manhã tinha umas manchas claras nas placas das costas dele — disse, sem tirar os olhos dela. — Eu achei que era sal."
+  },
+  {
+    "ordem": 105,
+    "personagem": "Imai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que é isso?"
+  },
+  {
+    "ordem": 106,
+    "personagem": "Akana",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sei."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pacheco, do leme, sem uma palavra, apontou com o queixo para a caixa de equipamento ao lado da cabine. Sam abriu. Havia uma rede de cabo comprido de pegar coisas que caíam no porto, chaves, bonés, peixe morto. Ele a pegou e se debruçou na borda."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Akana",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não encosta a mão"
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A primeira vez, a coisa escorregou da rede, que era pequena demais. Na segunda, a corrente a empurrou para longe do casco. Pacheco girou o leme um quarto de volta, e a lancha veio de lado, e na terceira vez Sam a pegou. Era pesada. Muito mais pesada do que parecia, e a rede se dobrou com o peso, e o cabo de alumínio fez um barulho, e por um instante Sam pensou que ia perder a rede e a coisa juntas. Imai segurou o cabo com ele. Puxaram os dois."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A coisa caiu no convés de trás com um baque molhado e ficou ali, de patas para cima, na luz vermelha."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Akana já estava abrindo a caixa térmica, uma caixa de isopor branca de pescador, grande, com gelo até a metade, que ela tinha trazido para os frascos. Tirou os frascos de cima, um por um, e os pôs num balde. Então olhou para Sam."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Com a rede. Põe com a rede."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sam pegou o cabo. Levantou a rede, com a coisa dentro, e a coisa, pendurada no ar, se mexeu."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi pouco. Uma onda pelas patas, de um lado ao outro do corpo, todas ao mesmo tempo, e parou. Sam quase largou o cabo. Imai deu um passo para trás e bateu as costas na cabine."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Imai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Está viva"
+  },
+  {
+    "ordem": 116,
+    "personagem": "Akana",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Põe na caixa, Sam"
+  },
+  {
+    "ordem": 117,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele pôs. Ela fechou a tampa e se sentou em cima dela, com o peso todo, de luvas de lavar louça, de frente para a costa."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi aí que a luz apareceu, ao norte. Um holofote, baixo na água, varrendo o mar de um lado para o outro, a três ou quatro quilômetros, vindo da direção de Makua. Um barco. Rápido."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Pacheco",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É deles"
+  },
+  {
+    "ordem": 120,
+    "personagem": "Imai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estamos fora da zona"
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estamos, senhor. Com uma coisa deles numa caixa."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Imai se virou para Akana. Akana baixou os olhos para a caixa embaixo dela."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Imai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vai, Pacheco"
+  },
+  {
+    "ordem": 124,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pacheco empurrou o acelerador um dedo. A lancha virou a proa para o sul e começou a andar, sem luz, com o motor baixo, deixando atrás de si, por um minuto inteiro, uma esteira que acendia de azul a cada onda e que só se apagou quando eles saíram da faixa."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O holofote varreu o mar onde eles estavam um minuto antes. Parou. Varreu de novo. Ficou ali, parado na água vazia, iluminando as últimas manchas azuis que se apagavam."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sam, sentado no convés, com as costas na borda e as mãos tremendo no colo, olhava a caixa de isopor."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Akana continuava sentada em cima dela. A tampa estava firme. Ela tinha as duas mãos espalmadas sobre os joelhos e o rosto virado para o sul, para onde Pacheco levava o barco, para as luzes de Barbers Point que começavam a aparecer."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Debaixo dela, dentro da caixa, alguma coisa bateu na tampa."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uma vez. Então, mais nada."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Cais de Barbers Point"
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O almirante Wyle esperava no fim do cais de manutenção, sozinho, de capa de chuva por cima da farda e sem quepe, às três e vinte da manhã, quando a lancha encostou sem luz e Pacheco jogou o cabo."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não perguntou nada antes de descerem. Viu a caixa de isopor branca nas mãos de Sam e de Imai, um de cada lado, carregada como se carrega um caixão de criança, e viu Akana atrás, com o balde dos frascos e as luvas de lavar louça ainda nos braços."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Wyle",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os Titans ligaram à uma e cinquenta"
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Imai parou com a caixa na mão."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que o senhor disse?"
+  },
+  {
+    "ordem": 136,
+    "personagem": "Wyle",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que eu ia verificar."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ao sul."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Wyle",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ao sul."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Akana pôs o balde no chão do cais."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tem quinze frascos de água com sangue diluído, de quatro faixas diferentes, com hora e posição — disse. — E tem isso."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela se abaixou e levantou a tampa da caixa uns dez centímetros. Wyle se inclinou. À luz amarela da lâmpada do cais, por cima do gelo, a coisa estava deitada de patas para cima, translúcida, com os fios azuis apagando por dentro, um de cada vez, como as luzes de uma cidade que ia dormir."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Wyle demorou a se mexer. Então endireitou as costas."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Isso não entra no meu prédio — disse. — Nem no hospital. Nem em lugar nenhum com bandeira."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Akana",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Instituto tem um congelador de amostras de rocha no subsolo"
+  },
+  {
+    "ordem": 145,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Instituto é federal."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O prédio é federal. O congelador eu comprei com dinheiro de uma bolsa japonesa. — Ela fechou a tampa. — É meu."
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Wyle se voltou para Sam, que continuava segurando um lado da caixa, sujo, de colete salva-vidas, com os olhos vermelhos."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tenente. O senhor não estava neste barco."
+  },
+  {
+    "ordem": 149,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não, senhor."
+  },
+  {
+    "ordem": 150,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O senhor estava no hospital de Nanakuli com a sua mulher a noite inteira."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Sam",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava, senhor."
+  },
+  {
+    "ordem": 152,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Akana respondeu antes do almirante."
+  },
+  {
+    "ordem": 153,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Com isso eu posso saber do que é feita, tenente. Em dois, três dias. O que dar a ela vem depois, e não sou eu que sei. — Ela pegou o balde. — Mas vou ligar para o médico de Nanakuli antes de ligar para qualquer outra pessoa. Isso eu prometo."
+  },
+  {
+    "ordem": 154,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sam fez que sim com a cabeça."
+  },
+  {
+    "ordem": 155,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Carregaram a caixa até a camionete do Instituto, que Akana tinha deixado no estacionamento do cais às oito da noite. Wyle ficou no cais até as lanternas traseiras sumirem na estrada de Barbers Point. Então voltou para o carro dele, sentou ao volante e não ligou o motor."
+  },
+  {
+    "ordem": 156,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No rádio do carro, a emissora de Honolulu que ficava no ar a noite inteira repetia o resultado de Dakar. Trezentos e oito a cento e noventa e um. Na sequência vinha um comercial de sorvete e, logo atrás, o filme."
+  },
+  {
+    "ordem": 157,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Wyle desligou o rádio antes da praia."
+  }
+]

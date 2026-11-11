@@ -1,0 +1,18 @@
+titulo: A Árvore do Ciclo Inevitável
+origem: ~/Documentos/livros/arvore-do-ciclo-inevitavel/05_manuscrito/vol1
+provedor: heygen          # heygen | openrouter
+reserva: openrouter       # se a cota do principal acabar, a síntese continua aqui
+idioma: pt
+
+# Usados pelo `preparar` para adivinhar quem fala quando o diálogo não diz.
+personagens: [Dorian, Hale, Mireille, Pemberton, Wick, Reyne, Senhora Vell]
+
+# Nome que aparece no roteiro -> nome canônico (o que tem voz).
+apelidos: {}
+
+# Personagem sem voz aqui usa a do Narrador. Escolha vozes na aba Catálogo da interface.
+vozes:
+  heygen:
+    Narrador: 049413e41c334753984c294d694afb5c  # lucian
+  openrouter:
+    Narrador: lucian

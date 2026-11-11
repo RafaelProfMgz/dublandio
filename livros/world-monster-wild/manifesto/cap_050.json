@@ -1,0 +1,722 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não havia muralha."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi a primeira coisa que eu entendi quando a gente chegou embaixo, no escuro, e a primeira que eu não consegui entender. Última Luz era uma muralha antes de ser qualquer outra coisa: pedra, tronco, estaca, gente em cima com besta, o portão que range, a regra de ninguém sai sozinho. Os Vashti não tinham nada disso. Tinham as costelas. Elas subiam do capim, uma atrás da outra, cada uma do tamanho de uma torre, e o espaço entre uma e outra era largo o bastante para passar uma carroça, e ninguém tinha fechado esse espaço com nada."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Mira",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E se vier um bicho?"
+  },
+  {
+    "ordem": 4,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vem"
+  },
+  {
+    "ordem": 5,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Às vezes."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E aí?"
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele apontou para cima com a lança."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu olhei. No alto das costelas, a uma altura que me deu tontura, havia luzes. Fogueiras pequenas em tigelas de osso, presas na curva do osso como ninhos de andorinha em beiral. E, do lado de cada luz, um vulto sentado, com as pernas para fora, olhando para o Planalto escuro."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A avó vê longe"
+  },
+  {
+    "ordem": 10,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A gente só empresta os olhos."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Entramos pelo vão entre duas costelas, e o mundo ficou com teto."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era isso. Não sei dizer de outro jeito. Lá fora, no Planalto, o céu era tudo, e a gente era pequena debaixo dele. Lá dentro, o céu tinha virado uma coisa distante, recortada em faixas entre os arcos, e a espinha passava por cima de tudo, lá em cima, preta contra as estrelas, como a viga do telhado de uma casa feita para gigantes. O vento mudou de som. Lá fora ele assobiava. Ali dentro ele cantava, comprido e baixo, entrando por um osso e saindo por outro, e não parava nunca, e depois de um tempo eu parei de ouvir, do jeito que a gente para de ouvir um rio."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E havia gente. Muita."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Saíam das casas para ver a gente passar. As casas eram de pele. Peles de Talioth, curtidas, esticadas em armações de osso fino, presas nas costelas por cordas, umas embaixo, no chão de terra batida, outras penduradas mais alto, pela parede do osso, como cestos, com escadas de corda descendo delas. Havia luz dentro, e a luz passava pela pele e a deixava laranja, e de longe a parede de dentro da Costela parecia uma colmeia acesa."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Todos tinham os desenhos. Os velhos, os moços, as crianças. Linhas brancas e cinzentas de pó de osso na pele do rosto e dos braços, umas finas, outras grossas, umas poucas, outras tantas que a pessoa parecia feita de risco. Uma velha que tirava água de um odre tinha o rosto inteiro coberto, tão coberto que parecia uma máscara de osso. Um menino de uns seis anos, que veio correndo e parou a dois passos da Pena com a boca aberta, não tinha nenhum."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eles olhavam para nós. Mas mais do que para nós, olhavam para o chapéu de Brann, para a Pena, para a glaive de Mira, para as cabras. Uma mulher apontou Brasa e disse alguma coisa na língua deles, e as pessoas em volta riram. Brasa pôs as orelhas para trás."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que ela disse?"
+  },
+  {
+    "ordem": 18,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que você é gordo demais para um Palico e limpo demais para um Grimalkyne"
+  },
+  {
+    "ordem": 19,
+    "personagem": "Brasa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fala para ela que eu sou as duas coisas e cozinho melhor que as duas."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tessk falou. A mulher riu mais alto. E depois, sem mais nem menos, tirou de dentro da roupa um pedaço de alguma coisa seca e escura, enrolada, e pôs na pata de Brasa, e foi embora."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brasa cheirou. Ficou muito quieto. Cheirou de novo."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Brasa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Isto aqui"
+  },
+  {
+    "ordem": 23,
+    "personagem": "Brasa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "é carne que nunca viu fogo."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era verdade. Eu aprendi naquela noite e não esqueci mais."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os Vashti quase não cozinhavam. Não por falta de fogo: eles tinham fogo, nas tigelas de osso, para a luz e para o frio. Mas a carne, eles davam para o vento. Penduravam em tiras finas nas costelas de dentro, lá no alto, onde o canto do vento era mais forte, e deixavam lá dias, semanas, e o vento da Costela secava a carne até ela ficar escura e dura e doce, e a carne não apodrecia nunca."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O vento da avó"
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse a mulher que dividiu o fogo com a gente naquela noite. Era a mãe de Tessk, ou uma tia, ou alguém que tinha o mesmo jeito de rir pelo nariz; eu nunca soube direito, e Tessk não explicou."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela não respira mais. Mas o vento passa por ela. E o vento sabe guardar."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Comemos carne de vento, leite de Talioth azedo num copo de osso, que Mira cuspiu e Sila bebeu até o fim sem mudar de cara, e um tutano assado que eles abriam batendo o osso numa pedra, quente, mole, que derretia na boca como manteiga. Brasa provou tudo. Fez perguntas. Muitas. Tessk traduzia as primeiras, depois desistiu, e Brasa e a mulher ficaram se entendendo com a mão, com o nariz, com caretas, ela mostrando como cortava a tira na direção do fio, ele mostrando, com um pouco de sal de Irena na ponta da garra, o que acontecia se esfregasse antes de pendurar."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A mulher provou. Fechou os olhos."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Disse uma palavra. Tessk riu tanto que teve que se deitar no chão."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Brasa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que ela disse?"
+  },
+  {
+    "ordem": 33,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que ela vai casar com você."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brasa pôs as orelhas para trás de novo. Mas não devolveu a carne."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uma Vashti magra, com as mãos brancas de pó até os cotovelos, cuidou do tornozelo de Tor sem dizer nada. Apertou, torceu um pouco, ele gritou, ela fez que sim com a cabeça como quem confirma uma coisa, e enrolou o pé dele numa tira de couro molhado que, ao secar, ficou duro como casca de árvore."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nessa ficou o tempo todo sentada no canto do fogo com o caderno no colo. Não escreveu nada. Mas desenhou. Desenhou a mulher do rosto de máscara. Desenhou as casas penduradas. Desenhou Brasa e a tia de Tessk com as mãos no ar."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois, mais tarde, quando o fogo estava baixo, ela fechou o caderno, olhou para mim do outro lado e disse, só com a boca, sem som:"
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ainda."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu fiz que sim com a cabeça."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ainda. Não nunca. Tinha diferença. Ela sabia que tinha."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dormimos numa casa de pele no chão, perto do vão por onde a gente tinha entrado, todos juntos, com a Pena encolhida na porta e as cabras amarradas do lado de fora. Eu me deitei de bruços na terra batida, como sempre. E esperei a coisa lá embaixo."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela veio. Mas diferente."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não estava mais longe nem mais perto do que no Planalto. Estava mais devagar. Isso eu tenho certeza. As batidas tortas, as onze, as catorze, as nove, vinham com mais espaço entre elas, um espaço comprido, cheio, como o de quem respira dormindo. E, por cima delas, aquele silêncio do Planalto, o silêncio de casa onde muita gente acabou de dormir. Só que ali ele não era vazio. Ali havia quatrocentas pessoas respirando dentro dele, e fogueiras, e crianças, e o canto do vento entrando e saindo dos ossos."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu dormi como não dormia desde Pedravento."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sei se isso foi bom."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "De manhã, Tessk me levou para ver a ferida."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não me disse que era isso. Disse:"
+  },
+  {
+    "ordem": 48,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vem. Você que gosta de ler chão. Tem uma coisa para ler."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nessa veio também. Ninguém chamou. Ela pegou um bordão emprestado da mulher das mãos brancas, um bastão de osso com a ponta lascada, e veio mancando atrás da gente, e Tessk olhou para ela e não disse para ela não vir."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fomos pelo chão da Costela, de costela em costela, para o lado do leste, para onde a cauda ia embora. A luz da manhã entrava em faixas entre os arcos. Crianças subiam pelas escadas de corda com baldes. Um velho, sentado numa pedra, raspava um pedaço de osso com uma lâmina pequena, curva, e não levantou os olhos quando a gente passou. Em toda parte, na parte de baixo dos ossos, na altura da mão, havia entalhes: os sinais que eu tinha visto nos túneis, três traços, um círculo, a ponta de flecha, e muitos outros, desenhos de bichos, de mãos, de Seikrets, de gente deitada."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nenhuma espiral. Eu olhei. Não havia nenhuma."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mas, numa costela, na altura do meu peito, havia um lugar onde o osso tinha sido raspado. Liso. Um círculo de raspagem do tamanho de uma mão aberta, mais claro que o resto, como pele onde tiraram uma casca de ferida. Eu parei na frente dele. Tessk não parou. Eu fui atrás."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A ferida estava na última costela de dentro, perto do chão."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era um buraco. Quadrado. Não redondo, não gasto, não feito por água nem por vento nem por bicho. Quadrado. Da altura de um homem, da largura de dois. As bordas eram retas. E nas bordas, ainda, depois de não sei quantos anos, havia as marcas. Marcas de ferramenta, curtas, fundas, paralelas, uma depois da outra, como as marcas de picareta na parede do Arquivo, como as escamas no teto do túnel de Wessel."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Só que aquelas eram mais novas. E mais feias."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O buraco não era fundo. Um passo para dentro, e ele acabava numa parede de pedras empilhadas, encaixadas, sem argamassa, e, no meio das pedras, como tijolos, crânios de Talioth. Dezenas. Virados para fora, com as órbitas vazias olhando para quem chegasse."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Nessa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A sexta"
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tessk não respondeu logo. Ficou de pé na frente da parede de crânios, com a lança na mão, apontada para o chão, não para o céu."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eles chegaram com ferro"
+  },
+  {
+    "ordem": 60,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Muito ferro. Com carroça. Com pólvora. Os velhos dos velhos deixaram eles entrar, porque eram poucos de fora e pareciam com fome. Eles deram carne. Eles deram o vento."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele passou a mão nas marcas de ferramenta da borda, devagar, como eu tinha visto ele passar a mão nos sinais dos túneis, só que não como quem passa no batente da porta de casa. Como quem passa numa cicatriz de gente."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na sétima noite, eles começaram a cavar. Para levar a avó embora. Em pedaços. Em carroça. Para fora."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por quê?"
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "perguntei."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque osso de avó vale mais que ouro, lá fora. Não vale?"
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele olhou para Nessa."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Moça dos papéis. Não vale?"
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nessa não respondeu. Mas não desviou os olhos. Isso eu vi, e guardei."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eles cavaram três dias"
+  },
+  {
+    "ordem": 70,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os nossos pediram para parar. Eles não pararam. Os nossos pegaram as lanças. Eles tinham pólvora."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele parou."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aí a avó parou eles."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Nessa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Como?"
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele apontou para cima."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu olhei. Bem em cima do buraco, a costela não subia lisa como as outras. Tinha uma rachadura. Enorme. Que começava lá no alto, quase na espinha, e descia em zigue-zague até o buraco, e em volta da rachadura o osso estava mais escuro, como uma pele que sarou feia."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A avó caiu um pedaço por cima deles."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tessk falou isso sem nenhuma pressa."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lá dentro. Todos juntos. A carroça, o ferro, a pólvora. Os velhos dos velhos fecharam a porta com pedra e com crânio. Cento e vinte, diz a Moruun. Nenhum saiu."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém disse nada por um tempo. O vento cantava. Do lado de dentro da parede de pedra e crânio, cento e vinte pessoas estavam deitadas há cento e vinte anos."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Nessa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi a costela que caiu?"
+  },
+  {
+    "ordem": 81,
+    "personagem": "Nessa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ou foram os de vocês que..."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tessk olhou para ela. Pela primeira vez, sem nenhum riso no rosto."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Faz diferença, moça dos papéis?"
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nessa pensou. De verdade. Eu vi ela pensar."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Nessa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para quem escreve, faz"
+  },
+  {
+    "ordem": 86,
+    "personagem": "Nessa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para quem está lá dentro, não."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tessk ficou olhando para ela. Depois fez uma coisa que eu não esperava. Pegou o osso que tinha no pescoço, preso pela tira, aquele que a mão dele tinha segurado sozinha no Planalto quando ela disse Guilda, e mostrou para a gente. Era uma lasca. Pequena, do tamanho de um dedo, cinza, de um lado polida pela pele e do outro lado áspera, com uma marca reta, curta, funda."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uma marca de picareta."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Toda criança, quando ganha o nome, ganha um pedaço da ferida"
+  },
+  {
+    "ordem": 90,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tirado daqui. Da borda. É pequeno. A avó não sente."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele pôs a lasca de volta dentro da roupa, contra o peito."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É para lembrar."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu: Lembrar o quê?"
+  },
+  {
+    "ordem": 94,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Osso lembra"
+  },
+  {
+    "ordem": 95,
+    "personagem": "Tessk",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Carne esquece. Se a gente não carregar o osso, a gente esquece. E aí os de fora voltam com ferro e a gente dá o vento para eles de novo."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele me olhou."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Fez",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vocês voltaram. Com a Guilda. Os velhos já sabem."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fez uma pausa."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Fez",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Kharo já sabe."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Kharo, eu vi naquela noite."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os Vashti se juntavam no meio da Costela, no chão de terra batida, num lugar onde as costelas de baixo se fechavam mais e faziam uma espécie de sala sem paredes, embaixo de onde teria sido o coração da avó. Havia um fogo grande, o único fogo grande que eu vi lá dentro. E, do outro lado do fogo, sentados no chão, sem cadeira, sem nada que os fizesse mais altos que os outros, três pessoas."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As Três Vozes, Tessk disse. Antes de entrar, com a mão no meu ombro, apertando: Lembra. Lá dentro, não."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A primeira era uma velha. Muito velha. Pequena, encolhida, enrolada numa pele clara, com o rosto tão coberto de desenhos que eu não sabia onde acabava o pó e começava a pele. Os olhos eram brancos. Os dois. Não fechados: abertos, inteiros, brancos como leite, como os do velho Tobe na torre do meio, só que mais. Ela não olhava para nada. A cabeça dela estava virada um pouco para o lado."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para o meu lado."
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficou assim a noite inteira. Eu me mexi, sentei mais para a esquerda, atrás de Brann. A cabeça dela foi junto. Devagar. Como um girassol."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O segundo era um homem de meia-idade, de mãos brancas de pó até os pulsos e uma lâmina curva pequena na mão, raspando um osso no colo. Não levantou os olhos nem uma vez. Raspava. Só raspava. Mas, quando alguém falava, a lâmina parava, e só voltava quando a pessoa terminava."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O terceiro era o Kharo."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era grande. Não como Brann, que era grande para os lados, de ombro e de barriga. Grande como uma costela: comprido, seco, de osso. Devia ter uns cinquenta anos. O cabelo era trançado como o de Tessk, mas curto, e grisalho. Nos ombros, por cima da pele, uma coroa de chifre de Talioth, achatada, enorme, presa como uma capa. E os desenhos dele não eram como os dos outros. Eram poucos. Mas eram grossos, largos, e a maioria não era branca. Era vermelha. Vermelha escura, como pó de tijolo, como sangue velho. E no rosto, da testa até o queixo, passando por um olho que não piscava direito, uma cicatriz que não era desenho nenhum."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann se levantou. Tirou o chapéu. Falou pela gente, devagar, do jeito que eu nunca tinha ouvido ele falar, com as palavras escolhidas uma a uma como pedra para muro. Disse que vínhamos de Última Luz. Que o Oren mandava saudação. Que o Clamor vinha cedo e a carne seca de Última Luz acabava antes dele. Que trazíamos sal, pregos e facas da Forja. Mostrou. Sila abriu os sacos. Mira desenrolou as facas no chão, no couro, uma do lado da outra, brilhando no fogo."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kharo olhou para as facas. Pegou uma. Experimentou o fio no polegar. Pôs de volta."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pegou um pouco de sal com a ponta de dois dedos. Pôs na língua."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E o rosto dele não mudou nada. Nada. Eu tinha visto o rosto de Tessk mudar inteiro com aquele mesmo sal na fenda da costela. O de Kharo ficou de pedra."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois ele olhou para Nessa. Para o estojo de oleado verde das fichas, que ela tinha no colo. Para o sinal da Guilda costurado na capa do estojo."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois para Brann."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vocês vieram comprar carne"
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse. A voz dele era baixa, arrastada como a de Tessk, mas sem nenhuma graça dentro."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os de fora sempre vêm comprar alguma coisa."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele virou a cabeça, devagar, para o leste. Para o lado de onde vinha a parede de pedra e crânio, lá no fundo, no escuro."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Da última vez"
+  },
+  {
+    "ordem": 120,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse —, era osso."
+  }
+]

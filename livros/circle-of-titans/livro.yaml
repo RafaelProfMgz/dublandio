@@ -1,0 +1,45 @@
+titulo: Circle of Titans
+origem: ~/Documentos/livros/circle_of_titans/05_manuscrito/vol1
+provedor: heygen          # heygen | openrouter
+reserva: openrouter       # se a cota do principal acabar, a síntese continua aqui
+idioma: pt
+
+# Usados pelo `preparar` para adivinhar quem fala quando o diálogo não diz.
+personagens: [Bright Noa, Fa Yuiry, Kamille, Quattro, Emma, Reyes, Fonoti, Delgado, Astonaige Medoz, Lenz]
+
+# Nome que aparece no roteiro -> nome canônico (o que tem voz).
+# Vindos do antigo fix_manifesto.py + primeiros nomes soltos.
+apelidos:
+  Ele: Fonoti
+  Ela: Fa Yuiry
+  Fa: Fa Yuiry
+  Bright: Bright Noa
+  Astonaige: Astonaige Medoz
+  Green: Narrador     # "Green Noa" é a colônia, não personagem
+  Side: Narrador      # "Side 7" é lugar
+
+vozes:
+  openrouter:
+    Narrador: lucian
+    Fonoti: weston
+    Reyes: nadine
+    Delgado: lucian
+    Emma: nadine
+    Apolly: tabitha
+    Kamille: meredith
+    Quattro: weston
+    Astonaige Medoz: sabrina
+    Bright Noa: lucian
+    Fa Yuiry: tabitha
+  heygen:
+    Narrador: 049413e41c334753984c294d694afb5c  # lucian
+    Fonoti: 742d54da82fb46a8be11480d9ec6e3c3  # weston
+    Reyes: 83548de556df48ba8c09c42a57c51d85  # nadine
+    Delgado: 049413e41c334753984c294d694afb5c  # lucian
+    Emma: 83548de556df48ba8c09c42a57c51d85  # nadine
+    Apolly: a6752292cd204ac4a80a25fb575b1327  # tabitha
+    Kamille: aa9746e325ff46d482a54fe5bc87890f  # meredith
+    Quattro: 742d54da82fb46a8be11480d9ec6e3c3  # weston
+    Astonaige Medoz: 75300849b571414c8d62693289cb6509  # sabrina
+    Bright Noa: 049413e41c334753984c294d694afb5c  # lucian
+    Fa Yuiry: a6752292cd204ac4a80a25fb575b1327  # tabitha

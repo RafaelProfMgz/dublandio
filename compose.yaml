@@ -1,0 +1,18 @@
+# docker compose up -d         -> interface em http://127.0.0.1:8765 (volta sozinha após reiniciar o PC)
+# docker compose run --rm dublandio vozes <livro>   -> comandos da CLI, para quem prefere o terminal
+services:
+  dublandio:
+    build: .
+    image: dublandio
+    restart: unless-stopped
+    user: "${UID:-1000}:${GID:-1000}"
+    env_file:
+      - path: .env
+        required: false
+    ports:
+      - "127.0.0.1:${PORTA:-8765}:8765"
+    volumes:
+      # A pasta do projeto: livros/, .cache/ e o .env (a interface grava nele as chaves coladas).
+      - .:/dados
+      # Manuscritos de origem (campo `origem` do livro.yaml), só leitura.
+      - ${LIVROS_ORIGEM:-${HOME}/Documentos/livros}:/home/dublandio/Documentos/livros:ro

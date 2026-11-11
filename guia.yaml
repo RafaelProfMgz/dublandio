@@ -1,0 +1,26 @@
+# Guia de vozes — mapeamento personagem -> voz HeyGen / IA
+# Formato: chave = nome exato usado no roteiro (antes dos dois pontos)
+# Valor = ID/nome da voz no serviço de TTS usado
+#
+# Regra: se o nome não tiver no guia, usa o padrão do mapa
+
+# Livro / capítulos principais
+Narrador: lucian
+Zoltan: weston
+Ciri: tabitha
+Vesemir: lucian
+Sra. Thorne: nadine
+Jaskier: gareth
+Triss: meredith
+Eskel: sabrina
+Lambert: bram
+
+# Capítulo / exemplo específico (circle)
+Fonoti: weston
+Reyes: nadine
+Delgado: lucian
+Emma: nadine
+Apolly: tabitha
+Kamille: meredith
+Quattro: weston
+Astonaige Medoz: sabrina

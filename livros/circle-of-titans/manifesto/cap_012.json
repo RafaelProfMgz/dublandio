@@ -1,0 +1,980 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Shyenne, América do Norte"
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amuro Ray dormiu a noite inteira pela primeira vez em nove noites e acordou com medo disso."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eram sete e dez da manhã. A luz já entrava pela fresta da cortina, amarela, e lá fora um cortador de grama funcionava numa casa vizinha. Ele ficou deitado, de olhos abertos, procurando a água. A água escura, o peso, a quietude enorme que passava por cima dele como por cima de uma pedra no fundo de um lago. Procurou do jeito que se procura com a língua um dente que doía."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava lá. Mais longe. Muito mais longe, e virada para outro lado."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na noite anterior, às dez e vinte, ele estava sentado no sofá da sala com um livro de mecânica orbital que não lia, com a televisão ligada sem som num filme antigo, e a mão dele tinha parado no meio de virar a página. Não houve dor. Houve um puxão, de dentro para fora, curto, como o de uma linha de pesca que arrebenta. E então a casa ficou mais leve. Ele tinha ficado sentado ali, com a página no ar, até o filme acabar."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Às onze e meia, o noticiário da noite abriu com uma praia no Havaí."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amuro se levantou da cama, foi ao armário, tirou a caixa de sapatos de debaixo dos cobertores e abriu o caderno quadriculado na página da semana anterior, onde estava escrito 6h41, água e olha para cima, não para mim. Embaixo, escreveu a data de 11 de maio. Escreveu 22h20. Escreveu soltou."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficou com a caneta parada."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então escreveu, com letra menor: não acabou."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dorsey estava no portão quando Amuro saiu para buscar o jornal, às oito. O homem de terno tinha os olhos inchados de quem também tinha passado a noite diante de uma televisão, e o jornal na mão, que ele mesmo tinha tirado da caixa de correio, coisa que nunca fazia."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bom dia, senhor Ray."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bom dia."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dorsey estendeu o jornal. Na primeira página, uma foto granulada, tirada de uma tela: a coisa cinzenta de pé no recife, as asas escuras dos Asshimar em cima. A manchete ocupava metade da folha. Embaixo, menor, Jaburo."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Dorsey",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Minha irmã ligou às três da manhã"
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que você disse?"
+  },
+  {
+    "ordem": 16,
+    "personagem": "Dorsey",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que eu não sabia."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Perguntei."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por quê?"
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amuro dobrou o jornal ao meio, com a foto para dentro."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você escreveu no relatório?"
+  },
+  {
+    "ordem": 21,
+    "personagem": "Dorsey",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Escrevi. Tudo o que o senhor pediu. Terremoto, irmã, cara de quem não dormiu, não pediu para ir a lugar nenhum."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E alguém leu?"
+  },
+  {
+    "ordem": 23,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O homem de terno demorou para responder. Olhou a rua por cima do ombro de Amuro, para o fim da ladeira, onde um carro escuro, de placa federal, vinha subindo em segunda marcha."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Acho que leram, senhor — disse."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O homem que desceu do carro escuro tinha uns quarenta anos, um terno cinza que não era de guarda, uma pasta de couro e um crachá preso no bolso do paletó com um nome e um logotipo que Amuro conhecia de ouvir falar e nunca de ver. Laboratório de Pesquisa de Augusta. Embaixo: Dr. F. Raube, Neurofisiologia."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sentou na sala de Amuro sem que ninguém o convidasse, no sofá onde Amuro estivera na noite anterior, abriu a pasta sobre os joelhos e tirou de dentro uma folha que Amuro reconheceu pelo papel: o formulário de relatório da guarita, preenchido à mão, na letra grande e inclinada de Dorsey."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Raube",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O senhor Dorsey escreve muito bem"
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amuro ficou de pé, encostado no batente da porta da cozinha. Não sentou."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E daí?"
+  },
+  {
+    "ordem": 30,
+    "personagem": "Raube",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Daí que o senhor não pergunta por terremoto. Nem por irmã de ninguém. Há sete anos, as folhas da sua guarita dizem tempo, futebol, grama."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quem paga?"
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Raube sorriu. Tinha dentes muito bons."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Federação. Como paga esta casa."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os Titans."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Augusta é um laboratório federal. — O sorriso não mudou. — Que recebe verba de muitos lugares. O senhor sabe o que nós estudamos?"
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sei o que dizem que vocês estudam."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Raube",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então vou ser direto, porque o senhor parece preferir."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amuro não respondeu."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Raube",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lendo, talvez?"
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dormindo."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O guarda da noite diz que a luz da sala ficou acesa até a meia-noite."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu durmo com a luz acesa."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Raube o encarou por alguns segundos. Então fechou a pasta."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Exames",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nós temos em Augusta um programa voluntário — disse."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É voluntário."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então não."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Raube abotoou o paletó."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Voluntário por enquanto — disse, sem mudar o tom, do jeito de quem lê a previsão do tempo. — As coisas estão mudando muito rápido hoje. O Conselho vota à noite em Dakar. O senhor deveria assistir."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Deixou um cartão em cima da mesa de centro, ao lado do livro de mecânica orbital, e saiu."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amuro ficou na porta da cozinha até o carro escuro descer a ladeira. Então foi até a janela da frente. No portão, Dorsey estava parado com as mãos cruzadas na frente do corpo, sem olhar para a casa. Quando o carro passou por ele, o homem de terno tirou a mão direita do bolso, devagar, e Amuro viu que ela tinha estado fechada."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dakar, sede do Conselho Federal"
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O deputado Ioane Tuilagi recebeu o telefonema de Pearl Harbor às cinco e dez da tarde, no corredor do terceiro andar, num telefone de parede ao lado de um bebedouro, porque o telefone do gabinete dele estava grampeado desde março e todo mundo em Dakar sabia disso."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Deputado. Aqui é Arthur Wyle."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tuilagi conhecia a voz. Tinham se visto duas vezes: uma em 0083, numa cerimônia em Pearl, de farda branca e calor demais, e outra em 0085, num jantar em Apia, quando o almirante ainda era capitão e Tuilagi ainda era dono de dois cargueiros e não tinha entrado na política. Wyle não sorria nos jantares. Tuilagi tinha gostado dele por isso."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Almirante. Que horas são aí?"
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sete da manhã. Eu não dormi. Eu não tenho muito tempo, deputado, e esta ligação não está acontecendo."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Entendo."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Wyle",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não entende ainda."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vou."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os Titans vão passar o filme deles. A praia, os Asshimar, a coisa caindo. Vão dizer que salvaram o Havaí."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Salvaram?"
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mataram uma coisa que a minha esquadrilha tinha parado na praia. Eu perdi um piloto em cima de um supermercado de Waianae para ela parar. — A voz do almirante não subiu. — Não é isso que eu quero dizer. Deputado, uma estação nossa em Guam ouviu essa coisa sair do fundo da fossa das Marianas na noite de três de maio. Na mesma noite do terremoto. Ouviram nadar. Calcularam o rumo. O rumo era Oahu. O aviso saiu de Guam no dia quatro, de madrugada."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tuilagi encostou o ombro na parede."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para Pearl?"
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para o canal de ligação dos Titans, que fica em Pearl e responde à Nova Guiné. Ordem de Gryps, de março: todo contato submarino não identificado vai para eles. Eu só soube no dia nove, por uma cópia que não devia existir. — Uma pausa. — Oito dias, deputado. Eles sabiam havia oito dias. Tinham um submarino seguindo a coisa. E não disseram nada a ninguém em Oahu. Eu evacuei a costa oeste dizendo que era tsunami."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por que o senhor está me dizendo isso, e não ao Conselho?"
+  },
+  {
+    "ordem": 68,
+    "personagem": "Wyle",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque eu tenho uma ordem de Gryps, por escrito, que me proíbe de falar em operação dos Titans. Porque se eu falar, amanhã de manhã eu estou numa sala na Nova Guiné e o Comando do Pacífico tem outro almirante. Um que obedeça melhor."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tuilagi fechou os olhos. Atrás dele, no corredor, dois assessores passaram rindo de alguma coisa, com pastas debaixo do braço."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O senhor tem prova?"
+  },
+  {
+    "ordem": 71,
+    "personagem": "Wyle",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu tenho uma fita que não devia existir e um capitão de fragata que vai perder a carreira se eu disser o nome dele. Eu tenho a hora de decolagem dos Asshimar, que eu não devia ter. Saíram da Nova Guiné às oito e cinquenta da manhã de ontem, hora do Havaí. Quase nove horas antes de a coisa sair do mar."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E se eles responderem?"
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eles não vão responder."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A linha caiu. Tuilagi ficou com o fone na mão, ouvindo o tom de discagem, até um contínuo de paletó branco parar ao lado dele e perguntar se ele estava passando bem."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A sessão extraordinária começou às sete da noite, com o plenário cheio e as galerias fechadas ao público."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tuilagi sentava na fila doze, entre o deputado de Fiji, que dormia em todas as sessões e não estava dormindo, e uma deputada da Austrália Ocidental que tinha perdido a cidade natal na queda de 0079 e votava contra tudo que os Titans pediam. Na frente do plenário, no lugar da mesa diretora, tinham montado uma tela enorme, branca, e dois projetores."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O presidente do Conselho abriu a sessão com um minuto de silêncio pelos mortos de Jaburo e de Oahu, nessa ordem."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então apagaram as luzes, e passaram o filme."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tuilagi já tinha visto aquele filme quatro vezes desde a madrugada, na televisão do hotel, sem som. Na tela grande, com o som alto, era outra coisa. O recife de Makaha ao sol baixo, a água descendo em cachoeiras dos flancos de uma coisa do tamanho de um prédio. O ronco. O plenário inteiro sentiu o ronco na barriga, pelos alto-falantes, e uma mulher na fila da frente deu um grito curto e tapou a boca. Os GM II da Marinha passavam pelo canto da imagem, pequenos, de relance, desfocados. Então o céu se enchia de asas escuras, e as asas viravam mobile suits no ar, e os mobile suits desciam atirando, e a luz entrava na coisa pelas costas, e a coisa caía de lado na água rasa, devagar, enorme, e o mar em volta acendia de azul."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O filme terminava num homem de farda preta, de pé na areia, com o corpo atrás dele, dizendo que os Titans protegiam a Terra."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As luzes acenderam. Alguém, no lado direito do plenário, começou a aplaudir. Outros acompanharam. Não todos."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O coronel Brandt, do estado-maior das forças dos Titans na Terra, subiu à tribuna com uma pasta e sem papel nenhum na mão. Era um homem alto, de rosto comprido e voz agradável, que falou durante vinte minutos sem olhar a pasta uma vez."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Falou de Oahu. De uma \"forma de vida desconhecida, de origem marinha e de agressividade extrema\", que a ciência dos Titans estava estudando \"com todos os recursos\". Falou dos mortos de Waianae e dos queimados de Nanakuli, com os números certos. Falou do sangue tóxico e da necessidade de \"zonas de exclusão sob autoridade única\". Falou da rapidez da resposta."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então falou de Jaburo."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Brandt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na mesma noite em que a Terra era atacada pelo mar"
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na fila doze, a deputada da Austrália Ocidental disse alguma coisa entre os dentes."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Brandt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Duas ameaças"
+  },
+  {
+    "ordem": 88,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O pedido estava impresso numa folha que os contínuos tinham distribuído antes da sessão. Tuilagi o tinha lido três vezes. Comando unificado de toda a defesa costeira do Pacífico, com subordinação das guarnições regulares. Autoridade exclusiva sobre \"material biológico de origem desconhecida\" e sobre as zonas contaminadas. Prioridade de transporte, de verba e de requisição. E, no último parágrafo, a classificação do AEUG como inimigo armado da Federação, com tudo o que isso queria dizer sobre quem o abrigasse."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O presidente abriu as perguntas."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As primeiras foram do lado direito do plenário e eram perguntas de quem já tinha decidido. Quantos mobile suits os Titans tinham no Pacífico. Se precisavam de mais. Se o AEUG podia ter ligação com a criatura. Brandt respondia com calma, em números redondos."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tuilagi levantou a mão. O presidente o viu na quarta vez."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Deputado de Samoa."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tuilagi se levantou. Tinha sessenta e um anos e as pernas de quem tinha passado vinte deles num convés, e o microfone da fila doze estava baixo demais para ele, de modo que teve de se inclinar."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Coronel. Uma pergunta só. A que horas decolou da Nova Guiné a força que abateu a criatura em Makaha?"
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brandt não mudou de expressão."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A força de reação rápida dos Titans decolou em resposta ao alerta do Comando do Pacífico, deputado."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A que horas?"
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os horários operacionais são informação reservada."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Tuilagi",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Comando do Pacífico deu o primeiro alarme de combate às cinco e quarenta da tarde, hora do Havaí"
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O plenário fez um barulho que não era de nenhum lado. Uma espécie de mexer de cadeiras."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brandt sorriu, um pouco, com metade da boca."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O deputado de Samoa conhece bem a aviação — disse. — Os Titans mantêm prontidão permanente em todo o Pacífico desde março, em razão da ameaça terrorista. Havia unidades em deslocamento na região. Por felicidade. Os detalhes podem ser fornecidos em sessão fechada à comissão de defesa, da qual o deputado não faz parte."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Havia unidades em deslocamento na direção do Havaí por felicidade, coronel?"
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Deputado"
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu fiz uma pergunta. Ele não respondeu."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O coronel respondeu que a informação é reservada. O seu tempo terminou."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tuilagi ficou de pé mais um momento. Do outro lado do plenário, no lado direito, um deputado que ele não conhecia o observava com atenção, e anotava alguma coisa num bloco."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sentou."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bem feito"
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Já estava."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Agora está escrito com caneta."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O presidente suspendeu a sessão às oito e quarenta por meia hora, para as delegações conversarem antes do voto, e o café do segundo andar encheu de gente falando ao mesmo tempo."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tuilagi não foi ao café. Foi ao telex."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A sala do telex ficava no fim do corredor, com quatro máquinas e uma moça senegalesa de óculos que conhecia todos os deputados pelo número do gabinete. Tuilagi escreveu a mensagem à mão, num bloco, riscou duas vezes e passou a limpo."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para o prefeito de Apia e a capitania do porto. Confidencial. Pedir a todos os barcos de pesca que se afastarem da costa que anotem e informem pelo rádio, ao porto e só ao porto, qualquer peixe morto em faixa, qualquer luz na água à noite, qualquer tremor sentido a bordo. Com hora e posição. Não informar a nenhuma outra autoridade por enquanto. Explico quando voltar. I.T."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A moça leu, levantou os olhos para ele por cima dos óculos e não perguntou nada. Bateu a mensagem na máquina."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando Tuilagi saiu da sala, o coronel Brandt estava no corredor, encostado na janela, com um copinho de café na mão. Sozinho. Os assessores dele esperavam a dez metros, perto da escada."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Brandt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Deputado."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tenho trinta, coronel. Até o voto."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Brandt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não vou precisar de tanto."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do seu filme. O sol está baixo."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Brandt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sol, sim. A distância, sim. Mas o senhor disse \"uma hora e meia\" como quem sabe que não foi uma hora e meia."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Samoa tem uma guarnição federal."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Brandt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que, a partir de hoje, vai estar subordinada ao comando unificado."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não é."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ótimo."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brandt fez um aceno curto com a cabeça e foi embora pelo corredor, na direção dos assessores. Na metade do caminho, sem se virar, disse para um deles uma palavra que Tuilagi não ouviu, e o assessor tirou um bloco do bolso e escreveu."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tuilagi voltou à sala do telex."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A minha mensagem para Apia já saiu?"
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Saiu, deputado"
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Rasgue a cópia."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela olhou para ele por cima dos óculos outra vez. Tirou a folha amarela da bandeja, rasgou em quatro e jogou na cesta. Quando ele já estava na porta, tirou os pedaços da cesta, juntou e guardou na bolsa."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Todas",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A cesta é esvaziada pelos rapazes de preto às dez — disse."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Shyenne"
+  },
+  {
+    "ordem": 135,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amuro assistiu à sessão inteira na televisão da cozinha, com o som ligado, de pé ao lado do balcão, com uma caneca de café que esfriou na mão sem que ele bebesse."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O filme ele viu duas vezes, porque a emissora o passou outra vez durante o intervalo. Na segunda vez, viu o que não tinha visto na primeira."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não a coisa. A coisa ele olhou pouco: a cabeça larga sem olho nenhum, as placas, as fendas que acendiam nas costas. Olhou e sentiu o estômago apertar, e não sentiu mais nada, nenhuma água, nenhuma quietude, nada. Era um filme. Era só luz numa tela."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que ele viu foram os Asshimar."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Doze, em formação de cruzeiro, entrando no quadro do alto, no sol baixo. Asas de forma de disco abertas. E, debaixo de cada asa, presos aos pilones, dois volumes compridos, cilíndricos, que nenhuma ficha de mobile suit de combate tinha e que qualquer piloto que tivesse voado com um avião de transporte reconhecia."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tanques externos."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na sequência seguinte, os Asshimar desciam sobre a coisa e já não tinham os tanques. Tinham largado no mar, antes de entrar em combate, do jeito que se faz."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amuro pôs a caneca no balcão."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém leva tanque externo numa interceptação de uma hora e meia. Tanque externo é para voar longe, em cruzeiro, sem pressa, e chegar com o reator frio e o propelente cheio. Ele fez a conta na cabeça, sem querer, do jeito de sempre: a velocidade de cruzeiro de um Asshimar transformado, a distância da Nova Guiné a Oahu, o consumo. Não precisou de papel."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nove horas. Dez, talvez."
+  },
+  {
+    "ordem": 145,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na tela, o deputado de Samoa se inclinava para o microfone baixo demais e perguntava a hora."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amuro ouviu o coronel não responder. Ouviu o presidente cortar o deputado. Ouviu, uma hora mais tarde, às duas e quarenta da tarde em Shyenne, o presidente do Conselho anunciar o resultado da votação: trezentos e oito votos a favor, cento e noventa e um contra, onze abstenções. Os poderes de emergência estavam aprovados. O AEUG era, desde aquele minuto, inimigo armado da Federação Terrestre."
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O lado direito do plenário aplaudiu de pé."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amuro desligou a televisão."
+  },
+  {
+    "ordem": 149,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficou na cozinha em silêncio. Lá fora, o cortador de grama da casa vizinha tinha parado. Pela janela, viu Dorsey no portão, de costas para a casa, conversando com o outro guarda, o mais novo, que tinha chegado para o turno da tarde. Dorsey falava e o mais novo sacudia a cabeça."
+  },
+  {
+    "ordem": 150,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amuro subiu ao quarto. Tirou a caixa de sapatos do armário pela segunda vez no dia e, dessa vez, não pegou o caderno."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pegou a carta de Fraw."
+  },
+  {
+    "ordem": 152,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava num envelope azul, aberto havia três anos e lido uma vez, no dia em que chegou. Fraw escrevia como falava, depressa, com a letra redonda de quando tinha quinze anos na White Base e passava a limpo as listas de ração. Contava do museu. Contava de Katz, que tinha crescido e era impossível. De Letz e de Kikka. De Hayato, que trabalhava demais. Você pode vir quando quiser. Você não precisa avisar. A gente tem um quarto. Ninguém vai te perguntar nada. E, no fim, embaixo da assinatura, um número de telefone de Kennedy, escrito duas vezes, como se ela tivesse medo de que ele não conseguisse ler a primeira."
+  },
+  {
+    "ordem": 153,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amuro ficou com a carta na mão."
+  },
+  {
+    "ordem": 154,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O telefone da casa estava grampeado. Ele sabia. Os guardas sabiam que ele sabia. Em sete anos, tinha usado aquele telefone para pedir pizza e para responder, duas vezes por ano, a um coronel de Denver que queria saber se estava tudo bem. Uma ligação para Kennedy ia para uma folha. A folha ia para Denver. De Denver, agora ele sabia, ia para Augusta."
+  },
+  {
+    "ordem": 155,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desceu a escada com a carta na mão. Na sala, em cima da mesa de centro, o cartão do doutor Raube continuava ao lado do livro de mecânica orbital. Amuro o virou com a face para baixo."
+  },
+  {
+    "ordem": 156,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pegou o fone. Discou o número de Kennedy, o primeiro dos dois, e esperou."
+  },
+  {
+    "ordem": 157,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tocou quatro vezes. Do outro lado, uma criança atendeu, uma menina, com a boca cheia."
+  },
+  {
+    "ordem": 158,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Museu Espacial, residência."
+  },
+  {
+    "ordem": 159,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Fraw está?"
+  },
+  {
+    "ordem": 160,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quem quer falar?"
+  },
+  {
+    "ordem": 161,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amuro olhou pela janela. No portão, Dorsey tinha se virado e estava olhando a casa."
+  },
+  {
+    "ordem": 162,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Diz que é o Amuro."
+  },
+  {
+    "ordem": 163,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A menina largou o fone em cima de alguma coisa dura, e ele a ouviu correr, e gritar, longe, numa casa cheia de gente, o nome que ele tinha acabado de dizer. Ouviu outra voz, de mulher, dizer o quê?, e passos que vinham depressa, e um prato que alguém deixou cair."
+  }
+]

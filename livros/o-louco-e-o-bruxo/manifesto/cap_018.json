@@ -1,0 +1,848 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Queimaram Arthur Venn de manhã, do lado da neve."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan cavou o buraco sozinho, porque o cocheiro estava com o pescoço enfaixado e o caixeiro de botões tinha olhado para o corpo, empalidecido e voltado para dentro. O chão de Kaedwen, a vinte passos da linha, era duro como pedra debaixo da neve, e Zoltan teve de usar a picareta da estrebaria e o machado, alternando, com o braço esquerdo costurado latejando a cada golpe. Não reclamou. Cavar era coisa que um anão sabia fazer, e fazer uma coisa que se sabe fazer acalma qualquer um."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Sra. Thorne trouxe a lenha. Trouxe também dois litros de querosene numa lata, que disse ser para os lampiões e que não servia mais de nada porque os lampiões eram de gás. Zoltan cheirou a lata, fez careta e derramou metade em cima do corpo."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O corpo tinha passado a noite no estábulo, embrulhado em duas toalhas de mesa e numa lona. Ninguém quis desembrulhar. Zoltan e Regis o carregaram pela chuva até a linha e pela neve até o buraco, e quando o deitaram no fundo, a lona se abriu de um lado e a ponta de uma asa ficou para fora, dobrada, fina como couro de luva, roxa de veias."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis ficou olhando a asa."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Zoltan",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Fecha isso"
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis se abaixou e fechou a lona. As mãos dele tremiam tanto que levou três tentativas."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Sra. Thorne riscou o fósforo. O querosene pegou com um sopro, e o fogo subiu alto e amarelo, depois baixou e ficou vermelho, e o barulho dele no meio da neve era o único barulho do mundo. Da janela de cima da estalagem, Zoltan viu uma cabecinha de cachos castanhos espiando e sendo puxada para trás por uma mão de mulher."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O fogo queimou a manhã inteira. Zoltan ficou de pé ao lado dele, porque alguém tinha de ficar. A Sra. Thorne voltou para dentro na primeira hora. Regis ficou na segunda e na terceira, a cinco passos do buraco, de capa fechada, sem se aproximar das chamas e sem se afastar delas."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na quarta hora, Zoltan reparou que o amigo não piscava."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim?"
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No que você está pensando?"
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis demorou a responder. A fumaça subia preta e se desmanchava no céu limpo de Kaedwen, e do outro lado da linha, a três passos, a chuva de Loen caía sem parar sobre o pátio da estalagem."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estou pensando que o sangue dele está queimando"
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan não disse nada. Mudou o machado de mão, para a direita."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não vou"
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei que não vai."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você mudou o machado de mão."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Zoltan",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Coincidência"
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "À tarde, a Sra. Thorne bateu na porta do quarto deles com uma maleta de couro nas mãos."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era pequena, de viagem, gasta nos cantos, com duas iniciais gravadas em dourado quase apagado ao lado do fecho, em letras que Regis não sabia ler. Ela a pôs em cima da cama, sem se sentar."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Estavam",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As coisas do Sr. Venn — disse."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis abriu a maleta."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Duas camisas dobradas, de colarinho duro. Um par de meias remendadas. Uma navalha, um pincel, um pedaço de sabão de barba. Um livro de gramática de capa azul, cheio de anotações a lápis nas margens. Um maço de cartas atadas com barbante, numa letra miúda e inclinada que Regis não conseguia ler, como nenhuma letra daquele mundo. E um retrato."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não era pintura. Regis nunca tinha visto nada igual. Era uma placa fina e dura, do tamanho da palma da mão, cinzenta e prateada, e nela havia dois meninos de pé ao lado de uma cadeira, de roupa de domingo, com o cabelo penteado com água. Estavam tão perfeitamente ali, cada fio de cabelo, cada botão, cada sarda, que pareciam ter sido apertados contra a placa enquanto viviam. Um deles, o mais novo, fazia careta para o pintor, se é que havia pintor."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os meninos de Backlund"
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Sra. Thorne olhou o retrato por cima do ombro dele e não perguntou como ele sabia."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No fundo da maleta, embrulhado num lenço de seda preto, estava o livro pequeno de capa de couro que Venn lia na mesa do fundo sem virar as páginas. Regis o desembrulhou com cuidado. As páginas eram escritas à mão, com tinta escura, na mesma letra das cartas, e ilegíveis como tudo o mais. Mas no meio do texto havia desenhos. Um círculo com uma lua dentro, crescente, pintado de vermelho. Uma lista de coisas, numa coluna, com números ao lado, como uma receita. Um desenho cuidadoso, a pena, de uma flor de pétalas compridas e de um morcego de asas abertas. E, na última página escrita, uma frase curta repetida muitas vezes, linha após linha, cada vez com a letra mais torta, até a última, que rasgava o papel."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis não sabia o que a frase dizia. Mas sabia reconhecer a letra de um homem que escreve a mesma coisa cem vezes para não fazer outra."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A senhora sabe ler isto? — perguntou, mostrando a página."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Sra. Thorne se inclinou."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sou Arthur Venn — leu ela."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis fechou o livro."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Se",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu vou levar a maleta — disse."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Sra. Thorne fez que sim. Depois, da porta, já saindo, disse sem se virar:"
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele pagava sempre adiantado. Eu disse isso ontem. Mas não disse que, na primeira noite, ele desceu às três da manhã e consertou a dobradiça da porta da cozinha, que rangia havia um ano, e não contou a ninguém. Eu só soube porque ela parou de ranger."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela saiu. Regis ficou com o livro nas mãos, e as mãos, nesse momento, não tremiam."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O cavalo cinzento da estalagem tinha morrido de madrugada."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis o examinou à tarde, sozinho, na baia do fundo do estábulo, de joelhos na palha, com a lanterna de óleo pendurada num prego. Tinha dito a Zoltan que ia examinar o animal porque um médico precisa saber de que morreu um paciente, mesmo quando o paciente é um cavalo. Era verdade. Não era a verdade inteira."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O cavalo tinha quatro furos no pescoço, do lado esquerdo, em fila, do tamanho de cabeça de prego, iguais aos que Venn tinha nas costas da mão. Furos velhos e furos novos. Por eles, durante cinco noites, o rapaz tinha bebido. Pouco, ele dissera. Não o bastante para matar. Mas na última noite, quando bebeu sem que chegasse, tinha bebido o bastante."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis pôs a mão no pescoço frio do animal e fechou os olhos."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sangue do cavalo era sangue de cavalo. Morto, coagulado, comum. Mas em volta dos quatro furos, onde a boca de Venn tinha encostado, havia outra coisa. Um resíduo. Uma lembrança. Muito fraca, quase nada, como o calor que fica numa cadeira depois que alguém se levanta. E esse quase nada, quando Regis encostou a mão, se virou para ele."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis tirou a mão."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficou ajoelhado na palha, com a mão aberta diante dos olhos. O tremor tinha piorado. Desde a noite anterior, vinha em ondas: diminuía por uma hora, voltava por outra. Não era o tremor de abstinência que ele conhecia, o de séculos atrás, nos primeiros anos depois de decidir parar. Aquele vinha do corpo inteiro, da pele, da garganta. Este vinha de um ponto só, no meio do peito, onde o sangue de Venn tinha descido depois que ele o engoliu. E desse ponto saía uma vontade."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis tirou do bolso de dentro do casaco o caderno de capa de couro onde fazia as anotações de doente e abriu numa página em branco. Tirou também o frasco de vidro grosso, enrolado no pano, e o pôs na palha, a um braço de distância."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Escreveu, com letra pequena e caprichada, que nenhum tremor ia estragar:"
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Paciente: eu. Quarto dia depois do tremor. Ingestão acidental de sangue de A. V. (ver notas da véspera), estimada em meia colher de sopa."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sintomas: tremor fino das mãos, em ondas. Sede. Não a sede comum. Uma sede dirigida. Não quero sangue: quero ESSE sangue. Ou o que está nele."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele pegou o frasco, desembrulhou e o segurou contra a lanterna. Dentro, o caroço vermelho-escuro, do tamanho de um caroço de cereja, brilhava como vidro molhado. Não se mexia. Mas Regis, com o frasco na mão, sentiu o tremor parar."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Parar de todo. Os dedos ficaram firmes como os de um cirurgião em dia bom. O ponto no meio do peito se aquietou, como cachorro que encontrou o dono."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis pôs o frasco de volta na palha, a um braço de distância. Esperou. O tremor voltou em menos de um minuto."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pegou o frasco. Parou."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Largou. Voltou."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fez isso cinco vezes, contando no relógio de bolso, e anotou cada uma. Depois embrulhou o frasco no pano, guardou-o no bolso de dentro do casaco, encostado no peito, e ficou sentado na palha, ao lado do cavalo morto, com o caderno aberto no colo e as mãos firmes, olhando o que tinha escrito."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hipótese, escreveu por fim. O que eu engoli não é um veneno nem uma doença. É uma parte de alguma coisa. A parte maior está no frasco. A parte menor está em mim. As duas querem se juntar. A parte menor puxa para a maior. Talvez a maior também puxe para a menor."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Parou com a pena no ar. Depois continuou, mais devagar."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A coisa não é Venn. Venn era só a casa em que ela morava. O que eu senti quando provei não tinha rosto nem nome. Tinha vontade. Vontade de continuar. Venn bebeu alguma coisa que continha isso, e isso o mudou, e quando ele morreu, isso não morreu com ele. Saiu do sangue morto e se juntou de novo no frasco, esperando outra casa."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Venn não foi o primeiro dono. Antes dele, alguém mais. Antes desse, outro."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não quero ser o próximo."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele sublinhou a última linha duas vezes e fechou o caderno."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O ferimento do cocheiro abriu de noite."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis estava no quarto que dividia com Zoltan, no fim do corredor de cima, sentado na cadeira ao lado da janela, com o frasco no bolso e as mãos firmes no colo, quando ouviu o grito no quarto do outro lado. Não era grito de medo. Era de dor, rouco, de homem que acordou com uma coisa errada no corpo. Depois veio a voz da Sra. Thorne, chamando pelo médico."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan já estava sentado na cama, de machado no colo. Tinha dormido assim nas duas noites."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu vou"
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu vou junto."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O cocheiro estava sentado na cama, com a mão no pescoço e sangue escorrendo entre os dedos, grosso, vermelho-escuro, pingando no lençol. A mordida de Venn era funda numa das bordas, e o cocheiro, dormindo, tinha se virado e arrancado o curativo, e a crosta tinha saído junto, e uma veia pequena, das de baixo da pele, tinha voltado a sangrar. Nada de mortal. Nada que não se resolvesse com pressão e dois pontos."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis parou na porta."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ouviu o coração do cocheiro, rápido, assustado. Ouviu o sangue correndo pela veia aberta, cada pulsação empurrando um pouco mais para fora. E por baixo disso, por baixo do sangue comum de um homem gordo que bebia gim desde os doze anos, sentiu outra coisa. Fraquíssima. A mesma lembrança que tinha sentido no pescoço do cavalo. O resto da boca de Venn, que tinha encostado ali também."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No peito de Regis, o ponto acordou. O frasco no bolso, encostado nele, pareceu esquentar."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Doutor?"
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis entrou no quarto."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Andou até a cama, sentou-se na beira, tirou a mão do cocheiro do pescoço e pôs a dele no lugar, com um pano dobrado, e apertou. Fez isso olhando para a parede. O sangue do cocheiro molhou o pano e chegou aos dedos dele, quente, e Regis sentiu o calor subir pela mão, pelo braço, até o ponto no peito, que se abriu como uma boca."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mais."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele continuou apertando."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Na",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan — disse, com a voz muito calma."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan trouxe. Regis tirou a rolha preta com os dentes, sem soltar o pano, e bebeu metade do frasco verde de uma vez. Era aguardente de mandrágora, que ele mesmo destilava em Toussaint, e queimava como fogo de forja descendo. O ponto no peito recuou um palmo. Não sumiu. Recuou."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Segure o pano"
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan segurou. Regis lavou as mãos na aguardente comum, esfregando, até não sobrar vermelho nenhum embaixo das unhas. Depois enfiou a linha na agulha. O tremor tinha voltado; ele esperou que a onda passasse, contando até vinte, e deu os dois pontos entre uma onda e a seguinte, firme, limpo, rápido. Cortou a linha. Pôs um curativo novo e o amarrou com uma tira de pano em volta do pescoço inteiro, para o cocheiro não arrancar de novo."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não durma desse lado — disse."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim, senhor"
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis se levantou. Não olhou para o pano ensanguentado na mão de Zoltan. Saiu do quarto, desceu a escada, atravessou o salão escuro e saiu pela porta da cozinha para o pátio, para a chuva."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan o encontrou meia hora depois, do lado da neve, sentado numa pedra, com o frasco verde vazio na mão e a cara virada para o céu limpo de Kaedwen."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O anão sentou na pedra ao lado. Pôs o machado atravessado nos joelhos."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você não mordeu ninguém — disse."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então foi uma boa noite."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis soltou uma risada curta, sem graça nenhuma."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan. Eu passei quatrocentos anos aprendendo a não querer. E aprendi. Juro que aprendi. Há décadas que eu passo por um ferido no meio de uma rua e sinto só o que um médico sente: pena e pressa."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E vai embora?"
+  },
+  {
+    "ordem": 92,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sei. Acho que não. Acho que ela vai ficar aqui."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então joga isso fora. Joga no rio. Enterra junto com o rapaz."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Já pensei nisso."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan pensou nisso. Coçou a barba com a mão do braço costurado e fez careta."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E então?"
+  },
+  {
+    "ordem": 97,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então eu preciso de alguém que saiba mais do que eu."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não fala merda."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É a coisa mais sensata que eu disse a semana inteira."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Zoltan",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "É a coisa mais idiota."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pela estrada de antes do tremor, de Daevon, oito dias. Pelo caminho dos bruxos, pelas montanhas, cinco. Se o caminho ainda existir."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você conhece o caminho dos bruxos?"
+  },
+  {
+    "ordem": 103,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan bateu no bolso do gibão, onde guardava, dobrado em quatro, o mapa de Kaedwen que tinha comprado de um cartógrafo anão em Novigrado no outono, por um preço que ainda doía."
+  },
+  {
+    "ordem": 105,
+    "personagem": "Desenhado",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tenho — disse."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então amanhã cedo"
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Partiram com o sol."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Sra. Thorne lhes deu pão, queijo, um pedaço de presunto e uma garrafa de gim, que Zoltan aceitou com uma reverência e prometeu não beber sozinho. Recusou o dinheiro de Regis, duas vezes, e na segunda empurrou a mão dele de volta com firmeza de dona de casa. Disse que o Sr. Venn tinha pago dois dias adiantado e que era justo que alguém aproveitasse."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lucy Harper estava no degrau da porta, de casaco azul e cachecol, segurando a mão da mãe. Não disse nada quando eles montaram. Mas quando Regis passou a cavalo diante da porta, ela tirou a mão do bolso e mostrou a ele, de longe, uma carta do baralho: o rei de copas, que ela tinha escolhido para si depois de dar o bobo a ele. Regis tocou a aba do chapéu."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Saíram da chuva pela linha e entraram na neve, e o mundo voltou a ter o silêncio branco de Kaedwen."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O mapa de Zoltan era uma obra de arte. Desenhado a tinta preta e vermelha em pergaminho fino, com as montanhas em perfil, os rios em azul, as estradas em vermelho, os caminhos de pé em pontilhado, e anotações em letra miúda de anão por toda parte: ponte podre, bom pasto, estalajadeiro ladrão, aqui tem urso. O caminho dos bruxos para Kaer Morhen estava marcado com um pontilhado fino que saía da estrada de Daevon, subia por um vale chamado Garganta da Cabra, atravessava um passo entre dois picos, o Dente e a Velha, e descia para o vale do Gwenllech."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Zoltan",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "A Garganta da Cabra começa num moinho velho"
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A estrada continuava onde devia, branca e funda, entre pinheiros. O rio corria do lado direito, na direção certa. Por três horas, tudo esteve onde o mapa dizia. Uma ponte de pedra, marcada boa, estava lá, boa. Um cruzeiro de madeira, marcado cruzeiro, estava lá, coberto de neve. Zoltan foi ficando de bom humor e começou a cantar uma canção de Mahakam sobre uma ovelha e um ferreiro que Regis já tinha ouvido onze vezes."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na terceira estrofe, parou no meio."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim?"
+  },
+  {
+    "ordem": 117,
+    "personagem": "Zoltan",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Aquela história de morte e renascimento. Que você falou na estalagem. Quatrocentos anos, uma morte e um renascimento."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu nunca contei."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estou perguntando agora. A estrada é longa e a canção da ovelha acabou."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis demorou um pouco. O cavalo dele, o baio velho de Daevon, andava com a cabeça baixa na neve funda, e ele o deixou escolher o passo."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "por: Um feiticeiro me desfez"
+  },
+  {
+    "ordem": 122,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan ficou calado por uns cem passos."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Igual ao caroço do rapaz — disse."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Talvez",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Igual ao caroço do rapaz — concordou Regis."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele não te escolheu. Você que abriu a garganta dele e ficou de boca aberta."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Também é verdade."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan riu, e voltou à canção da ovelha, da primeira estrofe."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No meio do dia, chegaram ao moinho."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O moinho estava lá. Era uma construção de pedra arruinada, sem teto, com uma roda de madeira podre caída meio dentro do rio, exatamente onde o mapa dizia. E atrás dele, onde o mapa mostrava a boca da Garganta da Cabra, um vale estreito que subia entre paredes de pedra para o norte, havia uma encosta lisa."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não um vale. Uma encosta. Larga, suave, coberta de neve, que subia em linha reta até um pico arredondado que não estava no mapa."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan parou de cantar."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desceu do cavalo. Andou até a encosta, até onde devia estar a boca do vale, e ficou ali de pé, com o mapa aberto nas duas mãos, olhando do pergaminho para a neve, da neve para o pergaminho."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não — disse."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis desmontou também. Olhou o pico arredondado. Olhou à esquerda e à direita. À direita, a uns duzentos passos, o rio fazia uma curva que o mapa também mostrava. À esquerda, onde o mapa tinha o Dente, uma ponta de pedra alta e fina que todo viajante de Kaedwen conhecia, havia o Dente, sim. Mas estava do lado errado. Estava a leste do moinho, e não a oeste. E a Velha, o pico corcunda que devia estar ao lado dele, não estava em parte nenhuma."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pode ser que a gente tenha errado de moinho"
+  },
+  {
+    "ordem": 136,
+    "personagem": "Zoltan",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Não tem outro moinho neste rio."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os dois ficaram olhando a encosta lisa, branca, sem garganta, sem gruta, sem caminho nenhum, subindo para o pico que não existia."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No bolso de Regis, encostado no peito, o frasco estava quieto. Mas o tremor tinha voltado às mãos dele, fino, contínuo. E dessa vez, Regis notou, não vinha do ponto no peito. Vinha do chão. Do lugar onde devia haver uma garganta e não havia. Era como pisar numa ponte que balança."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Guarda",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan — disse."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por quê?"
+  },
+  {
+    "ordem": 141,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque ele está certo."
+  }
+]

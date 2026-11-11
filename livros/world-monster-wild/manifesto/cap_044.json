@@ -1,0 +1,1088 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oren estava na muralha quando eu o achei, e não largou a pedra para me ouvir."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era cedo. O sol ainda não tinha passado do paredão, e o pátio estava cinza e frio, e os fogos das torres pareciam maiores do que eram, como sempre parecem antes do dia. No trecho escorado, onde eu tinha carregado pedra três dias antes, o velho dos dois dedos a menos estava de cócoras com a alavanca, e Oren, do lado dele, segurava uma pedra preta do tamanho de uma cabeça de Aptonoth contra o peito, esperando o encaixe, como um homem segura uma criança dormindo."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Subi a escada. Parei a dois passos dele."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vask."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nunca tinha chamado ele assim. Todo mundo dizia Oren, ou o conselho, ou não dizia nada. Ele não se virou."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kest"
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A quarta vez. Lio ia querer saber. Eu não ia contar."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Lio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Alguém cortou o diário da vigésima sétima."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O velho da alavanca parou. Olhou para mim, olhou para Oren, e encontrou uma coisa muito interessante para ver no outro lado da muralha, no Cinzal, onde não havia nada."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oren pôs a pedra no buraco. Ela não entrou. Ele a tirou, virou, e pôs de novo. Entrou, com um barulho seco de dente mordendo osso. Ele passou a palma em cima dela, para sentir se estava firme. Só então olhou para mim."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Muita gente corta muita coisa aqui, rapaz."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A voz grossa, gasta, sem levantar."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Corda. Carne. Cabelo, quando dá piolho."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Com faca. Rente. De uma vez. Cinquenta e uma folhas. Dentro do Arquivo."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Arquivo é do Wessel."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Wessel disse que não foi ele."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então não foi ele."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oren limpou as mãos na calça, devagar, a frente e as costas, como quem tem todo o tempo do mundo."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Wessel não mente. Não sabe. Nunca aprendeu. Ficou velho demais antes."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E o senhor?"
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O velho da alavanca tossiu. Oren não."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficou me olhando. Era a cara do pátio, do dia do fogo. A de quem ouve uma palavra numa língua que não fala faz muito tempo. Mas, agora que eu estava perto, eu vi outra coisa embaixo dela. Uma coisa cansada, gasta, como a voz, como o casaco que tinha mudado de cor. Uma coisa que não era raiva."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu conheci um Kest"
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Assim. Sem eu perguntar. Como quem põe uma pedra no buraco depois de virar ela três vezes na mão."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não consegui dizer nada. A muralha estava muito alta, de repente. O Cinzal muito longe lá embaixo."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Faz muito tempo"
+  },
+  {
+    "ordem": 27,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficou aqui umas semanas. Comia com a gente. Ria pouco, falava menos. Tinha o seu jeito."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele olhou para a pedra que tinha encaixado."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "De ficar ouvindo o chão. Deitava de cara na terra, no pátio, de noite, e ficava. A gente achava que era bêbado. Não era. Não bebia."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era o meu pai."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não sei de quem você é filho, rapaz. Eu sei que eu conheci um Kest."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O senhor sabe."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oren se abaixou e pegou outra pedra do monte que o velho tinha subido. Pesou na mão."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vai embora"
+  },
+  {
+    "ordem": 35,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O senhor cortou."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vai embora, Kest."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele não levantou a voz. Não precisava."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tem pedra para subir e você está na frente dela."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu fiquei. Fiquei um tempo que me pareceu muito e devem ter sido três respirações, parado na frente de um homem de sessenta anos com uma pedra na mão, e eu com uma espada nas costas, e ninguém se mexendo. O velho da alavanca olhando o Cinzal. O sol batendo, enfim, na ponta do paredão lá em cima, e escorrendo para baixo, devagar, como água."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois desci a escada."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele não disse mais nada. Só, quando eu já estava no pátio, ouvi o barulho seco da pedra entrando no buraco. Dente mordendo osso."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brasa estava na cozinha descascando raiz, e me olhou entrar como quem olha chuva entrando por uma janela aberta."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Brasa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pela cara"
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse —, você brigou com alguém maior que você. De novo."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Brasa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Com o Oren."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Brasa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ah."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele pôs a raiz na bacia, tirou outra do saco, e a faquinha dele começou a girar em volta dela, fina, sem parar."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Brasa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então perdeu."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Brasa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele conheceu o meu pai."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A faquinha parou."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mãe Duna, que estava do outro lado da cozinha mexendo um caldeirão do tamanho de um barril com a colher de pau do marido, também parou. Só um instante. Depois voltou a mexer, mais devagar."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Brasa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele disse?"
+  },
+  {
+    "ordem": 53,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Disse que conheceu um Kest. Que ficava ouvindo o chão."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brasa me olhou um tempo comprido. Depois olhou para Mãe Duna. Ela não se virou. Ele pôs a faquinha na bacia, limpou as patas no avental de pano de saco que ela tinha amarrado nele, e veio sentar no banquinho do meu lado, no canto da mesa grande, onde as cebolas ficavam."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não disse nada. Só encostou o ombro no meu braço. Como tinha encostado em Irena, na horta, no dia das sementes."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não adianta perguntar para mim"
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse Mãe Duna, de costas, para o caldeirão."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei o nome de todas as bocas que comeram nesta cozinha. Das vivas e das mortas. A do seu pai também."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A colher parou."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mas quem conta é ele. Não sou eu. Aqui, cada um conta os seus."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Irena",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E se ele nunca contar?"
+  },
+  {
+    "ordem": 62,
+    "personagem": "Irena",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aí ele carrega."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela bateu a colher na borda do caldeirão, duas vezes, e a pendurou no prego."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Irena",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Oren carrega muito. Ele chegou aqui com vinte e seis anos e ficou no portão olhando a coluna dele ir embora. Nunca disse por quê. Desde então ele não para de carregar coisa. Pedra. Gente. Os nomes da parede."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela se virou, enfim, enxugando as mãos no avental."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Irena",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele não arranca as coisas por maldade, menino. Quando o Oren arranca alguma coisa, é porque achou que aquilo ia machucar alguém. E na maior parte das vezes ele acertou."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Irena",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E na outra parte?"
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mãe Duna pensou. Não respondeu. Foi até a prateleira, pegou uma tigela, encheu de caldo de raiz do caldeirão, pôs um pedaço de pão em cima e deixou na minha frente."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Come"
+  },
+  {
+    "ordem": 70,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "De barriga vazia você vai querer bater nele. E ele bate de volta. Já vi."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Comi. Brasa não voltou para as raízes. Ficou ali, de ombro encostado."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E foi Brasa, não eu, quem perguntou do estandarte."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sei por que perguntou. Ou sei. Brasa nunca tinha esquecido o cheiro do peixe no acampamento da 28ª, no dia em que a gente queimou tudo. Ele não tinha esquecido a pedra redonda no marco da Garganta, nem o vulto pequeno de pelo cinza que fez para mim o sinal de ele ouve e fugiu. E não tinha esquecido Irena, de joelhos na horta, perguntando pelo gato velho que cuidava da mesa."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mãe Duna"
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O pano da vinte e oito. No Cemitério. O da corda com o nó pequeno."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Irena",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que tem?"
+  },
+  {
+    "ordem": 77,
+    "personagem": "Irena",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quem trouxe?"
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mãe Duna, que ia voltar para o caldeirão, ficou parada no meio da cozinha."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém trouxe"
+  },
+  {
+    "ordem": 80,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Alguém trouxe. Pano não anda."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Este andou."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela sentou, devagar, na ponta do banco grande, do outro lado da mesa, de frente para a gente. Era a primeira vez que eu a via sentar. A madeira gemeu."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Faz catorze anos. Talvez quinze. A vinte e oito tinha passado pela Garganta e não tinha chegado aqui. A gente esperou. Três fogos, três dias. Depois mais um pouco, porque o Oren mandou, e o Oren nunca manda esperar mais que três dias. Depois a gente parou de esperar."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Brasa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E?"
+  },
+  {
+    "ordem": 85,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E uma madrugada, no fim do Clamor daquele ano, o guarda do portão desceu da torre gritando."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mãe Duna pôs as duas mãos grandes na mesa, uma em cima da outra, as queimaduras de forno viradas para cima."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O estandarte estava encostado no portão. Do lado de fora. Dobrado. Bem dobrado, como se dobra pano de altar. Com a corda ainda amarrada nele. Cortada rente, na ponta, com uma coisa afiada. Pequena."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pequena"
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "repetiu Brasa."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Corte de lâmina pequena. O Hadrek olhou. Disse que não era faca de gente. Era menor. Mais curva."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela deu de ombros."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não tinha pegada. Tinha nevado de madrugada, e a neve estava lisa, sem nada, do portão até onde a vista ia. Nem pegada de gente, nem de bicho. Como se tivesse caído do céu. Ou como se quem trouxe tivesse ido embora andando de costas e varrendo o chão."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu senti Brasa ficar duro do meu lado. O pelo do braço dele se arrepiou contra a minha manga."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Varrendo o chão. O acampamento da 28ª. O chão varrido de costas, numa faixa de um palmo, até o monte de pedras do fundo."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Oren foi lá fora sozinho"
+  },
+  {
+    "ordem": 96,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pegou o estandarte. Desdobrou no pátio, na frente de todo mundo. Viu o número. E não disse nada. Levou para o Cemitério, fincou o mastro com as mãos dele, e amarrou a corda de volta com aquele nó pequeno, porque a corda estava curta demais para o nó grande."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela olhou para as próprias mãos."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois foi para casa e não saiu por dois dias. A gente deixou a comida na porta."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Brasa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por quê?"
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu disse."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque a vinte e oito tinha vindo buscar a vinte e sete."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mãe Duna se levantou. O banco gemeu de alívio."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Mãe Duna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E ele achou que a culpa era dele."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela voltou para o caldeirão. Pegou a colher do prego."
+  },
+  {
+    "ordem": 105,
+    "personagem": "Brasa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Isso eu posso contar"
+  },
+  {
+    "ordem": 106,
+    "personagem": "Brasa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Isso todo mundo sabe. O resto, é com ele."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brasa não disse nada. Mas, quando eu olhei para ele, ele estava olhando para mim. E os olhos dele diziam a mesma coisa que os meus. Que a gente sabia quem tinha dobrado o pano como pano de altar. Quem tinha uma lâmina pequena e curva. Quem varria o chão andando de costas."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E que nenhum de nós dois ia contar."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A briga foi no meio da tarde, no pátio, e todo mundo viu."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu estava no poço, tirando água para Irena, com Lio segurando a corda do outro lado e me contando, pela terceira vez, que tinha visto um Grimalkyne na borda do Cinzal com uma colher de latão na boca. Kellan estava sentado na escada do Salão com o braço enfaixado. A Cabo Marn passava com um maço de papéis. Os Dace, as mãos de Mira ainda em pano, o braço de Tor ainda enfaixado do ombro ao cotovelo, brigavam por uma pedra de amolar na porta da Forja."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E Veyra atravessou o pátio em linha reta até Oren, que vinha descendo da muralha."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os meus não são seus"
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não alto. Mas o pátio de Última Luz era um lugar onde se ouvia uma colher cair. Lio largou a corda. O balde bateu no fundo do poço, longe."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Lio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bom dia, Holt."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dita. Oskel. Pell. Os carregadores. O Kest, três dias atrás, quando ele estava sob ordem minha."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela contava nos dedos, como Oren contava as regras à mesa."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você põe a minha gente na sua muralha, carregando a sua pedra, e não me pergunta."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Lio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu perguntei ao conselho."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Lio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não sou do seu conselho."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oren parou na frente dela. Era mais alto, mas não muito."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você é a comandante de uma expedição que chegou aqui com cinquenta e oito bocas na boca do Clamor. A muralha precisa estar pronta antes de o céu começar a cair em cinza. Cinquenta e oito bocas comem. E as bocas que comem, carregam."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Lio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A minha gente não veio para ser a sua mão de obra."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Lio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A sua gente veio para morrer, Holt. Como a de todo mundo."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A voz dele não mudou. Essa era a pior coisa: não mudava."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Lio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu só estou tentando que ela morra depois. E do lado de dentro."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu vi a mão de Veyra fechar. A presa de Quell estava pendurada no cinto dela, e os dedos dela foram até lá sozinhos e apertaram."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oito anos atrás"
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse ela, muito baixo, agora —, eu saí por aquele portão e disse que ninguém devia voltar."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Disse."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oren olhou para a cicatriz dela, a que ia da têmpora ao canto da boca."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E voltou. Com cinquenta e oito. E com o Kest."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele disse o meu nome de novo. A quinta. E, quando disse, não olhou para mim. Olhou para ela, como se o nome fosse uma coisa que ele estava pondo na mão dela. Uma pedra. Uma acusação. Eu não sei."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Veyra não respondeu. Os dois ficaram se olhando no meio do pátio, a comandante da 33ª e o homem da 26ª, com o sol de meio de tarde batendo de lado e todo mundo de Última Luz e da 33ª parado, de balde na mão, de pedra de amolar na mão, de papel na mão, esperando."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Até as cinzas"
+  },
+  {
+    "ordem": 136,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A minha gente carrega até as cinzas. Depois, eu decido."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois"
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse Oren —, quem decide é o Clamor."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E foi embora, para a torre do meio, sem pressa."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Veyra ficou. Olhou em volta, para o pátio, para todos nós, parados. E, quando chegou em mim, no poço, parou."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não desviei. Ela também não. Eu pensei que ela ia dizer alguma coisa sobre o Arquivo, sobre Oren, sobre o meu nome na boca dele. Ela sabia. Eu vi que sabia: alguém tinha contado a ela que eu tinha subido a muralha de manhã, e por quê."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kest"
+  },
+  {
+    "ordem": 143,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Comandante."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Oren",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Irena está esperando a água."
+  },
+  {
+    "ordem": 145,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Só isso. E foi embora também, para o barracão, com a mão ainda na presa."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lio puxou o balde de volta. Estava vazio. A corda tinha soltado do gancho lá embaixo."
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "À noite, eu subi a muralha de novo."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não para falar com ninguém. Brann estava de guarda no trecho escorado, com o martelo encostado na mureta e a garrafa encostada no martelo, e me deixou sentar do lado dele sem perguntar nada, como fazia agora, desde a noite em que me contou da fuga. A gente ficou olhando o Cinzal escuro, as veias das árvores brilhando fraco lá longe, vermelhas, como brasa debaixo de cinza. O vento vinha do leste, morno. Eu não gostava daquele vento."
+  },
+  {
+    "ordem": 149,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele conheceu o seu pai"
+  },
+  {
+    "ordem": 150,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse Brann. Não era pergunta. A base inteira já sabia."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Conheceu."
+  },
+  {
+    "ordem": 152,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E não vai contar."
+  },
+  {
+    "ordem": 153,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 154,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann bebeu."
+  },
+  {
+    "ordem": 155,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu passei trinta e dois anos sem contar a ninguém a história inteira da Rathian"
+  },
+  {
+    "ordem": 156,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nem do outro. Do que estava no fogo."
+  },
+  {
+    "ordem": 157,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele limpou a boca com o dorso da mão."
+  },
+  {
+    "ordem": 158,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tem coisa que a gente não conta porque tem vergonha. Tem coisa que a gente não conta porque tem medo. E tem coisa que a gente não conta porque, se contar, alguém vai atrás."
+  },
+  {
+    "ordem": 159,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele me olhou de lado."
+  },
+  {
+    "ordem": 160,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Qual você acha que é a dele, garoto?"
+  },
+  {
+    "ordem": 161,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não respondi."
+  },
+  {
+    "ordem": 162,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do alto do trecho escorado, se você olhasse para dentro, e não para o Cinzal, dava para ver o pátio inteiro. O poço. O Salão, escuro. A boca da Forja, com o vermelho do fundo. E, ao pé da torre do meio, encostada nela, uma casa de pedra baixa, sem enfeite, com uma janela de tábua que dava para o pátio."
+  },
+  {
+    "ordem": 163,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A casa de Oren."
+  },
+  {
+    "ordem": 164,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A janela estava fechada. Mas a tábua era velha e não fechava direito, e pela fresta de cima saía uma linha de luz amarela, fina como a lâmina de uma faca."
+  },
+  {
+    "ordem": 165,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu fiquei olhando para aquela linha. Não sei quanto tempo. Brann bebeu e não disse mais nada."
+  },
+  {
+    "ordem": 166,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E então a luz mudou. Ficou mais forte, mais baixa, como se alguém tivesse posto a lamparina no chão. E, pela fresta, em pedaços, eu vi."
+  },
+  {
+    "ordem": 167,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Um ombro. O casaco de couro que tinha mudado de cor. Oren, de joelhos no chão da casa dele, de costas para a janela, curvado em cima de alguma coisa grande e escura que podia ser um baú. Eu o vi levantar uma tampa. Depois mexer dentro, fundo, com o braço inteiro. Depois uma coisa que fez um barulho que eu não ouvi, mas vi: as costas dele se encolhendo, como quando a gente força uma madeira que não quer sair."
+  },
+  {
+    "ordem": 168,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E depois as mãos dele voltaram para a luz, e nelas havia um maço."
+  },
+  {
+    "ordem": 169,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Papéis. Eu não sei se eram papéis. Era uma coisa clara, retangular, grossa como dois dedos, amarrada no meio com uma fita. A fita era escura. Na luz da lamparina, podia ser de qualquer cor. Podia ser marrom. Podia ser vermelha, que o tempo tinha deixado marrom."
+  },
+  {
+    "ordem": 170,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oren não desamarrou. Ficou com o maço nas duas mãos, de joelhos, imóvel, olhando para ele. Muito tempo. Do jeito que eu tinha ficado olhando para o diário da 27ª antes de abrir. Do jeito que Wessel tinha ficado com as mãos em cima dele, um instante a mais do que precisava. Como se pesasse."
+  },
+  {
+    "ordem": 171,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois pôs o maço de volta. Fundo. As costas se encolheram de novo. A tampa desceu."
+  },
+  {
+    "ordem": 172,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E a luz apagou."
+  },
+  {
+    "ordem": 173,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Garoto"
+  },
+  {
+    "ordem": 174,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você está apertando a pedra."
+  },
+  {
+    "ordem": 175,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olhei para as minhas mãos. Estavam em cima da mureta, no lugar onde a muralha encostava no paredão, as duas, os dedos brancos de tanto apertar. A mão mordida tinha aberto de novo debaixo do pano."
+  },
+  {
+    "ordem": 176,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E, debaixo delas, na pedra lisa, mais velha que pedra, a coisa lá embaixo batia. Onze. Catorze. Nove. Dezesseis. Indiferente. Como sempre."
+  },
+  {
+    "ordem": 177,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu tirei as mãos."
+  },
+  {
+    "ordem": 178,
+    "personagem": "Wessel",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não vi nada"
+  },
+  {
+    "ordem": 179,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu disse."
+  },
+  {
+    "ordem": 180,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann bebeu."
+  },
+  {
+    "ordem": 181,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu também não"
+  }
+]

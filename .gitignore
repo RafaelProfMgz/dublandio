@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.cache/
+audio_gerado/
+livros/*/audio/
+livros/*/video/
+*.wav
+.pytest_cache/
+.playwright-mcp/
+.env.*
+!.env.example

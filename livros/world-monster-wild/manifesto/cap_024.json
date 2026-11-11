@@ -1,0 +1,896 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Diário da 31ª Expedição. Caderno de capa de lona. Páginas legíveis."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dia 36. Passamos a Porta. Q. queria descer direto, sem parar. Eu disse que a coluna não aguenta. Paramos no patamar. Lenha boa, trazida desde Varnhal. Ainda não acendemos."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dia 37. O vento mudou de lado à noite. Vem de cima, de um lado só. Os velhos dizem que é cedo. A conta dizia que tínhamos três semanas."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dia 38. Ninguém acende. Q. pediu. Não disse por quê. Ninguém discute."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dia 39. Barulho no alto, à noite. Não é pedra. Ficamos em roda, de costas para a lenha, olhando. Assim vemos de todos os lados. Assim ninguém dorme."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dia 40. Frio. Os dedos do Ebbe estão pretos. Ele ri disso."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dia 41. O Clamor chegou cedo. Três semanas antes da conta. Ninguém acende fogo. Ele vem pelo fogo."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "(sem data, letra torta) Se alguém achar isto, não"
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não dá para cavar cova na Garganta. Eu soube disso na primeira pá."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A lâmina bateu na neve, afundou um palmo e parou na pedra com um barulho de sino rachado que subiu pelos meus braços até os dentes. Tentei de novo, mais para o lado. Pedra. Mais para o outro. Pedra. O patamar inteiro era uma laje só, coberta por uma camada de neve velha e cascalho, e embaixo dela a montanha, que não abre para ninguém."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pedra por cima, então"
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse Brann, apoiado na outra pá."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Como se faz no alto. Um monte para cada."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então foi assim."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tiramos os vinte e dois da roda, um de cada vez. Não foi fácil. Estavam duros, colados no chão pelo gelo, dobrados na posição em que tinham passado a última noite, sentados, com as pernas cruzadas e as armas atravessadas no colo. Não dava para esticar. Brann disse para não tentar. Deitamos cada um de lado, do jeito que estava, encolhido, como gente que dorme de frio, e empilhamos pedra por cima."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A coluna inteira carregou pedra. Os caçadores, os soldados, os carregadores, Pell com uma mão só, os Dace sem nenhuma aposta, Custódio tossindo, Dita com o tornozelo enfaixado e o corte da cara inchado, sem parar uma vez. Até Kaspar. Só Crane não carregou. Ficou sentado numa pedra perto da fogueira apagada, com o diário da trigésima primeira no colo, virando as páginas coladas com a ponta de uma faca, uma por uma, como quem descola o selo de uma carta que não é dele."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Veyra carregou mais do que todos. Não falou com ninguém."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu fiquei com o mais novo."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não escolhi. Foi o que sobrou do meu lado da roda, quando Brann apontou. Um rapaz magro, de cabelo claro, com um arco curto no colo e as mãos enfiadas nas mangas. A pele estava cinza e dura como a dos outros, e os olhos, abertos e brancos como os dos outros. Mas o rosto não tinha barba. Não tinha nada."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinha a minha idade. Talvez menos."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pendurada no pescoço dele, por um cordão de couro, havia uma plaqueta de metal, do tamanho de uma unha, com um número gravado de um lado, 31, e um nome do outro, em letra de ferreiro. Evran Tolle."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann viu que eu estava olhando."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Leva"
+  },
+  {
+    "ordem": 24,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não é minha."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não é de ninguém mais."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele pôs uma pedra no monte do homem ao lado."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Guilda dá uma para cada um, para contar os mortos. Mas aqui ninguém vem contar. Leva. Em Última Luz tem uma parede para isso. Ou guarda. Tanto faz. Alguém tem que lembrar de um que não era lenda."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Cortei o cordão com a faca do Tadeu. A plaqueta estava tão fria que grudou nos meus dedos. Pus no bolso da calça. O bolso de dentro do meu casaco, onde ficava a carta do meu pai, estava embaixo de Nessa, na maca."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois deitei Evran Tolle de lado, encolhido, com o arco curto no colo, e cobri de pedra. Demorei. Queria que as pedras ficassem bem postas. Não sei para quê. Ninguém ia ver."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ademar Quell foi o último."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tami pediu para cobrir. Veyra deixou."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Antes de pôr a primeira pedra, Tami ficou de joelhos na frente dele um tempo comprido, olhando a presa de Tigrex cravada no ombro da armadura. Depois, com as duas mãos, puxou. Estava presa no couro congelado e não saiu. Ela puxou de novo, com o pé apoiado na placa do peito dele, e a presa saiu com um estalo, e Tami caiu sentada na neve com ela nas mãos."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficou olhando para ela. Uma presa amarelada, curva, do tamanho de um antebraço, comprada num mercado de Varnhal por um homem que achava que o nome dele ia precisar de uma."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Achei que ela fosse guardar. Todo mundo achou."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tami levantou, foi até Veyra e estendeu a presa para ela."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É da senhora"
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Veyra olhou para a presa. Não pegou."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele comprou para ele."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele comprou para ser lembrado."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A voz de Tami tremia e não quebrava."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu lembrava dele errado, comandante. Eu e a minha aldeia inteira, e a parede do porto. A senhora é a única que lembra certo."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Veyra ficou muito tempo parada. Depois pegou a presa, com uma mão só, e segurou do lado do corpo, apontada para o chão, como quem segura uma arma que não pretende usar."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Cobre ele"
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tami cobriu."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando o último monte ficou pronto, a luz já estava indo embora. Vinte e dois montes de pedra no patamar, em roda, do jeito que eles estavam sentados. Ninguém tinha combinado. Só foi saindo assim."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann tirou o gorro. E cantou."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi um choque. Senti a coluna inteira endurecer em volta de mim, os carregadores, principalmente. Não se canta na Garganta. Ela escuta. Dita me tinha dito aquilo no primeiro dia, e eu tinha visto três carregadores se virarem para um designado que cantarolava, e ele calar no meio da nota. Os fios vermelhos nos pulsos. As pitadas de sal. E ali estava Brann, no meio dos montes, com a barba cheia de gelo e o gorro na mão, cantando."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não alto. Com a voz grossa e baixa dele, rouca, desafinada. Numa língua que eu não conhecia, cheia de vogais compridas, do sul, de perto de um mar que não existia mais. Uma canção de oleiro, ele me disse depois. Que o pai cantava quando fechava a tampa dos potes onde se enterrava gente."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Cabo Marn abriu a boca para dizer alguma coisa. Olhou para Veyra."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Veyra estava de pé na borda da roda de pedras, com a presa de Ademar Quell na mão, olhando para o chão. Não mandou Brann parar."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então ninguém mandou."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele cantou até o fim. Não era comprida. Quando acabou, pôs o gorro de volta, e o silêncio da Garganta voltou por cima de tudo, e eu fiquei esperando. Todo mundo ficou esperando. Um estalo nas paredes lá em cima. Um vento de um lado só. Alguma coisa vindo, porque a Garganta tinha escutado."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não veio nada. Só a noite."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi então que Veyra acendeu a fogueira da trigésima primeira."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela não disse nada antes. Foi até a pirâmide de lenha no meio da roda, a lenha boa, trazida desde Varnhal, que eles tinham arrumado e nunca acendido, e se ajoelhou do lado. Tirou uma pederneira do cinto."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A coluna entendeu antes de mim. Senti o medo passar de um em um, como um arrepio, pela roda de gente. Custódio fez o sinal do fio vermelho. Tor Dace deu um passo para trás."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Comandante"
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O diário…"
+  },
+  {
+    "ordem": 59,
+    "personagem": "Dace",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu li o diário."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Dace",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele vem pelo fogo, senhora."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei o que está escrito."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Veyra bateu a pederneira. Uma faísca. Nada."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eles ficaram cinco noites de costas para esta lenha, Marn. Com medo dela. E morreram de frio do lado de uma fogueira pronta."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Outra faísca."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não vou deixar mais ninguém morrer de frio do lado desta fogueira."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na terceira, o carvão pegou."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O fogo subiu devagar pela pirâmide, estalando, amarelo, e depois laranja, e depois tão alto que iluminou a roda inteira, os montes de pedra, o paredão atrás, as caras da coluna viradas para ele, de olhos arregalados. O calor bateu no meu rosto como uma mão. Eu não sentia calor de verdade desde a Lapa."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém se mexeu. Depois Brann andou até o fogo, sentou na frente dele e estendeu as mãos. Depois Dita. Depois todo mundo."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Levamos a maca de Nessa para perto. Tão perto que o cobertor esquentou. Ela gemeu, e virou o rosto para a luz, e pela primeira vez em dois dias os lábios dela deixaram de estar roxos."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém dormiu de costas para o fogo aquela noite. Mas muita gente, eu vi, ficou acordada olhando para o escuro, por cima do ombro."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Veyra veio falar comigo de madrugada, quando eu trocava o pano da testa de Nessa."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sentou do outro lado da maca, no chão, com a lança-pistola deitada do lado e a presa de Quell atravessada nos joelhos. Olhou Nessa um tempo. Pôs as costas da mão no pescoço dela, como Crane fazia."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Crane",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O curativo?"
+  },
+  {
+    "ordem": 74,
+    "personagem": "Crane",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Igual, senhora. Não mudou de cor. Nem de cheiro."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Crane",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E ela?"
+  },
+  {
+    "ordem": 76,
+    "personagem": "Crane",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pior de manhã. Melhor agora. Com o fogo."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela assentiu. Olhou para o fogo. Eu achei que ela fosse levantar e ir embora, como sempre. Ela não foi."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na Racha"
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você cortou a corda."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Crane",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim, senhora."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Primeira regra. Ninguém anda sozinho. E você se soltou de propósito, no escuro, em cima de um buraco sem fundo."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Crane",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim, senhora."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Crane",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fez certo."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olhei para ela. Ela não olhava para mim."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Se o Brann tivesse segurado, iam os cinco. Ele não ia soltar. Eu conheço o Brann."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela passou o polegar pela presa, devagar, da base à ponta."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Se contar a alguém que eu disse isso, eu nego."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Crane",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim, senhora."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficamos quietos. O fogo estalava."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Garganta não devolve"
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse ela, depois de um tempo."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sabe de onde eu tirei isso, Kest? Eu inventei. Na trigésima. Quando voltamos treze. Eu precisava de uma frase para não voltar atrás deles, e inventei essa, e fiquei repetindo para mim mesma a Garganta inteira, até acreditar."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela quase sorriu. Não chegou."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aí um idiota com uma presa comprada voltou atrás deles mesmo assim. E a Marn, na Lapa, olhou para você saindo daquele buraco e disse \"devolveu\". E hoje eu devolvi vinte e dois para a pedra."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela olhou os montes à nossa volta."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sei mais se era verdade"
+  },
+  {
+    "ordem": 97,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Talvez fosse só o que eu precisava."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pensei no papel que ela tinha tirado da tenda do comandante da vigésima oitava. Na tenda que ela entrou sozinha, contra a própria regra. Na fogueira enorme que ela mandou fazer do acampamento inteiro, com a mesa posta e as quarenta botas e o papel no bolso dela. Tinha passado dias pensando naquele papel. Tinha achado que era uma coisa dela. Uma carta de alguém. De alguém que ela tinha deixado."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela deve ter visto na minha cara. Veyra vê tudo na cara dos outros."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não era carta de amor, Kest"
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Se é o que você pensa."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não…"
+  },
+  {
+    "ordem": 103,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pensa. Todo mundo pensa."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela se levantou, pegou a lança-pistola do chão."
+  },
+  {
+    "ordem": 105,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não era."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não disse o que era. Eu não perguntei."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mas ela não foi embora. Ficou de pé do lado da maca, olhando para baixo, para Nessa."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Daqui para a frente, a descida fica pior antes de ficar melhor"
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mais íngreme. Depois a floresta. Comida para quatro dias, se o cozinheiro fizer milagre. Se a maca atrasar a coluna, eu não posso segurar cinquenta e nove pessoas por uma. Você sabe disso."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Nessa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sei."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então, se ela atrasar a marcha, ela fica para trás, com um voluntário, e a coluna manda…"
+  },
+  {
+    "ordem": 112,
+    "personagem": "Nessa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela parou no meio da frase. Eu não tinha deixado ela terminar."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Nessa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu fico"
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu disse."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Nessa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Com ela. Se for para ficar."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Veyra me olhou. O olho claro e o escuro. Por muito tempo. Como na Lapa, como uma coisa que ela não sabia onde guardar. Mas diferente. Como se agora soubesse."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei, Kest"
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por isso eu estou dizendo para você, e não para a coluna."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E foi embora."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Saímos da Garganta no dia seguinte, no fim da tarde."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não percebi o momento exato. Ninguém percebe. A descida ficou mais íngreme, como Veyra disse, e depois menos, e as paredes, que vinham se afastando desde a Porta, de repente não estavam mais ali. Estavam atrás. A trilha virou uma encosta aberta, de pedra e mato baixo e seco, e o céu ficou enorme, e o vento, pela primeira vez em dias, cheirou a outra coisa que não ferro. Cheirou a terra. A folha podre. A fumaça."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A coluna parou na beira da encosta. Eu estava na ponta da cabeça da maca, e parei também, e foi por isso que vi."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lá atrás, uns cem passos acima de nós, na boca da Garganta, onde a trilha saía das paredes pretas, havia um marco de pedras. Pequeno. Três pedras, uma em cima da outra, do jeito que os pastores marcam trilha na Mesa. Eu tinha visto outros, reerguidos, no primeiro dia na Garganta. Com a pedra de baixo limpa e a terra em volta ainda úmida."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinha um bicho do lado do marco."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pequeno. Menor que Brasa. Cinza, ou branco de velho, com o pelo arrepiado em tufos e uma orelha caída. Estava de pé nas patas de trás, como um Palico, e tinha nas patas da frente uma pedra. Uma pedra redonda, do tamanho de um punho."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pôs a pedra em cima do marco. Com cuidado. Ajeitou. Deu um passo para trás e ficou olhando, como quem confere se ficou reto."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois virou a cabeça e me viu."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficamos assim um instante, os dois, olhando um para o outro pela encosta. Ele não se mexeu. Eu não me mexi. Os olhos dele eram amarelos, grandes, e mesmo de longe eu vi que eram velhos. Então ele levou a pata da frente ao peito. Devagar."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E baixou a mão para o chão."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois deu meia-volta e sumiu entre as pedras da boca da Garganta, tão depressa que, se eu piscasse, ia achar que tinha inventado."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olhei em volta. Ninguém mais tinha visto. Brann estava de costas, falando com a Cabo Marn. Brasa estava na frente da coluna, cheirando o vento, com o rabo em pé. Veyra olhava para baixo."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não contei a ninguém. Nem a Brasa. Principalmente a Brasa, que tinha sentido o cheiro de peixe mal assado no acampamento da vigésima oitava e deixado sopa na panela para alguém que ele não via. Eu não sabia o que era aquilo. Não sabia se era a mesma coisa. Mas sabia que, se eu contasse, Brasa ia voltar para a Garganta atrás dele, sozinho, e eu não ia conseguir impedir."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Guardei. Junto da espiral e do dedo de Nessa no meu pulso. A pilha de coisas que eu não contava estava ficando alta."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então virei para a frente, para onde todo mundo estava olhando."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O vale estava lá embaixo."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uma bacia enorme, funda, que se abria para todos os lados até sumir na névoa do fim da tarde, cercada pelo anel das Coroas Partidas, que de dentro pareciam ainda mais quebradas, como dentes de um bicho morto. E, logo abaixo de nós, cobrindo as encostas inteiras até onde a vista alcançava, uma floresta."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Preta."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não verde-escura, como as florestas do sul. Preta. Árvores altas, retorcidas, de tronco negro e galho negro, sem folha, ou com folhas tão escuras que não se distinguiam do resto, crescendo de um chão cinza, fofo, como cinza de lareira. Não se mexia nada lá embaixo. Nenhum pássaro. Nenhum vento nos galhos. Uma floresta morta, pensei. Uma floresta que tinha queimado inteira e esquecido de cair."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então o sol baixou atrás das Coroas."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E a floresta acendeu."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não de uma vez. Primeiro, uma árvore, lá embaixo, perto de nós: um fio laranja subindo por dentro do tronco preto, como sangue numa veia, como brasa num carvão que alguém soprou. Depois outra. Depois dez. Depois cem. Depois a encosta inteira, de ponta a ponta, milhares de árvores negras brilhando por dentro, devagar, pulsando, laranja e vermelho e ouro, como se a floresta inteira estivesse respirando fogo no escuro."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém falou. Nem os Dace. Nem Crane, que tinha tirado os óculos e esquecido de pôr de volta."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na maca, embaixo das minhas mãos, Nessa abriu os olhos."
+  },
+  {
+    "ordem": 145,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sei se viu. Sem óculos, com febre, não sei o que ela via. Mas a luz da floresta chegou até o rosto dela, laranja, e ela sorriu. O sorriso da Garganta, o primeiro desde o navio, quando as folhas de ferrugem caíam."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilian"
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Anota. Eu não consigo."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Nessa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Anotar o quê?"
+  },
+  {
+    "ordem": 149,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tudo"
+  }
+]

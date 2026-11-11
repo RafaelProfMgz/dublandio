@@ -1,0 +1,248 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O inspetor Corwin Hale tinha uma regra pessoal, guardada com o mesmo carinho com que outros homens guardam relíquias de família: nunca escrever num relatório oficial nada que ele não pudesse explicar duas vezes, para duas pessoas diferentes, sem mudar uma palavra."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era uma boa regra. Tinha funcionado por catorze anos de carreira na Guarda Cinzenta, a maior parte deles fingindo, com sucesso quase total, que a parte \"cinzenta\" do nome do departamento não significava o que os recrutas novos sempre perguntavam se significava."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O caso Pemberton estava prestes a quebrar essa regra pela primeira vez em anos."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Pemberton",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Diga de novo o que o legista escreveu"
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "pediu Hale, batendo o dedo na pasta sobre a mesa da pequena sala de interrogatório improvisada, que na verdade era a sala de arquivos do Terceiro Distrito com uma mesa extra enfiada no meio."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dorian, sentado do outro lado, resistiu ao impulso de olhar para a porta."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Dorian",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "\"Hemorragia sem ferimento externo compatível\""
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "repetiu, pela terceira vez naquela manhã."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Dorian",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não escrevi o laudo, inspetor. Só carimbei o registro."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Hale",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei quem escreveu o laudo."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hale não parecia bravo. Parecia cansado, do jeito específico de um homem que via o chão debaixo dos pés ficar mole e ainda insistia em andar reto por cima dele."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Hale",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que eu quero saber é por que o falecido veio até esta sala três dias antes de morrer, pediu uma leitura de cartas para você, especificamente para você, e por que a vizinha da pensão dele jura que ele saiu falando algo sobre \"uma árvore sem folhas\" antes mesmo de chegar aqui."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dorian manteve o rosto parado. Anos de outra vida jogando pôquer de mentirinha com colegas de trabalho tinham servido pra alguma coisa, no fim das contas."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Clientes falam coisas estranhas antes de uma leitura de tarô, inspetor. Faz parte do clima que eles mesmos pagam pra ter."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Hale",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hale não pareceu convencido, mas também não insistiu, o que era, de algum jeito, pior. Ele fechou a pasta devagar."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Hale",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vou te contar uma coisa, Ashworth, e depois você esquece que eu contei. Este não é o primeiro corpo assim este ano. É o quarto. Todos no Estuário Cinzento ou perto dele. Todos com o mesmo laudo esquisito. E os outros três, cada um tinha alguma bugiganga estranha no bolso quando foi encontrado. Uma moeda que não bate com moeda nenhuma cunhada em Vetrisk. Um botão de osso com símbolos que ninguém no departamento reconheceu. E agora, uma carta de tarô que, quando eu mandei examinar, o perito jurou de pé junto que o papel dela \"não devia existir\""
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "palavras dele, não minhas."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dorian sentiu o estômago descer um andar."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Dorian",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vocês têm a carta?"
+  },
+  {
+    "ordem": 21,
+    "personagem": "Hale",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tínhamos."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hale olhou pra ele com uma atenção nova, mais afiada."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Hale",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sumiu do cofre de evidências esta madrugada. Sem sinal de arrombamento. Por que a pergunta, Ashworth?"
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque eu tenho uma exatamente igual guardada na minha própria gaveta, inspetor, e ontem à noite uma sombra na parede me chamou de \"algo interessante\"."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Dorian",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Curiosidade profissional"
+  },
+  {
+    "ordem": 26,
+    "personagem": "Dorian",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Trabalho com cartas. Uma que \"não devia existir\" mexe com qualquer um do ramo."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hale ficou em silêncio um tempo longo demais para ser confortável, olhando Dorian do jeito que olhava suspeitos havia catorze anos: não como quem acredita numa mentira, mas como quem decide, por ora, deixar a mentira passar porque ainda não tem munição melhor."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Dorian",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vou te dizer uma coisa que não devia"
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "falou finalmente, baixando a voz, embora não houvesse ninguém mais na sala de arquivos além dos dois."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Dorian",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tem gente na Guarda, gente acima de mim, que trata esse tipo de caso diferente. Que tem um departamento inteiro pra isso que não consta em organograma nenhum. E na semana passada, pela primeira vez em catorze anos, meu superior me disse pra \"deixar esse aqui subir\" sem me explicar pra onde."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Dorian",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E você está me contando isso por quê?"
+  },
+  {
+    "ordem": 32,
+    "personagem": "Hale",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque você é a única pessoa viva que falou com a vítima antes de ela virar estatística"
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse Hale, se levantando, pegando a pasta."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Hale",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E porque, Ashworth, muito sinceramente, alguma coisa em você não bate. Não sei o quê. Não sei se é crime. Mas eu tenho catorze anos de instinto dizendo que, quando isso subir"
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "e vai subir"
+  },
+  {
+    "ordem": 36,
+    "personagem": "Hale",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "seu nome vai subir junto. Melhor você descobrir de que lado quer estar antes que decidam por você."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele saiu sem esperar resposta, deixando a porta entreaberta e um cheiro fraco de tabaco barato no ar frio da sala de arquivos."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dorian ficou sentado sozinho por um bom minuto, olhando para o retângulo de luz cinzenta que entrava pela porta, pensando que, pela segunda vez em três dias, alguém tinha lhe dado, sem querer, o mesmo aviso com palavras diferentes."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Escolha um lado. O jardim já está sendo cuidado, com ou sem você."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele pensou na Sociedade do Tarô Cinza — um nome que só conhecia de sussurros ouvidos na Casa de Penhores da Senhora Vell, nunca confirmado, sempre negado com um sorriso rápido demais para ser sincero."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Talvez fosse hora de parar de fingir que não sabia onde procurar."
+  }
+]

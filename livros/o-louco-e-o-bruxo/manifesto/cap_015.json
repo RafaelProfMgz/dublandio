@@ -1,0 +1,896 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O soldado da cama nove tinha perdido o pé esquerdo numa escaramuça na margem do Pontar, e queria saber se ia poder dançar no casamento da irmã."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Shani",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vai"
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A senhora jura?"
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Juro que você vai poder ficar de pé na festa, com uma muleta, e que se beber o bastante vai achar que está dançando. É o que eu posso jurar."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O rapaz riu, e o riso virou tosse, e Shani segurou a cabeça dele até a tosse passar. Depois anotou na tabuleta pendurada no pé da cama: coto limpo, sem cheiro de podre, febre baixa, trocar curativo à tarde. Passou a tabuleta para Lisbet, a aprendiz do segundo ano, que andava atrás dela pela enfermaria com uma bandeja de bacias e um ar de quem não dormia fazia três dias."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Shani",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele é seu agora"
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Doutora..."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Shani",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você sabe trocar um curativo. Sabe ver febre. Sabe cortar o que tem de ser cortado, e já cortou."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lisbet olhou o avental como se fosse uma cobra."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era uma manhã de fim de outono em Oxenfurt, cinzenta e úmida, e o hospital da Academia estava cheio como estava cheio havia três anos, desde que a guerra parou e não acabou. Não havia mais batalhas. Havia uma trégua, assinada por gente que Shani nunca tinha visto, e uma linha desenhada num mapa ao longo do Pontar, com Nilfgaard de um lado e a Redânia do outro, e dos dois lados soldados entediados que de vez em quando atravessavam o rio de noite para roubar um porco, queimar um celeiro ou provar que ainda sabiam matar. Os que sobreviviam a isso vinham para a cama nove."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Shani saiu da enfermaria pela porta lateral, atravessou o pátio de pedra molhada e passou pelo portão da Academia, onde um cartaz novo, colado sobre outro mais velho, anunciava em letras grandes um edito do Conselho de Regência de Tretogor sobre o imposto do sal. Por baixo do cartaz novo ainda aparecia um pedaço do velho, de três anos antes, com metade do rosto de Radovid e a palavra FOGO em vermelho. Ninguém tinha se dado ao trabalho de arrancar. A Redânia tinha cinco regentes e nenhum rei, e os cinco andavam ocupados demais brigando entre si para cuidar de cartaz."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na rua, encostados no muro, dois cavaleiros esperavam com um terceiro cavalo pela rédea."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vernon Roche estava de capa marrom comum, sem nenhuma insígnia, e a cara de quem já tinha esperado tempo demais e não ia dizer. Ves, ao lado dele, tinha o cabelo curto de sempre, mais claro do que Shani lembrava, e mascava uma palha de trigo."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Doutora"
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Comandante. Eu disse dez horas."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "São dez e meia."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Shani",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E vai?"
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mal."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves cuspiu a palha."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Mal",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então todos nós vamos — disse."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Shani montou. Do alto da sela, olhou uma vez para o prédio do hospital, para a janela da enfermaria do segundo andar, onde Lisbet devia estar agora trocando o curativo da cama nove e xingando o nome dela. Pensou na carta de Triss, que estava dobrada no bolso de dentro do casaco, e que dizia, entre outras coisas, que Vesemir tinha perdido a perna e o olho na batalha de Kaer Morhen, que a perna doía todo inverno no pé que não existia mais, e que nenhum feitiço tinha conseguido acabar com aquilo. Ele não vai pedir, escrevera Triss. Ele nunca pede. Mas se você vier, ele vai deixar você olhar, porque vai achar falta de educação recusar."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Shani",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vamos"
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Saíram pelo portão norte, pela ponte, e Oxenfurt ficou para trás."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A barreira da Redânia ficava a duas semanas de Oxenfurt, onde a estrada de Tretogor cruzava a de Kaedwen, numa encruzilhada com uma forca vazia, um posto de guarda de madeira e uma fila de carroças esperando na lama."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche já tinha visto barreiras como aquela em todas as guerras do Norte. Mudavam as cores e os nomes, e o resto ficava igual: soldados entediados, um sargento que sabia ler, uma caixa de madeira para as moedas e uma lista pregada na parede com os nomes de quem não devia passar. Ele desmontou e foi até a lista enquanto Ves segurava os cavalos."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A lista tinha três folhas. Na primeira, desertores do exército regencial, quarenta e tantos nomes, nenhum conhecido. Na segunda, contrabandistas de sal. Na terceira, sozinho, com um desenho a carvão que tinha sido bonito antes da chuva, o rosto de uma mulher de cabelo escuro e queixo erguido."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "PHILIPPA EILHART. Regicida. Feiticeira. Mil coroas viva. Quinhentas morta. Por ordem do Conselho de Regência de Tretogor."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Ves",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Três anos e ainda estão procurando"
+  },
+  {
+    "ordem": 30,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vão procurar mais trinta."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E pagou?"
+  },
+  {
+    "ordem": 32,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Algum deles deve ter pago."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sargento da barreira era um homem de meia-idade, com o tabardo vermelho e branco da Redânia sujo de lama até o peito, e uma cicatriz de queimadura que lhe repuxava o canto da boca. Olhou os três de cima a baixo, demorou-se em Ves, depois na besta de Roche, depois nos alforjes de Shani."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para onde?"
+  },
+  {
+    "ordem": 35,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kaedwen"
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fazer o quê?"
+  },
+  {
+    "ordem": 37,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Levar a doutora."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Da",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Doutora — repetiu o sargento, e olhou Shani com outra cara."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do hospital."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sargento ficou um momento calado. Depois puxou a manga esquerda do tabardo para cima, até o cotovelo, e mostrou o braço. Tinha uma cicatriz funda e torta, de ponta a ponta, mal costurada."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Ano",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Margem do Pontar — disse."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Shani desceu do cavalo, pegou o braço dele e o examinou à luz cinzenta do dia, apertando com o polegar em três lugares."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Dá",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O tendão colou torto na cicatriz — disse."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sargento baixou a manga. Olhou para a caixa de madeira das moedas, para Roche, que já estava com a mão na bolsa, e fez um gesto de quem espanta mosca."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Passem."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Passaram. Ves esperou até a forca ficar para trás para falar."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A senhora faz isso em todo lugar?"
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Faço o quê?"
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Arranja um doente em vez de pagar pedágio."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Shani",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Em todo lugar tem um doente"
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do alto do cavalo, Roche olhou para trás uma vez. Na encruzilhada, o sargento tinha voltado para a barreira e cobrava a próxima carroça, de mão aberta. Atrás dele, o rosto molhado de Philippa Eilhart olhava a estrada."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Um mês depois, Ves estava sentada num tronco caído, numa clareira de Kaedwen, com uma panela de mingau no fogo e a sensação de que o mundo tinha ficado torto."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não era coisa que desse para apontar. Era como acordar numa casa conhecida e achar que alguém mexeu nos móveis durante a noite: tudo no lugar, e nada no lugar. Fazia quatro dias que estava assim. Desde a noite em que a terra pulou."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinham acampado num bosque de faias na encosta de um morro, a três dias de Ban Ard, e ela estava de guarda. Lembrava bem. Uma noite limpa, fria, de estrelas. O fogo baixo. Roche e a doutora dormindo enrolados. E de repente, sem barulho antes, um soco de baixo para cima que levantou o chão um palmo e o deixou cair. Os cavalos arrebentaram as cordas. Uma faia velha estalou e caiu do outro lado do morro. Ves tinha ficado de pé, de espada na mão, procurando o inimigo, e não havia inimigo nenhum. Só o silêncio. E depois, durante um bom tempo, nenhum pássaro, nenhum bicho, nenhum vento. Até o fogo tinha parecido queimar mais quieto."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na manhã seguinte, o riacho onde tinham pegado água na véspera estava seco. Cem passos adiante, havia outro, que não estava lá antes, correndo para o lado contrário."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Shani",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mingau de novo"
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Reclama com o comandante. Foi ele que comprou trinta libras de aveia em Ban Ard e nenhuma de toucinho."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Toucinho estraga"
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aveia também não tem gosto de nada."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você não está aqui pelo gosto."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves mexeu o mingau."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Estou",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não — disse."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche continuou limpando a besta."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não é um favor."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É o quê?"
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É um assunto de Estado."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É um favor, Vernon. Com chapéu."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Shani se sentou ao lado de Ves, no tronco, e esticou as mãos para o fogo. Tinha os dedos rachados de frio e a ponta do nariz vermelha. Um mês de estrada não tinha conseguido tirar dela o jeito de enfermaria: os olhos dela iam por cima das pessoas como se contassem pulsação."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu nunca perguntei direito"
+  },
+  {
+    "ordem": 70,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche pousou a besta no colo."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Tr",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pedi — disse."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E ele recebeu?"
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mandou me prender na fronteira. Ves e mais dois rapazes me tiraram."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Ves",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi divertido"
+  },
+  {
+    "ordem": 75,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não foi."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E você acha que ela vai receber você numa fortaleza de bruxos, no meio da neve."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Acho que lá não tem antessala"
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves soltou uma risada curta."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele acha que o Geralt vai pôr uma palavra boa. O Geralt. Que nunca pôs uma palavra boa em nada na vida."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele pôs uma por nós em Novigrado"
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém disse mais nada por um momento. Ves sabia em que os outros dois estavam pensando, porque estava pensando também. Na casa de banhos de Novigrado, no vapor, em Dijkstra caído de cara na água, e em Geralt de pé, com a espada na mão, decidindo de que lado ficar. Ele tinha ficado do lado deles. Ves nunca tinha agradecido. Não era coisa que se agradecesse."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Veio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E você, doutora? — perguntou ela, para mudar de assunto."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Shani tirou a panela do fogo com um pano."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vim porque a Triss me escreveu que um velho de uma perna só sente dor no pé que não tem, todo inverno, e que nenhum mago conseguiu curar."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves aceitou a tigela."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E o bruxo?"
+  },
+  {
+    "ordem": 87,
+    "personagem": "Shani",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O bruxo está com a Triss há anos."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficou nisso — repetiu Ves, e piscou para Roche."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche comeu o mingau sem responder."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "À noite, Shani viu as estrelas."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinha se afastado do fogo para urinar atrás de uma pedra e, na volta, parou no meio da clareira, com a cabeça para trás, porque alguma coisa no céu a incomodava. Ficou um bom tempo parada até entender o quê."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela conhecia aquele céu. Tinha estudado astronomia no primeiro ano da Academia, porque o mestre de medicina insistia que um médico devia saber a hora pelas estrelas para contar as doses da noite. Conhecia a Donzela do Inverno, o Dragão, as Sete Cabras, a estrela do norte na ponta do Arado. Estavam todos lá. Mas a Donzela do Inverno estava um dedo mais baixa do que devia. O Dragão estava um pouco torto, como se alguém tivesse esbarrado no desenho e ajeitado depressa. E entre as Sete Cabras e o Arado, onde ela se lembrava de um espaço vazio e escuro, havia uma estrela pequena, avermelhada, que ela nunca tinha visto."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Voltou ao fogo e não disse nada. Mas antes de deitar, tirou da bolsa o caderno de anotações de doentes, abriu numa página em branco e desenhou, com o carvão do fogo, o que tinha visto."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No dia seguinte, encontraram os primeiros que fugiam."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche os viu de longe, na estrada que descia do passo para o vale, e ergueu a mão para Ves parar. Eram umas quinze pessoas, a pé, com dois carrinhos de mão e uma vaca magra puxada por uma corda. Gente do campo, de Kaedwen, pelas roupas: gibões de lã crua, botas de couro amarradas com tira, xales de lã grossa nas mulheres. Vinham do norte, descendo, e andavam depressa demais para quem andava com criança."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche desceu do cavalo e esperou na beira da estrada, com as mãos à vista. O homem que vinha na frente, um sujeito de barba ruiva e olho inchado, parou a dez passos e ergueu um forcado."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não queremos briga"
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O homem de barba ruiva olhou para ele, depois para Ves, que tinha ficado no cavalo com a mão no cabo da espada, e depois para Shani."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vocês são do margrave?"
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não. Somos de longe."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Para",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então voltem para longe. — O homem baixou o forcado um palmo."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que tem?"
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O homem trocou um olhar com a mulher atrás dele. Ela tinha um menino de uns três anos no colo e outro pela mão."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uma aldeia"
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche esperou. Tinha interrogado gente suficiente para saber que, depois de uma frase assim, a melhor pergunta era nenhuma."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na manhã depois do tremor — continuou a mulher —, a gente acordou e tinha casa nova no vale de baixo. Do outro lado do rio. Casa de tijolo vermelho, com telhado de pedra lisa, tudo igual, em fileira, e uma torre de igreja com um relógio. Onde antes era o pasto do velho Mirek. E chovia lá. Só lá. Chovia em cima das casas e parava no rio, e do nosso lado nevava."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E a gente que morava lá? — perguntou Shani, descendo do cavalo."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Mas",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gente igual a nós. Falam igual a nós. A gente entende tudo que eles falam. — A mulher apertou o menino."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que soldados?"
+  },
+  {
+    "ordem": 110,
+    "personagem": "Uns",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os do margrave. De Holt. — O homem de barba ruiva disse o nome com nojo."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E o pessoal da aldeia nova?"
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uns brigaram. — O homem passou a mão no olho inchado."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche olhou para o norte. A estrada subia o passo entre pinheiros, branca, sem pegada nova de cavalo. Do outro lado do passo, ainda não dava para ver nada."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quantos dias?"
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Um dia e meio a pé. Para cavalo, um."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E os soldados ainda estão lá?"
+  },
+  {
+    "ordem": 117,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estavam ontem."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Shani tinha se aproximado da mulher com o menino no colo. Olhou a criança, tocou a testa dela com as costas da mão, depois pegou o pulso do menino maior, sem pedir licença, com o jeito de quem já fez isso dez mil vezes."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Febre",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estão com fome — disse."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A mulher olhou o saco, olhou Shani, e não disse obrigado. Apertou o saco contra o peito e foi embora com os outros, descendo para o sul, a vaca magra arrastando os cascos na neve."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves esperou que estivessem longe."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aquela era a nossa aveia, doutora."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Shani",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era a sua aveia."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche ficou mais um momento parado na estrada, olhando os fugitivos irem."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Holt — disse."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você conhece? — perguntou Shani."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "De nome. Margrave da marca do norte de Kaedwen. Tem uns trezentos homens e um castelo de pedra que nunca foi tomado. Lutou contra Nilfgaard na guerra, e ganhou, e depois da trégua ficou com fome."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E o que a gente vai fazer?"
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche não respondeu. Deu de rédea e subiu a estrada em direção ao passo."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Chegaram ao alto do passo no meio da tarde."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A estrada fazia uma curva entre duas pedras grandes, e depois da curva o terreno se abria e descia num vale largo, de encostas cobertas de pinheiro e neve, com um rio no fundo. O rio era de Kaedwen. A neve era de Kaedwen. Os pinheiros, a luz dourada e baixa de fim de tarde de inverno, o céu limpo, tudo era de Kaedwen."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Menos a aldeia."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficava do outro lado do rio, no fundo do vale, exatamente como a mulher tinha dito. Uma mancha cinzenta e úmida no meio do branco, com uma nuvem baixa e escura pendurada em cima dela, só em cima dela, que pingava uma chuva fina que não chegava ao rio. Casas de tijolo em fileiras. Telhados de ardósia molhada brilhando. Uma torre quadrada de igreja com um mostrador de relógio branco no alto."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche puxou a luneta da bolsa da sela e olhou."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não demorou para ver o que precisava ver. Cavalos amarrados no largo diante da igreja, uns vinte. Homens de elmo redondo e capa curta entrando e saindo das casas, com uma torre negra pintada nos escudos: o brasão do margrave. Duas carroças de Kaedwen, já carregadas, paradas na ponte de madeira que atravessava o rio, com móveis, sacos, uma roda de fiar, um relógio de pé amarrado com corda. Numa das fileiras de casas, uma porta arrombada balançando."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E no fim da aldeia, na casa mais perto da encosta, alguma coisa queimava."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A fumaça subiu enquanto ele olhava. Primeiro uma coluna fina, cinzenta, que podia ser de chaminé. Depois mais grossa. Depois preta, rolando para cima, atravessando a nuvem baixa de chuva da aldeia e saindo do outro lado, no céu limpo de Kaedwen, onde o vento a pegou e a deitou para o sul, na direção deles."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche contou sem querer, porque contar era o que fazia. Vinte cavalos no largo. Seis homens na ponte, com as carroças. Pelo menos dez entrando e saindo das casas. Dois de guarda na estrada do outro lado. Nenhuma sentinela olhando para o passo, porque ninguém em Kaedwen esperava que alguém viesse do passo no inverno. Trinta homens armados, contra três, um deles uma médica."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ao lado dele, Shani tinha parado o cavalo e olhava o vale com a boca fechada numa linha fina."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eles têm crianças lá"
+  },
+  {
+    "ordem": 141,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vernon. Você vai fazer o quê?"
+  },
+  {
+    "ordem": 143,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche guardou a luneta. Trinta contra três. A resposta honesta era nada, e ele a engoliu."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves, ao lado, não precisou de luneta."
+  },
+  {
+    "ordem": 145,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vernon."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu estou vendo."
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vernon, aquilo é uma casa."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche baixou a luneta. Lá embaixo, por cima do barulho fino da chuva que não chegava ao rio, veio um som que atravessou o vale inteiro e subiu até eles: um grito de mulher, longo, e depois um tiro."
+  },
+  {
+    "ordem": 149,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não um tiro de besta. Um estalo seco, alto, que ecoou nas encostas como um galho grosso partido, e que nenhum dos três já tinha ouvido na vida."
+  }
+]

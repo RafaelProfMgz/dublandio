@@ -1,0 +1,1142 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pearl Harbor, Oahu"
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O contra-almirante Arthur Wyle recebia os chefes de seção às oito em ponto, numa sala do quinto andar do prédio do Comando do Pacífico com janelas que davam para o porto inteiro. Às oito e quatro, o capitão de fragata Daniel Imai ainda estava sentado na antessala, com uma pasta de papelão nos joelhos e a camisa da farda colando nas costas."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A secretária do almirante, uma suboficial de cabelo branco que estava em Pearl desde antes da guerra, olhou para ele por cima dos óculos."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O senhor não está na lista, comandante."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele não gosta de quem não está na lista."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei, suboficial."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Às oito e onze, a porta abriu e saíram três chefes de seção, um atrás do outro, conversando sobre combustível. A suboficial apertou um botão no interfone, disse alguma coisa em voz baixa e fez um gesto com o queixo."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Cinco minutos."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A sala do almirante tinha um mapa do Pacífico inteiro na parede, do tamanho da parede, com a costa americana à direita, a asiática à esquerda e o Havaí no meio, pequeno, verde, com um alfinete dourado em cima de Pearl. Wyle era um homem de sessenta anos, magro, de cabelo ralo penteado para trás, que tinha comandado um destróier na Guerra de Um Ano e perdido metade da tripulação para um ataque de Zeon ao largo de Midway. Não sorria muito. Não sorriu."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Imai. Oceanografia."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim, senhor."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você tem cinco minutos e já gastou um entrando."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Imai abriu a pasta e pôs uma folha na mesa. Era a cópia, em papel de gráfico, do registro de Kaena Point da madrugada anterior, com a hora, a frequência, o período e, embaixo, na letra da doutora Akana, dado civil sublinhado duas vezes. Ao lado pôs outra folha: uma carta de uma página, datilografada, do Instituto de Geofísica de Honolulu, assinada pela diretora do laboratório de acústica, informando ao Comando do Pacífico \"a detecção, em hidrofone de pesquisa civil, de sinal acústico de origem desconhecida, compatível com fonte móvel de grande porte, a mais de mil quilômetros a oeste-sudoeste de Oahu, em aproximação\"."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Wyle leu as duas folhas sem pressa. Leu a carta duas vezes."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fonte móvel de grande porte."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim, senhor."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Submarino."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não, senhor. Não tem assinatura de hélice nem de máquina. O período de nove segundos é regular demais para qualquer coisa mecânica que eu conheça e lento demais para qualquer animal."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E grande quanto?"
+  },
+  {
+    "ordem": 21,
+    "personagem": "Imai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pela intensidade a essa distância, senhor, e pela frequência..."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O almirante pôs as folhas na mesa, alinhou as duas pelas bordas e ficou olhando o mapa da parede."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você sabe da ordem de Gryps de três dias atrás, comandante."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sei, senhor."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então sabe que isto vai para a Nova Guiné."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Imai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A ordem fala em consultas, dados ou relatórios sobre o terremoto ou sobre contatos submarinos não identificados."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E você tem o dever de não me ensinar a ler uma ordem."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim, senhor."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Wyle se levantou. Foi até a janela. Lá embaixo, o porto estava cheio do jeito que estava sempre: dois cruzadores velhos da classe Salamis em doca, o porta-mobile-suit Kahului encostado no cais oito, destróieres, rebocadores, a lancha do correio indo para Ford Island. Na pista do outro lado da baía, um avião de patrulha taxiava."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "De onde veio isso? — perguntou, de costas. — A primeira vez."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Imai ficou calado."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Imai."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "De uma estação da Marinha, senhor. Na primeira noite. Mandaram para cá. Daqui mandaram para os Titans, como manda a ordem de março. Os Titans recolheram a gravação no dia seguinte e mandaram o chefe da estação apagar do relatório o rumo estimado."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que rumo?"
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Imai não respondeu. Olhou o mapa da parede, o alfinete dourado."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O almirante se virou devagar."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você está me dizendo que a Nova Guiné sabe disso há uma semana."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu estou dizendo que uma estação mandou e os Titans levaram, senhor. Não sei o que eles sabem."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Wyle voltou para a mesa e não se sentou. Pegou o telefone interno, discou três números e esperou."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Operações. Aqui é o almirante. Quero um exercício de prontidão para hoje às catorze horas, nível dois. Patrulha aérea com os aviões de Barbers Point, setor oeste e sudoeste, até mil e duzentos quilômetros, varredura de superfície e boias de sonar. O Halsey e o Nakamura saem às dezesseis para um exercício antissubmarino a cem quilômetros de Kaena Point. — Uma pausa. — Não, não é contra ninguém. É exercício. O relatório diz exercício. Mobile suits do Kahului em prontidão de trinta minutos a partir das dezoito. — Outra pausa. — Porque eu quero."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desligou."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Imai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senhor"
+  },
+  {
+    "ordem": 43,
+    "personagem": "Wyle",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os Titans vão saber que o almirante de Pearl fez um exercício de prontidão numa manhã qualquer. Eu faço um por mês."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E a cidade, senhor?"
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Wyle o encarou."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que cidade, comandante? Eu tenho um ponto num gráfico a mil quilômetros daqui, uma carta de um instituto civil e uma história sobre uma gravação que eu nunca ouvi. Se eu mandar evacuar Honolulu por causa disso, amanhã de manhã eu sou o almirante que esvaziou uma cidade de um milhão de pessoas por causa de uma baleia. E depois de amanhã eu não sou almirante. — Ele empurrou a pasta para Imai. — Se os meus aviões acharem alguma coisa, eu falo com a cidade."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim, senhor."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Imai."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senhor."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A diretora do laboratório. Akana. Ela está certa, normalmente?"
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Imai pegou a pasta."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela corrigiu o meu cálculo de velocidade do som na termoclina em 0071, senhor, na frente da turma inteira. Estava certa."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O almirante quase sorriu."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pede para ela ficar perto do telefone."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Majuro, Ilhas Marshall"
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Liktanur entrou na laguna de Majuro às onze e meia da noite, com o motor tossindo, sem luz de navegação na proa, porque a lâmpada tinha queimado no segundo dia e ninguém tinha subido para trocar. Jabez o encostou no cais de pesca do lado de Delap, entre dois barcos de atum maiores e mais novos, e desligou a máquina. O silêncio foi tão grande que ele ouviu o próprio coração."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tobi estava deitado no beliche desde a manhã. A febre não tinha cedido. A mão esquerda, embrulhada num pano limpo que Anjain tinha rasgado da própria camisa sem dizer nada, estava inchada até o pulso e quente como pão saído do forno."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lino. Vai buscar o caminhão do teu cunhado. Agora."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lino foi correndo pelo cais."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Jabez desceu ao porão. A caixa de isopor estava onde sempre esteve, coberta pelo último gelo. Ele abriu a tampa. A coisa estava lá embaixo, translúcida, mais murcha do que no primeiro dia, as patas mais encolhidas, os veios azuis por dentro mais apagados. A água do fundo da caixa tinha ficado azul-escura e grossa como xarope. Não brilhava mais."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele fechou a tampa e amarrou com corda."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O caminhão do cunhado de Lino era uma picape velha de caçamba aberta, sem para-choque. Puseram Tobi na cabine, enrolado num cobertor, e a caixa de isopor na caçamba, amarrada. Anjain ficou no barco."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não vou com essa coisa — disse."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém pediu."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Anjain",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Jabez."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Jabez",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Primeiro o menino"
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O hospital de Majuro era um prédio de dois andares, branco, de concreto, com um gerador que roncava no quintal e uma enfermeira de plantão que conhecia Jabez desde que ele era jovem. Ela desembrulhou a mão de Tobi na sala de curativos, sob a luz forte, e ficou um tempo calada, olhando."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As linhas da palma estavam pretas. Não sujas: pretas, como queimadura antiga, fundas, rachadas nas bordas. Em volta delas a pele estava esticada, brilhante, vermelho-arroxeada. O dedo anelar e o mínimo não dobravam."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que foi isso, Jabez?"
+  },
+  {
+    "ordem": 70,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uma coisa do mar."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que coisa?"
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uma coisa que não tem nome."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A enfermeira ficou séria e foi chamar o médico."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O médico de plantão era um rapaz de Kwajalein que tinha estudado em Guam e estava em Majuro havia um ano. Olhou a mão, cheirou o pano que a embrulhava, fez perguntas que Jabez respondeu pela metade. Lavou, cortou a pele morta com uma tesoura curva enquanto Tobi apertava os dentes num rolo de gaze, aplicou um unguento, deu uma injeção de antibiótico na nádega do menino e outra de alguma coisa para a febre."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vou ser sincero, capitão — disse, lavando as mãos. — Eu não sei o que é isto. Parece queimadura química. Ácido, talvez. Mas ácido não faz isso nas linhas da mão e deixa o resto. E não dá febre de quarenta."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele vai perder a mão?"
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não. — O médico secou as mãos. — Eu acho que não. Mas os dois dedos de fora... os nervos estão mortos. Ele vai mexer, talvez, com o tempo. Sentir, eu duvido. E as marcas não vão sair."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Jabez baixou os olhos para a própria mão esquerda, a de três dedos."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele vai ficar com uma mão igual à minha — disse."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pior, eu acho. A sua pelo menos não tem marca."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tobi, deitado na maca, com o rosto molhado de suor, riu fraco."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tio, agora a gente é a família da mão torta."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Cala a boca e dorme."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele dormiu antes de Jabez sair da sala."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A escola do padre Henri ficava em Uliga, no fim de uma rua de areia, uma construção comprida de madeira e telhado de zinco com quatro salas de aula, uma capela pequena e, nos fundos, um galpão de bloco de cimento que as crianças chamavam de laboratório. Henri Duclos tinha sessenta e oito anos, tinha nascido numa colônia de Side 2 de pais franceses, estudado biologia marinha na Terra antes de estudar teologia, e ensinava as duas coisas em Majuro havia vinte e cinco anos."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Abriu a porta de pijama e chinelo, às duas da madrugada, com uma lanterna na mão."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Jabez Lojkar. Você não vem à missa desde a Páscoa."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Padre, eu trouxe uma coisa."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Henri olhou a caixa de isopor amarrada na caçamba da picape. Olhou a cara de Jabez. Calçou um tênis sem meia e foi abrir o galpão."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O laboratório tinha uma bancada de azulejo, um microscópio velho, uma pia, prateleiras de vidros com bichos em formol, estrelas-do-mar, um polvo, um filhote de tubarão, peixes de recife com as cores desbotadas. Puseram a caixa na bancada. Henri acendeu a luz do teto, pôs luvas de borracha e um par de óculos de proteção, e abriu a tampa."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficou muito tempo calado."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Onde? — perguntou, enfim."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ao sul de Wake. No espinhel. Faz três noites."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Como?"
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Jabez contou. As aves indo embora. O mar parado. As luzes azuis em fila, passando por baixo, comprido além do barco. O domo de água. O espinhel arrebentado. A coisa nos anzóis. A gota no convés. A mão de Tobi."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O padre ouviu tudo sem interromper. Então pegou uma pinça comprida e, com muito cuidado, levantou uma das patas da coisa. A pata se soltou do corpo, inteira, como se só estivesse encostada."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Rápido",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Está se desfazendo — disse."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que bicho é, padre?"
+  },
+  {
+    "ordem": 99,
+    "personagem": "Henri",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não é bicho, Jabez."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Jabez",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Um piolho"
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Henri levantou a cabeça."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por que você diz isso?"
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Anjain disse. Que era piolho daquilo. Daquela coisa grande que passou por baixo."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O padre ficou olhando para ele por trás dos óculos de proteção. Voltou a olhar a coisa na caixa, a boca de ventosa, os ganchos encolhidos, e alguma coisa no rosto dele mudou."
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Anjain é mais esperto do que parece — disse, baixo."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele trabalhou até o amanhecer. Pôs a pata solta num vidro de formol, e depois um pedaço da borda do corpo, cortado com bisturi, e depois uma amostra do líquido azul da caixa, aspirada com uma pipeta, num tubo de ensaio fechado com rolha e cera. O líquido no tubo brilhou uma vez, fraco, quando ele apagou a luz para ver, e depois não brilhou mais. O resto da coisa ele cobriu com formol puro, numa bacia de plástico grande, e fechou o galpão com cadeado."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Às seis da manhã, sentados na escada da capela, os dois tomavam café que Henri tinha feito num fogareiro."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Jabez",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O menino tirou fotografias"
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Onde está o filme?"
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Jabez tirou do bolso o pote de vidro de geleia, com o rolo dentro, enrolado em plástico."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Henri",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu revelo hoje. Tenho química."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por isso eu vim aqui e não fui a Wake."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei. — O padre bebeu o café. — Mas alguém fora desta ilha precisa ver. Alguém que saiba o que fazer. E que não seja a Federação nem os Titans."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quem?"
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Henri ficou um tempo calado, olhando a laguna, que começava a ficar prateada com o sol."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Fazendo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Em 0084 passou por aqui um jornalista — disse."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E ele contava?"
+  },
+  {
+    "ordem": 118,
+    "personagem": "Henri",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele contou a dos atóis. Saiu num jornal de Side 6. Aqui ninguém leu."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Como ele chama?"
+  },
+  {
+    "ordem": 120,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Shiden. Kai Shiden."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Cruzador de assalto Argama"
+  },
+  {
+    "ordem": 122,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Às vinte e duas horas da véspera, a Argama entrou em órbita baixa da Terra, junto com o Radish e os outros navios do AEUG, e o hangar inteiro sentiu: uma mudança no peso das coisas, um rangido no casco, a Terra que deixou de ser uma bola na janela e virou um chão curvo, imenso, azul e branco, que passava embaixo da nave em silêncio."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Emma Sheen estava no berço do Rick Dias, conferindo pela quarta vez o pacote de reentrada preso às costas da máquina. O balão dobrado, a carga de expulsão, os cabos de liberação, os tanques dos propulsores de pairar. Sabia de cor. Conferia assim mesmo."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O rádio do traje chiou. Era a frequência entre naves, e a voz era a de Henken."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Emma",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Tenente Sheen."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela parou de conferir."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Emma",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Comandante Bekkener."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Emma",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Eu só queria saber se o pacote está bom."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Emma",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Está bom, comandante."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ótimo. Ótimo. — Uma pausa comprida. Do outro lado, ao fundo, o barulho da ponte do Radish. — Amanhã eu vou estar em cima de vocês, na órbita, com os canhões. Se aparecer alguma coisa amarela na reentrada, eu quero que você saiba que eu vou estar mirando nela."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Emma",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Obrigada, comandante."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Emma",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Emma."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela fechou os olhos um segundo."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Emma",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Comandante, este é um canal de serviço."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Emma",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Eu sei. — Outra pausa. — Volta inteira."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O canal fechou antes que ela respondesse. Emma ficou um tempo parada no berço, com a mão no cabo de liberação do balão, e depois voltou a conferir do começo."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kamille estava no berço ao lado, sentado na cabine aberta do Mk-II, com o capacete no colo. Tinha ouvido. Não disse nada sobre isso."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Tenente."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Kamille."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "A senhora já fez reentrada de mobile suit?"
+  },
+  {
+    "ordem": 141,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Duas vezes. Em simulador. — Ela não levantou os olhos. — E uma de verdade, num ônibus, de passageira."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Então é a primeira."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "É a primeira."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kamille ficou girando o capacete nas mãos."
+  },
+  {
+    "ordem": 145,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não tenho medo da reentrada — disse."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 147,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Eu tenho medo do que tem lá embaixo."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Emma parou, enfim. Olhou para ele por cima do ombro do Rick Dias, pelo vão entre os dois berços."
+  },
+  {
+    "ordem": 149,
+    "personagem": "Emma",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Os Titans?"
+  },
+  {
+    "ordem": 150,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Não sei."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Emma ficou um tempo calada."
+  },
+  {
+    "ordem": 152,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No treinamento dos Titans — disse —, um instrutor dizia que o medo é a parte do cérebro que faz conta mais rápido que a outra. Que você tem que ouvir, mas não pode deixar ele pilotar."
+  },
+  {
+    "ordem": 153,
+    "personagem": "Emma",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "A senhora ouvia?"
+  },
+  {
+    "ordem": 154,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu achava que não precisava. — Ela voltou ao cabo de liberação. — Agora eu ouço."
+  },
+  {
+    "ordem": 155,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No alto-falante do hangar, a voz de Bright, curta, sem cerimônia."
+  },
+  {
+    "ordem": 156,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Todos os pilotos da descida. Briefing final às vinte e três e trinta. Depois, seis horas de sono. É uma ordem. Quem eu pegar acordado depois da meia-noite vai descer sem café."
+  },
+  {
+    "ordem": 157,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kamille pôs o capacete no assento da cabine e desceu do Mk-II."
+  },
+  {
+    "ordem": 158,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na vigia do fundo, a Terra continuava passando. Lá embaixo, na face escura, o Pacífico era uma mancha preta enorme, e no meio dela, pequeno, iluminado, um punhado de luzes que Kamille não sabia nomear, uma ilha com uma cidade, a meio caminho entre dois continentes."
+  },
+  {
+    "ordem": 159,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pacífico Central, a 700 quilômetros a oeste-sudoeste de Oahu"
+  },
+  {
+    "ordem": 160,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O avião de patrulha Barbers Dois-Sete voava a seiscentos metros sobre um mar cor de chumbo, com o sol baixo à direita e duas horas de combustível antes de ter de voltar. Na cabine de sonar, no meio da fuselagem, a segundo-tenente Grace Mahoe tinha lançado catorze boias desde as quatro da tarde, em linha, de dez em dez quilômetros, e catorze boias tinham mandado para o fone dela a mesma coisa: mar, baleia, camarão longe, nada."
+  },
+  {
+    "ordem": 161,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A décima quinta caiu às seis e quarenta e dois."
+  },
+  {
+    "ordem": 162,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mahoe estava com a mão no seletor para passar à décima sexta quando a tela de frequência baixa da décima quinta desenhou, em dezenove hertz, uma mancha escura. Ela parou a mão. Esperou. Nove segundos. Outra."
+  },
+  {
+    "ordem": 163,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Piloto, sonar. Contato na boia quinze."
+  },
+  {
+    "ordem": 164,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Que contato?"
+  },
+  {
+    "ordem": 165,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sei, senhor. Biológico, talvez. Grande. Muito grande. — Ela abriu o fone para a frequência das boias catorze e treze, que ainda transmitiam, e comparou a hora de chegada do som. — Entre a treze e a quinze, mais perto da quinze. Profundidade... trezentos metros, mais ou menos. Rumo leste-nordeste. Lento."
+  },
+  {
+    "ordem": 166,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Lento quanto?"
+  },
+  {
+    "ordem": 167,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Trinta quilômetros por hora."
+  },
+  {
+    "ordem": 168,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Isso não é lento para um bicho."
+  },
+  {
+    "ordem": 169,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não, senhor. — Ela ouviu mais um pouco. A batida enchia o fone com uma pressão surda, larga, que parecia vir de toda parte ao mesmo tempo. — Senhor, eu ouço a mesma coisa nas três boias. Ao mesmo tempo. Com essa força. A essa distância. Essa coisa é do tamanho de um navio."
+  },
+  {
+    "ordem": 170,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na cabine, ninguém respondeu por um tempo. O motor de bombordo roncava com a mesma nota de sempre, e o copiloto, que até ali vinha comendo um sanduíche de atum embrulhado em papel, guardou o sanduíche no bolso do macacão sem terminar e pôs as duas mãos no manche."
+  },
+  {
+    "ordem": 171,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Marca a posição"
+  },
+  {
+    "ordem": 172,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mahoe lançou mais duas boias. O avião fez uma curva larga, baixando para quatrocentos metros. Pela janelinha da cabine de sonar, ela via o mar lá embaixo, cinzento, com as cristas das ondas acendendo de laranja no sol baixo."
+  },
+  {
+    "ordem": 173,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E via, numa faixa comprida, uma mancha mais clara na água, prateada, que não era espuma."
+  },
+  {
+    "ordem": 174,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Piloto, observador. Peixe morto na superfície. Muito. Uma faixa de... sei lá, dois, três quilômetros. Atrás do contato."
+  },
+  {
+    "ordem": 175,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Vivo ou morto?"
+  },
+  {
+    "ordem": 176,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Morto, senhor. De barriga para cima. Tudo."
+  },
+  {
+    "ordem": 177,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As duas boias novas caíram. A da frente começou a transmitir e, no fone de Mahoe, a batida veio mais forte, mais perto, nove segundos, nove segundos. Ela anotou tudo no caderno de bordo com a letra apertada."
+  },
+  {
+    "ordem": 178,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Grace Mahoe tinha vinte e seis anos e tinha crescido em Waianae, na costa oeste de Oahu, numa casa de madeira a duzentos metros da praia, onde a mãe dela ainda morava com três cachorros e uma horta de taro. Da varanda daquela casa, nas tardes de verão, dava para ver o sol se pôr exatamente na direção de onde o avião vinha agora. Ela fez a conta sem querer, a mesma que fazia em todo exercício: rumo, velocidade, distância. A linha da batida, prolongada, não passava longe da varanda da mãe dela."
+  },
+  {
+    "ordem": 179,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela parou de fazer a conta, apertou o fone contra a orelha com a palma da mão e voltou a ouvir, porque ouvir era o trabalho dela e o resto não era."
+  },
+  {
+    "ordem": 180,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi quando a boia de trás, a quinze, a que tinha pegado primeiro, mandou outro som."
+  },
+  {
+    "ordem": 181,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mahoe franziu a testa. Pôs a quinze sozinha no fone e fechou os olhos."
+  },
+  {
+    "ordem": 182,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era fraco, debaixo da batida, a vinte ou trinta quilômetros dela. Um zumbido fino, contínuo, de máquina. E, por cima dele, ritmado, o chiado de uma hélice de sete pás girando devagar, cuidadosa, de quem não quer ser ouvido."
+  },
+  {
+    "ordem": 183,
+    "personagem": "Segundo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Piloto, sonar. — A voz dela saiu mais baixa do que queria."
+  },
+  {
+    "ordem": 184,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Que é?"
+  },
+  {
+    "ordem": 185,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Submarino, senhor. Submarino de ataque, classe federal. Eu conheço essa hélice. A gente treina com ela todo mês."
+  },
+  {
+    "ordem": 186,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Tem algum nosso aí?"
+  },
+  {
+    "ordem": 187,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O operador de rádio levou um minuto para responder. Tinha a lista dos planos de navegação de todos os submarinos da frota do Pacífico presa na prancheta, com a data do dia."
+  },
+  {
+    "ordem": 188,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não, senhor. Nenhum submarino nosso registrado nesse setor. Nenhum em mil e quinhentos quilômetros."
+  },
+  {
+    "ordem": 189,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O piloto ficou um tempo sem falar. O Barbers Dois-Sete passou sobre a faixa de peixes mortos, que brilhava como uma estrada de prata no mar escuro, e começou a subir de novo."
+  },
+  {
+    "ordem": 190,
+    "personagem": "Código",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Manda tudo para Pearl — disse, por fim."
+  }
+]

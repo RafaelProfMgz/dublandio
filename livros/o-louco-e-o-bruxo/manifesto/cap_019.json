@@ -1,0 +1,782 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na noite em que o mundo fechou, Ilaen estava dando de comer aos cães."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fazia três invernos que dava de comer aos cães. Era trabalho de escudeiro, e Ilaen tinha deixado de ser escudeiro na manhã em que partira de Tir ná Lia atrás de Eredin, com armadura nova e o coração batendo forte debaixo dela. Mas os escudeiros tinham morrido em Skellige. Os cavaleiros mais velhos também. Os navegadores, quase todos. De toda a Caçada que um dia atravessara os céus entre os mundos, numa tempestade de gelo e de cascos, sobravam três cavaleiros e cinco cães, escondidos numa fortaleza élfica em ruínas, no alto das montanhas do norte deste mundo de dh'oine, onde nenhum dh'oine subia."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os cães eram de Taedh. Mas Taedh não dava de comer a cães. Então Ilaen dava."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele jogou o último pedaço de carne de cabra montês no pátio de pedra, e os cinco cães se lançaram sobre ele num redemoinho de gelo e de dentes. Eram grandes como cavalos pequenos, magros como esqueletos, cobertos de uma pele cinza e rala que deixava ver os ossos e o gelo azul que crescia entre os ossos, como musgo numa pedra. Por onde pisavam, a neve virava vidro. Quando rosnavam, o hálito deles congelava no ar e caía em cristais."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilaen os olhava comer com uma espécie de pena. Estavam com fome fazia meses. As cabras montesas eram poucas e ariscas, e os cães da Caçada não eram feitos para comer cabra. Eram feitos para correr entre os mundos atrás de presas maiores."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi então que a fortaleza tremeu."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não foi um tremor de terra. Ilaen tinha sentido terremotos em Tir ná Lia, e aquilo não era isso. Foi como se o próprio ar tivesse levado um soco, uma vez, de baixo para cima, e o mundo inteiro tivesse sido erguido um palmo e deixado cair. As pedras soltas das muralhas arruinadas rolaram. Os cães pararam de comer e uivaram juntos, um uivo longo, agudo, que fez Ilaen tapar os ouvidos. E por cima do uivo, de dentro da torre, veio um grito de mulher."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilaen correu."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vaeryssa estava no alto da torre, na câmara redonda onde passava as noites, ajoelhada no chão de pedra, com as mãos espalmadas sobre o círculo de sinais que tinha desenhado a giz três invernos antes e que redesenhava toda lua nova. Os sinais estavam apagados. Ela estava curvada para a frente, com a testa quase encostando na pedra, e respirava aos arrancos."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vaeryssa."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela não respondeu. Ilaen se ajoelhou ao lado dela e a segurou pelos ombros, e só então ela ergueu o rosto, e ele viu que ela chorava. Ele nunca a tinha visto chorar. Nem em Skellige, quando Eredin caiu. Nem na primeira noite neste mundo, quando ela entendeu que a passagem curta que tinha aberto para fugir não levava para casa, e sim para cá."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fechou"
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O quê?"
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tudo."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Talvez seja a tempestade. Talvez..."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não é tempestade."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela foi até o meio do círculo apagado e ergueu as duas mãos à altura do peito, com as palmas viradas uma para a outra. Disse as palavras do navegador, as que Ilaen tinha ouvido os mestres dizerem mil vezes na ponte das naves, e que ela tinha aprendido aos pedaços, com medo, nos últimos três anos."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O ar entre as mãos dela escureceu. Ficou fundo. Uma porta. Pequena, do tamanho de uma janela, com a borda tremendo."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E no fundo da porta, onde devia estar o cinza infinito da Espiral, o vento entre os mundos, a estrada, havia uma parede lisa."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vaeryssa empurrou. Ilaen viu os braços dela tremerem, viu a geada subir dos dedos até os pulsos, viu os lábios dela ficarem azuis. A porta escureceu mais e de repente se dobrou para dentro e sumiu, e um sopro de ar gelado jogou os dois contra a parede da torre."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vaeryssa ficou sentada no chão, com as mãos no colo. A geada tinha ficado preta nas pontas dos dedos dela."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Em",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Liso — disse."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pela porta da câmara entrou Taedh aep Morven."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava de armadura, como estava sempre, mesmo dormindo, a armadura negra de placas da Caçada, com espinhos de gelo nos ombros e o elmo em forma de caveira debaixo do braço. Tinha o rosto longo e fino dos Aen Elle, pálido como neve velha, e cabelos prateados presos atrás. Era o mais velho dos três. Tinha cavalgado com Eredin por dois séculos. E desde Skellige, desde a noite em que viu o rei cair diante do bruxo de cabelo branco, não tinha sorrido uma única vez."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que foi isso? — perguntou."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vaeryssa contou. Taedh ouviu sem se mover, com a caveira debaixo do braço e os olhos fixos nas mãos pretas dela."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fechado — repetiu ele quando ela terminou."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fechado."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por quem?"
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vaeryssa abriu a boca e não disse nada. Ilaen viu que ela não sabia. Ninguém sabia. Ninguém na história dos Aen Elle tinha jamais encontrado os caminhos entre os mundos fechados, todos de uma vez, como uma casa trancada por fora."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Taedh se virou para a janela estreita da torre, de onde se via o céu do norte, frio e cheio de estrelas."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Só existe uma criatura viva — disse, devagar — que sabe andar pelos caminhos sem navegador. Que pisa neles como quem pisa num chão de casa. Que fugiu de nós por eles a vida inteira, de um mundo para outro, e que no fim, no fim, os usou para matar o nosso rei."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Taedh..."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zireael."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Vaeryssa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sabemos disso"
+  },
+  {
+    "ordem": 36,
+    "personagem": "Taedh",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desceram no segundo dia, a pé, puxando os cavalos élficos pelas rédeas, porque os bichos estavam fracos demais para carregar cavaleiro na neve funda dos passos."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilaen ia atrás de Vaeryssa. Taedh ia na frente, sozinho, com os cães em leque à volta dele, e não olhava para trás. Era sempre assim. Nos três anos de esconderijo, Taedh tinha falado pouco, e quase sempre da mesma coisa: de Tir ná Lia, das torres brancas de Tir ná Lia, dos jardins de inverno, do rei Auberon que morreu e do rei Eredin que devia ter reinado. Do Frio Branco que vinha engolir o mundo deles e que a Caçada tinha saído a combater do único jeito que sabia, buscando o sangue que abriria a fuga. Falava disso como quem reza."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na metade da descida, numa plataforma de pedra varrida pelo vento, Vaeryssa parou para descansar as mãos. Tinha enrolado os dedos pretos em tiras de pano de sela. Ilaen se sentou ao lado dela."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Doem?"
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sinto nada neles."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lá embaixo, Taedh tinha parado também, numa curva do caminho, e olhava para o sul com os cães deitados em volta."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Que",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você acredita nele? — perguntou Ilaen, baixo."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vaeryssa demorou a responder. Puxou a ponta de uma tira com os dentes."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Se",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu acredito que ele precisa que tenha sido ela — disse."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E você sabe?"
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu era aprendiz."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desceram o resto da tarde sem conversar."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Três noites depois, Vaeryssa estava deitada de bruços na crista de um morro, com o queixo apoiado nas mãos pretas, olhando uma janela acesa."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinham descido das montanhas na manhã seguinte ao fechamento. Taedh tinha ordenado. Não havia mais nada a esperar na fortaleza arruinada, dissera: nem passagem, nem mestre, nem resgate. Iam descer para o sul, para as terras dos dh'oine, e ali encontrar Zireael. A Caçada sempre a tinha encontrado, de um mundo para outro. Os cães conheciam o sangue dela. Ia ser mais fácil num mundo só."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vaeryssa não discutiu. Não discutia com Taedh desde Skellige. Mas desceu atrás dele com o coração mais pesado do que a armadura."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E o mundo lá embaixo estava errado."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela tinha passado três anos olhando aquelas terras do alto, aprendendo as montanhas, os rios, os vales, como um navegador aprende o céu. Agora havia coisas novas nelas. Pedaços. Uma floresta de árvores largas, de folhas que caíam, no meio da neve, com névoa própria. Uma aldeia de casas vermelhas no fundo de um vale, com uma torre de ferro soltando fumaça preta e um barulho de batida, de pancada, que se ouvia de longe, dia e noite. E agora isto: um quadrado de terra lavrada, plano, com uma cerca de pedra em volta, inclinado na encosta de uma montanha como um tapete jogado sem cuidado, e no meio dele uma casa de tijolo, meio tombada, com uma janela acesa."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os pedaços não pertenciam a este mundo. Vaeryssa sabia disso como sabia a própria respiração. Tinham o gosto de outro lugar, um gosto que ela não conhecia, mas que reconhecia como estrangeiro, do jeito que se reconhece uma língua sem entender as palavras. E todos eles, todos, tinham aparecido na mesma noite em que os caminhos fecharam."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela tinha dito isso a Taedh. Que não era só Zireael. Que alguma coisa tinha trancado o mundo e também o tinha enchido de pedaços de outro. Que isso era grande demais para uma moça dh'oine de vinte e poucos anos, por mais sangue de Lara que tivesse."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Taedh tinha respondido que ela pensava demais para uma aprendiz."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E tinha acrescentado, sem se virar, que se os navegadores de verdade estivessem vivos, ela estaria limpando o convés da nave de algum deles, e não dando opinião. Vaeryssa não respondeu. Era verdade. Era isso que doía. Os navegadores de verdade estavam mortos, todos, no fundo do mar de Skellige ou espalhados por mundos que ela nunca ia ver, e o que restava de toda a arte de abrir caminhos entre as estrelas cabia nas mãos pretas de uma aprendiz de vinte e poucos invernos de estudo, deitada de bruços na neve de um mundo estranho."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os cães estavam deitados atrás da crista, em fila, com o focinho na neve. Estavam com fome. Tinham passado mais cedo, naquela mesma noite, rente a outra ilha de terra estrangeira, a do barulho de batida e da torre de fumaça, e Taedh não os tinha deixado entrar. Muita gente, dissera. Muita luz. Mas tinham farejado tudo em volta, e desde então estavam inquietos, ganindo baixo, mostrando os dentes."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Taedh se deitou ao lado dela na neve, de armadura. Ilaen do outro lado."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quantos? — perguntou Taedh."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Vaeryssa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quatro corações"
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Cavalos?"
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dois. Pesados. No celeiro. E vacas. E galinhas."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Taedh ficou um tempo olhando a janela."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Os",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Precisamos dos cavalos — disse."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Ilaen",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As vacas"
+  },
+  {
+    "ordem": 67,
+    "personagem": "Taedh",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os dh'oine sempre sabem"
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vaeryssa ficou deitada mais um instante, olhando a janela acesa. Viu uma sombra passar por ela. Uma mulher, de cabelo preso, carregando alguma coisa. Uma panela, talvez."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois se levantou e foi atrás dele."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A primeira coisa que Edward Pollard notou foi o frio."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava sentado à mesa da cozinha com o jornal de quatro dias antes aberto na frente, o último que tinha chegado a Caldbeck antes de tudo, e que ele já tinha lido inteiro três vezes. Ellen estava no fogão, mexendo a sopa. Tom e a pequena Rose já tinham ido para a cama, no quarto de cima, o que em três dias tinha virado um problema, porque a casa estava tão inclinada que as camas escorregavam para a parede durante a noite, e as crianças acordavam amontoadas num canto, rindo."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O fogo do fogão estava alto. Mesmo assim, o frio entrou."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Entrou pelas frestas da porta e da janela, de uma vez, como água por baixo de uma comporta. Edward sentiu na nuca primeiro, depois nos pulsos, depois no rosto. A chama do lampião de querosene encolheu e ficou azul. Ellen parou de mexer a sopa e se virou para ele, com a colher no ar, e o hálito dela saiu em fumaça, ali, dentro da cozinha aquecida."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A vidraça da janela estalou. Edward olhou e viu a geada crescer nela, do canto de baixo para cima, em folhas e ramos brancos, rápida como tinta derramada num papel. Em três segundos a janela inteira estava branca."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lá fora, o cachorro latiu. Um latido só, alto, de alarme. Depois ganiu. Depois parou."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Edward se levantou. Foi até o canto, ao lado da porta, onde ficava a espingarda de caça pendurada em dois pregos, e a desceu. Abriu. Estava carregada; ele sempre a deixava carregada desde que o mundo virou, por causa dos lobos que uivavam à noite nos pinheiros da montanha."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Sobe",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ellen — disse, baixo."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ed..."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Agora."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela largou a colher e subiu a escada correndo."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Edward ficou de frente para a porta, de espingarda no ombro. Ouviu, lá fora, no pátio, barulho de cascos na terra congelada. Muitos. E, por baixo dos cascos, outra coisa, um ruído baixo, ronco, como de muitos cães rosnando juntos, e um estalar contínuo, como de gelo partindo num lago."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A porta não abriu. Explodiu."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Saiu das dobradiças em pedaços cobertos de geada, e pelo buraco entrou o frio de uma vez, tão forte que Edward sentiu os olhos arderem. E entrou o cão."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não era cão. Era do tamanho de um pônei, magro até os ossos, cinzento, e entre as costelas dele crescia gelo, gelo azul, em placas e espinhos. Os olhos eram de uma luz branca e fria, sem pupila. A boca estava aberta, e da boca saía um vapor que congelava no ar e caía em neve no chão da cozinha."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Edward atirou."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os dois canos de uma vez. O estrondo encheu a cozinha. A carga pegou o bicho no peito, de perto, e Edward viu, no clarão, o gelo do peito se estilhaçar em mil pedaços azuis que voaram pela cozinha como vidro de janela, e o bicho caiu para trás, uivando, e se debateu no chão da porta, com um rombo no peito de onde não saía sangue. Saía um vapor branco."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Edward abriu a espingarda para recarregar. Os dedos dele estavam duros de frio e não achavam os cartuchos no bolso."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O bicho se levantou. O rombo do peito estava se fechando, devagar, com gelo novo crescendo nas bordas."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Atrás dele, pela porta, entrou um homem de armadura negra, alto demais, com um elmo em forma de caveira. Não fez barulho nenhum. Trazia na mão uma espada comprida e fina, de lâmina pálida, que fumegava de frio."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Edward conseguiu enfiar um cartucho. Fechou a espingarda."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A espada atravessou o peito dele antes que ele erguesse o cano."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No escuro debaixo da despensa, Ellen Pollard tapava a boca de Rose com a mão."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O porão de raízes era um buraco de terra com paredes de tábua, onde se guardavam as batatas e os nabos do inverno, e cabiam ali, encolhidos, uma mulher e duas crianças, e mais nada. Tom estava encostado nela do outro lado, com os joelhos no queixo, tremendo tanto que ela sentia os dentes dele baterem. Rose tinha seis anos e não entendia por que não podia chorar."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ellen tinha ouvido o tiro. Os dois canos, juntos, como Edward atirava nos lobos. Tinha ouvido o uivo do bicho, um uivo que não era de cachorro nem de lobo nem de nada que ela conhecesse, e que congelou o ar do porão até as paredes de tábua estalarem. Depois tinha ouvido um barulho curto, molhado. E depois mais nada de Edward."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Agora ouvia passos."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Passos leves, de bota, subindo a escada. O assoalho rangendo no quarto de cima, onde as camas escorregavam. Passos parando. Um tempo longo. Os passos descendo de novo. Atravessando a cozinha. A porta da despensa se abrindo, com o rangido que Edward vivia prometendo consertar."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os passos pararam bem em cima dela."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ellen fechou os olhos. Apertou Rose contra o peito. Sentiu a pequena se debater debaixo da mão dela e apertou mais, e rezou para a Senhora sem mexer os lábios, Senhora da Noite, cobre os meus filhos com o teu manto, Senhora da Noite, cobre os meus filhos, e a oração foi e não chegou a lugar nenhum, ficou ali dentro dela, abafada, como um grito dentro de um travesseiro."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Em cima, alguma coisa foi arrastada pelo chão. Pesada. Um saco. Depois outro. Depois um terceiro. Ellen ouviu o pó de farinha cair pelas frestas do alçapão e sentiu na testa a poeira fina, branca, descendo como neve."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os passos se afastaram. A porta da despensa fechou."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ellen ficou de olhos fechados até muito depois de os cascos irem embora. Até o frio sair do porão. Até Rose dormir no colo dela de tanto chorar sem barulho. Até um galo, em algum lugar do curral vazio, cantar sem saber que era o único que tinha sobrado."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilaen entrou na casa por último."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Taedh estava na cozinha, de pé sobre o homem, limpando a espada num pano de prato que tinha pegado da mesa. O cão ferido estava deitado ao lado do fogão, lambendo o peito, onde o gelo terminava de fechar. Dois outros cães já estavam no curral; dava para ouvir as vacas berrando e depois não berrando mais. Vaeryssa estava no pátio, com os cavalos dos dh'oine, dois animais grandes e pesados de crina comprida, que ela segurava pela rédea e acalmava com a voz."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Taedh",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A mulher e as crianças"
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilaen subiu a escada."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O quarto de cima era pequeno e inclinado, de modo que ele teve de andar com a mão na parede. Havia duas camas pequenas, escorregadas para o canto de baixo, com as cobertas reviradas. Uma boneca de pano no chão. Um copo de água virado. Ninguém."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele ficou parado no meio do quarto e escutou, como Vaeryssa lhe tinha ensinado."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Três corações. Lá embaixo. Não no térreo: mais embaixo ainda. Debaixo do chão. Rápidos, rápidos demais, como corações de passarinho. Um deles muito pequeno."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilaen desceu a escada. Taedh não estava mais na cozinha; tinha ido para o pátio, dar ordens. O cão ferido ergueu a cabeça e o olhou com os olhos brancos."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ao lado da cozinha havia uma porta pequena, de despensa. Ilaen a abriu. Prateleiras com potes, sacos de farinha, uma réstia de cebolas, presuntos pendurados. E no chão, meio coberto por um saco de batatas arrastado às pressas, um alçapão de madeira, com uma argola de ferro."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilaen ficou parado olhando a argola."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lembrou de uma coisa que não lembrava fazia muito tempo. De ser menino em Tir ná Lia, nos jardins de inverno, quando os mais velhos contavam histórias da Caçada, e de como ele sonhava com o dia de vestir a armadura negra e cavalgar entre os mundos. As histórias falavam da glória, dos céus de gelo, dos cães, das presas que fugiam. Nenhuma falava de alçapões de despensa."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele se abaixou e arrastou o saco de batatas de volta, por cima do alçapão, cobrindo a argola inteira. Pegou mais dois sacos de farinha da prateleira e os pôs em cima. Saiu da despensa e fechou a porta."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O cão ferido continuava olhando para ele, do lado do fogão."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Ilaen",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quieto"
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O cão baixou a cabeça."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No pátio, Taedh esperava montado num dos cavalos dos dh'oine, grande demais para ele, que o fazia parecer um cavaleiro de pesadelo de criança. Vaeryssa tinha montado o outro. Os cães estavam reunidos, de focinho vermelho, e o curral estava em silêncio."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E então? — perguntou Taedh."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Ilaen",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fugiram"
+  },
+  {
+    "ordem": 120,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Taedh o encarou por um longo tempo, pela fenda da caveira."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os cães podem encontrar."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Ilaen",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os cães estão comendo. E a noite está acabando."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era a mentira mais longa que ele já tinha dito a Taedh. Vaeryssa, ao lado, não disse nada. Mas Ilaen viu, de canto, que ela o olhava, e que tinha visto as pegadas que não existiam na neve debaixo da janela de cima."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Taedh puxou a rédea do cavalo pesado."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Os",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para o sul — disse."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Partiram. Os cães na frente, rente ao chão, deixando para trás uma trilha de gelo. Taedh atrás deles, de cabeça erguida. Vaeryssa, com as mãos pretas nas rédeas. E Ilaen por último, sem olhar para trás, para a casa tombada com a porta arrombada e a janela ainda acesa."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No alto do morro seguinte, parou o cavalo."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O céu estava limpo, de um lado. Do outro, sobre o quadrado de terra lavrada que ficava para trás, havia uma nuvem baixa e estranha, e por um rasgo nela apareciam estrelas que Ilaen não conhecia, e uma luz avermelhada, baixa, como brasa debaixo de cinza. Ele ficou olhando aquilo um tempo, com o vento da neve batendo no rosto."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Em Tir ná Lia, os navegadores diziam que cada estrela era o começo de um caminho. Que bastava saber ler o céu para saber para onde se podia ir. Ilaen nunca tinha aprendido a ler o céu. Mas, olhando aquele rasgo, aquelas estrelas sem nome, aquela brasa, teve a certeza mais fria que já tinha sentido na vida."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aqui não tem estrada — disse, baixo, para ninguém."
+  }
+]

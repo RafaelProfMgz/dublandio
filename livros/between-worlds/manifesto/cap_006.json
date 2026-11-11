@@ -1,0 +1,560 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A trilha não constava em nenhum mapa."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Anselmo a encontrou por dedução. Partiu do endereço da declaração, comparou com os registros de expansão urbana e chegou a um quadrado de terra que a prefeitura chamava, nos papéis, de \"território não atribuído\". Era uma faixa onde a cidade tinha entrado vinte anos antes sem que ninguém soubesse dizer quem a convidara."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi a pé, num domingo, depois da missa. Chovia fino desde a madrugada."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Passou pela última rua calçada e pelo último poste. A estrada virou trilha, e a trilha, um rastro de lama entre arbustos. Depois de uma hora, os sapatos de couro pesavam como se estivessem cheios de chumbo, e ele já desconfiava de que errara o caminho."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi aí que viu a fumaça."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A casa era pequena, de tijolo de barro, com telhas escuras de umidade. Tinha uma chaminé torta que soltava um fio de fumaça cinza, mais pesada do que a de lenha. Cheirava a pedra molhada e a queimado, um cheiro que Anselmo conhecia: o de quem aquece a casa com lascas tiradas das ruínas."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Todo mundo fazia isso, e ninguém comentava. As lascas rendiam calor demais para o preço, e o que o corpo dos mais velhos perdia em tosse e dor nas juntas era visto como imposto do inverno."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele bateu num sino de ferro enferrujado, pendurado ao lado da porta por um fio de arame."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A porta abriu quase de imediato."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O homem tinha uns sessenta anos, a barba rala e os ombros largos de quem carregou peso a vida inteira. Olhou para o casaco molhado de Anselmo, para os sapatos, para a pasta de couro debaixo do braço dele. A pasta era a do arquivo, vazia. Anselmo a trouxera só como disfarce."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pois não?"
+  },
+  {
+    "ordem": 12,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sou do arquivo da cidade. Procuro a família Varela."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É aqui."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele não perguntou o motivo. Olhou Anselmo de cima a baixo. Depois abriu mais a porta."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Entre. Tá pingando."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A casa tinha três cômodos: uma sala com fogão de pedra, uma cozinha estreita e um quarto onde se via, pela porta aberta, três colchões no chão. Perto do fogão havia uma cadeira de madeira com o assento gasto. Anselmo sentou nela, e a madeira estalou."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O fogão queimava lascas cinzentas. Dava uma luz mais clara do que a de lenha, meio azulada, que deixava o rosto das pessoas um pouco pálido."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olívio"
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Minha mulher, Marta."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela tinha saído da cozinha enxugando as mãos num pano. Era uma mulher magra, de uns cinquenta anos, com os cabelos presos num coque apertado. Fez que sim com a cabeça e sentou ao lado do marido. Ficou olhando Anselmo com uma atenção calma, quase educada."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Chá?"
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "ofereceu."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aceito, obrigado."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela serviu uma caneca de barro. O chá era forte e tinha gosto de casca de árvore. Anselmo bebeu um gole, para ganhar tempo."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinha ensaiado a conversa no caminho. Diria que fazia um levantamento de propriedades antigas, que o arquivo estava revisando as terras do bairro. Era uma mentira comum, e quase sempre funcionava."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mas não pretendia mostrar o documento. Em nenhuma hipótese."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O arquivo está revisando os registros da região"
+  },
+  {
+    "ordem": 28,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Queria saber desde quando a família mora aqui."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Olívio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desde sempre"
+  },
+  {
+    "ordem": 30,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sempre quanto?"
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Meu pai nasceu nesta casa. Meu avô construiu. Antes disso, não sei. A gente nunca perguntou."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A família sempre foi daqui? Desta região?"
+  },
+  {
+    "ordem": 33,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nunca moraram em outra cidade?"
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olívio olhou para Marta. Ela olhou para o fogo."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não que eu saiba"
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Anselmo tomou um gole do chá."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Já ouviram falar de um lugar chamado Velha Creux?"
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi uma pergunta curta, e a casa inteira se calou."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A chuva continuou lá fora, e o fogão estalou. Por um instante, Anselmo teve a impressão de que as lascas de pedra tinham ficado mais claras, depois mais escuras, como brasas que alguém sopra."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Velha Creux"
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "repetiu Olívio."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Meu pai falava isso. Meu avô também."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Falavam como?"
+  },
+  {
+    "ordem": 45,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não como uma cidade."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele esfregou a barba."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Falavam como a gente fala de coisa que perdeu. Uma faca, uma moeda. Dizia \"isso era de Velha Creux\", mas era sempre algo que não existia mais. Eu achava que era uma palavra de família. Uma brincadeira."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O senhor sabe o que ela quer dizer?"
+  },
+  {
+    "ordem": 49,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era verdade. Anselmo percebeu pelo jeito como ele disse. Olívio Varela falava do nome da própria cidade como quem repete uma palavra que não entende, numa língua que aprendeu criança."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O seu avô"
+  },
+  {
+    "ordem": 52,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele trabalhava com quê?"
+  },
+  {
+    "ordem": 53,
+    "personagem": "Olívio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nas ruínas."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olívio apontou com o queixo, na direção do norte, onde o morro se perdia na chuva."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Olívio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Antes da prefeitura mandar nas ruínas, quando era terra de ninguém. Ele ia e voltava. Demarcava, escavava, pegava pedra. Fazia de tudo."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Varela",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele chegou a falar do que viu lá?"
+  },
+  {
+    "ordem": 57,
+    "personagem": "Olívio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Falava de uma cidade."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olívio coçou a barba."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Olívio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que havia uma cidade antes de ter nome. Que tinha sido tirada. Ele dizia \"tirada\", não \"destruída\". Ele dizia que ainda estava em algum lugar, só que não aqui."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Varela",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E o senhor acreditava?"
+  },
+  {
+    "ordem": 61,
+    "personagem": "Varela",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu era menino. Acreditava em tudo que meu avô falava."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Varela",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E hoje?"
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olívio sorriu, meio sem graça."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Olívio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hoje eu trabalho de pedreiro. Não tenho tempo de acreditar."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Marta riu baixo. Foi o primeiro som que ela fez."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Anselmo ficou mais uma hora."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fez perguntas sobre o telhado, sobre o poço, sobre a escola dos filhos. Anotou nomes: Tomás, o mais velho, que trabalhava com o pai; Ilda, de dezesseis anos; um menino pequeno, que dormia. Tomás e Ilda. Eram os mesmos nomes do documento."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não disse nada sobre isso."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando se levantou para ir embora, o chá tinha esfriado na caneca e as pernas estavam dormentes. Agradeceu pelo tempo, e Olívio apertou a mão dele com uma força sincera."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Olívio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Volte se precisar"
+  },
+  {
+    "ordem": 71,
+    "personagem": "Olívio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A gente não tem muito, mas tem chá."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Marta o acompanhou até a porta. Na soleira, ela segurou a manga do casaco dele, de leve, com dois dedos."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Olívio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O senhor vai cuidar do papel?"
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Anselmo gelou."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que papel?"
+  },
+  {
+    "ordem": 76,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que o senhor trouxe."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela não sorria, mas a expressão era suave."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ou o que o senhor não trouxe. Eu nunca sei dizer qual dos dois."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Soltou a manga."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Boa viagem"
+  },
+  {
+    "ordem": 81,
+    "personagem": "Anselmo",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Cuidado com a lama."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E fechou a porta."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Voltou pela trilha contando os passos, como fazia quando era criança, para não pensar. A chuva tinha parado."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os nomes batiam. A casa batia. O avô demarcador batia."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Só não batia a cidade."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olívio existia, com as mãos de pedreiro e a casa de barro. O sobrenome dele estava num documento assinado por um morto. E ele conhecia Velha Creux só como palavra de família."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele chegou ao arquivo ao anoitecer."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A sala estava vazia. Sentou na mesa sete, abriu a gaveta e tirou o caderno."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Visita à família Varela. Existem, e não conhecem a cidade. A mulher sabe de alguma coisa e não diz."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Parou."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois, mais embaixo, acrescentou:"
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estou sendo observado. Não sei por quem."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era a primeira coisa que escrevia sem ter certeza, só porque era verdade."
+  }
+]

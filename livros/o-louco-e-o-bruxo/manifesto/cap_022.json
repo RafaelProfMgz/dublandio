@@ -1,0 +1,950 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Harold Bligh tinha passado trinta anos na polícia de Loen e nunca tinha entrado num castelo."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinha visto castelos, claro. Em gravuras de jornal, nos livros de escola do filho, no relógio da prefeitura de Tingen, que tinha um castelinho pintado em cima e um cavaleiro de lata que saía de uma portinha ao meio-dia. Uma vez, em Backlund, numa folga, tinha ido ver de longe o palácio do rei, atrás de grades douradas, com guardas de chapéu de pele parados como estátuas. Mas aquilo era um palácio. Isto era um castelo. De verdade. De pedra cinzenta e velha, com muralhas da grossura de uma rua, uma lareira onde caberia de pé um homem de bom tamanho, e espadas de verdade penduradas nas paredes, com fio, com mossas, com cara de quem já tinha sido usada."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele estava sentado num banco, diante dessa lareira, com a farda fumegando no corpo, uma manta de lã jogada nos ombros e uma caneca de alguma coisa quente e forte nas mãos, que o velho de uma perna só tinha mandado trazer e que queimava descendo como querosene. E havia gente à volta dele. Gente demais para a hora."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O de cabelo branco, Geralt, sentado no outro banco, com o papel do contrato aberto nos joelhos, olhando para ele sem conseguir ler uma letra. A mulher de cabelo ruivo, Triss, que tinha trazido a manta. O velho de uma perna só e tapa-olho, Vesemir, na cadeira grande. O outro, o de cicatriz na cara, Eskel, de pé encostado numa coluna. O poeta de chapéu de pena, Jaskier, que tinha descido de camisola e casaco e dizia a cada dois minutos que aquilo dava uma canção. A moça de cabelo cinza, Ciri, de pé ao lado da lareira. E, deitado numa porta apoiada em dois cavaletes, de perna na tala, um sujeito de olhos amarelos e boca suja que tinha dito, quando Bligh entrou, olha aí, a polícia chegou, alguém esconde a cabra."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não leio isso"
+  },
+  {
+    "ordem": 6,
+    "personagem": "Bligh",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei que o senhor não lê."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Conte."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bligh pôs a caneca no chão, entre as botas, e contou."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Contou primeiro o que tinha prometido. Que tinha posto a grade no arco da eclusa da Rua do Canal, como o senhor Geralt mandou, de ferro de três dedos, chumbada na pedra, e que fazia dois dias que nada subia pelo canal a não ser água. Que a água continuava correndo para o lado errado, mas que os meninos da Rua do Canal já tinham voltado a pescar na eclusa, de dia, e que o velho Dunmore ia lá toda tarde e ficava sentado na passarela olhando a grade, sem falar com ninguém."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois enfiou a mão no bolso da farda e tirou uma nota dobrada, molhada nas pontas."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E a prefeitura pagou — disse. — A quarta libra. Eu disse que pagava."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt pegou a nota. Do outro lado do salão, o sujeito deitado na porta começou a rir tão alto que teve de segurar as costelas."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quatro!"
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lambert"
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uma vaca, Vesemir. Inteira."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bligh olhou para o sujeito, depois para Geralt, que dobrou a nota e a guardou no gibão com o cuidado de quem guarda ouro."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele sempre é assim? — perguntou Bligh."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pior quando está de pé"
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bligh continuou."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Bligh",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Três noites"
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tingen não era só a cidade. Ele explicou isso com as mãos, desenhando no ar: em volta das ruas, no tempo em que Tingen estava em Loen, havia sítios, pastos, hortas, umas casas de fazenda de tijolo e as granjas de quem vendia leite e ovos no mercado da Rua Norte. Uma parte disso tinha vindo junto com a cidade, na noite do tremor. Um cinturão de campo, fino, de umas duas milhas no lado sul, que acabava na linha, no pinheiral e na neve."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O velho Ned Haddock morava ali, numa casinha de pedra no último pasto antes da linha, com cinquenta ovelhas e um cachorro. Era um homem difícil, que vinha à cidade uma vez por mês para vender lã e brigar com o comprador. Na manhã do quinto dia, o leiteiro que passava pela estrada do sul viu a porta da casinha aberta e o cachorro amarrado no poste, uivando, sem água. O velho não estava. Metade das ovelhas também não."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Bligh",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Achamos o velho à tarde"
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que sobrou como? — perguntou Geralt."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bligh pegou a caneca de novo. Não bebeu. Ficou segurando."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Rasgado. Como se um bicho grande tivesse pegado ele e... sacudido. Faltavam pedaços. O médico da polícia disse que foi lobo, uma alcateia. Mas lobo não deixa o que deixaram."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que deixaram?"
+  },
+  {
+    "ordem": 28,
+    "personagem": "Bligh",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Marcas no chão. Grandes."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No salão, ninguém riu. Eskel desencostou da coluna."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Pena",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E no chão, perto das marcas? — perguntou Geralt."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Bligh",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sangue arrastado não. O velho estava no mesmo lugar em que morreu, acho. As ovelhas que faltavam, não sei. Não achamos."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Trouxe?"
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não. Desculpe. Saí com pressa."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt fez que sim, sem censura."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A segunda noite."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Bligh",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na segunda, foi o rapaz dos Corbett. Dezessete anos. Pastor também, do outro lado da estrada do sul, numa granja de leite. Saiu de noite porque as vacas estavam berrando. O pai ouviu o grito da cozinha. Quando chegou no curral, não tinha rapaz. Tinha uma vaca morta, aberta, e o resto das vacas encostadas na parede do fundo, tremendo."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "De cima — repetiu Eskel."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "De cima. Tinha os ossos quebrados de um jeito que o médico disse que era de queda. De altura grande. Como quem cai de um telhado de igreja. Mas não tinha telhado de igreja nenhum ali. Só pasto."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vesemir, na cadeira grande, abriu o bestiário no colo, molhou a pena e não escreveu nada. Ficou com a pena parada no ar."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A terceira"
+  },
+  {
+    "ordem": 41,
+    "personagem": "Bligh",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ontem à noite. Ninguém morreu. Mas sumiram doze ovelhas da granja dos Whitfield, e o Whitfield, que é um homem de juízo e ex-soldado, jura por todos os santos que viu, na luz da lua..."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Viu o quê?"
+  },
+  {
+    "ordem": 43,
+    "personagem": "Bligh",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uma coisa voando. Grande. Do tamanho de uma carroça. Com uma ovelha em cada pé."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficou um tempo calado no salão. O fogo estalava."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi Ciri quem falou primeiro."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Grifo — disse."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Parece grifo"
+  },
+  {
+    "ordem": 48,
+    "personagem": "Vesemir",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E grifo não faz ninho perto de cidade"
+  },
+  {
+    "ordem": 49,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "A rocha alta está a uma hora de voo"
+  },
+  {
+    "ordem": 50,
+    "personagem": "Grifos",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E por que agora? — perguntou Triss."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque o pasto é novo"
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele se virou para Bligh."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quanto a prefeitura paga?"
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bligh piscou. Depois quase sorriu."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dez libras."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pelo grifo morto?"
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pelo bicho que for, morto, e as mortes acabando."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vinte."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O prefeito disse dez."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O prefeito não vai subir num pico de pedra atrás de um bicho do tamanho de uma carroça que larga gente de altura de telhado de igreja."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bligh pensou. Bebeu o resto da caneca, de uma vez, e tossiu de novo."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quinze — disse. — E eu vou com vocês. E se o prefeito reclamar, eu pago a diferença do meu bolso e cobro dele depois."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fechado"
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do outro lado do salão, deitado na porta, Lambert tinha parado de rir."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quinze"
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quem vai? — perguntou Vesemir."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Ciri",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Eu"
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela se virou para o velho, com a boca já aberta para discutir, e Bligh viu acontecer uma coisa que ele conhecia bem de delegacia: uma moça teimosa e um velho mais teimoso ainda medindo forças sem levantar a voz."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Vesemir",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Lenn subiu ontem perguntando por ordens"
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bligh não entendeu a palavra imperatriz. Ou entendeu e decidiu que tinha ouvido errado, por causa da bebida. A moça de cabelo cinza ficou vermelha até as orelhas e não respondeu."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Eu vou"
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Todos se viraram para ele. Estava ainda encostado na coluna, de braços cruzados, com a cicatriz da cara meio no escuro."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Triss",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Você está costurado"
+  },
+  {
+    "ordem": 75,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Os pontos estão secos. Eu vi hoje de manhã."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sujeito deitado na porta, Lambert, virou a cabeça para Eskel. Bligh viu os dois se olharem por um instante, um olhar curto, sem palavra, que dizia alguma coisa que Bligh não entendeu e que nenhum dos outros pareceu notar."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Leva ele, Geralt"
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt olhou do irmão deitado para o irmão de pé. Depois fez que sim."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Saímos",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu e Eskel — disse."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon Marsh recebeu os dois bruxos no escritório da Blackthorn às nove da manhã do sexto dia, com o relógio de parede ainda parado nas doze e dez e a janela ainda rachada em diagonal."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinha passado a noite lendo o relatório de Bligh, que o sargento deixara na Rua Zouteland antes de subir a montanha, e o relatório do médico da polícia, e o depoimento do Whitfield, tomado pelo agente Pike numa caligrafia de criança. Tinha passado também, de madrugada, uma hora sentado na escada que descia para o Portão de Chanis, no escuro, de olhos fechados, ouvindo. Não ouviu nada de diferente. Isso não o acalmou."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Ergueu",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senhor Geralt. Senhor Eskel."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os dois se sentaram no sofá da recepção, que rangeu. Eskel, Gideon reparou, estava com melhor cara do que três dias antes. Tinha cor no rosto. Os pontos dos cortes no braço já não estavam roxos. Mas, assim que se sentou, desviou os olhos para a janela, para o norte, para o lado da montanha, e ficou olhando por um tempo um pouco longo demais."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sargento Bligh me contou do acordo"
+  },
+  {
+    "ordem": 85,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Diga"
+  },
+  {
+    "ordem": 86,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que matou o velho Haddock e o rapaz Corbett pode ser um bicho de vocês. Pela descrição, é. Um grifo, o senhor disse ao sargento. Eu nunca vi um grifo, a não ser em brasão de família."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Como o quê?"
+  },
+  {
+    "ordem": 88,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon demorou a responder."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Isso",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Há coisas que podem acontecer com um animal que come o que não devia — disse, por fim."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt e Eskel se olharam."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "O rapaz da forquilha"
+  },
+  {
+    "ordem": 92,
+    "personagem": "Mas",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do pêndulo — corrigiu Gideon, com o fantasma de um sorriso."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele sabe se defender? — perguntou Geralt."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt ficou um tempo calado, olhando para o capitão. Depois fez que sim."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Um observador. Uma guarda. Ninguém dá ordem a ninguém no mato."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Mas",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém dá ordem a ninguém no mato — repetiu Gideon."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não leio o seu papel."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei. E eu não leio o seu."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Edgar Kett saiu da sala de trás, com o paletó cheio de papéis e a cara de quem dormiu sentado. Atrás dele vinha Oliver Penn, de casaco, cachecol e caderno de desenho debaixo do braço, com a cara de quem não tinha dormido nada."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O senhor Penn desenha"
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver se sentou à mesa da contabilidade e desenhou."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt se levantou do sofá e foi olhar por cima do ombro dele. Eskel também. Foi rápido: o rapaz desenhava como quem tem a coisa pronta na cabeça e só copia. Na primeira faixa da folha, um grifo, com as asas abertas, e embaixo dele um homem de bigode e farda xadrez apontando o pasto. Na segunda, dois homens de espada nas costas e olhos de gato andando no pasto, e atrás deles, um passo atrás, um rapaz de cachecol com um caderno e uma moça de casaco preto com um revólver. Na terceira, os dois de espada diante do grifo morto, e o rapaz de cachecol de longe, com a mão na boca, chamando, e um homem de cartola chegando. Na quarta, uma mão entregando a outra mão uma pilha de notas: quinze, contadas uma a uma, desenhadas com o rosto do rei."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "A cartola está boa"
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Obrigado, senhor."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver fez a segunda folha igual, traço por traço, em menos tempo do que a primeira. Gideon pegou a sua, escreveu embaixo, em letra pequena e redonda, quatro linhas que nenhum dos bruxos conseguiu ler, assinou e carimbou com um carimbo de borracha, molhado numa almofada roxa. Depois estendeu o carimbo para Geralt."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt olhou o carimbo. Depois tirou o medalhão do pescoço, o lobo de prata com a boca aberta, e o apertou contra a almofada roxa e depois contra o pé da folha de Gideon."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O lobo saiu nítido, de dentes arreganhados, ao lado do carimbo da Blackthorn."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vale como assinatura? — perguntou Gideon, olhando a marca."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Em Kaedwen, vale mais que muita assinatura"
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt fez o mesmo na folha dele. Guardou o medalhão. Dobrou a folha em quatro e a pôs no gibão, junto com as quatro libras."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon guardou a dele numa pasta, e a pasta numa gaveta, e trancou a gaveta. Depois ficou um momento com a mão em cima da gaveta trancada, sem tirar."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É o primeiro documento que eu arquivo desde o tremor — disse, baixo, mais para si do que para eles. — O primeiro que não é um relatório de estrago."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O pasto do velho Haddock ficava no fim da estrada do sul, onde as casas de tijolo de Tingen se espaçavam e viravam muro de pedra solta, horta, curral, e depois só capim molhado, até o pinheiral e a neve."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bligh foi na frente, a pé, de capa de oleado e quepe. Atrás dele, Geralt e Eskel. Atrás deles, Oliver, com o caderno, e Mira, com o revólver no coldre e o xale de Kaedwen, que tinha decidido não devolver. Chovia, a chuva fina e morna de Tingen, e o capim chegava às canelas."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A casinha de pedra do velho estava como Bligh tinha dito. A porta aberta. O poste onde o cachorro tinha ficado amarrado, com a corda cortada. O curral de pedra baixa, com o portão escancarado, e dentro dele, encostadas no fundo, umas vinte ovelhas magras, sujas, assustadas, que se apertaram umas contra as outras quando os estranhos chegaram."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O lugar onde tinham achado o velho estava marcado com quatro estacas e uma corda. A chuva tinha lavado quase tudo. Mas não as marcas."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt se ajoelhou na lama."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eram fundas. A chuva tinha enchido de água, mas a forma estava lá: quatro dedos grossos, com uma almofada larga atrás, e na ponta de cada dedo um sulco de garra da largura de um polegar. Pata de leão, ou de algo que imitava uma. Dez passos adiante, as outras. Três dedos para a frente, um para trás, como de ave, cada um do tamanho de uma mão aberta, com garras que tinham rasgado o capim até a terra."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Grifo"
+  },
+  {
+    "ordem": 121,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Velho"
+  },
+  {
+    "ordem": 122,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Pesado demais para o tamanho"
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt ergueu os olhos para ele. Eskel estava olhando a marca com a testa franzida."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Olha a fundura"
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Carregando o velho."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pode ser. Ou pode ser outra coisa."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt se levantou. Olhou em volta, devagar, do jeito que olhava qualquer lugar onde algo tinha matado alguém: o chão primeiro, depois a altura de um homem, depois o céu. O capim amassado num círculo grande, onde o bicho tinha pousado. As ovelhas no curral. O pinheiral a duzentos passos, com a neve começando na linha. As montanhas atrás, cinzentas de nuvem."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senhor Penn — disse, sem se virar."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver deu um pulo."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim, senhor?"
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desenhe as duas marcas. Com a minha mão dentro, para dar o tamanho. E desenhe o círculo de capim amassado, de cima, do jeito que um pássaro veria."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim, senhor."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver desenhou. Mira ficou de pé ao lado dele, olhando o pinheiral, com a mão perto do coldre. Bligh esperou, de braços cruzados na capa, a chuva pingando do quepe."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Mira",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senhor Eskel"
+  },
+  {
+    "ordem": 135,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel, que ainda estava de cócoras ao lado da marca, ergueu a cabeça."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estou."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No escritório o senhor não parava de olhar para a montanha. Aqui não olhou nenhuma vez."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel ficou um momento calado. Depois coçou a cicatriz."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A sua avó era uma mulher sensata — disse."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Mira",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era uma velha teimosa, que brigava com o padre e com o leiteiro."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sargento"
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nenhuma, aqui. Só faltando."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E na granja dos Whitfield, ontem?"
+  },
+  {
+    "ordem": 144,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Doze faltando. Nenhuma morta."
+  },
+  {
+    "ordem": 145,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E na dos Corbett, a vaca."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A vaca aberta. Uma só."
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt ficou calado. Eskel tinha ido até o curral e estava parado no portão, de costas para eles, olhando as ovelhas que restavam. Depois entrou. As ovelhas se apertaram mais contra o fundo. Eskel andou entre elas devagar, com a mão estendida, falando baixo, num tom que Oliver nunca tinha ouvido um homem usar com bicho, e as ovelhas foram se acalmando, uma a uma, até deixarem que ele tocasse."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Geralt"
+  },
+  {
+    "ordem": 149,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt foi. Oliver foi atrás, sem que ninguém mandasse, e Mira atrás dele."
+  },
+  {
+    "ordem": 150,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No canto do curral, atrás das ovelhas vivas, meio escondida pela palha suja, havia uma ovelha caída. Não estava morta havia muito tempo. Um dia, talvez dois. Estava deitada de lado, inteira. A lã branca e suja de lama. As pernas finas esticadas. A cabeça para trás."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel se agachou e pôs a mão no flanco dela. Apertou."
+  },
+  {
+    "ordem": 152,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O flanco afundou. Afundou como afunda um saco vazio, com um barulho seco de pergaminho, e a mão de Eskel entrou na lã até o pulso sem encontrar nada."
+  },
+  {
+    "ordem": 153,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel tirou a mão. Virou a ovelha de barriga para cima com cuidado, com a ponta da bota. Não havia corte nenhum. Nenhum rasgo, nenhum buraco, nenhuma marca de dente ou de garra. A lã inteira, a pele inteira, a cabeça inteira, os olhos fechados. E dentro, nada. Nem carne, nem osso, nem tripa. Só a pele, esticada sobre o vazio, com a forma de uma ovelha."
+  },
+  {
+    "ordem": 154,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Tem mais"
+  },
+  {
+    "ordem": 155,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt ficou olhando a ovelha vazia."
+  },
+  {
+    "ordem": 156,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Atrás dele, Oliver Penn tinha parado de desenhar. Estava com o lápis parado no ar e a cara branca, e Mira tinha posto a mão no ombro dele sem perceber."
+  },
+  {
+    "ordem": 157,
+    "personagem": "Como",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Como? — perguntou Bligh, da porta do curral."
+  },
+  {
+    "ordem": 158,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém respondeu."
+  }
+]

@@ -1,0 +1,818 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon Marsh subiu a encosta de cartola."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Edgar tinha sugerido, na porta da Blackthorn, que talvez um chapéu menos alto fosse mais prático para subir montanha na neve. Gideon tinha respondido que fazia vinte anos que subia escada, telhado, torre de igreja e esgoto de cartola, e que não ia aprender a usar boné aos quarenta e cinco anos por causa de um passarinho. Edgar não insistiu. Mas agora, a meia encosta, com a neve pelos joelhos, o fôlego curto e o vento de Kaedwen tentando arrancar a cartola a cada dez passos, Gideon começava a achar que Edgar tinha razão, e que não ia admitir nunca."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver ia na frente, mostrando o caminho, pálido, de nariz vermelho de frio e com um lenço de pano grosso enfiado na manga. Tinha chegado à Rua Zouteland às dez da manhã correndo, sem fôlego, com o caderno debaixo do braço, e posto o caderno aberto em cima do mata-borrão de Gideon sem dizer bom-dia."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon tinha olhado o desenho por um tempo comprido. As penas na neve. As raízes. O capim verde num círculo. As vinhas de espinho subindo pela rocha. A mancha verde no alto do penhasco."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinha fechado o caderno e mandado Edgar pegar o casaco."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Agora, chegando ao lugar onde os bruxos esperavam, ao pé da rocha grande, Gideon parou diante do círculo verde e não disse nada por um tempo. Mira estava ali, de revólver na mão e xale no ombro. Geralt e Eskel estavam sentados numa pedra, um ao lado do outro, afiando as espadas, como se aquilo fosse uma tarde qualquer na beira de um rio."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon se agachou, com cuidado, na beira do círculo. Não tocou. Olhou as penas de veios verde-dourados, as raízes brancas entrando na terra. Olhou o capim novo, as plantinhas de folha larga, os botões. Olhou os espinhos."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E sentiu, por baixo da sola das botas, por baixo da neve, alguma coisa que conhecia."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não com os olhos. Com a outra coisa, a que tinha desde que bebeu a primeira poção, vinte anos antes, e que desde o tremor andava estranha, abafada, como ouvido debaixo de água. Uma sensação de vida demais, de seiva subindo depressa demais, de primavera fora de hora. Ele já tinha sentido aquilo uma vez, havia muitos anos, num sítio do vale do sul de Tingen, numa visita de rotina que nunca constou de relatório nenhum, à casa de um homem que plantava trigo e não pertencia a Igreja nenhuma que Gideon pudesse nomear."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senhor Geralt — disse, sem se levantar."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Capitão."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que o senhor sabe de grifos?"
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que este não é mais só um grifo."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel parou de afiar."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quem?"
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon olhou para o penhasco, para a mancha verde lá em cima, pendurada da rocha como uma barba de musgo do tamanho de uma casa."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Um",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Havia um homem num sítio ao sul da cidade — disse."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele bebia o mesmo que vocês bebem"
+  },
+  {
+    "ordem": 20,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele bebia uma coisa."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Come o que ficou no corpo também"
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E vira outra coisa."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficaram os quatro olhando o penhasco. Oliver, atrás, tinha parado de respirar."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então é isso"
+  },
+  {
+    "ordem": 25,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senhor Geralt."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu lembro. Se acharmos alguma coisa de vocês, não tocamos. Chamamos o senhor."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu já estou aqui."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então fica aqui."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon o encarou um momento. Depois tocou a aba da cartola."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Boa caça, senhor Geralt."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O penhasco número três era mais alto do que parecia de baixo."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt e Eskel subiram pelo lado norte, onde a rocha fazia degraus e fendas, e onde o vento batia mais forte e a neve tinha sido varrida até a pedra nua. Subiram sem falar, um puxando o outro onde era preciso, de mãos sem luva no granito gelado, com as espadas amarradas firme nas costas para não balançarem. Levaram quase uma hora."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na metade, o ar mudou."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt sentiu primeiro no rosto. O vento continuava frio, mas por baixo do frio, subindo da rocha, vinha um bafo morno e úmido, como de estufa. Depois sentiu nas mãos: a pedra, ali, não estava gelada. Estava morna. E na fenda seguinte, onde ele enfiou os dedos para se segurar, havia terra. Terra preta, fofa, molhada. E dela brotava capim."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Subiram mais vinte passos e o penhasco virou jardim."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não havia outra palavra. A rocha cinzenta estava coberta, de uma borda à outra, por uma camada grossa de verde: capim alto, trigo maduro com as espigas douradas pendendo, flores amarelas e brancas, folhas largas de plantas que Geralt nunca tinha visto, tudo crescendo da pedra nua, enraizado em fendas que não tinham terra nenhuma uma semana antes. Por cima de tudo, enroladas na rocha, nos degraus, em tudo, as vinhas de espinho, escuras, grossas como um braço, com espinhos do tamanho de um dedo. Pingava. O ar era quente e pesado, e zumbia de insetos que não deviam existir no inverno."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E no meio do jardim, numa plataforma larga da rocha onde o penhasco fazia um terraço natural de frente para os pastos de Tingen, estava o ninho."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era um amontoado enorme de galhos de pinheiro trançados, como todo ninho de grifo. Mas os galhos tinham brotado. Estavam verdes, com folhas novas, e os galhos tinham criado raízes que desciam pela rocha e se enfiavam nas fendas. Em volta do ninho, espalhados, estavam os restos. Peles de ovelha, dezenas, inteiras e vazias, como roupas jogadas no chão. Uma de vaca. E, encostados numa pedra, o que tinha sobrado de um homem: roupa de lã marrom rasgada, botas velhas de fazendeiro, um chapéu de palha amassado, e entre a roupa, uma ossada limpa, toda coberta, por dentro e por fora, de um musgo dourado e fino que brilhava de leve, com os mesmos veios das penas."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do pescoço da ossada pendia um colar de contas. As contas eram sementes. Sementes grandes, escuras, furadas e enfiadas num barbante."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E dentro do ninho, enrolado sobre si mesmo como um gato, dormia o grifo."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt e Eskel ficaram parados na borda do terraço, abaixados atrás de uma moita de trigo, olhando."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "De perto, era pior. O corpo de leão, deitado, era do tamanho de um boi grande. As asas, dobradas sobre as costas, tinham as penas marrom-escuras eriçadas, e por entre as penas, em vez de pele, aparecia uma coisa cinzenta e rugosa que parecia casca de árvore. Os veios verde-dourados corriam por tudo, das garras até o bico, e pulsavam devagar, no ritmo da respiração do bicho. Das garras dianteiras, que estavam apoiadas na borda do ninho, saíam fios brancos, finos como cabelo, e se enfiavam na rocha. Mesmo dormindo, ele bebia."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pelo menos ele dorme de dia — sussurrou Eskel."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Grifo dorme de dia."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As vinhas."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As vinhas são dele. Você viu no pé da rocha. Ele larga pena, a pena brota, a vinha cresce."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vinha não se mexe."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt olhou para Eskel, que olhou para Geralt."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Ontem eu ia dizer que grifo não come planta"
+  },
+  {
+    "ordem": 50,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gato."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A poção desceu queimando, e o mundo mudou de cor. A sombra do terraço ficou clara como meio-dia. Os veios do grifo, que já brilhavam, acenderam como lampiões. Geralt sentiu o coração desacelerar e as mãos ficarem firmes. Ao lado dele, os olhos de Eskel tinham virado duas fendas pretas."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel tirou do cinto a bomba de metralha. Geralt puxou a espada de prata."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Eu jogo, ele acorda, ele salta"
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E se ele não saltar?"
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aí a gente improvisa. Como sempre."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel ergueu a bomba, mediu e a jogou."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A bomba caiu na borda do ninho e explodiu com um estrondo que fez a montanha inteira ecoar."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O grifo acordou gritando. Não era o grito de um grifo, o guincho agudo de ave de rapina que Geralt conhecia de vinte caçadas. Era isso e outra coisa por baixo, um rangido grave, de madeira se partindo, de tronco velho cedendo no vento. Os pregos e o cascalho da metralha tinham se cravado no flanco direito dele, na asa, no pescoço, e onde se cravaram, em vez de sangue, saiu uma seiva grossa, cor de âmbar, que escorreu pelas penas e brilhou ao sol."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele não saltou. Ergueu-se no ninho, de asas abertas, enorme, cobrindo o céu, e abriu o bico na direção deles."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E as vinhas se mexeram."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Todas de uma vez. As vinhas de espinho que cobriam o terraço, as pedras, as bordas, se ergueram da rocha como cobras acordadas e se lançaram para os dois bruxos, sibilando no ar. Geralt girou a espada e cortou duas no voo, e a seiva espirrou na cara dele, morna, doce. Uma terceira pegou o braço esquerdo dele e se enrolou, e os espinhos entraram no couro do gibão até a pele. Ele cortou. Ela soltou."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do outro lado, Eskel não teve a mesma sorte."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uma vinha grossa como um braço o pegou pela perna direita, abaixo do joelho, e o puxou. Eskel caiu de costas no capim. A vinha o arrastou, pela rocha, na direção do ninho, e ele cortou com a espada de aço, uma, duas vezes, e a vinha não soltou. Outra se enrolou no pulso da mão da espada. Eskel largou a espada, tirou a faca da bota com a mão esquerda e cortou a do pulso."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O grifo desceu do ninho."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desceu andando, pesado, como um boi, e cada passo dele afundava na terra do terraço e fazia o chão estremecer. Foi direto para Eskel, que estava a dez passos, preso pela perna, de faca na mão. As garras dianteiras se abriram. Os fios brancos saíam delas, compridos agora, um palmo, dois, finos, se mexendo no ar como dedos de afogado."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt chegou antes."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Entrou por baixo da asa esquerda, como tinham combinado, e enfiou a espada de prata no flanco do bicho até o cabo. A lâmina passou pelas penas, pela pele, e bateu em alguma coisa dura por baixo. Madeira. Geralt sentiu na mão a vibração de um machado batendo em tronco. A espada entrou dois palmos e parou."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O grifo gritou e se virou para ele."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O golpe da asa pegou Geralt de lado e o jogou três passos para trás, no capim, sem a espada, que ficou cravada no flanco do bicho. Geralt rolou, levantou, sacou a de aço. Viu, no lugar onde a espada de prata estava cravada, o óleo de híbrido fazendo efeito: a ferida fumegava, a seiva âmbar borbulhava em volta da lâmina, e o bicho gritava de dor. Mas viu também a casca cinzenta, por baixo das penas, crescer em volta da lâmina, prendendo-a, como uma árvore engole um prego."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E o grifo tinha esquecido Geralt. Tinha voltado para Eskel."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel tinha conseguido cortar a vinha da perna. Estava se levantando, de faca na mão, quando a garra o pegou."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não foi um golpe. Foi um abraço. A garra dianteira do grifo se fechou em volta da perna direita dele, da coxa ao tornozelo, sem rasgar, sem esmagar, só fechando. E os fios brancos entraram."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel gritou. Geralt nunca tinha ouvido Eskel gritar daquele jeito, em cem anos. Era o grito de alguém que sente uma coisa errada entrar no corpo e não tem como tirar."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt correu. Com a espada de aço erguida com as duas mãos, desceu no punho do grifo, no lugar onde a garra virava pata, com toda a força das costas, das pernas, de cem anos de ofício. A lâmina de aço bateu na casca e cortou. Não inteiro. Até a metade. Seiva âmbar jorrou. O grifo uivou e abriu a garra."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel caiu de lado na terra. A perna direita dele, da coxa até o tornozelo, estava coberta de furinhos, centenas, cada um com uma gota de sangue escuro, e de alguns ainda saíam fios brancos, finos, que se torciam e se desmanchavam no ar. Ele estava branco. Muito branco. Os lábios cinzentos."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel!"
+  },
+  {
+    "ordem": 77,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Estou..."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O grifo se ergueu, de asas abertas, com a pata cortada pingando seiva, a espada de prata ainda cravada no flanco e a casca crescendo em volta dela. As vinhas em volta se ergueram de novo, todas, de todos os lados. Os veios das penas acenderam. Mais fortes. Mais claros. Subindo das garras para o peito, para as asas."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt entendeu."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A garra que tinha bebido Eskel. A seiva que jorrava e parava. A casca que fechava em volta da lâmina. As vinhas que voltavam depois de cortadas. Não adiantava cortar. Cortar era podar. Ele estava podando uma árvore."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele olhou em volta. O terraço verde, quente, úmido. O capim alto. O trigo maduro e seco nas espigas. O ninho de galhos de pinheiro, verdes por fora, secos por dentro, cheios de resina."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Abriu a mão esquerda."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fazia seis dias que não usava o Igni. Desde o bosque, desde a Lume-de-Cabana, quando o sinal tinha saído do tamanho de uma porta e queimado os pelos do braço dele e a luva. Tinha usado o Aard no esgoto, e o Aard tinha rachado uma cúpula de tijolo. Sabia o que vinha. Sabia que era grande demais. Sabia que estava num penhasco, no alto de uma montanha, com um irmão caído a cinco passos."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Rola",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel — disse."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel rolou, com a perna arrastando, para trás de uma pedra."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt fez o sinal."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não pediu pouco. Não tinha como pedir pouco; o sinal não ouvia mais pedido. Abriu os dedos na direção do ninho, do grifo, das vinhas, e o fogo saiu da palma dele como de uma boca de forja escancarada."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi como abrir uma represa. O calor subiu pelo braço até o ombro antes de sair, e quando saiu, saiu inteiro, de uma vez, num jato largo e branco no centro e laranja nas bordas, que atravessou os vinte passos do terraço sem perder força nenhuma. Pegou o capim alto. Pegou o trigo seco. Pegou as vinhas no ar, no meio do bote, e elas se torceram e chiaram e se encolheram como lagartas na brasa. Pegou o ninho de galhos de pinheiro, cheio de resina, que explodiu numa bola de chama do tamanho de uma casa. E pegou o grifo de frente, no peito, nas asas abertas, nas penas."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O bicho gritou. O rangido de madeira por baixo do grito virou um estalo contínuo, de lenha verde na fogueira."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt sentiu a luva da mão esquerda pegar fogo. Sentiu a manga do gibão. Sentiu a pele do antebraço, do pulso, dos dedos, e não fechou a mão. Manteve o sinal aberto, mais um instante, mais outro, até o terraço inteiro ser uma parede laranja e o grifo, lá no meio, uma sombra enorme se debatendo."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois fechou a mão e caiu de joelhos."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O fogo não parou quando ele fechou a mão. Já não precisava dele. O jardim do penhasco queimava sozinho, todo, de ponta a ponta, com o ronco de um incêndio de celeiro. Geralt se arrastou para trás, para a pedra onde Eskel estava, com o braço esquerdo apertado contra o peito, e o abraçou pelos ombros, e os dois ficaram encolhidos atrás da pedra enquanto o calor passava por cima deles como uma onda."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Através do fogo, viu o grifo correr para a borda do terraço, em chamas, e se jogar."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Ele vai cair lá embaixo"
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt já estava de pé."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Agora",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bebe a Andorinha — disse."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E começou a descer."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lá embaixo, ao pé da rocha, Gideon Marsh viu o penhasco pegar fogo."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Primeiro ouviu a explosão, longe, abafada pela montanha, e viu as gralhas levantarem voo de todos os pinheiros em volta. Depois ouviu os gritos, um de bicho, outros que não eram de bicho, e Mira puxou o revólver e Oliver se encolheu contra a rocha e Edgar começou a rezar baixinho, de olhos fechados, sem perceber que rezava em verso."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois, de repente, a mancha verde no alto do penhasco ficou laranja."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não pegou fogo aos poucos, como pega uma moita. Pegou toda de uma vez, de uma ponta à outra, com um ronco que Gideon sentiu no estômago, e uma coluna de fogo e fumaça subiu do terraço para o céu de Kaedwen, alta como a torre da catedral. O calor chegou lá embaixo, ao pé da rocha, como um bafo de forno aberto, e derreteu a neve em volta deles numa chuva morna."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E do meio do fogo, gritando, caiu o grifo."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Caiu do terraço em chamas, com as asas abertas e pegando fogo, como uma vela enorme despencando, e por um instante Gideon achou que ele ia planar, porque as asas se abriram inteiras e pegaram o vento. Mas as penas estavam queimando. As asas se encolheram. E o bicho caiu, girando, deixando um rastro de fumaça e de faíscas, e bateu na encosta a uns cinquenta passos deles, na neve, com um barulho de árvore derrubada."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A neve em volta dele virou vapor."
+  },
+  {
+    "ordem": 105,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém se mexe"
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém se mexeu."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O grifo ainda estava vivo. Debatia-se na neve derretida, de asas queimadas até o osso, ou até o que fazia as vezes de osso, com a espada de prata ainda cravada no flanco, e o fogo ainda lambendo as costas. Os veios de luz das penas que restavam piscavam, fortes, fracos, fortes, como lampião com pouco óleo. E das garras, das quatro, saíam fios brancos, compridos, metros deles, que se enfiavam na neve, na terra, no chão da montanha, procurando."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon viu, onde os fios entravam, a neve derreter e o capim brotar. Em segundos. Um círculo de verde crescendo em volta do bicho, cada vez maior, como uma mancha de tinta num papel. O grifo estava bebendo a montanha."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Mira",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Capitão"
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Espere."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Capitão, ele está..."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei o que ele está fazendo. Espere."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O círculo verde chegou a vinte passos deles. Os veios do grifo pararam de piscar e ficaram firmes. As asas queimadas se mexeram. O bicho tentou se levantar."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E então, do alto do penhasco, por entre a fumaça, desceu Geralt."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desceu pela rocha do lado norte, depressa demais, escorregando, pulando de degrau em degrau, com o braço esquerdo enfiado no gibão como numa tipoia e a espada de aço na mão direita. Chegou ao pé da rocha, passou por eles sem olhar, atravessou a neve derretida e o capim novo, e foi direto para o grifo."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O grifo o viu e abriu o bico."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt não parou. Saltou por cima da garra que veio na direção dele, girou no ar e, quando caiu, caiu com a espada de aço apontada para baixo, as duas mãos no punho, o braço queimado e o bom, e enfiou a lâmina no olho esquerdo do bicho, até o cabo."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O grifo parou."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficou parado, de bico aberto, de asas meio erguidas, por um instante longo. Os veios das penas brilharam uma última vez, fortes, verdes, dourados, como uma janela acesa. Depois se apagaram. Todos de uma vez."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O bicho caiu de lado na neve. Não se mexeu mais."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt soltou a espada. Ficou de pé ao lado do corpo, de costas para eles, com a mão esquerda queimada pendurada, respirando fundo. Depois se virou para Gideon."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Atrás",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel está lá em cima — disse."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon olhou o braço esquerdo do bruxo. A manga do gibão tinha queimado até o cotovelo. A luva não existia mais; tinha virado uma crosta preta grudada nos dedos. Por baixo dela, a pele estava vermelha e cheia de bolhas, e em dois lugares, no pulso e na palma, branca."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O senhor fez aquilo"
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fiz."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sem frasco. Sem pólvora."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sem nada."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon guardou isso. Guardou junto com a casca de árvore crescendo em volta de uma espada de prata, com os fios brancos saindo de garras, com as ovelhas vazias, com o grito de madeira rachando que tinha descido do penhasco antes do fogo. Guardou tudo, como guardava tudo, para o relatório que ia escrever naquela noite e que ninguém, talvez nunca, ia ler."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon mandou Edgar e Mira subirem. Mandou Oliver correr até a estrada e trazer Bligh, a carroça, os policiais e cordas. Os três foram, correndo na neve derretida. Ele ficou, sozinho com o bruxo e o bicho."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficou ao lado de Geralt, olhando o grifo morto."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O capim novo em volta do corpo tinha parado de crescer. O fogo das costas tinha apagado. O cheiro era de pena queimada, de seiva, de trigo torrado. As garras estavam abertas, e os fios brancos, compridos, enterrados na neve, estavam murchos, cinzentos, imóveis."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon tirou a luva da mão direita e estendeu a palma aberta, devagar, sobre o flanco do bicho, a um palmo de distância, sem tocar."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E puxou a mão de volta."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O corpo estava quente. Não morno de animal que acabou de morrer. Quente. Quente como uma pedra de forno, como um pão saindo do fogo. E o calor não diminuía. Gideon esperou, com a mão parada no ar, contando as respirações. Dez. Vinte. Trinta."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não diminuía."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Debaixo do corpo, a neve continuava derretendo, em silêncio, e da terra molhada, entre as penas queimadas, começavam a brotar, finíssimas, verdes, umas folhinhas de trigo."
+  }
+]

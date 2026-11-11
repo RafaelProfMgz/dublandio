@@ -1,0 +1,1088 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel saiu da cela com a cabra no colo."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pequena Balida tinha engordado na cadeia. Os guardas de Tingen davam a ela casca de batata, repolho, o miolo do pão do almoço e, segundo o cabo de plantão, um biscoito com manteiga que um deles trazia de casa escondido, e ela tinha ficado redonda e arrogante, e agora berrava nos braços de Eskel porque não queria ir embora."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Ela gostou daqui"
+  },
+  {
+    "ordem": 4,
+    "personagem": "Ciri",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Ela gostou do biscoito"
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É a mesma coisa."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eram nove da manhã do décimo quinto dia, e a delegacia da Rua do Canal estava cheia como uma feira. Havia uma mulher reclamando de um vizinho que tinha posto a cerca três palmos para o lado dela, dois homens algemados no banco do corredor, um menino que tinha achado um pato de outro mundo na Rua Norte e queria saber se podia comer, e no meio de tudo, atrás do balcão, o sargento Bligh, de bigode e quepe, mexendo em papéis com cara de quem tinha dormido três horas."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt estava encostado na parede do lado da porta, de braços cruzados. Tinha descido com Ciri ao amanhecer só para buscar Eskel. Lambert tinha ficado em Kaer Morhen, furioso, porque Vesemir tinha dito que ele e Eskel iam sair juntos em reconhecimento quando Eskel voltasse, e não antes, e Lambert tinha dito o que achava de esperar uma cabra sair da cadeia."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bligh levantou os olhos dos papéis e viu os três."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Não",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bruxos — disse, e o bigode se mexeu de um jeito que podia ser alívio."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hm"
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri viu o sargento revirar uma gaveta, achar uma folha dobrada e vir até eles pelo lado do balcão, desviando da mulher da cerca."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "A cela está paga"
+  },
+  {
+    "ordem": 13,
+    "personagem": "Bligh",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não é a cela."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt desdobrou a folha. Era uma carta escrita numa letra miúda e inclinada de Loen, que nenhum deles sabia ler, com um carimbo roxo da Blackthorn embaixo e, ao lado do carimbo, um desenho a lápis: uma casa de três andares, estreita, com uma janela de sótão no telhado, e na janela do sótão um rosto de mulher, só os olhos e a boca."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver desenhou? — perguntou Ciri."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Bligh",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O capitão mandou o rapaz desenhar, já que vocês não leem."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt dobrou a carta."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quem paga?"
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A dona. Sra. Corwin. Viúva. Não tem muito."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quanto é não ter muito?"
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uma libra, ela disse. Talvez uma e meia."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri viu o canto da boca de Geralt descer um pouco. Era o jeito dele de quando alguém oferecia três coroas por um ninho de afogadores; Ciri conhecia aquela cara das histórias que ele contava em Kaer Morhen, quando ela era menina, e de uma ou duas estalagens de Velen, no ano em que se reencontraram. Depois ele se virou para Ciri, e o canto da boca subiu."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que você acha?"
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela demorou um momento para entender que a pergunta era de verdade."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu acho que faz três anos que eu não pego um contrato — disse. — E que eu não sei quanto custa um fantasma em libras."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém sabe. É o primeiro."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel olhou os dois, com a cabra berrando no colo, e a cicatriz dele se mexeu num sorriso."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Digo que vocês foram trabalhar — disse."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Rua da Cruz de Ferro descia da estação de carruagens até o rio, e na parte de baixo as casas ficavam mais estreitas, mais pretas de fuligem e mais encostadas umas nas outras, como gente velha num banco. A pensão da Sra. Corwin ficava no número quarenta e um, três casas acima do Ganso Cinzento. Era exatamente a casa do desenho de Oliver: três andares de tijolo escurecido, uma porta verde descascada, uma placa de latão com letras que Ciri não lia e, no telhado de ardósia, a janela do sótão."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O medalhão de Geralt começou a tremer na escada da porta."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri viu. Ele pôs a mão em cima, de leve, e o tremor continuou por baixo dos dedos dele, miúdo, feito um bicho respirando."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Forte? — perguntou ela."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fraco. Constante."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Sra. Corwin era uma mulher de uns sessenta anos, de vestido preto de luto antigo, alta, magra, com o cabelo grisalho preso numa rede e as mãos vermelhas de lavar roupa. Abriu a porta, viu dois estranhos de espada nas costas e olhos esquisitos, e não fechou. Ciri gostou dela por isso."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sargento mandou"
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os da montanha. — A mulher mediu Ciri de cima a baixo."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Ciri",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Agora tem"
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A cozinha era no térreo, quente, com uma chaleira no fogão e uma mesa comprida de pinho riscada de faca. A Sra. Corwin serviu chá preto, forte, sem perguntar se queriam. Geralt sentou com a caneca entre as mãos e começou."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri conhecia aquilo. Tinha visto Geralt fazer aquilo poucas vezes de perto, e ainda assim ficou olhando como da primeira vez. Ele perguntava com calma e com ordem, e não deixava nenhuma resposta passar sem a seguinte. Quando começou. Onde. A que horas. Quem viu. Quem ouviu. O que exatamente. Quem estava na casa. Quem saiu. Quem ficou. O que mudou antes."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As respostas vieram aos poucos, e a Sra. Corwin as dava como quem paga dívida, com o queixo para cima."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Começou na noite do tremor. Antes, a casa tinha frio no sótão. Sempre teve. Trinta anos de frio no sótão, que nenhum fogão esquentava, e às vezes um suspiro, de madrugada, que os inquilinos antigos chamavam de \"a moça\" e os novos não ouviam. Os homens da Blackthorn vieram uma vez, há muitos anos, olharam, anotaram num caderno e disseram que não fazia mal. E não fazia."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois do tremor, o frio desceu. Primeiro o terceiro andar, depois o segundo. Os vidros das janelas amanheciam com geada do lado de dentro. A máquina de costura velha do sótão, que não funcionava havia trinta anos, começou a funcionar de noite: dava para ouvir o pedal, tec-tec-tec, o corredor inteiro ouvia. Dois inquilinos foram embora na primeira semana."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E os que ficaram? — perguntou Geralt."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Sr. Pell, do segundo andar. Contador aposentado. E a Sra. Dale com o menino, no terceiro. Não têm para onde ir. — A Sra. Corwin baixou a voz. — O Sr. Pell, na noite de anteontem, eu achei no sótão. Às três da manhã. Dormindo. De pé. Com a fita métrica da máquina enrolada no pescoço, e ele puxando."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri parou a caneca a meio caminho da boca."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E a Sra. Dale? — perguntou Geralt."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Sra. Dale ouve o filho chamar. Do sótão. De madrugada. \"Mãe, mãe, sobe aqui.\" E o menino está dormindo do lado dela, na cama, com a cabeça no braço dela."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quem era a moça? — perguntou Geralt."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Sra. Corwin ficou um tempo calada, de olhos na chaleira."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "por: Lottie Fairbanks"
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E?"
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E Lottie ficou lá em cima costurando para fora, de luva, para pagar. Uma semana. Duas. Não descia. Minha sogra não subia. — A Sra. Corwin pôs a colher na mesa, alinhada com a borda."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém disse nada. A chaleira chiou no fogão."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A sua sogra? — perguntou Ciri."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Se",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Morreu fazia vinte anos. Na cama, quente, com três cobertores. — A Sra. Corwin levantou os olhos para ela."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt bebeu o chá até o fim."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Duas libras — disse."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A mulher fechou a cara."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu disse ao sargento uma."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sargento me disse uma e meia."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E se ela sair e o senhor quebrar a minha casa?"
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A senhora desconta."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Sra. Corwin olhou Geralt, depois Ciri, depois as espadas."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uma e meia, a cama e o jantar. E o senhor não quebra a máquina. Era dela."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt pensou. Ciri sabia que ele já tinha decidido antes de abrir a boca; o pensamento era para a mulher ver."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fechado."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na escada, subindo para o segundo andar atrás da dona, Ciri cutucou as costas dele."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você aceitou uma e meia."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aceitei."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você ia aceitar uma."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ia."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então por que pediu duas?"
+  },
+  {
+    "ordem": 73,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque ela precisava pechinchar"
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri riu baixo. Era a mesma coisa que ele tinha dito a ela em Novigrado, uma vez, com outras palavras, e ela tinha esquecido."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Sr. Pell era um homem miúdo de setenta anos, de colete e mangas de camisa, com óculos na ponta do nariz e uma marca vermelha em volta do pescoço, fina, como de um fio. Não lembrava de nada. Tinha ido dormir às dez, depois de ler o jornal e tomar o tônico, e acordado na cozinha com a Sra. Corwin chorando e um copo de conhaque na boca."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sonhou alguma coisa? — perguntou Geralt."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O velho pensou."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Muito",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sonhei que estava com frio — disse."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No terceiro andar, a Sra. Dale abriu a porta com o menino agarrado na saia. Era uma mulher jovem, de rosto magro, viúva de um maquinista da linha de Constant City que tinha morrido no ano anterior, e não quis falar na frente do filho. Ciri se agachou na frente do menino."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Como você se chama?"
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Toby."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quantos anos?"
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sete. E meio."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Toby, você sabe quem mora no sótão?"
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O menino olhou para a mãe. A mãe não disse nada. Ele olhou de novo para Ciri."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A moça que canta — disse."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que ela canta?"
+  },
+  {
+    "ordem": 88,
+    "personagem": "Toby",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uma música de linha."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você tem medo dela?"
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Toby pensou com seriedade."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Antes não. Antes ela cantava e parava. Agora ela me chama. Com a minha voz."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Sra. Dale pegou o menino no colo e fechou a porta."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri ficou de pé no corredor, olhando a porta fechada. Geralt estava ao lado dela, com a mão no medalhão."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Assombração",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Espectro? — perguntou ela baixo."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Parecido."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O tremor."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O tremor."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E você vê?"
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vou descobrir hoje à noite."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Subiram ao sótão às quatro da tarde, com luz, para conhecer o lugar."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A escada era tão estreita que Geralt subiu de lado. A porta no alto tinha uma fechadura nova e, embaixo da fechadura, as marcas antigas de um arrombamento, de trinta anos, mal tapadas com massa. A Sra. Corwin deu a chave e ficou no pé da escada."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lá dentro fazia frio de rua. Mais. O sótão era um quarto comprido debaixo do telhado inclinado, com uma cama de ferro sem colchão, um armário sem portas, uma cadeira, um manequim de costura de pano marrom, sem cabeça, e, debaixo da janela do telhado, uma máquina de costura de ferro preto com um pedal de grade, desenhos dourados apagados no corpo e um carretel de linha branca ainda espetado no pino."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A janela tinha geada do lado de dentro. Ciri chegou perto. A geada fazia desenhos de samambaia no vidro, e no meio dos desenhos havia cinco riscos paralelos, compridos, de cima para baixo, como dedos que tivessem descido devagar pelo vidro."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt."
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu vi."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O medalhão tremia mais forte. Geralt andou pelo sótão em volta da máquina sem tocar nela, olhando o chão, o teto, a cama, o armário. Abaixou-se perto do pedal. No pó do chão, em volta do pedal, não havia pegada nenhuma."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Mas",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém pisa aqui faz anos — disse."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri se agachou do lado dele. O pó cobria tudo, a cadeira, o manequim, o corpo da máquina. A grade de ferro do pedal estava brilhando, polida, como se alguém tivesse pedalado ali todas as noites. Ela encostou a ponta do dedo. Estava tão fria que grudou e soltou com um estalinho."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela olhou o carretel. A linha branca descia do pino, passava pelas guias, entrava na agulha e terminava presa num pedaço de pano cinza debaixo do calcador. O pano era de lã grossa. Tinha uma costura começada, reta, de um palmo, e depois a costura ficava torta, e depois parava."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Ciri",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Ela não acabou"
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Se eu acabar, eu vou jantar."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt olhou para ela. Ela viu que ele estava pensando a mesma coisa, e que não ia dizer em voz alta porque era o tipo de coisa que nos contratos de antes ele chamava de sentimental e que muitas vezes resolvia o contrato."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hoje à noite a gente vê o que ela quer"
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por quê?"
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque o frio entra mais em quem está de barriga cheia e com sono."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Isso é verdade ou ele inventou?"
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém nunca soube."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Entre o sótão e o jantar, foram ao Ganso Cinzento."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi ideia de Ciri. Jaskier tinha contado, em Kaer Morhen, com a voz de quem conta uma façanha, que no Ganso havia um pianista que sabia todas as canções de Awwa, e Ciri tinha guardado aquilo do jeito que guardava tudo o que Jaskier dizia, metade como piada, metade como informação."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Archie estava no tablado, de chapéu, tocando uma valsa lenta para um salão quase vazio. Tinha setenta anos e quatro dedos na mão esquerda, e quando Ciri cantarolou para ele a música de Toby, só a melodia, errando duas notas, ele parou a valsa no meio."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Linha de cá, linha de lá"
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que é?"
+  },
+  {
+    "ordem": 124,
+    "personagem": "Archie",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Canção das moças da fábrica de linho do Tussock. Elas cantavam no tear para contar o ritmo. Quando a fábrica fechou, cantavam na rua, pedindo trabalho."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri não disse nada. Geralt pôs uma moeda de pence em cima do piano."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na volta, subindo a rua no fim da tarde, com os lampiões a gás sendo acesos um por um por um homem de vara comprida, Ciri andou calada um bom pedaço."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você sentiu falta disso? — perguntou Geralt."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela levou um tempo para entender que ele estava perguntando a ela."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do quê?"
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Disso. Cozinha de gente que paga mal. Velho que lembra de canção. Sótão frio."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri pensou em mentir e desistiu, porque era Geralt."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Senti",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senti — disse."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senti."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele disse só isso, sem olhar para ela, e continuou andando. Ciri ficou um passo atrás, olhando as costas dele e as duas espadas, e sorriu sozinha, de um jeito que nenhum ministro de Nilfgaard tinha visto em três anos."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O jantar da Sra. Corwin foi ensopado de carneiro com batata e ervilha, pão de centeio e mais chá. Ciri comeu pouco, e de má vontade, porque o ensopado estava bom. O Sr. Pell comeu com eles e contou, sem que ninguém pedisse, a história de cada rua de Tingen onde já tinha morado, e Ciri gostou dele também. A Sra. Dale não desceu. Mandou pedir o prato do menino e levou para cima."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Às onze, os inquilinos estavam trancados nos quartos, com velas acesas e, por ordem de Geralt, acordados: o Sr. Pell com um livro, a Sra. Dale com o filho no colo e a cadeira encostada na porta. A Sra. Corwin ficou na cozinha com a chaleira e um livro de orações da Deusa, de capa preta."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt e Ciri subiram ao sótão com uma lamparina e uma vela."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sentaram no chão, de costas para a parede da porta, de frente para a máquina, a uns cinco passos dela. Geralt passou o óleo na espada de prata com cuidado, da guarda à ponta, com um pano, e a lâmina ficou com um brilho fosco, esverdeado. Passou o resto na espada de Ciri. Ela deixou. Pôs a espada atravessada nos joelhos."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A vela estava no chão, entre eles e a máquina. A lamparina ficou ao lado de Geralt, com a chama baixa."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Esperaram."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri tinha esperado assim muitas vezes, em celeiros, em cemitérios, em ruínas de mundos que não eram o dela, quase sempre sozinha, antes de ser imperatriz. Fazia três anos que não esperava. Em Nilfgaard não se esperava daquele jeito. Lá se esperava de pé, em salas grandes, com o rosto parado, enquanto um velho lia um relatório. Ela tinha esquecido o que era o silêncio de antes de um contrato: o corpo inteiro ouvindo, o coração devagar, a mão leve no cabo."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lembrou em dez minutos. Gostou de lembrar. Sentiu vergonha de gostar e deixou a vergonha para depois."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Às onze e meia, ela se inclinou para ele, sem tirar os olhos da máquina."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Se ela aparecer — sussurrou —, qual é o plano?"
+  },
+  {
+    "ordem": 145,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Primeiro, olhar. Saber o que ela quer."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E depois?"
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois, se precisar, Yrden em volta da máquina. Nos nossos, o Yrden prende o que não tem corpo e obriga a ter. Aí a prata corta."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E nos deles?"
+  },
+  {
+    "ordem": 149,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt demorou."
+  },
+  {
+    "ordem": 150,
+    "personagem": "Ninguém",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sei — disse."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vesemir diria que a gente vai descobrir do jeito difícil."
+  },
+  {
+    "ordem": 152,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vesemir diria que a gente devia ter perguntado à Mira antes."
+  },
+  {
+    "ordem": 153,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você perguntou?"
+  },
+  {
+    "ordem": 154,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela estava ocupada."
+  },
+  {
+    "ordem": 155,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri ficou pensando nisso, no velho com o livro e no menino no colo da mãe, dois andares abaixo, e apertou um pouco mais o cabo da espada."
+  },
+  {
+    "ordem": 156,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "À meia-noite, longe, do lado do centro, o sino da catedral de Tingen bateu doze vezes."
+  },
+  {
+    "ordem": 157,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na última, o medalhão de Geralt pulou."
+  },
+  {
+    "ordem": 158,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri ouviu. Um estalo de metal na corrente, como se alguém tivesse puxado de baixo. Geralt não se mexeu. Só os olhos dele se mexeram, as pupilas abrindo até ficarem pretas inteiras na luz fraca."
+  },
+  {
+    "ordem": 159,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A chama da vela deitou para o lado da máquina."
+  },
+  {
+    "ordem": 160,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O frio veio depois, e veio de uma vez, como água fria entrando por baixo da porta. Ciri sentiu nos tornozelos primeiro, depois nos joelhos, depois no peito, e o hálito dela virou fumaça. Na janela do telhado, a geada cresceu do lado de dentro com um estalo miúdo de folha seca."
+  },
+  {
+    "ordem": 161,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E o pedal da máquina se mexeu."
+  },
+  {
+    "ordem": 162,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tec. Tec. Tec-tec-tec."
+  },
+  {
+    "ordem": 163,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A roda grande do lado da máquina começou a girar. A agulha subiu e desceu. O carretel de linha branca rodou no pino. Debaixo do calcador, o pano cinza andou, e a costura torta andou junto, e Ciri ficou olhando, de espada nos joelhos, a máquina de costura de uma morta costurar sozinha no escuro de um sótão de outro mundo."
+  },
+  {
+    "ordem": 164,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não havia ninguém na cadeira."
+  },
+  {
+    "ordem": 165,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você vê? — perguntou ela, sem voz quase."
+  },
+  {
+    "ordem": 166,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt estava olhando a cadeira. Os olhos dele estavam apertados, as pupilas inteiras, e ele olhava como olhava névoa, procurando a borda de alguma coisa."
+  },
+  {
+    "ordem": 167,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vejo o ar mais grosso"
+  },
+  {
+    "ordem": 168,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não vejo nada."
+  },
+  {
+    "ordem": 169,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 170,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tec-tec-tec. A linha corria."
+  },
+  {
+    "ordem": 171,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois, de baixo, do terceiro andar, através do chão de tábua, veio uma voz."
+  },
+  {
+    "ordem": 172,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt!"
+  },
+  {
+    "ordem": 173,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era uma voz de mulher. Jovem. Rouca de grito."
+  },
+  {
+    "ordem": 174,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt, socorro! Aqui embaixo! É o menino! Geralt, desce, ele não está respirando!"
+  },
+  {
+    "ordem": 175,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri sentiu o sangue sair do rosto dela de uma vez."
+  },
+  {
+    "ordem": 176,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt já tinha virado a cabeça para a porta, já tinha o corpo meio de pé, a mão na espada, e parou no meio do movimento. Parou e olhou para Ciri, sentada ao lado dele, de boca fechada, com a espada nos joelhos."
+  },
+  {
+    "ordem": 177,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A voz gritou de novo, lá embaixo, desesperada, arrastando o nome dele como Ciri arrastava quando era menina em Kaer Morhen e caía do pêndulo."
+  },
+  {
+    "ordem": 178,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt!"
+  },
+  {
+    "ordem": 179,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era a voz dela."
+  },
+  {
+    "ordem": 180,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri ouviu a própria voz chamar de dentro de um quarto onde ela não estava, e a máquina de costura atrás dela não parou. Tec-tec-tec."
+  },
+  {
+    "ordem": 181,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Essa sou eu"
+  }
+]

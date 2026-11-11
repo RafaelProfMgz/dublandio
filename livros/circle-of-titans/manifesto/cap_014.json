@@ -1,0 +1,1178 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Museu Espacial de Kennedy, Flórida"
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fraw Bow chegou ao telefone com o pano de prato ainda na mão e a sola do pé direito cortada por um caco do prato que tinha deixado cair no corredor."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kikka estava ao lado do aparelho, na mesinha da entrada, de olhos enormes, com o fone deitado em cima da lista telefônica e as duas mãos atrás das costas, porque sabia que tinha feito alguma coisa importante e não sabia se era boa. Letz tinha aparecido na porta da cozinha. Lá fora, pela janela, o sol das cinco da tarde batia de lado no telhado do hangar dos fundos."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fraw pegou o fone."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amuro?"
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do outro lado, nada. Uma respiração. Um ruído de fundo de casa grande e vazia, um relógio, talvez, ou uma geladeira."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amuro, é você?"
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sou eu."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela se sentou no degrau da escada, porque as pernas resolveram por ela. Fazia três anos que tinha mandado a carta. Fazia cinco que não ouvia aquela voz, e na última vez ela estava do outro lado de um portão de ferro em Shyenne, dizendo volta outro dia, Fraw, hoje eu não estou bem, e Fraw tinha voltado para a Flórida no mesmo ônibus e não tinha voltado outro dia."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A voz estava mais grave. Mais cansada. Mas era a mesma."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Amuro",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu recebi a sua carta"
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Há três anos."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fraw riu. Saiu sem querer, curto, com água nos olhos, e ela tapou a boca com o pano de prato e mandou Kikka para a cozinha com um gesto da outra mão. Kikka não foi."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Fraw",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você está bem?"
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sei."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você está doente?"
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não. — Uma pausa. — Fraw, esse telefone está grampeado. O meu. Tudo o que eu disser vai para uma folha, e a folha vai para Denver."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então não diga nada que você não queira numa folha."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu quero que vá para a folha. — Ela ouviu Amuro respirar. — Você viu o filme? O do Havaí?"
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vi. Todo mundo viu. O Hayato viu três vezes."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os Asshimar tinham tanques externos. Embaixo das asas. Largaram no mar antes de descer. — A voz dele ficou diferente, mais firme, uma voz que Fraw lembrava da cabine de comando da White Base, de quando ele explicava a Hayato por que o Guncannon estava puxando para a esquerda. — Ninguém leva tanque externo numa interceptação de uma hora e meia. Eles voaram nove horas. Dez. Diz isso ao Hayato."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amuro..."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Diz exatamente isso. Tanques externos. Nove ou dez horas. Ele vai entender."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fraw apertou o fone."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por que você está me dizendo isso?"
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O silêncio do outro lado durou tanto que ela pensou que ele tivesse desligado."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Amuro",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque hoje de manhã veio um homem de Augusta aqui"
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Augusta."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você sabe o que é."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Fraw",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sei."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não posso."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pode. Tem um quarto. Ninguém vai te perguntar nada. Eu escrevi isso."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei o que você escreveu. Eu li ontem à noite. — Outra pausa, mais curta. — Eu não posso sair desta casa, Fraw. E se pudesse, eu não sei se sairia. Eu tenho medo de avião. Está na minha ficha."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então eu vou aí."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu ia de qualquer jeito na semana que vem. Eu já tinha decidido antes de você ligar. Eu vou levar bolo. — Ela enxugou os olhos com o pano de prato. — De chocolate. Você gostava."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fraw, não. Eles vão estar olhando. Augusta. Os Titans. Qualquer um que chegar perto de mim agora vai para uma folha também."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu já estou numa folha. Eu estou casada com o Hayato."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do outro lado, pela primeira vez, ela ouviu alguma coisa que podia ser um riso, ou o começo de um."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Amuro",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Está mesmo"
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu vou na sexta. Com o Katz, que dirige e não para quieto. Você vai abrir o portão?"
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não abro o portão. Os guardas abrem."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então vai pedir aos guardas."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele não respondeu. Fraw esperou, apertando o fone, olhando o pé, que tinha deixado uma mancha pequena de sangue no tapete da escada."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fraw"
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu digo."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hoje."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hoje à noite, ele vai ter companhia"
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fraw ficou com o fone na mão. Kikka, ao lado da mesinha, perguntou:"
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era o Amuro do Gundam?"
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele vem?"
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não. A gente vai."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Garuda Audhumla, sobre o mar do Caribe"
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Audhumla saiu da pista do Amapá às sete da noite, hora de Jaburo, com o sol já posto e os tambores de Lameira apagados um por um atrás dele pelos rapazes de chapéu de palha, e voou para o norte a doze mil metros, sobre o mar, com todas as luzes de navegação desligadas e o transponder em silêncio."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Às sete e quarenta, no porão de carga, o rádio do capitão Antunes pegou a emissora de Caracas, que repetia a notícia de Dakar. Inimigo armado da Federação. Antunes pôs no alto-falante sem perguntar a ninguém. Os onze da guarnição que tinham ficado ouviram sentados no chão, perto do Guntank, e ninguém comentou. A cabo Rocha, de pé ao lado do GM Cannon dela, cuspiu no chão de metal e esfregou com a bota."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kai Shiden escrevia."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinha conseguido de Lameira, em troca da promessa de mandar uma garrafa de uísque escocês que os dois sabiam que ele nunca ia mandar, uma máquina de escrever portátil verde, de teclas duras, com a letra e gasta e a fita no fim. Tinha montado um escritório no chão do porão, sentado num caixote de munição vazio, com a máquina em cima de outro e as costas apoiadas na perna do Rick Dias de Apolly. Escrevia com dois dedos, depressa, sem parar, do jeito que tinha aprendido em Belfast, e arrancava as folhas do rolo com um barulho de papel rasgado que se ouvia no porão inteiro."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kamille dormia no chão, a três metros, enrolado numa lona de carga, com a cabeça num capacete. Reccoa tinha mandado de novo, às quatro da tarde, na pista, e dessa vez ele tinha obedecido sem responder, e caído no sono em dois minutos. Dormia de boca aberta. De vez em quando, mexia a mão."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Às nove, Quattro desceu a escada de serviço e parou atrás de Kai."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não disse nada. Kai continuou escrevendo até o fim do parágrafo, arrancou a folha e a estendeu para trás por cima do ombro, sem se virar. Quattro a pegou. Leu de pé, debaixo de uma das luzes do porão, segurando a folha um pouco longe dos olhos."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kai sabia de cor o que estava escrito. Estava escrevendo aquilo havia vinte e quatro horas, de cabeça, desde a cela."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na tarde de 11 de maio, a guarnição regular de Jaburo foi deixada para trás pelos Titans sobre uma bomba nuclear de três núcleos, com relógio, a 150 metros de profundidade, ao lado do abrigo para onde a mesma guarnição havia recebido ordem de descer. O autor estava preso no bloco C de Jaburo havia dezessete dias e viu, nos cinco dias anteriores, os Titans retirarem da base os próprios homens, as famílias, os arquivos e até um piano. No mesmo dia, a sete mil quilômetros, uma força dos Titans saída da Nova Guiné chegou a Oahu a tempo de matar uma criatura que, segundo testemunhas, já havia sido detida na praia pela Marinha. A Nova Guiné fica a mais de oito horas de voo de Oahu. Os Titans decolaram antes de a criatura sair do mar. Às 21h40 do dia 12, hora de Dakar, o Conselho Federal..."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quattro devolveu a folha."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Está bom — disse."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Está bom não é publicável."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Por que não?"
+  },
+  {
+    "ordem": 69,
+    "personagem": "Kai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque a partir das nove e quarenta da noite de ontem, hora de Dakar, qualquer jornal que imprimir isso está publicando propaganda do inimigo armado da Federação."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Então tire o seu nome."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Kai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aí vale menos ainda."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "O sargento Nogueira foi se apresentar à Marinha em Macapá."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi. E amanhã ele está preso, e o depoimento dele está numa gaveta da Nova Guiné."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quattro ficou em silêncio. Kai voltou a bater. Depois de um momento, sem levantar os olhos, perguntou:"
+  },
+  {
+    "ordem": 75,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "O senhor nunca quis ser jornalista?"
+  },
+  {
+    "ordem": 76,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Não."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Kai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Faz bem."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quattro não respondeu. Mas Kai, quando enfim levantou a cabeça, viu que ele continuava ali, de pé, de óculos escuros no porão mal iluminado, olhando Kamille dormir enrolado na lona, e que a mão dele, ao lado do corpo, estava aberta, parada, como a de quem tinha esquecido de que tinha uma."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kennedy, Flórida"
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Audhumla pousou em Kennedy às onze e meia da noite, hora da Flórida, na pista comprida que os ônibus espaciais usavam antes da guerra e que o museu mantinha, por contrato com a Federação, \"em condições de exposição\". Quatro mil e quinhentos metros de concreto no meio do pântano, com garças dormindo nos dois lados. As luzes da pista estavam acesas. Alguém as tinha ligado havia dez minutos, e ia desligar dali a uma hora."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kamille acordou com o baque das rodas e ficou um tempo sem saber onde estava. A lona. O capacete. O chão de metal tremendo. Reccoa, de pé perto da rampa, olhando pela vigia."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Chegamos"
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A rampa desceu num ar morno, úmido, cheio de grilo e de sapo. Ao pé dela, sob as luzes amarelas da pista, havia um caminhão com o logotipo do museu pintado na porta, duas camionetes, um trator de reboque e uns quinze homens e mulheres de macacão, e na frente deles um homem baixo e largo, de cabelo curto, que Kamille reconheceu de uma foto: Hayato Kobayashi, do Guncannon, da White Base, mais velho e mais pesado do que na foto e de braços cruzados do mesmo jeito."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ao lado dele, um rapaz da idade de Kamille, magro, de cabelo espetado, já com um pé na rampa antes de ela tocar o chão."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Hayato",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Katz!"
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O rapaz recolheu o pé. Por um segundo."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kai desceu primeiro. Desceu a rampa com as mãos nos bolsos, a camisa aberta, a barba de dezessete dias, e parou na frente de Hayato. Os dois ficaram um momento se medindo."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Kai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você engordou mesmo"
+  },
+  {
+    "ordem": 89,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Você está horrível."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Eu estava preso."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Hayato",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Já me disseram isso pelo rádio."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quattro desceu em seguida. Hayato soltou Kai e estendeu a mão."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Capitão Quattro."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Senhor Kobayashi. Obrigado pela pista. As duas."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Hayato",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Esta aqui é emprestada. Vocês têm até uma e meia."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kamille, atrás, ao pé da rampa, viu Quattro parar. Não foi um movimento. Foi o contrário: por meio segundo, nada nele se mexeu, nem a mão, nem a boca, nem a cabeça, e então tudo voltou ao lugar."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Amuro Ray"
+  },
+  {
+    "ordem": 99,
+    "personagem": "Hayato",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele ligou para cá. Pela primeira vez em anos. Do telefone da casa, que é grampeado, e ele sabe que é."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kai tirou as mãos dos bolsos."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Nove ou dez horas — repetiu. — Ele calculou de um filme."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Hayato",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele calculava trajetória de cabeça com quinze anos."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Kai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Isso não é ninguém"
+  },
+  {
+    "ordem": 104,
+    "personagem": "Hayato",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele é Amuro Ray"
+  },
+  {
+    "ordem": 105,
+    "personagem": "Kai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É de ninguém agora. Está trancado numa casa há sete anos."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Tenho. Grampeado também, provavelmente."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Ótimo. Quem escuta o seu é mais burro que quem escuta o dele."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Katz Kobayashi achou Kamille dentro do porão de carga dez minutos depois, ao pé do Mk-II, ajudando os mecânicos do museu a prender o cabo do trator na base do berço do Guntank, que Hayato tinha pedido para ficar em Kennedy, \"para a exposição\"."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Katz",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É o Gundam"
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kamille, agachado, levantou os olhos. O rapaz de cabelo espetado estava parado na frente do Mk-II com a cabeça inclinada para trás, olhando a cabeça branca lá em cima, a antena em V, os olhos apagados."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "É o Mk-II"
+  },
+  {
+    "ordem": 112,
+    "personagem": "Katz",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É um Gundam."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Sou."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você é o que bateu num Titan em Green Noa. O Kai contou. Lá fora. Para todo mundo."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kamille se levantou."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Ele bateu também?"
+  },
+  {
+    "ordem": 117,
+    "personagem": "Katz",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele disse que só assistiu."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Ele faz bem."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sorriso de Katz caiu."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Você tem dezessete anos."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Tenho."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "E pilota um Gundam."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Eu roubei."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "E ninguém te impediu."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kamille o encarou. Lembrou do tapa de Emma. Lembrou de Wong Lee, no hangar de Amman, e do chão de metal na boca. Lembrou de Kacricon gritando no rádio enquanto queimava. Não disse nada disso."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Todo mundo tentou — disse. — Não adiantou. Isso não quer dizer que eles estavam errados."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Katz ficou um tempo olhando para ele, como se esperasse que Kamille dissesse outra coisa. Então voltou a olhar o Mk-II."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Ver",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A minha mãe vai a Shyenne na sexta — disse."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "O Amuro Ray?"
+  },
+  {
+    "ordem": 130,
+    "personagem": "Katz",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele é como se fosse meu tio. Meio."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kamille olhou a cabeça do Mk-II também. Pensou no homem que tinha pilotado o primeiro Gundam aos quinze anos e que estava trancado numa casa em Shyenne e que, naquela tarde, tinha visto um filme na televisão e feito uma conta. Pensou na noite de 3 de maio, no hangar, quando a metade escura da Terra tinha ficado cheia. Perguntou-se se Amuro Ray tinha sentido também."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não perguntou a Katz."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O telefone do escritório de Hayato, no segundo andar do museu, ficava em cima de uma mesa de aço, ao lado de uma maquete do White Base do tamanho de um gato. Kai Shiden ligou para Belfast à meia-noite e cinquenta, hora da Flórida. Em Belfast eram quase seis da manhã."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Corrigan atendeu em casa, na quarta chamada, com a voz de quem tinha dormido de roupa."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Se for o Kai Shiden, eu desligo."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "É o Kai Shiden."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Por que você não está morto?"
+  },
+  {
+    "ordem": 138,
+    "personagem": "Kai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os Titans tentaram. Foram mal organizados."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Você tem a hora?"
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu tenho um homem que calculou a hora. Do filme dos próprios Titans. Pelos tanques externos dos Asshimar."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do outro lado, Corrigan acendeu um cigarro. Kai ouviu o isqueiro, a primeira tragada, a tosse."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kai. Escuta o que eu vou dizer, porque eu só vou dizer uma vez e às seis da manhã. Ontem à noite o Conselho declarou o AEUG inimigo armado. Às sete da manhã de hoje, hora daqui, todas as agências do Reino Unido vão receber uma circular do escritório federal de imprensa. Eu já sei o que diz, porque o meu cunhado trabalha lá. Diz que publicar \"material de origem terrorista\" é colaboração. Diz que agências que distribuírem também."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Eu não sou de origem terrorista. Eu sou de Belfast."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Corrigan",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você é de uma cela de Jaburo e de um avião do AEUG, e em três dias todo mundo vai saber disso."
+  },
+  {
+    "ordem": 145,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "E se eu tiver fotos?"
+  },
+  {
+    "ordem": 146,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Fotos de quê?"
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "De uma coisa que saiu do mar no caminho do Havaí quatro dias antes do Havaí. Tiradas por um pescador de dezessete anos que perdeu dois dedos tocando nela. Que não é do AEUG. Que não é de ninguém."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Corrigan ficou calado. Kai ouviu o cigarro queimar."
+  },
+  {
+    "ordem": 149,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Onde estão essas fotos?"
+  },
+  {
+    "ordem": 150,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Em Majuro."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Corrigan",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Majuro."
+  },
+  {
+    "ordem": 152,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Nas Marshall."
+  },
+  {
+    "ordem": 153,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kai. As Marshall ficam no Pacífico. O Pacífico, desde ontem à noite, é comando unificado dos Titans. Os aviões que vão para lá saem de Honolulu ou de Guam, e Honolulu e Guam, desde ontem à noite, são dos Titans."
+  },
+  {
+    "ordem": 154,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 155,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Você quer ir buscar fotos no quintal dos Titans."
+  },
+  {
+    "ordem": 156,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Eu quero que você publique."
+  },
+  {
+    "ordem": 157,
+    "personagem": "Corrigan",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Me traz as fotos e o pescador. O pescador com a mão."
+  },
+  {
+    "ordem": 158,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desligou."
+  },
+  {
+    "ordem": 159,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kai ficou com os pés em cima da mesa de Hayato, olhando a maquete da White Base, a ponte, os dois hangares laterais, as pernas compridas. Tinha sido a casa dele durante um ano. Tinha um arranhão no casco, de um lado, que alguém tinha pintado por cima com tinta errada."
+  },
+  {
+    "ordem": 160,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hayato estava na porta do escritório. Tinha ouvido o fim."
+  },
+  {
+    "ordem": 161,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Majuro — disse."
+  },
+  {
+    "ordem": 162,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Majuro."
+  },
+  {
+    "ordem": 163,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você está procurado, Kai. Por fuga de Jaburo, pelo menos. Amanhã, por colaboração com inimigo armado."
+  },
+  {
+    "ordem": 164,
+    "personagem": "Kai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sempre estive procurado por alguma coisa."
+  },
+  {
+    "ordem": 165,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "E o Audhumla?"
+  },
+  {
+    "ordem": 166,
+    "personagem": "Kai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Audhumla vai para onde você mandar. Para o interior. Para o norte. Para longe da costa."
+  },
+  {
+    "ordem": 167,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hayato olhou o relógio da parede. Uma e dez. Lá embaixo, pela janela do escritório, a pista estava acesa e o Garuda, enorme, cinzento, ocupava a ponta dela com a rampa aberta, e os mecânicos de Karaba carregavam para dentro, no escuro, os dois GM II do museu, um de cada vez, puxados pelo trator."
+  },
+  {
+    "ordem": 168,
+    "personagem": "Hayato",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Às uma e meia eu desligo as luzes da pista"
+  },
+  {
+    "ordem": 169,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 170,
+    "personagem": "Hayato",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Fraw fica. Com as crianças."
+  },
+  {
+    "ordem": 171,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Com o Katz."
+  },
+  {
+    "ordem": 172,
+    "personagem": "Hayato",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Com o Katz."
+  },
+  {
+    "ordem": 173,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kai olhou as chaves na mão."
+  },
+  {
+    "ordem": 174,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Eu ia pedir."
+  },
+  {
+    "ordem": 175,
+    "personagem": "Hayato",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei que ia."
+  },
+  {
+    "ordem": 176,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Reccoa o esperava ao pé da rampa às uma e quinze, de braços cruzados, com o macacão cinza do AEUG que alguém tinha achado para ela no Amapá, dois números maior, as mangas dobradas três vezes."
+  },
+  {
+    "ordem": 177,
+    "personagem": "Miami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Hayato me contou — disse."
+  },
+  {
+    "ordem": 178,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "O Hayato fala demais para um judoca."
+  },
+  {
+    "ordem": 179,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kai tirou do bolso de trás da calça um maço de folhas datilografadas, dobradas ao meio, e estendeu para ela."
+  },
+  {
+    "ordem": 180,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O meu relatório de Jaburo. O que o capitão pediu. Separado do seu. Eu não li o seu e você não lê o meu antes de entregar."
+  },
+  {
+    "ordem": 181,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Reccoa pegou as folhas. Pesou na mão."
+  },
+  {
+    "ordem": 182,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Você escreveu isso quando?"
+  },
+  {
+    "ordem": 183,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Entre o Caribe e a Flórida. Entre uma página do texto e outra. — Ele deu de ombros. — Eu escrevo rápido. Por isso escrevo mal."
+  },
+  {
+    "ordem": 184,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Você escreve bem."
+  },
+  {
+    "ordem": 185,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Não diz isso a ninguém. Estraga a reputação."
+  },
+  {
+    "ordem": 186,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela riu, curta, pelo nariz. Então descruzou os braços, segurou o rosto dele com a mão livre, a mão que não estava com as folhas, e lhe deu um beijo na bochecha, em cima da barba de dezessete dias."
+  },
+  {
+    "ordem": 187,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dezessete dias numa cela com você — disse. — Você roncava."
+  },
+  {
+    "ordem": 188,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Você falava dormindo."
+  },
+  {
+    "ordem": 189,
+    "personagem": "Kamille",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "O que eu falava?"
+  },
+  {
+    "ordem": 190,
+    "personagem": "Kai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nomes."
+  },
+  {
+    "ordem": 191,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Reccoa ficou parada. Atrás dela, no alto da rampa, apareceu a silhueta de Quattro, de óculos escuros, contra a luz do porão, falando com Hayato e com Apolly sobre uma carta aberta nas mãos dos três. Ela não se virou para ele."
+  },
+  {
+    "ordem": 192,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não morre, Kai — disse."
+  },
+  {
+    "ordem": 193,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Eu nunca morro. Eu atraso."
+  },
+  {
+    "ordem": 194,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele foi andando para a camionete azul, no estacionamento do museu, com as mãos nos bolsos. Ela subiu a rampa com as folhas dele apertadas contra o peito."
+  },
+  {
+    "ordem": 195,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Às uma e vinte e cinco, o Audhumla correu pela pista dos ônibus espaciais, entre as garças que acordavam e levantavam voo dos dois lados em nuvens brancas, e subiu para o norte, no escuro, sem luz nenhuma. Às uma e meia, as luzes da pista se apagaram."
+  },
+  {
+    "ordem": 196,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na estrada do museu, uma camionete azul com o logotipo de Kennedy pintado na porta já ia para o sul, de faróis baixos, com um homem de barba de dezessete dias ao volante e uma máquina de escrever verde no banco do passageiro."
+  }
+]

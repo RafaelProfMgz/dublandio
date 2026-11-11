@@ -1,0 +1,1250 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A espada de Bertram Sallow queria cair."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não da mão. Da ponta. Toda vez que eu a levantava, a ponta puxava para baixo, pesada, como se lá na extremidade da lâmina alguém tivesse amarrado uma pedra, e o meu pulso tinha de brigar com ela o tempo inteiro para ela ficar reta. A espada do Tadeu tinha sido curta, leve, obediente, uma espada de pastor contra lobo. Esta era outra coisa. Era uma espada que tinha opinião."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Descobri isso de verdade na borda do Cinzal, no segundo dia depois de Irena, com um Jagras pendurado na minha perna."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mas antes teve a água."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Voltei à horta na manhã seguinte, antes do sol, como ela tinha mandado. O poço dos fundos ficava atrás da Parede, num canto do paredão onde a pedra fazia uma dobra, e a água vinha lá de baixo, funda, fria, com gosto de ferro, e subia num balde de couro por uma roldana que rangia como a porta de Hadrek. Enchi oito baldes. Carreguei oito vezes pelo beco que cheirava a estrume até os canteiros. Irena não disse obrigado. Disse onde despejar, e quanto, e que eu estava molhando demais as abóboras, que abóbora gosta de pé seco e cabeça molhada. Depois me mandou segurar uma das cabras enquanto ela limpava um casco, e a cabra me deu um coice na canela, e Irena riu pela segunda vez desde que eu a conhecia."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brasa não carregou água. Ficou sentado na borda do canteiro onde ela tinha plantado as sete sementes, olhando para a terra, como se esperasse ver alguma coisa sair."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Irena",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Leva semanas"
+  },
+  {
+    "ordem": 8,
+    "personagem": "Brasa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei"
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse Brasa. E não saiu dali."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não falamos do Palico. Nem ela, nem eu. Mas, quando fui embora, ela me deu um pedaço de queijo de cabra embrulhado numa folha e disse: para o caminho. E eu não tinha dito que ia a caminho de lugar nenhum."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Veyra autorizou a saída no Salão, na hora do almoço, sem levantar os olhos da tigela."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kovač, Varn, Kest. Borda do Cinzal, lado leste, até o riacho seco. Jagras pequenos, para a cozinha. A Duna pediu carne."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela comeu uma colherada."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Voltam antes de o sol tocar o paredão. Kest leva o gato e a Seikret. Ninguém entra na floresta além do riacho."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Comandante…"
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "comecei."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Se você me agradecer, Kest, eu mudo de ideia."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não agradeci. Ela continuou comendo. Mas antes de eu me levantar, disse, ainda sem olhar:"
+  },
+  {
+    "ordem": 19,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Irena Vadell."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu parei."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Duna me contou."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Veyra limpou a boca com as costas da mão."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fez bem. Isso você fez bem."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E foi a primeira vez desde a trilha do Cinzal que ela me disse alguma coisa que não era ordem. Fiquei tão sem saber o que fazer que saí do Salão sem pegar o pão."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lio me esperava na porta. Tinha ouvido. Lio ouvia tudo."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu vou"
+  },
+  {
+    "ordem": 27,
+    "personagem": "Lio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não vai."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Lio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu conheço o riacho seco. Eu sei onde os Jagras bebem."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Lio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lio. Criança não sai. É a regra."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A regra é ninguém sai sozinho"
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse ele, com a cara de quem tinha estudado a frase."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não ia sozinho. Eu ia com você."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann, que vinha atrás de mim, pôs a mão enorme na cabeça de Lio, cobrindo tudo, cabelo, testa, olhos."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Menino"
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A regra também é que quem discute com o Velho Martelo lava a louça da Duna por uma semana. Você quer lavar a louça da Duna?"
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lio pensou. Pensou muito. Depois tirou a mão de Brann de cima da cabeça, com as duas mãos, e foi embora sem responder, o que queria dizer não."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A borda do Cinzal, a leste de Última Luz, era diferente do Cinzal que a gente tinha atravessado. As árvores eram mais baixas, mais espaçadas, muitas cortadas a machado, com tocos velhos cobertos de uma cinza mais fina. Havia trilhas. Trilhas de gente, estreitas, batidas, que iam para lugares que eu não sabia. E havia marcas nos troncos. Riscos de três dedos, fundos, feitos com garra, na altura do peito."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Sila",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Território"
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse Sila, sem que ninguém perguntasse. Passou a mão num dos riscos."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Sila",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mas velho. A casca já fechou por cima."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu: Novo aqui"
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse eu, apontando para o chão."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela olhou."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na cinza fina, entre dois tocos, havia pegadas. Três dedos compridos com unha. Muitas, umas por cima das outras, indo e vindo. Pequenas. Não havia nenhuma grande no meio delas. Eu me agachei. Olhei a borda das pegadas, onde a cinza tinha se desmanchado e onde não tinha. Olhei a distância entre elas."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Levantei.",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Cinco"
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu disse."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Levantei.",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Talvez seis. Passaram aqui hoje de manhã, indo para o riacho. Não voltaram ainda. Estavam sem pressa. Um deles manca da pata de trás esquerda; ele pisa mais leve daquele lado."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Levantei."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Levantei.",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não tem grande. Nenhum."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sila ficou olhando para as pegadas. Depois para mim. Não disse nada. Mas eu vi que ela contou também, e que chegou no mesmo número, e que demorou mais do que eu."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Seis"
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "São seis. Tem um que pisa na pegada do outro."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olhei de novo. Ela tinha razão."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Sila",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Seis"
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu disse."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann riu baixinho, de trás de nós dois."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Achamos eles no riacho seco, perto do meio da tarde."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O riacho era um leito de pedra e cinza, raso, com um fio de água escura escorrendo no fundo, entre pedras redondas. Os seis Jagras estavam lá embaixo, espalhados, bebendo, deitados ao sol que passava entre as árvores. Eram menores que os da matilha do leito seco. Mais magros. De um amarelo mais sujo, sem o ouro. Sem chefe, eles não andavam como matilha: andavam como um bando de cães de rua, cada um por si."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Pena ficou lá atrás, com Brasa, amarrada numa árvore. Brasa protestou. Brann disse que alguém tinha que cuidar da Seikret e que o cozinheiro era o mais importante da caçada, porque sem cozinheiro a carne não servia para nada. Brasa aceitou. Eu acho que ele sabia que era mentira e aceitou assim mesmo."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sila subiu numa pedra alta na beira do riacho, sem barulho, e armou o arco. Brann e eu descemos pela direita, pela ribanceira baixa, de lado, contra o vento."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela atira"
+  },
+  {
+    "ordem": 62,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eles correm. Metade vem para cá, porque é o caminho mais fácil para a floresta. Você fica aqui."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele apontou uma passagem estreita entre duas pedras, no pé da ribanceira."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É a porta. Quem passar pela porta, você corta."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E você?"
+  },
+  {
+    "ordem": 66,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu vou ficar olhando você cortar."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele sorriu por baixo da barba."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É treino, garoto. Não é festa."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A primeira flecha de Sila pegou o maior dos seis atrás da cabeça, na junta do pescoço, e ele caiu de lado sem fazer barulho. A segunda pegou outro no peito antes de os outros entenderem o que estava acontecendo. Foi tão rápido que eu mal vi a mão dela se mexer."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E aí eles correram."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Três vieram para cá. Como Brann tinha dito. Subindo o leito, pulando pedra, com as cabeças baixas, na direção da passagem entre as duas pedras onde eu estava. Onde estava a porta."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O primeiro passou pela porta, e eu levantei a espada de Bertram Sallow e cortei."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E a ponta caiu."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não caiu da mão. Caiu do golpe. Eu tinha mirado no pescoço, como teria mirado com a espada do Tadeu, curto, de cima para baixo, e a ponta pesada da lâmina de Bertram puxou o golpe inteiro para baixo, mais para baixo do que eu queria, e passou por baixo do pescoço do Jagras e bateu na pedra com um estalo que subiu pelo meu braço até o ombro e acordou as costelas. O Jagras nem parou. Passou por mim."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O segundo não passou. O segundo pulou em mim."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu vi a boca abrir. Vi os dentes. E pensei, com uma clareza que me espantou, de novo não, e girei o corpo para o lado como Brann tinha me ensinado no navio, a cair de lado, a deixar o chão pegar, e o Jagras não pegou o meu peito. Pegou a minha perna."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A bota. A bota e a calça por cima da canela, logo abaixo do joelho. Os dentes fecharam no couro grosso da bota, e eu senti a pressão, forte, mas não senti os dentes entrarem. A bota segurou. E o Jagras ficou lá, pendurado, com os dentes cravados na minha bota, puxando, sacudindo a cabeça, rosnando, como um cachorro com um trapo."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu estava deitado de costas nas pedras do leito, com a espada ainda na mão e um Jagras pendurado na minha perna."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann!"
+  },
+  {
+    "ordem": 80,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estou vendo"
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse Brann, lá de cima. Não se mexeu."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Está ótimo. Continua."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele está na minha perna!"
+  },
+  {
+    "ordem": 84,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Está na sua bota. A bota é boa. Paguei por ela em Varnhal."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele se sentou numa pedra."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A espada, garoto. A ponta. Deixa ela cair."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não entendi."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você briga com ela"
+  },
+  {
+    "ordem": 89,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O tempo todo. Levanta, e ela quer cair, e você não deixa. Então deixa. Levanta ela lá em cima e deixa a ponta fazer o que ela quer. Ela quer descer. Deixa ela descer em cima dele."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Jagras sacudiu a cabeça de novo, e a minha perna inteira foi junto, e eu escorreguei meio palmo nas pedras."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Levantei a espada. Por cima da cabeça, deitado, com as duas mãos. E não empurrei. Soltei."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A ponta desceu sozinha. Pesada. Com o peso inteiro da lâmina atrás dela, como um machado de lenha que se deixa cair no toco em vez de bater. E pegou o Jagras atrás da cabeça, na junta, onde a flecha de Sila tinha pegado o outro."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele soltou a bota."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não se mexeu mais."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu fiquei deitado nas pedras, ofegando, com a espada de Bertram Sallow ainda enterrada no pescoço do bicho, e o braço tremendo, e as costelas reclamando, e o coração batendo tão alto que por um instante eu achei que era a outra coisa, a que batia embaixo, e não era. Era só eu."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Isso"
+  },
+  {
+    "ordem": 97,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Isso é a espada do Bertram."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi aí que o vento virou."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu ainda estava sentado nas pedras, com a mão no pescoço do Jagras, quando senti. Um sopro morno, vindo das nossas costas, do lado da trilha por onde tínhamos vindo, do lado de Última Luz. Morno demais para aquela hora. E com ele um barulho, muito longe, abafado, como um trovão rolando atrás de um morro."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O céu estava limpo."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann olhou para cima. Sila, na pedra dela, virou a cabeça para trás e ficou parada, com o arco meio levantado, escutando. A floresta em volta do riacho, que já era quieta, ficou mais quieta ainda. Os dois Jagras que fugiam pararam na beira das árvores, do outro lado, com as cabeças levantadas, e depois correram de verdade, sem olhar para trás."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O vento morno passou. O barulho não voltou."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vento de cinza"
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse Brann, depois de um tempo. Mas não sorriu."
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O terceiro tinha fugido. Sila tinha pegado o quarto. O quinto e o sexto sumiram na floresta, do lado de lá do riacho, onde Veyra tinha proibido a gente de entrar, e ninguém foi atrás."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quatro Jagras. Carne para a cozinha de Mãe Duna por uns dias."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann desceu da pedra e me ajudou a levantar. Olhou a minha bota. Os dentes tinham deixado uma fileira de furos no couro, fundos, mas nenhum atravessava até o fim."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bota boa"
+  },
+  {
+    "ordem": 109,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você não ia me ajudar."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ia. Se ele tivesse atravessado a bota, eu ia."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele deu um tapa no meu ombro bom."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mas ele não atravessou. E agora você sabe uma coisa que não sabia de manhã."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que a bota é boa."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que a espada do Bertram não é a do Tadeu."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele pegou a espada da minha mão e a levantou, olhando a lâmina contra a luz, a ponta pesada, o fio cheio de dentes."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Espada de morto tem o jeito do morto, garoto. Você não ensina o seu jeito para ela. Primeiro aprende o dela. O Hadrek disse que o Bertram era ruim de espada?"
+  },
+  {
+    "ordem": 117,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Disse. E bom de sobreviver."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então ele não cortava. Ele deixava cair."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann me devolveu a espada."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quem é ruim de espada e sobrevive dois Clamores não briga com a arma. Deixa a arma trabalhar e cuida de não morrer. É o que você vai aprender com ela. Não é pouco."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Guardei a espada nas costas, na correia de Dita. A ponta pesada ficou lá embaixo, perto da minha cintura, e pela primeira vez não me pareceu errada."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sila desceu da pedra dela com os quatro Jagras já amarrados pelas patas numa corda, dois de cada lado, puxando. Passou por mim sem parar."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Sila",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não vai apostar?"
+  },
+  {
+    "ordem": 124,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu perguntei."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Sila",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que eu morro na próxima?"
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela parou."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olhou para a minha bota furada. Para a espada nas minhas costas. Para mim."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aposta é para quem eu não conheço"
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E continuou puxando os Jagras."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Andou cinco passos. Parou de novo, sem se virar."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Sila",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O de trança"
+  },
+  {
+    "ordem": 132,
+    "personagem": "Sila",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Da muralha. O do arco torcido. Qual é o nome dele?"
+  },
+  {
+    "ordem": 133,
+    "personagem": "Sila",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kellan."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Sila",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hum."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E foi embora."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Voltamos pela trilha de gente, com a Pena puxando os quatro Jagras num arrasto feito com dois galhos e a corda de Sila, e Brasa andando do lado da carne, discutindo com ela em voz alta sobre como ia cortá-la."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A meio caminho de Última Luz, a trilha fazia uma curva e descia por um vale raso entre dois morros baixos. Tínhamos passado por ali de manhã. Eu me lembrava das árvores, dos tocos, de um tronco caído atravessado na trilha que a gente tinha pulado."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O tronco não estava mais lá."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não estava mais lá porque não havia mais nada lá. O vale raso inteiro, de um morro ao outro, estava cortado por uma faixa. Larga. Reta. Preta. As árvores dos lados, mortas, sem veia, rachadas. O chão, uma crosta de vidro. E, no meio da crosta, onde de manhã estava o tronco caído, uma mancha mais escura, meio derretida, que um dia tinha sido madeira."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Pena parou. Travou as patas no chão e não quis andar. A crista dela subiu inteira, até a ponta."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann parou do lado dela. Não disse nada."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu cheguei perto da borda da faixa. Não pisei. Estendi a mão, aberta, como tinha feito com as árvores do Cinzal, a um palmo da crosta."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava quente. Não morno, como a outra, que a gente tinha cruzado no dia trinta e oito, dias depois de ela ser feita. Quente. Quente como uma pedra que acabou de sair do forno. Quente de hoje."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann"
+  },
+  {
+    "ordem": 145,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu disse."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "De manhã, isto não estava aqui."
+  },
+  {
+    "ordem": 147,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Isto passou por aqui hoje. Enquanto a gente estava no riacho."
+  },
+  {
+    "ordem": 149,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei, garoto."
+  },
+  {
+    "ordem": 150,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sila olhou para um lado da faixa. Para o outro. De um lado, a faixa subia o morro e sumia na floresta, na direção do fundo do Cinzal. Do outro, descia, e cortava a trilha, e seguia reta, e, lá longe, a meio dia de caminhada talvez, ou menos, se via o paredão escuro de Última Luz e as três torres com os três fogos."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A faixa não ia até lá. Parava antes. Muito antes. Mas apontava para lá, como um dedo."
+  },
+  {
+    "ordem": 152,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Atravessa"
+  },
+  {
+    "ordem": 153,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depressa. Ninguém pisa na borda."
+  },
+  {
+    "ordem": 154,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Pena não quis. Eu tive de cobrir os olhos dela com o pano, como tinha feito na Racha, e encostar a testa na dela, e respirar devagar, até ela copiar. E aí ela atravessou, de olhos cobertos, com as patas estalando na crosta de vidro, puxando os quatro Jagras mortos, tremendo inteira."
+  },
+  {
+    "ordem": 155,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Chegamos a Última Luz com o sol tocando o paredão, na hora exata."
+  },
+  {
+    "ordem": 156,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na torre do meio, a do fogo mais alto, havia um velho de guarda. Eu não o conhecia. Era magro, sem dentes, com um capuz de pano cinza e as mãos enroladas em trapos, sentado do lado do braseiro, alimentando o fogo com pedaços de Seiva que tirava de um cesto. Quando a gente passou pelo portão, ele se inclinou por cima da mureta e olhou para baixo, para Brann."
+  },
+  {
+    "ordem": 157,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Viram?"
+  },
+  {
+    "ordem": 158,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "perguntou. A voz era um chiado."
+  },
+  {
+    "ordem": 159,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vimos"
+  },
+  {
+    "ordem": 160,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na curva dos dois morros?"
+  },
+  {
+    "ordem": 161,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na curva dos dois morros."
+  },
+  {
+    "ordem": 162,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O velho fez que sim. Voltou a se sentar. Pôs mais um pedaço de Seiva no fogo, devagar, como quem dá comida a um bicho."
+  },
+  {
+    "ordem": 163,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Imperador passou"
+  },
+  {
+    "ordem": 164,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse ele. Para ninguém. Para o fogo."
+  },
+  {
+    "ordem": 165,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Faz tempo que ele não chegava tão perto. Os fogos se deitaram para lá hoje, de tarde. Eu vi. Deitaram um pouco e levantaram."
+  },
+  {
+    "ordem": 166,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu olhei para cima, para o velho, para o fogo."
+  },
+  {
+    "ordem": 167,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que imperador?"
+  },
+  {
+    "ordem": 168,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "perguntei."
+  },
+  {
+    "ordem": 169,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O velho olhou para mim. Olhou muito tempo, com uns olhos pequenos e brancos de catarata, que talvez nem me vissem."
+  },
+  {
+    "ordem": 170,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O dono do Cinzal, menino"
+  },
+  {
+    "ordem": 171,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que fez o Cinzal. As árvores pretas, a cinza, a brasa dentro delas. Tudo isso é ele. Faz séculos que ele faz. Todo mundo que mora aqui mora na casa dele."
+  },
+  {
+    "ordem": 172,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E não disse mais nada."
+  },
+  {
+    "ordem": 173,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann não tinha parado para ouvir. Já estava longe, no pátio, puxando a Pena pelo cabresto na direção do estábulo. Sila tinha parado. Estava do meu lado, olhando para o velho, com o arco na mão e a cara fechada."
+  },
+  {
+    "ordem": 174,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele diz o nome?"
+  },
+  {
+    "ordem": 175,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O bicho?"
+  },
+  {
+    "ordem": 176,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não disse."
+  },
+  {
+    "ordem": 177,
+    "personagem": "Sila",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não precisa"
+  },
+  {
+    "ordem": 178,
+    "personagem": "Sila",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei qual é."
+  },
+  {
+    "ordem": 179,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E também não disse."
+  },
+  {
+    "ordem": 180,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Encontrei Brann tarde da noite, no alto da muralha, no trecho escorado com toras."
+  },
+  {
+    "ordem": 181,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não conseguia dormir. Deitei no chão do barracão da 33ª e a coisa lá embaixo batia, e eu ouvia, e não era isso que me mantinha acordado. Era a faixa quente. Era a mão aberta a um palmo da crosta de vidro e o calor de hoje subindo por ela. Levantei. Saí. Subi a escada da muralha. E ele estava lá."
+  },
+  {
+    "ordem": 182,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sentado numa das toras, com as pernas penduradas para fora da muralha, virado para o Cinzal. O martelo deitado do lado. Uma garrafa na mão, de vidro verde, que ele levava à boca direto no gargalo. Ele não tinha mais a caneca de latão. A caneca tinha ficado de boca para baixo em cima de Custódio."
+  },
+  {
+    "ordem": 183,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lá longe, no Cinzal, a floresta estava acesa. Respirando luz. E, no meio da luz, como um rio de escuro, dava para ver a faixa. As duas faixas. A velha, lá no fundo, e a nova, a da curva dos dois morros, mais perto. Riscos pretos no meio da brasa, onde nada mais acendia."
+  },
+  {
+    "ordem": 184,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sentei do lado dele. Ele não me olhou. Me passou a garrafa. Eu bebi um gole, e queimou, e eu tossi, e as costelas reclamaram, e ele riu baixo, sem som."
+  },
+  {
+    "ordem": 185,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficamos um tempo assim. Olhando."
+  },
+  {
+    "ordem": 186,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Garoto"
+  },
+  {
+    "ordem": 187,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hum."
+  },
+  {
+    "ordem": 188,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele levou a garrafa à boca. Não bebeu. Ficou com ela parada perto da barba."
+  },
+  {
+    "ordem": 189,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A primeira vez que eu vi um desses"
+  },
+  {
+    "ordem": 190,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu fugi."
+  },
+  {
+    "ordem": 191,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olhei para ele. Ele continuava olhando para a faixa, lá no meio da floresta acesa."
+  },
+  {
+    "ordem": 192,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não aqui. Noutro lugar. Um lugar que nem nome tinha. Eu tinha dezenove anos. A sua idade."
+  },
+  {
+    "ordem": 193,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele baixou a garrafa."
+  },
+  {
+    "ordem": 194,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu vi um desses de longe. Não o rastro. Ele. Por um instante, entre as árvores, no meio do fogo. E eu larguei tudo e corri, garoto. Larguei o martelo. Larguei o companheiro."
+  },
+  {
+    "ordem": 195,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A voz dele não mudou. Continuou baixa, calma, como a de quem conta o tempo que vai fazer amanhã."
+  },
+  {
+    "ordem": 196,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aquela Rathian que eu contei, no Fogo Pequeno. O companheiro que morria. Eu disse que foi uma Rathian. Não foi só uma Rathian."
+  },
+  {
+    "ordem": 197,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não consegui dizer nada."
+  },
+  {
+    "ordem": 198,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu nunca contei isso para ninguém"
+  },
+  {
+    "ordem": 199,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nem para o meu pai. Principalmente para o meu pai."
+  },
+  {
+    "ordem": 200,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele riu, rachado."
+  },
+  {
+    "ordem": 201,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Coragem e burrice são o mesmo homem em dias diferentes. Naquele dia eu não era nenhum dos dois. Era só um menino que correu."
+  },
+  {
+    "ordem": 202,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lá no Cinzal, a floresta respirava. Clareava e escurecia. Clareava e escurecia. E o risco preto da faixa nova, o de hoje, cortava tudo, reto, apontando para cá."
+  },
+  {
+    "ordem": 203,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E se ele vier?"
+  },
+  {
+    "ordem": 204,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu perguntei."
+  },
+  {
+    "ordem": 205,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aqui?"
+  },
+  {
+    "ordem": 206,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann levou a garrafa à boca de novo. Dessa vez bebeu. Um gole longo."
+  },
+  {
+    "ordem": 207,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aí a gente vai ver"
+  },
+  {
+    "ordem": 208,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "que dia é."
+  }
+]

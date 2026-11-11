@@ -1,0 +1,968 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves levantou a cadeira da cozinha do reverendo com o braço esquerdo, até a altura do ombro, e segurou lá."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Conta"
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche contou. Chegou a vinte e dois antes de o braço começar a tremer, e Ves aguentou até o trinta, de dente trincado, e baixou a cadeira sem deixar bater no chão."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pronto. Estou de pé."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Shani",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Está de pé desde ontem"
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu monto com um braço só."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você caiu da escada do celeiro com dois."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu tropecei. É diferente."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era a manhã do nono dia. A chuva de Lindhurst, que caía só ali, num quadrado de nuvem baixa sobre as casas de tijolo, tinha virado garoa, e pela janela da cozinha via-se, do outro lado do rio, a neve de Kaedwen começar onde a garoa acabava, numa linha tão reta quanto a de um muro. Ves tinha passado a camisa por cima da atadura nova. Por baixo, no ombro, a ilha de pele prateada continuava do tamanho de uma moeda grande, fria ao toque, com os veios finos acesos por dentro quando batia sol. Não doía. Shani tinha examinado duas vezes por dia e anotado tudo. Não tinha mudado."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche estava sentado à mesa com o mapa de Kaedwen aberto, um mapa velho, de antes do tremor, que já tinha mentido para eles três vezes."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Holt vai voltar"
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para onde? — perguntou Shani."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para onde a gente ia. Kaer Morhen."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você ainda não sabe onde fica Kaer Morhen."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sei onde ficava."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sargento de Holt estava sentado no banco junto do fogão, com o braço esquerdo enfaixado até o ombro e a queimadura do rosto coberta de pomada. Chamava-se Ivo Laskar. Tinha dito o nome na véspera, quando parou de chamar Shani de \"senhora doutora\" e começou a chamá-la de \"doutora\"."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei onde ficava também"
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você vem? — perguntou Roche."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Laskar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Se eu ficar, o margrave me enforca na torre de igreja deles. Se eu for para casa, me enforcam no meu quartel."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves riu alto. Roche dobrou o mapa."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Saíram ao meio-dia. Jacob Penrose deu a Roche uma besta de mão que tinha tirado do arsenal dos casacos cinza e consertado, e um saco com quinze virotes. Martha deu pão e queijo para três dias. O reverendo deu uma bênção que nenhum deles entendeu inteira e um cobertor de lã. Lindhurst inteira ficou no largo, na garoa, olhando os quatro passarem a ponte de madeira, três cavalos e um burro de carga, e entrarem na neve."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando cruzaram a linha, a garoa parou nas costas deles de uma vez, e o frio de Kaedwen bateu na cara."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Ves",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porra"
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Acharam a primeira pegada no fim da tarde do décimo dia."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche viu primeiro, porque olhava o chão havia trinta anos. Estava no meio de uma encosta de pinheiros, num trecho onde a neve fazia uma ladeira lisa, e a pegada estava ali, sozinha, maior que um prato, com quatro dedos e as marcas de unha afundadas na neve até a terra. Em volta dela, num círculo do tamanho de uma roda de carroça, a neve tinha virado gelo. Gelo liso, azulado, com cristais finos espetados para cima como agulhas de costura."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche desceu do cavalo e se agachou. Tocou um dos cristais com a ponta da luva. Quebrou com um estalo de vidro."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que diabo é isso? — perguntou Laskar."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche não respondeu logo. Conhecia aquele gelo. Tinha visto aquilo nas pedras do pátio de Kaer Morhen, três invernos antes, na noite em que a Caçada desceu sobre a fortaleza, e ele e Ves e os Listras Azuis que sobravam tinham segurado a brecha da muralha ao lado dos bruxos."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Um cachorro — disse."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do tamanho de um bezerro?"
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Maior."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mais adiante havia outras. Roche seguiu a fila delas a pé, puxando o cavalo, por cem passos, depois por duzentos. Shani e Ves vinham atrás. Laskar ficou no começo com o burro. Os círculos de gelo iam em linha, e depois a linha se abria em cinco, cinco animais, lado a lado, como cães de matilha soltos no campo. Entre eles, na neve funda, havia rastros de cascos. Grandes, ferrados com ferraduras largas, de cavalo de tiro."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dois cavalos"
+  },
+  {
+    "ordem": 34,
+    "personagem": "Ves",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ou leva os dois"
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ou leva os dois."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Shani tinha parado junto de uma coisa escura na neve, perto de uma pedra. Era uma cabra montês, ou o que restava dela. Tinha sido aberta e comida até os ossos, e os ossos estavam cobertos de geada branca e grossa, presos na neve como se tivessem nascido ali. A carne que ninguém comeu estava dura e azul."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Shani",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Comeram com fome"
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "De quando?"
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Shani tocou o pescoço da cabra. Não tinha mais pescoço; tocou a costela."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Levantou",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sei dizer com esse frio. Pode ser ontem, pode ser hoje cedo."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Ves",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não precisa ouvir falar"
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche não respondeu. Estava olhando a direção das pegadas. Iam para o noroeste, para dentro das montanhas. Exatamente para onde eles iam."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele lembrava daquela noite melhor do que queria: o frio que chegava antes deles, as tochas encolhendo, os cavaleiros de caveira no elmo saindo de uma porta de ar, a menina de cabelo cinza no meio do pátio, de espada, e Geralt gritando o nome dela. Tinha visto Eredin de perto. Tinha visto o velho Vesemir cair."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Ves",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Caçada acabou"
+  },
+  {
+    "ordem": 45,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O rei, sim."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A gente volta? — perguntou Laskar, do começo da trilha."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A gente segue. Atrás. Longe."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Seguiram as pegadas até a luz acabar. Ninguém falou muito. Pouco antes do escuro, quando paravam para escolher onde dormir, veio o uivo."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Começou baixo, longe, do lado das montanhas, e foi subindo. Era comprido, mais comprido do que qualquer lobo aguenta, e tinha embaixo um som de vidro raspando. Os três cavalos e o burro ficaram duros. O cavalo de Shani tentou dar meia-volta e ela segurou pelo freio, falando baixo com ele."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves estava com o cantil na mão, ia beber. Sentiu o cantil esfriar na palma, de uma vez, e endurecer. Destampou e virou. Nada saiu. A água estava congelada dentro, um bloco só, até a boca."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela ficou olhando o cantil."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vernon — disse."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O uivo acabou. Não veio resposta. O frio continuou."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilaen estava deitado na crista, de barriga na neve, desde que o sol tinha começado a cair."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lá embaixo, no fundo da ravina, num curral de pastor abandonado, de paredes de pedra solta pela metade, quatro humanos tinham feito fogo. Ele via os cavalos amarrados no canto mais abrigado do curral. Três. E um burro. Dava para ver as costelas largas e os pescoços gordos daqui de cima, e Ilaen sentiu a boca se encher de água, e teve vergonha disso."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fazia seis dias que eles andavam para o sul atrás de um rastro que não existia mais. Taedh dizia que Zireael tinha passado por aquela terra; Taedh tinha certeza; e as montanhas mudavam de lugar de um dia para o outro, e o vale que eles subiam numa manhã à tarde dava num lago que não estava ali, e a estrela que Vaeryssa usava para o rumo nascia cada noite num ponto diferente. Os cavalos de tiro da fazenda de Loen comiam pouco e reclamavam muito. Os cães tinham comido a última cabra no dia anterior."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os cães estavam deitados atrás dele, na neve, em silêncio. Cinco formas magras, compridas, com o gelo azul entre as costelas aceso de leve, os olhos brancos fixos no fogo lá embaixo. Ilaen conhecia cada um pela respiração. O maior, que Taedh chamava de Hrod, estava encostado na perna dele e tremia. Não de frio. Os cães da Caçada não tinham frio."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Taedh chegou por trás, a pé, sem fazer barulho na neve, o que era um talento da armadura dele e não dele. O elmo de caveira estava pendurado na sela, lá atrás; o rosto comprido e pálido estava vermelho de vento."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quantos?"
+  },
+  {
+    "ordem": 60,
+    "personagem": "Vaeryssa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quatro"
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela está entre eles? — perguntou Taedh."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vaeryssa abriu os olhos."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você tem certeza?"
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu ouvi o coração de Zireael em Tir ná Lia durante um ano, Taedh. Eu reconheceria. Não é ela."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Taedh ficou olhando o fogo."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Ilaen",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os cavalos, então"
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Taedh se virou para ele. Tinha os olhos de um cinza quase branco, e quando olhava assim, de cima, Ilaen voltava a ter quarenta anos e estar no primeiro dia de cavalgada atrás de Eredin."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Taedh",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eles vão para a montanha"
+  },
+  {
+    "ordem": 70,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Taedh..."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tudo, Ilaen. Ou você também prefere dizer que eles fugiram pela janela?"
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilaen fechou a boca. Vaeryssa desviou o rosto para o lado da escuridão."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Taedh disse uma palavra, curta, na Língua Antiga. Os cinco cães se levantaram ao mesmo tempo, sem barulho, e a neve debaixo deles estalou e virou gelo."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O fogo encolheu primeiro."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche estava de vigia, sentado de costas para a parede do curral, com a besta no colo e os virotes no chão ao lado. Viu a chama da fogueira descer, de uma vez, para a metade da altura, e ficar azul por baixo. O vapor da panela de Shani parou de subir. Na parede de pedra, atrás dele, ouviu a geada crescer, com um som de seda rasgando."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "De pé"
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves acordou com a espada já na mão; tinha dormido com ela. Laskar levou mais tempo, por causa do braço. Shani sentou no cobertor e procurou a bolsa dela no escuro."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Shani, o óleo de lamparina. Todo. Ves, tições. Laskar, fica com os cavalos."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu tenho uma mão só, Roche."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então segura os cavalos com ela."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O primeiro cão pulou a parede do curral do lado norte, por cima, sem tocar a pedra."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele era maior do que qualquer pegada tinha dito. Caiu dentro do curral com as quatro patas e o chão debaixo delas virou gelo num círculo largo, que correu até o fogo e apagou metade das brasas com um chiado. Tinha o corpo comprido, as costelas à mostra, e por dentro das costelas, no lugar onde num cão de verdade estariam o coração e o fôlego, havia gelo azul, aceso, como uma lanterna enterrada na neve. Os olhos eram brancos, sem pupila."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os cavalos gritaram."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche atirou. O virote entrou no ombro do cão com o barulho de quem quebra uma vidraça, e do buraco saiu vapor branco. O cão nem olhou para ele. Foi direto para os cavalos."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mais dois pularam o muro do lado leste, juntos. Um terceiro entrou pela abertura do portão, baixo, rente ao chão."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O cavalo de Shani, uma égua baia que tinha vindo de Oxenfurt, estava amarrado no canto, e foi o primeiro. O cão maior a pegou pelo pescoço e a égua caiu de lado, sem um som, e onde os dentes tinham entrado a pele ficou branca de geada antes de ficar vermelha. Laskar puxava os outros dois pelo cabresto com a mão boa, gritando, de costas para a parede."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves chegou com um tição em cada mão."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Enfiou o primeiro na cara do cão que mordia a égua. O cão soltou, recuou, e a cara dele chiou onde a brasa tinha tocado. Ves avançou com o segundo. O cão pulou nela."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche viu o cão no ar e Ves por baixo dele, de tição para cima. Viu a pata da frente bater no ombro esquerdo dela, o ombro queimado, o da pele prateada, e viu Ves cair de costas na neve."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves!"
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela não gritou. O cão estava em cima dela, a boca aberta sobre o rosto dela, e Ves tinha enfiado o tição de lado entre os dentes dele, segurando com as duas mãos, e o cão mastigava a brasa e a brasa estalava e apagava, e a mão esquerda dela tremia."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Shani chegou por trás do cão com a garrafa de óleo de lamparina e jogou tudo, a garrafa inteira, no lombo dele."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves, solta!"
+  },
+  {
+    "ordem": 94,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves soltou o tição. Ele caiu aceso no lombo molhado de óleo."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O cão pegou fogo de uma vez. A chama que saiu dele era branca, muito branca, e alta, e fazia um barulho de gelo rachando no fogo, um estalo atrás do outro. O cão saiu de cima de Ves e rodou no curral, uivando, e onde a chama tocava o gelo das costelas o gelo derretia e não voltava. O cão tentou fugir pelo portão. Caiu antes do portão. Ficou ali, estalando, encolhendo, até ser só um esqueleto preto e uma poça de água fumegando."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os outros quatro pararam."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficaram parados no curral, entre os cavalos, a égua morta e o fogo, as cabeças baixas, os olhos brancos para a poça que tinha sido o irmão deles."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fogo"
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Shani tinha uma segunda garrafa de óleo. Laskar tinha uma de gim de Lindhurst, que tinha ganhado do reverendo e não tinha contado a ninguém. Roche derramou as duas num arco na neve, na frente dos cavalos, entre os cães e as pessoas, e acendeu com um tição. O arco pegou fogo baixo, azul nas pontas, e os cães recuaram."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi então que os cavaleiros entraram."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Entraram pelo portão do curral, a cavalo, os dois cavalos de tiro com os cascos largos fazendo a terra tremer. No primeiro vinha um homem alto, de armadura negra de placas, com espinhos de gelo nos ombros e um elmo de caveira que brilhava à luz do fogo. Trazia uma espada longa, pálida, que parecia feita de gelo sujo. No segundo cavalo vinham dois: um rapaz de armadura mais leve, de espada na mão, e atrás dele, agarrada à cintura dele, uma mulher de manto escuro."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O de armadura negra disse alguma coisa na língua da Caçada, que Roche tinha ouvido uma vez, na muralha de Kaer Morhen, e que soava como um sino abafado. Os cães se viraram para o arco de fogo."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não deixa ele chegar nos cavalos"
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves estava de pé de novo, com o ombro esquerdo pendurado, a espada na mão direita."
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Qual deles?"
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O grande."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O cavaleiro de armadura negra esporeou o cavalo de tiro por cima do arco de fogo. O cavalo, que era um animal de arado de Loen e não de guerra, refugou, empinou no meio da chama e jogou a frente para o lado. O cavaleiro ficou firme na sela, mas o cavalo girou, e por um momento ele ficou de lado para Roche, com o braço da espada levantado e a junta do sovaco aberta."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche atirou. O virote bateu na placa de cima e ricocheteou com uma faísca."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O cavaleiro virou a cabeça de caveira para ele."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O segundo cavalo de tiro tinha contornado o fogo pelo lado do muro. O rapaz desceu dele de um pulo, ágil, deixando a mulher na sela, e veio a pé, direto para Laskar, para os cavalos. Laskar soltou os cabrestos e sacou a espada com a mão direita. O rapaz era mais rápido. Desviou a espada de Laskar com a dele, um movimento só, bonito, e com o mesmo movimento passou a lâmina pela perna de Laskar, em cima do joelho. O sargento caiu de joelhos."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O rapaz não acabou com ele. Passou por cima e foi para os cavalos, para os cabrestos soltos, e pegou dois deles com a mão esquerda, e Roche entendeu o que ele queria: os cavalos, não o homem."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche recarregou. Tinha feito aquilo a vida inteira, de noite, na lama, com gente atirando de volta. Pé no estribo da besta, puxar, encaixar, virote. Levou quatro segundos. O rapaz tinha os dois cavalos e estava voltando para o portão, de costas para ele, puxando."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche mirou a perna. Atirou."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O virote entrou na coxa do rapaz por trás, um palmo acima do joelho, e atravessou. O rapaz caiu de lado na neve e soltou os cabrestos. Os cavalos fugiram para o canto. Ele tentou levantar, apoiado na espada. A perna não aguentou."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilaen! — gritou a mulher, do cavalo."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O cavaleiro de armadura negra olhou para o rapaz no chão. Estava a vinte passos dele, com o fogo entre os dois. Os três cães que ainda estavam do lado de dentro rodavam o arco procurando passagem. Ves estava de pé na frente dos cavalos, de espada, com o ombro sangrando. Shani tinha um tição em cada mão. Roche recarregava pela terceira vez."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O cavaleiro levantou a espada. Ficou com ela levantada um tempo."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois baixou."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Disse uma palavra na língua de sino. Os três cães largaram o arco e foram para o portão, todos juntos. A mulher no segundo cavalo gritou alguma coisa para ele, uma frase longa, em desespero, e o cavaleiro respondeu com uma palavra só, e ela ficou quieta."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele virou o cavalo. Saiu pelo portão do curral sem olhar para trás. A mulher olhou. Olhou o rapaz caído na neve até o cavalo dela passar o portão e o muro tirar o rapaz da vista dela."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O frio foi junto com eles. Em um minuto, a chama da fogueira voltou a ser amarela."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O rapaz estava sentado na neve, encostado no muro de pedra, com a perna esticada e o virote ainda atravessado na coxa, as duas pontas para fora. Tinha largado a espada. Ves estava de pé na frente dele, com a ponta da espada dela encostada na garganta dele, e o braço esquerdo dela pendurado do lado do corpo."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "De perto, ele era muito bonito e muito jovem, de um jeito que não era de gente. Tinha o rosto fino demais, os olhos grandes demais, as orelhas compridas e pontudas saindo de baixo do cabelo claro. A armadura era leve, de escamas cinza, com uma cabeça de cão gravada no peito. Estava magro. Debaixo da armadura, Roche viu, quando ele respirava, as costelas."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Laskar",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Shani — chamou Roche."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Laskar estava no chão ao lado dos cavalos, segurando a perna com a mão boa. O corte estava acima do joelho, fundo, mas não tinha pegado o osso. As bordas estavam brancas de geada. Shani se ajoelhou do lado dele e abriu a bolsa."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sargento, de novo você."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu gosto de ver a doutora trabalhar."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Morda isso."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche se agachou na frente do elfo. Ficou um tempo olhando para ele de perto, do jeito que olhava os prisioneiros nos tempos dos Listras Azuis, sem pressa, de cima a baixo: as mãos, as botas, a armadura, a perna, a cara. O elfo olhou de volta. Tinha os olhos de um verde-claro esquisito, quase amarelo à luz do fogo."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você fala a língua comum? — perguntou Roche."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Falo."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Seu nome é Ilaen."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O rapaz não respondeu."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A mulher gritou. Ilaen."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Ilaen",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Taedh fez o certo"
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele vai voltar para buscar você?"
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Disse sem nenhuma raiva. Ves apertou um pouco a ponta da espada."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vocês mataram a égua da doutora"
+  },
+  {
+    "ordem": 141,
+    "personagem": "Ilaen",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Iam"
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vá à merda."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilaen sorriu um pouco, para ela, sem deboche, como se ela tivesse dito uma coisa razoável."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Roche",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves"
+  },
+  {
+    "ordem": 145,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves tirou a espada. Ficou de pé ao lado, com ela na mão. Roche viu que o ombro dela sangrava pela camisa e que, por baixo do sangue, a mancha prateada estava coberta de uma geada branca, fina, que não derretia com o calor do fogo."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ves. O ombro."
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Está frio. Só isso."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Roche se voltou para o elfo."
+  },
+  {
+    "ordem": 149,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vocês seguem para o noroeste. Para as montanhas. Por quê?"
+  },
+  {
+    "ordem": 150,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilaen ficou quieto. Olhou o fogo, a égua morta, a poça preta onde tinha estado o cão que queimou, os cavalos tremendo no canto. Olhou Laskar mordendo o pano. Olhou Shani costurando. Depois olhou Roche de novo, e alguma coisa mudou na cara dele."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vocês também vão para lá"
+  },
+  {
+    "ordem": 152,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu perguntei primeiro."
+  },
+  {
+    "ordem": 153,
+    "personagem": "Ilaen",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 154,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Começou a rir."
+  },
+  {
+    "ordem": 155,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era uma risada baixa, cansada, que sacudia o peito magro debaixo da armadura e fazia a perna dele doer, e ele riu assim mesmo, de olhos fechados, com a cabeça encostada na pedra."
+  },
+  {
+    "ordem": 156,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que é engraçado? — perguntou Roche."
+  },
+  {
+    "ordem": 157,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilaen abriu os olhos."
+  },
+  {
+    "ordem": 158,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que o mundo inteiro foi trancado"
+  },
+  {
+    "ordem": 159,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que pessoa?"
+  },
+  {
+    "ordem": 160,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilaen olhou para ele com os olhos verdes quase amarelos, e parou de rir."
+  },
+  {
+    "ordem": 161,
+    "personagem": "Ciri",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Zireael — disse."
+  }
+]

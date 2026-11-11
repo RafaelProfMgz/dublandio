@@ -1,0 +1,1274 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Jaburo, bloco C, nível de detenção"
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A cela tinha três metros por dois e meio, uma lâmpada protegida por grade no teto, duas camas de lona presas à parede e um ralo no canto. A parede do fundo era de rocha viva, pintada de branco por cima, e suava. Reccoa Londe tinha passado as primeiras noites tentando entender de onde vinha a água e chegara à conclusão de que vinha de toda parte: Jaburo era uma cidade enfiada debaixo da floresta, e a floresta, lá em cima, chovia o tempo todo."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela contava os dias riscando a lona da cama com a ponta de um botão. Dezessete riscos. Ou dezoito. Na segunda semana tinha dormido uma noite inteira e não sabia mais se tinha riscado."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Kai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dezessete"
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Como você sabe que era terça?"
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não sei. Eu chamo de terça o dia em que o guarda da manhã é o gordo."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kai tinha vinte e seis anos, barba de uma semana e uma camisa que já tinha sido branca. Estava deitado de costas, com as mãos atrás da cabeça e os pés cruzados, do jeito de quem está numa rede e não numa cela de prisão federal. Tinha sido ele quem ajudara Reccoa a entrar em Jaburo, com crachá falso de jornalista credenciado e uma conversa sobre uma reportagem a respeito da reconstrução da base. Tinha sido ele também quem dissera a frase errada para a pessoa errada no refeitório do bloco B, e por isso os dois estavam ali."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Reccoa não o culpava. Na metade dos dias."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O gordo não veio hoje"
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kai abriu um olho."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não?"
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Veio o magro. O de bigode. E ontem o de bigode veio de manhã e de tarde."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Folga."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Duas folgas seguidas para o gordo e dois turnos seguidos para o magro. — Ela sentou na cama. — E a comida chegou às onze, não às dez. Fria."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A comida sempre chega fria."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fria de outro jeito. De quem fez muita de uma vez e guardou."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kai abriu o outro olho e virou a cabeça para ela."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você é uma mulher assustadora, tenente."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Reccoa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sou uma mulher entediada."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kai escutou."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Durante dezessete dias, o nível de detenção do bloco C tinha tido um som. Era o som de Jaburo inteira chegando por baixo das portas: o zumbido dos ventiladores, os passos dos guardas, a voz distante de um alto-falante chamando alguém, o rolar dos carrinhos elétricos nos túneis. De noite, mais baixo. De dia, mais alto. Um som de cidade."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Naquela manhã estava mais baixo do que nas noites."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Kai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ventilador"
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Está ligado."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Passos?"
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Poucos. — Ela encostou a orelha no aço frio. — E tem outra coisa, embaixo. Ouve. Motor grande. Vários."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kai se levantou, enfim, e encostou a orelha também, do outro lado da janelinha. Ficaram assim um tempo, os dois, de cara colada na porta. Por baixo de tudo, longe, vindo da direção do túnel principal, havia um ronco grave, contínuo, que subia e descia, subia e descia."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Kai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Caminhão"
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Indo ou vindo?"
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Como é que eu vou saber se é indo ou vindo?"
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você foi repórter."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu fui repórter de guerra, não de trânsito. — Mas ficou ouvindo. Depois de um tempo, tirou a orelha da porta. — Indo. O ronco fica mais baixo no fim de cada um. Estão subindo a rampa do túnel principal, que sai para o rio. Carregados."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Reccoa voltou para a cama e sentou na beirada."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O guarda magro de bigode trouxe a bandeja da tarde às quatro e meia. Era um rapaz de vinte e poucos anos, da Federação regular, não dos Titans: a farda era a verde-oliva do exército, sem o preto e o dourado. Nos primeiros dias, tinha evitado olhar para eles. Com o tempo, passara a dizer boa tarde."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Naquele dia ficou calado. Empurrou a bandeja pela fresta e já ia virando quando Reccoa falou."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O gordo está doente?"
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O rapaz parou."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não posso falar com os presos."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você fala boa tarde."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Boa tarde é educação. — Ele hesitou. Tinha olheiras. — O sargento Pinho foi transferido."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para onde?"
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sei. Foi com o pessoal dos Titans do bloco A. Saíram todos de madrugada."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kai, da cama, falou sem se levantar."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Todos os Titans do bloco A?"
+  },
+  {
+    "ordem": 45,
+    "personagem": "Estão",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do A, do B. Uns do D. — O rapaz espiou o fundo do corredor, para os dois lados, e baixou a voz."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Reccoa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E vocês?"
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nós ficamos. — Ele disse isso de um jeito simples, como se fosse óbvio. — Somos da guarnição. A guarnição fica."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quantos ficaram?"
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não posso falar."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quantos?"
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O rapaz olhou para ela pela janelinha. Era um olhar que Reccoa conhecia, de quem tinha feito a mesma pergunta para si mesmo e não tinha gostado da resposta."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bem menos do que antes — disse. E foi embora."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A bandeja tinha arroz, feijão, um pedaço de carne cinza e duas laranjas. Reccoa não tocou em nada. Ficou olhando a porta."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Kai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fala"
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você sabe o que eu vou falar."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quero ouvir. Me ajuda a pensar."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela pegou uma das laranjas e começou a descascar com a unha, devagar, em espiral, para ter alguma coisa nas mãos."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O AEUG vai atacar Jaburo — disse. — Foi para isso que me mandaram. Contar as entradas, os mobile suits, os turnos. Eles vão descer de órbita, com balões de reentrada, e vão bater no lugar que acham que é o coração da Federação. Eu mandei três relatórios antes de você abrir a boca no refeitório. No terceiro, eu disse que a defesa estava mais fraca do que eles pensavam."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E está."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Está ficando mais fraca a cada dia. Os Titans estão saindo. Levando as famílias. Deixando a guarnição regular, os garotos de farda verde, as máquinas velhas. — Ela tirou a casca inteira, numa fita comprida, e segurou no ar. — Kai. Quem sai de casa antes de uma briga e deixa a porta aberta?"
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quem não está com medo da briga."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ou quem sabe que a casa vai cair."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kai não respondeu de imediato. Sentou-se na cama, os cotovelos nos joelhos, e passou a mão pela barba."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eles sabem que o AEUG vem — disse."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Reccoa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sabem o dia."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para quê?"
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para alguém achar que a casa está cheia."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os dois ficaram em silêncio. Lá fora, por baixo da porta, o ronco dos caminhões continuava, subindo a rampa, um atrás do outro."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Reccoa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu preciso avisar"
+  },
+  {
+    "ordem": 70,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você precisa sair desta cela primeiro."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então eu vou sair desta cela."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Kai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tenente."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E se a gente não tentar?"
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aí a gente fica aqui. E quando o seu pessoal descer, a gente grita."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Reccoa partiu a laranja ao meio e jogou metade para ele. Kai pegou no ar."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quanto tempo você acha que falta?"
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para eles descerem? Não sei. Você que sabe. Você que mandou os relatórios."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No último, eu disse que precisavam de pelo menos três semanas para juntar a força. Faz dezessete dias."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então falta pouco."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Falta pouco."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela comeu a laranja inteira, gomo por gomo, olhando a parede de rocha que suava."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "À noite, depois do apagar das luzes, alguém no corredor deixou um rádio ligado."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era um rádio de pilha, pequeno, de guarda, posto em cima de alguma mesa na entrada do nível, e a música chegava pela fresta da porta fina e misturada com estática. Uma canção antiga, de antes da guerra. Depois um locutor. Reccoa estava acordada, deitada de lado, olhando a luz verde da lâmpada de emergência no teto."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "...e no Pacífico, o observatório de Tóquio divulgou hoje novos dados sobre o terremoto da noite de 3 de maio nas Marianas. Segundo os técnicos, o epicentro foi calculado a uma profundidade de catorze quilômetros, o que, nas palavras do diretor do observatório, \"é estranho, porque fica abaixo do fundo da fossa\". Os especialistas estão revisando as medições..."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kai."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ouvi."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Abaixo do fundo da fossa?"
+  },
+  {
+    "ordem": 88,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Erro de medição. Sempre tem."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sei."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O locutor passou para a política. O Conselho Federal debatia um pedido dos Titans por novos poderes de emergência. Um senador de Side 2 tinha feito um discurso. O preço do arroz tinha subido em Hong Kong."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O rádio silenciou de repente, no meio de uma frase, e alguém lá na entrada riu e disse um palavrão, e passos se afastaram pelo corredor."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Reccoa ficou acordada muito tempo. Lá embaixo de tudo, o ronco dos caminhões não tinha parado."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Jaburo, bloco D, rampa de serviço"
+  },
+  {
+    "ordem": 94,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O cabo Tiago Mendonça, o magro de bigode, acabou o turno à meia-noite e não foi dormir."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinha vinte e três anos, era de Manaus e estava em Jaburo havia quatro, desde que saíra do quartel de instrução com a farda verde ainda dura de goma. Conhecia a base como conhecia o bairro onde tinha nascido: os túneis que davam no rio, as escadas de serviço que os oficiais não usavam, o elevador de carga do bloco D que rangia no terceiro nível. Gostava de Jaburo. Era úmida, escura, cheia de mosquito nos níveis de cima, e era a casa dele."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Naquela noite, a casa estava indo embora."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele parou no patamar da escada de serviço, de onde se via a rampa do bloco D, e ficou olhando. Os caminhões passavam um atrás do outro, de faróis baixos, carregados de caixas, de arquivos, de móveis de escritório, de gente. Nas caçambas de dois deles havia mulheres e crianças sentadas em cima das malas, de roupa de civil, com o rosto pálido sob as lâmpadas do túnel. Eram as famílias dos Titans. O caminhão seguinte levava um piano."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Atrás dele, vinha uma coisa que não ia embora."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Três carretas baixas, sem caçamba, desciam a rampa no sentido contrário, para dentro, para baixo, devagar, cada uma com uma caixa de metal cinza amarrada no meio, do tamanho de um carro pequeno. Em volta delas andavam homens de farda preta dos Titans, a pé, com fuzil no ombro. Na frente, um oficial de capacete branco e uma pasta debaixo do braço. Os caminhões que subiam paravam para elas passarem. Ninguém buzinava."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tiago ficou vendo as carretas descerem até a curva da rampa, onde o túnel virava para os níveis fundos, os que ficavam abaixo do reservatório, onde a guarnição regular não tinha permissão de entrar."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Cabo."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele se virou. Era o sargento de dia do bloco C, um homem mais velho, de cabelo branco cortado rente, que tinha feito a Guerra de Um Ano ali mesmo, nos túneis, quando Zeon atacou."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sargento."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que você está fazendo aqui?"
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olhando."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Vai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para de olhar. — O sargento parou ao lado dele no patamar. Olhou também. As carretas tinham sumido na curva."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sargento, o que tinha nas caixas?"
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Equipamento."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que equipamento vai para baixo quando todo mundo vai para cima?"
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sargento não respondeu. Tirou um cigarro do bolso, que era proibido em toda a base, acendeu e soltou a fumaça na direção dos caminhões."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Disse",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você sabe o que o tenente dos Titans me disse hoje de tarde, quando eu perguntei por que a gente não ia junto? — disse."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E o senhor acreditou?"
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu tenho trinta e um anos de farda, cabo. — O sargento olhou o cigarro. — Eu acredito que a história lembra de quem fica. Nunca vi lembrar bem."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lá embaixo, um caminhão engasgou na subida e todos os de trás pararam. Uma criança chorou numa caçamba. Alguém mandou ela calar a boca."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Tiago",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os presos do C"
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E você disse?"
+  },
+  {
+    "ordem": 117,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Disse que bem menos."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sargento jogou o cigarro no chão e pisou."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amanhã você não fala com os presos — disse. — E depois de amanhã, se ainda tiver alguém para dar ordem nesta base, eu vou perguntar a esse alguém por que três caixas desceram para o fundo de Jaburo de madrugada com escolta dos Titans. — Ele pôs a mão no ombro de Tiago, uma vez, pesada. — Vai dormir, menino."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tiago foi. No caminho para o alojamento, passou pela porta da cela do bloco C e viu, pela janelinha, a mulher do AEUG sentada na cama, acordada, de costas para a parede de rocha que suava, olhando para a porta como se soubesse que ele ia passar."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pacífico Central, entre Wake e Majuro"
+  },
+  {
+    "ordem": 122,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na manhã seguinte, a mão de Tobi estava preta nas dobras."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não toda a mão. As linhas da palma, onde o azul tinha entrado, tinham escurecido durante a noite, e em volta delas a pele estava vermelha, inchada, quente ao toque. Os dedos não fechavam direito. Ele dizia que doía menos que no primeiro dia. Jabez sabia, pela cara dele, que era mentira."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Põe na água do mar — disse."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Já pus."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Põe de novo."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tobi estava sentado no degrau da casa do leme, com a mão enrolada num pano e a câmera no colo. Não tinha largado a câmera desde a noite do espinhel. Tinha batido o filme inteiro, trinta e seis fotos, e guardado o rolo num pote de vidro de geleia com tampa de rosca, enrolado em plástico, embaixo do colchão do beliche."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tio, a gente tinha que ter ido para Wake."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinha."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Wake tem médico."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Jabez",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Wake tem um enfermeiro da Federação que trata gripe e corte de anzol."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você não sabe."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Jabez",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tobi ficou quieto."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Liktanur fazia oito nós, toda a máquina, com o motor velho batendo de um jeito que preocupava Jabez desde a véspera. Majuro estava a dois dias e meio. A coisa no porão estava a meio metro de gelo que derretia mais rápido do que deveria."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O problema era Anjain."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Anjain era o mais velho dos dois tripulantes, primo da mãe de Tobi, um homem de braços magros e fé muito grande em espíritos do mar. Desde a noite do espinhel ele não descia ao porão, e desde o amanhecer dizia que a coisa tinha de voltar para a água."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "À tarde, disse isso de novo, na frente de todo mundo."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Joga fora, Jabez. Joga fora enquanto ela está morta."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Está morta."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Anjain",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Está morta hoje."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aquilo foi para leste."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aquilo vai voltar."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O outro tripulante, Lino, que era moço e não dizia muito, olhou de um para o outro e não tomou partido."
+  },
+  {
+    "ordem": 145,
+    "personagem": "Anjain",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A mão do menino"
+  },
+  {
+    "ordem": 146,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Jabez olhou a mão de Tobi."
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinha pensado nisso. Tinha pensado a noite inteira, ao leme, enquanto os outros dormiam. Tinha pensado em jogar a coisa na água e esquecer, e ir para casa, e contar a história no bar do porto, e ninguém acreditar, e em dez anos ele mesmo não acreditar mais. Era o caminho mais fácil. Era o que o pai dele teria feito."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E tinha pensado na fila de luzes azuis. No tamanho. No jeito como as aves tinham ido embora antes. E em quem, além deles, tinha visto aquilo passar."
+  },
+  {
+    "ordem": 149,
+    "personagem": "Em",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela fica no gelo — disse."
+  },
+  {
+    "ordem": 150,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que escola?"
+  },
+  {
+    "ordem": 151,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A do padre Henri. Ele tem um laboratório. Ensina biologia para as crianças. Ele vai saber para quem mostrar."
+  },
+  {
+    "ordem": 152,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Um padre."
+  },
+  {
+    "ordem": 153,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Um padre que não é da Federação."
+  },
+  {
+    "ordem": 154,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Anjain cuspiu na água por cima da borda."
+  },
+  {
+    "ordem": 155,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Se ela acordar no porão — disse —, eu não desço."
+  },
+  {
+    "ordem": 156,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém pediu para você descer."
+  },
+  {
+    "ordem": 157,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mais tarde, quando o sol já ia baixo, Jabez desceu ele mesmo ao porão, com a lanterna, para trocar o gelo. A coisa estava onde a tinham posto, numa caixa de isopor de atum grande, coberta de gelo picado até a borda. O gelo tinha derretido pela metade. A água no fundo da caixa estava azul-clara e brilhava fraquinho no escuro quando ele apagava a lanterna."
+  },
+  {
+    "ordem": 158,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele jogou gelo novo por cima, com a pá, até não ver mais a cor."
+  },
+  {
+    "ordem": 159,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando subiu, Tobi estava dormindo no degrau, com a câmera no peito e a mão enrolada pendurada para fora, e respirava de boca aberta, curto, rápido. Jabez pôs a mão na testa dele."
+  },
+  {
+    "ordem": 160,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava quente."
+  },
+  {
+    "ordem": 161,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Cruzador de assalto Argama"
+  },
+  {
+    "ordem": 162,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O ensaio do tanque a quarenta por cento terminou às quinze e dez, e Kamille acertou de primeira."
+  },
+  {
+    "ordem": 163,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bright anotou na prancheta e passou para o piloto seguinte. Não disse nada. Kamille ficou esperando que dissesse, e depois ficou com raiva de si mesmo por esperar, e foi para o hangar desmontar o painel do pedal de novo, só para ter o que fazer com as mãos."
+  },
+  {
+    "ordem": 164,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "À noite, a ponte de observação da Argama estava vazia. Era uma galeria estreita, no alto do casco, com uma janela comprida e quatro bancos aparafusados ao chão, onde a tripulação ia fumar escondida e os casais iam fazer o que os casais fazem numa nave de guerra sem lugar para ninguém. Bright foi até lá com o primeiro resumo escrito do noticiário civil na mão."
+  },
+  {
+    "ordem": 165,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quattro já estava sentado no último banco."
+  },
+  {
+    "ordem": 166,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Comandante."
+  },
+  {
+    "ordem": 167,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Capitão."
+  },
+  {
+    "ordem": 168,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bright sentou no banco do meio, a dois metros dele. Pela janela, a Terra estava enorme agora, maior a cada dia, e a Argama ia de encontro a ela pela face noturna. Lá embaixo, no escuro, as luzes das cidades formavam desenhos que Bright reconhecia sem pensar: a costa leste da Ásia, o colar de Hong Kong, Tóquio, mais acima."
+  },
+  {
+    "ordem": 169,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficaram um tempo calados."
+  },
+  {
+    "ordem": 170,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "O senhor lê o noticiário civil"
+  },
+  {
+    "ordem": 171,
+    "personagem": "Bright Noa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mandei ler."
+  },
+  {
+    "ordem": 172,
+    "personagem": "Bright Noa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Alguma coisa?"
+  },
+  {
+    "ordem": 173,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bright passou a folha para ele sem olhar. Quattro leu à luz fraca da galeria, de óculos escuros, segurando o papel longe dos olhos."
+  },
+  {
+    "ordem": 174,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Conselho debate poderes de emergência para os Titans — leu. — Uma greve em Granada. O terremoto nas Marianas, revisto. Catorze quilômetros de profundidade."
+  },
+  {
+    "ordem": 175,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Abaixo do fundo da fossa."
+  },
+  {
+    "ordem": 176,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Erro de medição."
+  },
+  {
+    "ordem": 177,
+    "personagem": "Bright Noa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi o que o operador escreveu do lado."
+  },
+  {
+    "ordem": 178,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quattro olhava a Terra."
+  },
+  {
+    "ordem": 179,
+    "personagem": "Bright Noa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Capitão"
+  },
+  {
+    "ordem": 180,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quattro não se mexeu."
+  },
+  {
+    "ordem": 181,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Duvido, comandante. Eu passei muitos anos longe."
+  },
+  {
+    "ordem": 182,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Longe onde?"
+  },
+  {
+    "ordem": 183,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Longe. — A voz não mudou nada. — No espaço profundo. Em lugares onde não se conhece ninguém."
+  },
+  {
+    "ordem": 184,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Eu conheci muita gente no espaço profundo. A maioria tentava me matar."
+  },
+  {
+    "ordem": 185,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "É uma profissão comum, por lá."
+  },
+  {
+    "ordem": 186,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bright olhou para ele, para os óculos escuros que devolviam o desenho das cidades lá embaixo. Tinha ouvido aquela voz. Não se lembrava onde, nem quando, e talvez não tivesse ouvido. Fazia sete anos. Ele tinha ouvido muitas vozes no rádio, naquele ano, e quase todas tinham morrido."
+  },
+  {
+    "ordem": 187,
+    "personagem": "Bright Noa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O garoto"
+  },
+  {
+    "ordem": 188,
+    "personagem": "Bright Noa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim."
+  },
+  {
+    "ordem": 189,
+    "personagem": "Bright Noa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele sente coisas."
+  },
+  {
+    "ordem": 190,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quattro demorou um pouco para responder."
+  },
+  {
+    "ordem": 191,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Sente."
+  },
+  {
+    "ordem": 192,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Mais do que os outros?"
+  },
+  {
+    "ordem": 193,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Mais do que eu, talvez. Ainda não sabe o que fazer com isso."
+  },
+  {
+    "ordem": 194,
+    "personagem": "Bright Noa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém sabe."
+  },
+  {
+    "ordem": 195,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "E surtou?"
+  },
+  {
+    "ordem": 196,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não. Ficou melhor que todo mundo. E depois disso a Federação o trancou numa casa em Shyenne com guarda na porta, porque teve medo do quanto ele era melhor."
+  },
+  {
+    "ordem": 197,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quattro virou a cabeça, enfim, para Bright. Ficou assim um tempo, sem dizer nada. As lentes escuras não deixavam ver os olhos."
+  },
+  {
+    "ordem": 198,
+    "personagem": "Bright Noa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por que o senhor me conta isso, comandante?"
+  },
+  {
+    "ordem": 199,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque o senhor vai cuidar do garoto lá embaixo. Eu vou estar na ponte. E porque o senhor me perguntou se o noticiário tinha alguma coisa, e eu achei curioso que um piloto de mobile suit quisesse saber do noticiário civil."
+  },
+  {
+    "ordem": 200,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quattro voltou a olhar a janela."
+  },
+  {
+    "ordem": 201,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No dia em que a gente se afastou da Lua — disse —, o garoto e eu sentimos uma coisa. Na mesma hora. Ele estava no hangar, olhando a Terra. Eu estava ao lado dele."
+  },
+  {
+    "ordem": 202,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Que coisa?"
+  },
+  {
+    "ordem": 203,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Não sei. Ele disse que eram muitos. Que estavam quietos. Que não eram gente."
+  },
+  {
+    "ordem": 204,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Que horas?"
+  },
+  {
+    "ordem": 205,
+    "personagem": "Quattro",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Treze e quarenta e um."
+  },
+  {
+    "ordem": 206,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bright tirou a folha do bolso, desdobrou, e procurou com o dedo a linha do terremoto. Estava lá, a hora local de Tóquio, e ao lado, na letra do operador, a conversão para o padrão da frota."
+  },
+  {
+    "ordem": 207,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Treze e quarenta e um."
+  },
+  {
+    "ordem": 208,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele dobrou a folha de novo e ficou com ela na mão."
+  },
+  {
+    "ordem": 209,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A mesma hora — disse."
+  },
+  {
+    "ordem": 210,
+    "personagem": "Bright Noa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É só uma coincidência, comandante."
+  },
+  {
+    "ordem": 211,
+    "personagem": "Bright Noa",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É."
+  },
+  {
+    "ordem": 212,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Saiu da galeria sem dizer boa noite. Quattro ficou sozinho no último banco, de óculos escuros, olhando a face escura da Terra, onde o Pacífico era a maior mancha preta do mundo, sem uma luz de cidade, sem nada."
+  }
+]

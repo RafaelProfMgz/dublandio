@@ -1,0 +1,12 @@
+titulo: Teste de vozes (pt-BR)
+# Sem origem: o roteiro foi escrito à mão em roteiro/cap_001.txt.
+provedor: openrouter      # heygen | openrouter
+idioma: pt
+
+vozes:
+  openrouter:
+    Narrador: lucian
+    Zoltan: weston
+    Sra. Thorne: nadine
+  heygen:
+    Narrador: 83548de556df48ba8c09c42a57c51d85

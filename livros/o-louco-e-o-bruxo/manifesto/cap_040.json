@@ -1,0 +1,566 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Caderno grosso de couro marrom, segundo livro do bestiário da Escola do Lobo. Letra de Vesemir, miúda e trêmula, com tinta que muda de cor de uma página para outra. Nas margens, a lápis e às vezes a tinta, uma letra inclinada e pequena, de Loen, que Vesemir não sabe ler. Entre as páginas, desenhos soltos, presos com cola de farinha."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para quem vier depois"
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O primeiro livro deste bestiário foi começado por mestre Arnaghad, há mais tempo do que eu tenho de vida, e eu continuei, e Geralt e Eskel e Lambert continuaram, e ele está ali na prateleira do salão com as bordas comidas de rato. Tem trezentas e doze criaturas. Algumas estão erradas. Todas foram escritas por quem viu, ou por quem ouviu de quem viu, e as erradas foram corrigidas por quem morreu provando que estavam erradas."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Este é o segundo livro. Começa no inverno do tremor, quando o mundo dobrou de tamanho e depois dobrou de novo, e uma cidade de outro mundo caiu no nosso vale com tudo o que morava nela e em volta dela."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nenhuma das criaturas deste livro está no primeiro. Algumas parecem. Não confiem no parecer. O afogador de Tingen é um afogador, e o grifo de Tingen era um grifo, e os dois quase mataram bruxos que já tinham matado cem deles."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regra deste livro, que não estava no outro porque não precisava: tudo sai maior. Igni, Aard, Yrden, os feitiços das feiticeiras, as coisas que os de Loen fazem com velas e rezas. Quem pede uma vela leva uma fogueira. Contem com isso antes de contar com qualquer outra coisa."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Segunda regra: os de Loen chamam as criaturas deles por outros nomes, e sabem coisas sobre elas que nós não sabemos. Escrevam os dois nomes. Perguntem a eles. Desconfiem também, mas perguntem."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Terceira regra, e esta é velha: escrevam o que viram, não o que acharam bonito."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vesemir, Kaer Morhen, inverno."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "[Na margem, letra de Loen:] Sr. Vesemir: o capitão Marsh diz que a Igreja da Senhora também tem livros assim, só que trancados num porão, com número em cada página e um homem armado na porta. Achei melhor o seu, que fica na prateleira. — O. P."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lanterneiro Nome em Loen: Lume-de-Cabana (\"cottage light\")."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Visto e morto por Geralt na manhã do segundo dia, no bosque abaixo da muralha leste. Dissecado por mim no subsolo da ala norte. Mula de carga morta por ele, esvaziada."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Como é. Alto e magro, dois metros e meio de pé, como um alce que passou fome a vida inteira e perdeu a cabeça. Couro cinza-esverdeado, úmido, como casca de árvore em dia de chuva. Patas finas de muitas juntas. No lugar da cabeça, um talo curvo que termina numa bolsa que brilha amarela e quente, igual a uma janela acesa, e dentro da bolsa uns fios que parecem o caixilho da janela. Mãos compridas, quatro dedos, unhas pretas em gancho. Não tem cheiro nenhum, e isso, para nariz de bruxo, é o primeiro aviso: tudo que vive cheira a alguma coisa. Quando se mexe, range, como porta velha abrindo."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que faz. Pendura a luz entre as árvores na altura de uma janela e espera. Quem vê a luz quer ir até ela. Gente comum vai. Bruxo resiste, mas olha, e perde meio segundo olhando. Meio segundo é muito."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ataca de cima, com as mãos, quando a presa chega debaixo da luz. Arrasta para o alto."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Como come. Eu abri. Não tem sangue: tem seiva grossa e sem cor. Não tem coração. Tem duas bolsas murchas no lugar dos pulmões. No lugar do estômago, um feixe de tubos finos como raiz, que sobe pelos braços até as unhas, e as unhas são ocas, canudos de chifre preto. Bebe a presa pela unha. A mula estava vazia e não havia sangue nenhum na neve."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uma árvore que anda e caça."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fraquezas. Não olhar a luz. Geralt lutou de olhos baixos, pelo som e pelo medalhão, que vibra fora de compasso perto dele, como se tivesse soluço. Igni pega bem no couro e racha. Aço corta as juntas melhor que prata. Prata quase não serve. Óleo de necrófago não faz diferença nenhuma. Cortar o talo derruba."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Cuidado. A luz não apaga quando o bicho morre. A bolsa ficou acesa na neve, e continua acesa, até hoje, numa caixa de ferro no fundo da despensa. Medalhão treme em cima dela. A feiticeira Merigold não sente nada nela. O capitão de Tingen diz que é ali que fica a coisa que os de Loen chamam de característica, e que não se deve deixá-la perto de quem já foi tocado."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel foi tocado. Passou uma semana dormindo numa cadeia de Tingen, longe da luz, e voltou bem. Anotem: quem chega perto da luz pode levar um pedaço dela para casa. Andar dormindo é o primeiro sinal."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "[Na margem, letra de Loen:] A Srta. Holloway conhece o ditado: \"Nunca siga a janela acesa no meio do mato. É a casa de quem morreu perdido.\" Avó dela, do interior de Awwa. O capitão viu um em vinte anos. As pessoas que ele tocou não se levantaram no dia seguinte; uma não se levantou nunca. O Sr. Eskel é o único que eu conheço que levantou. — O. P."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "[Desenho colado: o Lanterneiro de pé entre pinheiros, a bolsa acesa no alto, em três riscos de lápis; embaixo, a mão de quatro dedos em tamanho natural, com as unhas ocas.]"
+  },
+  {
+    "ordem": 23,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Afogador (de Tingen)"
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É afogador. Igual aos do primeiro livro, página cento e quatro. Pele verde-azulada, inchado, olho leitoso, garra, grito de gaivota rouca, vive em bando perto de água parada."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Escrevo aqui porque o lugar é novo. O Gwenllech agora entra no canal de Tingen pela comporta de baixo e corre para o lado errado, e os afogadores desceram com ele e fizeram ninho no bueiro grande debaixo da eclusa. Mataram o vigia da eclusa e um rapaz de dezenove anos."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que muda. Nada no bicho. Muda o lugar. Os túneis de Tingen têm canos de gás, e os canos racharam no tremor. Nada de Igni debaixo da cidade. Geralt sabia e não usou. Afogou a lanterna para não explodir o túnel."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Arma de fogo de Loen derruba afogador, mas ele levanta. Prata e óleo de necrófago funcionam como sempre."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Puseram grade de ferro no arco da eclusa. Não subiu mais nada."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "[Na margem, letra de Loen:] O sargento Bligh diz que foram quinze anos de ofício de polícia e nenhum afogador. Agora pagou quatro libras por eles e diz que pagaria de novo. Ele manda lembranças. — O. P."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sanguíneo Nome em Loen: \"Vampiro\", entre o povo; os de dentro dizem outra palavra. Escrito por Emiel Regis, barbeiro-cirurgião, a meu pedido, porque eu não vi e ele viu."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O homem chamava-se Arthur Venn. Tinha vinte e cinco anos, era professor particular em Backlund, a capital de Loen, e estava a caminho de Tingen para encontrar outros como ele quando o tremor o deixou numa estalagem de posta, no meio da neve, longe de tudo o que conhecia."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Escrevo \"homem\" porque era isso que ele era quando eu o conheci, e porque continuou sendo até muito perto do fim, e acho que o leitor deste livro deve ter isso em mente antes de ter qualquer outra coisa."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele tinha bebido, alguns meses antes, uma coisa para se tornar outra coisa. Os de Tingen chamam essas coisas de poções e dizem que há nove degraus delas em cada caminho. A dele era a do sétimo degrau de um caminho que eles chamam da Lua. Sem o mestre, que ficou em Backlund, e sem saber o que a poção pedia dele, ele estava perdendo a si mesmo, aos poucos, como quem perde sangue por uma ferida pequena que não se vê."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sinais, antes. Luvas sempre. Pontas dos dedos escuras debaixo das unhas. Quatro furinhos cicatrizados em fila nas costas da mão direita. Veias do pescoço roxas, desenhadas como um mapa de rios. Coração lento que dispara sem motivo. Lábios rachados. Bebia sangue de cavalo à noite e acalmava os bichos falando com eles. Ouvia corações. Ouviu o da menina da estalagem, que tinha um sopro, e não conseguiu mais deixar de ouvir."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sinais, no fim. Os caninos cresceram e a gengiva ficou roxa. Duas asas de morcego rasgaram o casaco nas costas, uma maior que a outra, a menor torta. Os dedos ficaram compridos, de pontas pretas, com garras de um dedo. O rosto continuou o dele. Os olhos encheram de vermelho de dentro para fora. Fala: uma palavra só, repetida. Pensamento: a presa."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Força. Acima de homem e de muitos bichos. Não sente dor. Fecha feridas: cuspiu o chumbo de uma espingarda, fechou um corte na coxa até o osso em um passo e a garganta aberta em bolhas. Fecha mais devagar a cada ferida."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Morte. Cabeça separada. Meu amigo Zoltan Chivay precisou de dois golpes de machado. Eu segurei."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois. O sangue dele correu pela neve contra o declive e se juntou num caroço vermelho-escuro, quase preto, do tamanho de um caroço de cereja, brilhante como vidro molhado. É a coisa que os de Tingen chamam de característica. Eu provei o sangue antes que se juntasse, por deformação de ofício, e senti nele uma vontade que não era do morto. Dizia: mais."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não recomendo que ninguém prove."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uma última observação, de barbeiro. Ele tinha nas coisas dele um caderno, e na última página do caderno escreveu o próprio nome muitas vezes, até rasgar o papel. Acredito que, enquanto conseguiu escrever o nome, ele era um homem lutando contra uma doença, e não um monstro. O leitor que encontrar um destes deve saber que não há como saber, de fora, em que página do caderno ele está."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E. R."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "[Embaixo, letra de Vesemir:] O caroço está numa caixa de ferro no alto da torre norte, dentro de um muro de velas que o capitão de Tingen fez. Longe da cripta. Longe de Lambert. Ver página do grifo. — V."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "[Na margem, letra de Loen:] Caminho da Lua: Boticário no nono degrau, Domador de Feras no oitavo, e no sétimo o que o povo chama de Vampiro e os livros chamam de Sanguíneo. O capitão não sabe mais que isso. Eu não sabia nem isso. O Sr. Regis escreve melhor que qualquer professor que eu tive. — O. P."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Grifo (de Tingen)"
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O grifo de antes. Página duzentos e onze do primeiro livro. Híbrido, territorial, ninho em rocha alta. Óleo de híbrido, bomba de metralha, Aard para derrubar, virote para trazer ao chão. Todo bruxo do Lobo já matou um. Eu matei onze."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Este. Macho grande e velho. Três noites nos pastos ao sul de Tingen. Mataram um pastor velho e um rapaz de dezessete anos, abriram uma vaca, sumiram umas quarenta ovelhas. As pegadas eram fundas demais para o peso. No curral, três ovelhas inteiras por fora e vazias por dentro, sem corte. Visto à lua com linhas brilhando nas asas."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinha comido um homem."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O homem era Elias Reed, plantador de trigo de um sítio na beira dos pastos, que os vizinhos chamavam de santo, porque as colheitas dele nunca falhavam e as vacas dele davam leite no inverno. Era dos de Loen. Tinha bebido as coisas deles, e a coisa dele era de fazer crescer. O grifo comeu o homem, e a coisa do homem ficou no grifo, e o grifo virou outra coisa."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que virou. Das garras saíam raízes brancas, finíssimas, que entravam pela pele por furinhos de agulha e bebiam a presa por dentro. Por isso as ovelhas vazias. Por isso Eskel com a perna furada em mil lugares. As penas tinham veios verde-dourados que brilhavam. Debaixo das penas, casca, casca de carvalho velho. Na carne, raízes grossas como dedo, entrelaçadas com músculo e osso, todas indo para o meio do peito."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O ninho dele, no penhasco número três, virou um jardim. Trigo maduro, flores, insetos no inverno, vinhas de espinho da grossura de um braço que se mexiam e prendiam. O bicho dormia de dia bebendo a rocha pelas garras."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fraquezas. A metralha abre a pele, mas em vez de sangue sai seiva cor de mel. A prata com óleo de híbrido entra dois palmos e bate em madeira, e a casca cresce em volta da lâmina e a prende. Aço corta melhor. Cortar é podar: ele cresce de novo. Fogo resolve. O Igni de Geralt saiu enorme, como tudo agora, e queimou o jardim inteiro e o bicho dentro."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mesmo caído e queimando, bebia a montanha. Brotou capim em volta dele num círculo de vinte passos. Morreu com uma espada de aço no olho."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois. O corpo não esfria. Ficou quente como pedra de forno, e debaixo dele brotou trigo, um dedo por minuto, até o joelho, num círculo de trinta passos."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No lugar do coração, uma semente do tamanho de um punho de criança, marrom-dourada, lisa como noz polida, com veios que batem como coração. As raízes saem dela."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Está selada na cripta, debaixo da ala norte, numa caixinha de metal preto, dentro de um selo que o rapaz de Tingen e as duas feiticeiras fizeram juntos e que nenhum dos três entende. Duas chaves: uma comigo, uma com o capitão Marsh."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela se mexe quando a coisa de Venn chega perto. As duas se puxam. O capitão diz que são de caminhos vizinhos e que querem se juntar e virar uma maior. Não deixem. O frasco do barbeiro puxava mais forte quando Lambert passava perto dele. Lambert dorme em cima da cripta. Eu não sei por quê. Não gosto de não saber."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "[Rabiscado embaixo, a carvão, letra grande e torta:] Eu queria empalhado na parede do salão. — L."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "[Logo abaixo, letra de Vesemir:] Não. — V."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "[Na margem, letra de Loen:] Caminho da Mãe: Plantador, Doutor, e no sétimo degrau Sacerdote da Colheita. É o caminho vizinho ao da Lua; por isso as duas coisas se puxam. A gente chama a regra de Lei da Conservação das características: elas não somem, só mudam de dono. Quem come, herda. A Srta. Holloway ganhou do Sr. Reed, quando era menina, uma semente do colar dele. Ela ainda tem. Não está brotando. Eu perguntei. — O. P."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "[Desenho colado: o grifo de três ângulos, as linhas nas asas marcadas a tinta dourada; noutro papel, a semente na caixinha, em tamanho natural, com os veios contados: onze.]"
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Espectro rancoroso Nome em Loen: os de Tingen dizem só \"espectro\", ou \"rancoroso\". Ver nota. Contado por Geralt e por Ciri. Escrito por mim."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O espectro de antes. Os nossos espectros de morte injusta ficam presos no lugar onde morreram. Prata, óleo contra espectros, Yrden para obrigar a ter corpo, e a prata corta. Página cento e oitenta e sete."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Este. Lottie Fairbanks, costureira, morta de frio sentada na máquina de costura, no sótão de uma pensão da Rua da Cruz de Ferro, em Tingen, trinta anos atrás. A dona da casa trancou as roupas dela e apagou o fogão por três semanas de aluguel. Os de Tingen a tinham anotado num caderno como coisa velha e sem mal: frio no sótão, suspiro de madrugada."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois do tremor, cresceu. O frio desceu dois andares. A geada nascia do lado de dentro dos vidros, com riscos de dedos. A máquina costurava sozinha de noite."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que faz que os nossos não fazem. Imita a voz de quem está vivo na casa. Chamou a mãe com a voz do filho, com o filho deitado ao lado da mãe. Chamou Geralt com a voz de Ciri, com Ciri sentada ao lado dele. Entra em quem dorme. Levou um velho dormindo para o sótão com a fita métrica no pescoço. Levou um menino de sete anos, de olhos abertos e sem ver, para a máquina, para acabar a costura."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não se vê a olho. Geralt viu só o ar mais grosso, com forma de gente curvada. Ciri não viu nada. O medalhão tremia fraco e sem parar, e pulou à meia-noite."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que ela queria. Acabar a costura. A dona da casa, que tinha levado sopa escondida a ela duas vezes, sentou e acabou. O espectro largou o menino. E depois, com a costura acabada, apertou a dona da casa pelos ombros e quis levá-la. Anotem: o que o rancoroso quer e o que ele odeia podem ser a mesma casa."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Como acabou. Geralt fez o Yrden. Pediu pequeno e saiu do tamanho do sótão, e desceu pelas vigas, e acordou a mãe no andar de baixo. O espectro ficou com corpo, e todo mundo viu: uma moça magra, de vestido marrom remendado e luvas sem dedos, o rosto branco de geada. E então o Yrden começou a queimar a moça. Sem fogo. Luz violeta e branca, fria, de baixo para cima, onde as runas tocavam. Ela gritou sem som. Ciri a cortou com a prata para acabar com aquilo."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não ficou resto. A Nighthawk de Tingen olhou com os olhos de dentro deles e disse que o sótão ficou mais limpo que uma capela. As tábuas do chão desbotaram, quase brancas, no círculo inteiro, e as runas ficaram desenhadas nelas, cinza-prateadas."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aviso. Nos espíritos de Loen, o Yrden não só prende. Ele come. E cobra de quem desenha. Geralt não diz quanto. Ciri diz que ele ficou pálido."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "[Embaixo, letra de outra pessoa, firme, sem floreio:] Eu cortei porque ela estava olhando para mim. Se alguém achar que ela tinha de queimar até o fim para acabar direito, que escreva aqui embaixo e venha me dizer na cara. — C."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "[Na margem, letra de Loen:] A Srta. Holloway diz que, quando a Igreja expulsa um destes com ritual, sempre sobra um resto que leva semanas para sumir, e que aqui não sobrou nada. Ela me contou que disse ao Sr. Geralt que ele estava \"mais baixo do lado esquerdo\". Para nós, isso é espiritualidade gasta, e volta com sono. Recomendo que o Sr. Geralt durma. Não sei se ele vai ler isto. — O. P."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "[Desenho colado: a máquina de costura de pedal, preta com dourado apagado, o carretel no pino, e o círculo desbotado no chão com as runas copiadas uma por uma.]"
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gente que pega fogo nas mãos Não é bicho. Escrevo assim mesmo. Contado por Ves, na madrugada do dia dezoito, entre uma colherada e outra de sopa."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Há gente de Loen que bebeu as coisas deles e saiu do outro lado com fogo nas mãos. Ves e Roche encontraram três numa aldeia de tijolo chamada Lindhurst, ao norte de Ban Ard: um bando de contrabandistas de casaco cinza. Um rastreava como cão e armava laço como caçador velho. Um falava, e quem ouvia perdia a cabeça mesmo sabendo que era provocação. E o chefe, um ruivo magro, tirava da palma vazia uma bola de fogo do tamanho de um punho, que pegava em carvalho molhado de uma vez."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que o fogo dele faz que o nosso não faz. Ves levou o fogo no braço esquerdo, do cotovelo ao pescoço. Queimadura feia, de terceiro grau no meio. Até aí, queimadura. Horas depois, apareceu na beira dela uma faixa cinzenta, seca, rachada como barro ao sol, quente como pedra ao sol, que andava. Comia a pele sã, um dedo por hora, e mexia debaixo do dedo de quem tocava."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A doutora Shani, de Oxenfurt, que veio com Roche, tentou a pasta dela, e não fez nada. Tentou uma pomada de Loen feita de vela de igreja, e a faixa andou mais devagar. Juntou as duas, e a faixa recuou. A pele que sobrou ficou prateada, fria, com veios que brilham no sol, e não mexe mais."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Anotem. O fogo deles continua queimando depois de apagado. Quem levar uma queimadura dessas, chame a doutora. E quem quiser saber o que é a pele prateada, pergunte aos cães. Ver página seguinte."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "[Na margem, letra de Loen:] Caminho do Padre Vermelho: Caçador no nono degrau, Provocador no oitavo, Piromaníaco no sétimo. Três degraus, três homens. Os casacos cinza passavam por Lindhurst de dois em dois meses. Ninguém de Tingen mexia com eles. Agora eu sei por quê. — O. P."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Cão da Caçada Escrito na madrugada do dia dezoito, com a soldada de Roche dormindo no banco do salão."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do primeiro livro. Não estão no primeiro livro. Não havia página para eles quando o primeiro livro foi escrito, e quando eles vieram, na noite em que a Caçada desceu sobre esta fortaleza, eu estava ocupado demais para escrever. Escrevo agora o que lembro daquela noite."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Cão grande, magro, de ossos à mostra e gelo pelo corpo, olhos brancos sem pupila. Onde pisa, a neve vira gelo liso e azulado, com agulhas de cristal em volta. Corre em matilha e obedece ao cavaleiro. O frio chega antes dele: o fogo encolhe e fica azul, a geada sobe nas pedras. Queima com chama branca e estala como gelo no fogo. Igni, óleo de elementa, bomba de dimerítio. Matamos muitos naquela noite. Morreu gente nossa também."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que veio hoje. A Caçada não acabou em Skellige. Sobraram dois cavaleiros. Um se chama Taedh, armadura negra, elmo de caveira, e acha que Ciri trancou o mundo. A outra é uma navegadora que não navega mais. Sobraram quatro cães. Estão com fome. Estão subindo o Gwenllech na direção desta casa."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que Roche descobriu, e Ves contou. Óleo de lamparina de Loen e um tição queimam um cão até o osso. O gelo dele não volta quando queima. Volta quando se corta, quando se fura de virote, quando se atira de espingarda: o rombo fecha com gelo novo."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que a soldada de Roche trouxe no ombro. A moça Ves tem no ombro esquerdo uma mancha de pele prateada, do tamanho de uma moeda grande, que ficou de uma queimadura que ninguém nesta casa olhou ainda. Um cão pôs a pata em cima dela. Ficou geada que não derrete. A mancha esfria quando os cães estão perto. Antes de se ver. Antes de se ouvir. Ela viu os cães a meia milha, do outro lado do rio, e a mancha estava fria como moeda no fundo de poço. Quando eles se afastaram, esquentou."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Anotem. Na próxima noite em que eles vierem, esta casa vai ter um aviso que não tinha da outra vez."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "[Na margem, letra de Loen, mais apressada:] Sr. Vesemir: o elfo que o Sr. Roche prendeu disse que o frio dos cães não fica em carne viva. Se ficou na mancha da Srta. Ves, a mancha não está viva do mesmo jeito que o resto dela. Eu não sei o que isso quer dizer. Acho que ninguém sabe. Mas, se for assim, o que está avisando a gente não é a pele dela. É a coisa que a pele virou. — O. P."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Última página escrita, sem título, letra de Vesemir."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Este livro tem duas letras agora. Uma eu leio. A outra o rapaz lê para mim, à noite, com a vela entre nós, e eu copio no meu, e ele copia no dele. Não sei se o que ele escreve na margem é o que ele me diz que escreveu. Acho que é. Ele fica vermelho quando mente, e não ficou."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O primeiro livro foi escrito por bruxos. Este vai ser escrito por bruxos, por um barbeiro que não bebe, por uma imperatriz que corta fantasma, por um rapaz de dedos sujos de tinta e por um capitão de cartola que não quer aparecer nele."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Faltam páginas para o que ainda não vimos. Faltam para os bichos que riem no planalto onde Yennefer caiu, que Ciri diz que conhece de outro mundo, e para o que mais tiver descido conosco nesse inverno. Deixei o fim do caderno em branco de propósito."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mestre Arnaghad ia odiar."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu acho bom."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "V."
+  }
+]

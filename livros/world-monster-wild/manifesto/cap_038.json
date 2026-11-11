@@ -1,0 +1,1250 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O osso esquentou na minha mão, e o velho Wyveriano sorriu como quem ouve alguém dizer, sem saber, o nome certo."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não sabia que nome era. Até hoje não sei se sei."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Levei a espada de Bertram Sallow à Forja Funda na manhã seguinte à faixa quente, com o sol ainda atrás do paredão e o pátio cinzento de sombra."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lio foi comigo até a porta. Não passou dela. Parou na linha onde a cinza do pátio virava a pedra preta da entrada, como se ali houvesse um risco no chão que só ele via, e ficou."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Lio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não entro"
+  },
+  {
+    "ordem": 6,
+    "personagem": "Lio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele me riscou duas vezes."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Lio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele não vai te morder."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Lio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele não morde."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lio enfiou as mãos no barbante da camisa."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Lio",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele olha. É pior."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na parede de fora, do lado da boca da caverna, havia uma tábua grande, pregada na rocha, coberta de nomes escritos a carvão. Todos os nomes de Última Luz e, embaixo, numa coluna nova, com a letra mais apertada, os da 33ª. Do lado de alguns, um risco. Do lado do meu, no dia da devolução das armas, tinha havido um risco também. Eu me lembrava dele. Grosso, feito com raiva ou com pressa."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Procurei o meu nome. KEST."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O risco não estava mais lá. Havia uma mancha cinzenta no lugar, de carvão esfregado com o dedo."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lio olhou para a mancha, depois para mim, com a cara de quem tinha ganhado uma aposta que ninguém tinha feito."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu disse"
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "falou."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando ele dá coisa, ele apaga."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Forja era quente como uma boca."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Da porta, dava para ver só o primeiro salão: o forno grande, alimentado com Seiva e carvão, a bigorna, os baldes de água preta, as ferramentas penduradas em ganchos de osso. Mas a caverna continuava. Ia para dentro do paredão, fundo, e o fundo era escuro e vermelho, com uma luz de brasa que vinha de algum lugar que eu não enxergava. Por isso chamavam de Funda. Eu tinha achado que era por causa da fama."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hadrek estava na bigorna, batendo uma ponta de lança, com o martelo na mão boa e a mão sem pele segurando a peça com uma tenaz. Não parou quando eu entrei. Deu mais quatro golpes, contados, e enfiou a lança no balde, e o balde chiou e soltou um vapor que cheirava a ferro e a ovo."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kest"
+  },
+  {
+    "ordem": 22,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senhor."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sou senhor. Sou ferreiro."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele se virou. Olhou para as minhas costas, onde estava a espada, e depois para o meu rosto."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bateu em pedra."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não era pergunta. Eu não tinha dito nada. Tirei a espada da correia e dei a ele pelo punho, e ele a pegou com a mão boa e a levantou contra a luz do forno, e passou o polegar no fio, devagar, até parar num ponto a um palmo da ponta."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ali o fio tinha uma falha nova. Pequena, do tamanho de uma unha. Um dente a mais entre os dentes velhos."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Riacho seco"
+  },
+  {
+    "ordem": 29,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pedra redonda de rio. Você mirou como quem corta lenha pequena. Com espada leve."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Com a espada do Tadeu. Era o que eu tinha."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele virou a lâmina."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E a ponta caiu mais do que você queria e bateu no chão. E depois, da segunda vez, você deixou ela cair em cima do bicho."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele passou o polegar mais para baixo, perto do punho, onde havia sangue seco de Jagras que eu tinha limpado mal."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann te ensinou."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Como o senhor sabe?"
+  },
+  {
+    "ordem": 37,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque o Bertram também aprendeu com alguém. Não foi comigo. Eu era menino."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele pôs a espada deitada na bigorna."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E não me chama de senhor."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi aí que o Wyveriano saiu do fundo."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não o ouvi chegar. Ninguém o ouvia chegar, eu soube depois. Ele simplesmente estava ali, do lado do forno, onde um instante antes não havia ninguém. Alto, mais alto que Brann, mas magro, magro como uma vara de pescar, com a pele de um cinza-azulado de pedra de rio e as orelhas compridas, pontudas, caídas para trás como as de um cão velho. Tinha o cabelo branco, fino, preso numa trança que descia até a cintura. O rosto era comprido e cheio de rugas finas, tantas que pareciam escrita. E as mãos."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As mãos tinham quatro dedos. Quatro, longos, com as juntas grossas de quem trabalhou a vida inteira com coisa dura. E nenhum deles tremia."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu o reconheci. Era um dos dois do Salão. O que tinha sacudido a cabeça devagar quando eu perguntei por Irena."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gorrim"
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse Hadrek, sem olhar para ele."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O rapaz do Bertram."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Irena",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei quem é."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A voz de Gorrim era baixa e seca, com um sotaque que não era o de Última Luz nem nenhum que eu conhecesse; as palavras saíam inteiras, cada uma separada da outra, como pedras postas numa fila."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Irena",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É o que pergunta."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu senti o rosto esquentar."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O senhor disse uma palavra"
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "falei."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No Salão. Quando eu perguntei pela mulher. Eu não entendi."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gorrim me olhou. Tinha os olhos claros, quase sem cor, como água em cima de pedra branca."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu disse: essa pergunta tem dono."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele inclinou a cabeça, muito pouco."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E o dono não era eu. Você achou o dono?"
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pensei em Irena de joelhos nos canteiros, enterrando sete sementes com terra de fora."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Irena",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Achei."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Irena",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então a palavra fez o trabalho dela."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E ele deu a volta na bigorna e olhou para a espada de Bertram, deitada ali, sem tocar."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Irena",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hum. Sallow. Ruim de espada."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Irena",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Todo mundo diz isso dele."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Todo mundo diz porque é verdade."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gorrim levantou os olhos para mim."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mas ninguém diz que ele era ruim de espada e voltava. Os bons de espada, eu enterrei muitos. Os ruins que voltam, são poucos. Vale mais."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hadrek começou pelo punho."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pegou uma faca curta, de lâmina curva, e cortou o couro velho, preto de mão, com cuidado, como quem tira o curativo de um ferido. O couro saiu em tiras. Por baixo havia um segundo couro, mais velho ainda, quase podre, e, por baixo dele, a espiga de ferro, a parte da lâmina que fica escondida dentro do punho e que ninguém vê."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hadrek parou."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olha isso"
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse. Não para mim. Para Gorrim."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na espiga, raspados com ponta de faca, havia riscos. Não eram letras. Eram riscos curtos, de lado, em fila, como os que um preso faz na parede para contar os dias. Contei. Eram dezenove. E, no fim da fila, separados por um espaço, dois riscos mais fundos, mais compridos, cruzados um sobre o outro."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E, antes de tudo, bem no começo, perto da guarda, duas letras tortas. B. S."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Trinta e quatro anos que eu olho essa espada"
+  },
+  {
+    "ordem": 75,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nunca tirei o couro. Ele não deixava ninguém mexer no punho. Dizia que dava azar."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que são os riscos?"
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "perguntei."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hadrek não respondeu. Gorrim se inclinou por cima da bigorna e passou um dos dedos compridos na fila de riscos, sem encostar, como eu tinha feito com a mão aberta sobre a faixa quente."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os pequenos, eu não sei"
+  },
+  {
+    "ordem": 80,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Podem ser bichos. Podem ser dias. Podem ser gente."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O dedo parou em cima dos dois riscos cruzados."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estes, eu sei. São dois Clamores. Ele marcava o fim."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O dedo ficou ali."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O segundo, ele marcou. Então ele viu o fim do segundo Clamor. Morreu depois. Não durante."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hadrek olhou para ele. Uma coisa passou entre os dois, entre o homem baixo e largo e o Wyveriano comprido, que eu não entendi e que durou o tempo de uma respiração."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Morreu três dias depois"
+  },
+  {
+    "ordem": 87,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Da ferida. Eu tinha esquecido."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você não esqueceu"
+  },
+  {
+    "ordem": 89,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você escolheu não lembrar. É diferente."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E Hadrek não discutiu. Isso me espantou mais que os riscos."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Agora o braço"
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele foi até uma prateleira na parede do fundo e voltou com uma placa. Era de osso. Osso de bicho, amarelado, liso de um lado e poroso do outro, do tamanho de um livro grande e da grossura de três dedos, com as bordas serradas e lixadas. Não sei de que monstro era. Não perguntei. Havia outras na prateleira, de cores diferentes, brancas, marrons, uma quase preta, empilhadas como pratos."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estica os braços"
+  },
+  {
+    "ordem": 94,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os dois. Para frente. Reto."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estiquei. Ele pôs a placa nas minhas mãos, deitada, como se me entregasse uma bandeja."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era pesada. Mais pesada do que parecia. Os meus ombros sentiram na hora, e as costelas, lá embaixo, deram um aviso curto."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Segura"
+  },
+  {
+    "ordem": 98,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não dobra o cotovelo. Não sobe o ombro. Eu vou olhar onde você treme primeiro."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para quê?"
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para saber onde a espada vai pesar em você. O Bertram tinha o braço curto e o ombro largo. Você tem o braço comprido e o ombro de menino. A espada é dele. O punho vai ser seu."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele cruzou as mãos de quatro dedos na frente do corpo."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Segura."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Segurei."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hadrek voltou à bigorna e começou a cortar couro novo, e o barulho da faca no couro era o único barulho da Forja além do forno. Eu segurei a placa. Os braços começaram a doer primeiro no ombro, depois no antebraço, uma dor quente e fina, e eu apertei os dentes. Gorrim não tirava os olhos de mim. Não do meu rosto. Dos meus braços, dos pulsos, dos dedos, como Sila olhava uma pegada."
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E foi aí que o osso esquentou."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não de uma vez. Foi devagar, como a pedra de uma fogueira apagada que você pega de manhã e ainda está morna embaixo. Começou nas palmas, no ponto onde as minhas mãos tocavam o lado poroso da placa, e foi se espalhando pelo osso, do meio para as bordas, até que a placa inteira estava morna. Não quente de queimar. Quente como uma coisa viva. Como a barriga da Pena quando ela dormia encostada em mim no frio da Garganta."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olhei para a placa. Olhei para Gorrim."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Está quente"
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu disse."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gorrim não se mexeu. Mas alguma coisa no rosto dele mudou. Não foi surpresa. Foi outra coisa, mais parecida com o jeito que a gente olha para uma estrada que já conhece e que achava que ninguém mais usava."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele sorriu. Um sorriso pequeno, só num canto da boca, que fez as rugas finas do rosto se mexerem todas juntas."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O osso gosta de você"
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Da bigorna, Hadrek riu. Uma risada grossa, curta, de ronco."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O osso gosta de quem paga"
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E estava do lado do forno a manhã inteira, Gorrim. Eu mesmo pus lá. Tudo nessa Forja é quente. Até as minhas pragas."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gorrim não respondeu a ele. Continuou me olhando."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pode baixar"
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Baixei. Os braços tremiam inteiros. Ele tirou a placa das minhas mãos com as dele, com cuidado, e ficou segurando-a um tempo, de pé, com as duas palmas embaixo. Não sei o que ele sentiu. O rosto dele não disse. Depois levou a placa de volta para a prateleira e a pôs no alto da pilha, não no lugar de onde tinha tirado, mas separada, de lado, sozinha."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu fiquei olhando para as minhas mãos. Estavam vermelhas nas palmas, do peso. Só isso."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava do lado do forno, pensei. E era verdade. A prateleira ficava perto do forno. Tudo ali era quente. As paredes, o ar, o chão. Eu estava suando desde que tinha entrado."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mas eu tinha segurado a placa por muito tempo. Tempo bastante para um osso morno esfriar nas mãos de um rapaz que suava de dor."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E ele não tinha esfriado. Tinha esquentado."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não disse isso a ninguém. Achei que era bobagem. Achei que o calor do forno fazia as coisas mais estranhas do que eram. Guardei junto com as outras coisas que eu guardava e que eram cada vez mais, e que eu não sabia mais onde pôr."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O ombro esquerdo cansa antes"
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse Gorrim, de costas, na prateleira."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O pulso direito é bom. O cotovelo direito dobra para fora, do pastoreio, de puxar corda. O punho tem de ser mais fino que o do Bertram e mais comprido. Um dedo e meio."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele se virou."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hadrek."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ouvi"
+  },
+  {
+    "ordem": 130,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Um dedo e meio. Eu não sou surdo."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hadrek trabalhou o resto da manhã."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu fiquei sentado num caixote do lado do balde, porque ele não me deixou ir embora (\"Quem é dono da espada vê fazer. Senão não confia nela\") e porque eu não queria. Gorrim voltou para o fundo da caverna, para a luz vermelha que eu não enxergava de onde vinha, e de lá, de vez em quando, chegava um barulho diferente. Não de martelo. Um raspar lento, como pedra em pedra."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hadrek pôs na espiga uma alma nova de madeira escura, dura, que ele disse ser de uma árvore do Cinzal que não queimava, e a entalhou na faca, experimentando na minha mão, e entalhou de novo. Três vezes ele me mandou segurar e três vezes tirou da minha mão e raspou mais. Na quarta, os meus dedos fecharam em volta, e não havia sulco de ninguém. Só madeira lisa, do tamanho da minha mão."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois veio o couro. Couro novo, marrom, que ele enrolou em volta da madeira bem apertado, em espiral, e prendeu com cola quente de osso fervido, que fedia."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E a ponta?"
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "perguntou ele, enquanto a cola secava."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Posso pôr peso no pomo. Um contrapeso. Chumbo, ou osso denso. A ponta fica mais leve na mão. Você briga menos com ela."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pensei no riacho seco. No Jagras pendurado na minha bota. Na voz de Brann, lá de cima da pedra: deixa ela cair."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não"
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu disse."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hadrek levantou os olhos da cola."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não?"
+  },
+  {
+    "ordem": 143,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Deixa a ponta."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu me senti idiota dizendo aquilo para o ferreiro de Última Luz, eu, que não sabia nem amolar direito."
+  },
+  {
+    "ordem": 145,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela tem o jeito dela. Eu estou aprendendo o jeito dela. Se o senhor mudar, eu vou ter que aprender outro."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hadrek ficou me olhando. A mão sem pele parada no ar, com os dedos cor de osso velho meio fechados."
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do fundo da Forja, o raspar parou."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ferreiro"
+  },
+  {
+    "ordem": 149,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não senhor."
+  },
+  {
+    "ordem": 150,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E voltou para a cola."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Hadrek",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Bertram disse a mesma coisa. Quando eu era menino e o meu mestre quis pôr peso no pomo. Com as mesmas palavras não, que ele era mais burro que você. Mas disse."
+  },
+  {
+    "ordem": 152,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E não pôs peso nenhum."
+  },
+  {
+    "ordem": 153,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A correia de Dita ele pegou no fim."
+  },
+  {
+    "ordem": 154,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu a tinha tirado das costas e deixado no caixote, do meu lado. Hadrek a pegou, abriu, olhou o trançado de três cores contra a luz, a fivela de osso, a alça dupla. Parou no nó grosso, o do meio, o que Dita tinha deixado para lembrar."
+  },
+  {
+    "ordem": 155,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quem fez isto?"
+  },
+  {
+    "ordem": 156,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dita. A carregadora. Da alça do escudo do Tadeu."
+  },
+  {
+    "ordem": 157,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A que eu dei os restos."
+  },
+  {
+    "ordem": 158,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele passou o polegar bom no nó."
+  },
+  {
+    "ordem": 159,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sabe trançar. A avó sabia melhor, aposto. Mas sabe."
+  },
+  {
+    "ordem": 160,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então ele fez uma coisa que eu não esperava. Pegou um pedaço de couro grosso, endurecido no fogo e na cera, e cortou uma bainha. Não uma bainha inteira, que a espada de Bertram era larga demais e comprida demais para uma bainha fechada que se tirasse depressa das costas. Uma bainha aberta de um lado, como uma calha, com uma boca de osso na ponta de cima e duas presilhas de couro para prender a lâmina. E, em vez de pregar a bainha numa correia nova, costurou-a na de Dita. Com linha encerada, grossa, ponto por ponto, furando o couro com uma sovela, pelo lado de dentro, onde o trançado não aparecia."
+  },
+  {
+    "ordem": 161,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Levou quase uma hora. Ele não falou nada durante a hora inteira."
+  },
+  {
+    "ordem": 162,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No fim, sobrou um pedaço de linha, e ele a puxou com os dentes e deu um nó."
+  },
+  {
+    "ordem": 163,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pronto"
+  },
+  {
+    "ordem": 164,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Agora não se separa mais. Se você perder a correia, perde a espada. Se perder a espada, perde a correia."
+  },
+  {
+    "ordem": 165,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele me entregou tudo junto, a espada deitada na calha, o punho novo, a correia de Dita em volta."
+  },
+  {
+    "ordem": 166,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tenta não perder nenhuma das duas, Kest. A Dita não tem outra alça. E eu não tenho outra espada."
+  },
+  {
+    "ordem": 167,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pus nas costas. A calha assentou do lado esquerdo, com o punho por cima do ombro direito, onde a minha mão chegava sem procurar. A ponta pesada ficou lá embaixo, perto da cintura, quieta. E o nó de Dita, o do meio, ficou exatamente onde ficava antes. Sobre o lado esquerdo do peito. Sobre a mordida."
+  },
+  {
+    "ordem": 168,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Puxei a espada. Saiu da calha sem prender, num movimento só. O punho encheu a minha mão e não sobrou nada, nem faltou. Levantei. A ponta quis cair."
+  },
+  {
+    "ordem": 169,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu deixei."
+  },
+  {
+    "ordem": 170,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela desceu pesada, como um machado de lenha, e parou a um dedo do chão de pedra, onde eu a segurei, e Hadrek, que me olhava de braços cruzados, fez um barulho com o nariz que podia ser uma risada."
+  },
+  {
+    "ordem": 171,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bertram"
+  },
+  {
+    "ordem": 172,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando eu estava saindo, Gorrim voltou do fundo."
+  },
+  {
+    "ordem": 173,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Trazia nas mãos de quatro dedos um pano, e no pano alguma coisa pequena, que ele limpava. Parou do meu lado, na boca da caverna, onde o ar quente da Forja encontrava o ar frio do pátio e fazia a luz tremer."
+  },
+  {
+    "ordem": 174,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O fundo"
+  },
+  {
+    "ordem": 175,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "eu disse, antes de pensar se devia."
+  },
+  {
+    "ordem": 176,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "De onde vem a luz?"
+  },
+  {
+    "ordem": 177,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gorrim olhou para trás, para a escuridão vermelha."
+  },
+  {
+    "ordem": 178,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do forno velho. O primeiro. Estava aqui antes de nós."
+  },
+  {
+    "ordem": 179,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Antes de Última Luz?"
+  },
+  {
+    "ordem": 180,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Antes de tudo que você conhece."
+  },
+  {
+    "ordem": 181,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele dobrou o pano."
+  },
+  {
+    "ordem": 182,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A parede lá do fundo é quente o ano inteiro. Mesmo quando o forno apaga. Hadrek diz que é o fogo que entrou na pedra de tanto tempo. Hadrek diz muita coisa."
+  },
+  {
+    "ordem": 183,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não disse nada. Mas eu sabia o que tinha ouvido a manhã inteira, sentado no caixote do lado do balde, e que não tinha contado para ninguém. Que ali, dentro da Forja, mais perto do fundo, a coisa que batia embaixo de Última Luz batia mais alto do que no barracão, mais alto do que na casa de febre. Não mais perto. Mais claro. Como uma voz atrás de uma parede fina."
+  },
+  {
+    "ordem": 184,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É pedra?"
+  },
+  {
+    "ordem": 185,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "perguntei."
+  },
+  {
+    "ordem": 186,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O paredão?"
+  },
+  {
+    "ordem": 187,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gorrim me olhou com aqueles olhos de água em cima de pedra branca. Ficou um tempo calado. Lá fora, no pátio, Lio esperava na linha da cinza, pulando num pé só."
+  },
+  {
+    "ordem": 188,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É velho"
+  },
+  {
+    "ordem": 189,
+    "personagem": "Gorrim",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mais velho que pedra."
+  },
+  {
+    "ordem": 190,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E foi embora para o fundo, sem mais nada, e eu fiquei na boca da caverna, com a espada de Bertram nas costas e a frase dele na cabeça, tentando entender como uma coisa pode ser mais velha que pedra."
+  },
+  {
+    "ordem": 191,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Só entendi que tinha esquecido a faca de esfolar à noite, depois do jantar, quando Brasa me pediu para cortar a raiz que Mãe Duna tinha deixado para ele e eu fui procurar na bota e não achei."
+  },
+  {
+    "ordem": 192,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu a tinha tirado na Forja para Hadrek medir a minha mão e deixado no caixote."
+  },
+  {
+    "ordem": 193,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não quis esperar a manhã. Não por causa da faca. Por causa de Brasa, que ia passar a noite inteira falando da raiz. Atravessei o pátio escuro, debaixo dos três fogos, com a Seiva estalando lá em cima nas torres e o Cinzal aceso lá longe. A tábua dos nomes estava na sombra. A boca da Forja estava quase apagada, com o forno grande coberto de cinza para dormir, e só o brilho vermelho do fundo, o que nunca apagava."
+  },
+  {
+    "ordem": 194,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não havia ninguém no primeiro salão. Achei a faca no caixote, onde eu tinha deixado. Peguei."
+  },
+  {
+    "ordem": 195,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E aí vi Gorrim."
+  },
+  {
+    "ordem": 196,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava no meio do caminho entre o primeiro salão e o fundo, num canto que de dia eu não tinha visto, porque de dia a luz do forno grande o escondia. Havia ali uma mesa baixa, de pedra, e um móvel de madeira escura, alto, cheio de gavetas pequenas, dezenas de gavetas, como o móvel de um boticário. Gorrim estava sentado na frente da mesa, curvado, com as costas para mim e a trança branca caída de lado, e uma lamparina de óleo pequena acesa do lado dele."
+  },
+  {
+    "ordem": 197,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nas mãos, tinha uma lasca de osso. Fina, do tamanho de um dedo. E um estilete de ferro, de ponta fina, com que ele riscava a lasca, devagar, com cuidado, como quem escreve."
+  },
+  {
+    "ordem": 198,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não me mexi. Não sei por quê. Fiquei na sombra, do lado do balde, com a faca na mão, sem respirar."
+  },
+  {
+    "ordem": 199,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele riscou. Parou. Riscou mais um pouco. Soprou o pó de osso da lasca. Levantou-a contra a lamparina e olhou, e eu vi a silhueta dos riscos contra a luz, mas não vi o que eram. Não eram letras que eu conhecesse. Talvez não fossem letras."
+  },
+  {
+    "ordem": 200,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois ele se levantou, foi até o móvel das gavetas e abriu uma. Uma das de baixo. Puxou-a toda, e ela saiu pesada, arrastando, com um barulho que parecia de dentes."
+  },
+  {
+    "ordem": 201,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava cheia."
+  },
+  {
+    "ordem": 202,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Cheia de lascas. Lascas de osso iguais à que ele segurava, finas, do tamanho de um dedo, amareladas, deitadas em fileiras, umas por cima das outras, centenas, com os riscos virados para cima, como uma gaveta de talheres de uma casa muito grande. Algumas eram brancas, novas. A maioria era escura, marrom, quase preta, de tão velha."
+  },
+  {
+    "ordem": 203,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gorrim pôs a lasca nova em cima de todas. No canto. Sozinha."
+  },
+  {
+    "ordem": 204,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fechou a gaveta."
+  },
+  {
+    "ordem": 205,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E ficou ali, de pé, com a mão de quatro dedos em cima da madeira, sem se mexer, olhando para o nada, até a lamparina tremer."
+  },
+  {
+    "ordem": 206,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu saí da Forja sem fazer barulho. Atravessei o pátio. Dei a faca para Brasa, e ele cortou a raiz, e falou dela, e eu não ouvi nada do que ele falou."
+  },
+  {
+    "ordem": 207,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Deitei de cara no chão do barracão, e a coisa lá embaixo batia, e eu pensava numa gaveta cheia de ossos com riscos."
+  },
+  {
+    "ordem": 208,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E em quantas outras gavetas havia naquele móvel."
+  }
+]

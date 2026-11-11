@@ -1,0 +1,854 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver Penn tinha imaginado que caçar um monstro era uma coisa rápida."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinha lido as histórias, como todo menino de Tingen. Os folhetins de dez pence vendidos na estação, com capa colorida e títulos como O Caçador da Charneca e A Fera de Backlund, que o Sr. Hartley não deixava expor na vitrine da papelaria e que todo mundo comprava assim mesmo, escondido, no balcão. Nos folhetins, o herói chegava na aldeia, ouvia um grito, corria para o mato e, duas páginas depois, estava de pé sobre a fera morta, com a pistola fumegando."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os bruxos não tinham corrido para lugar nenhum."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinham dormido na delegacia da Rua Norte, nas duas celas vazias, porque Bligh disse que era o único lugar de Tingen com cama sobrando e porta que trancava por fora, e que ele trancaria se os senhores preferissem, por causa do outro senhor que andava dormindo. Eskel tinha dito que não precisava. Tinha dormido oito horas seguidas num catre de palha de polícia, de botas, sem se mexer, e acordado de bom humor, coisa que Oliver ainda não sabia que era rara. Na hora do café, sentado no banco do corredor com uma caneca de chá preto de Bligh, disse a Geralt, baixo, que não tinha sonhado com nada. Nem com casa, nem com janela. Com um gato que roubava o toucinho dele, e só."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A avó da moça tinha razão"
+  },
+  {
+    "ordem": 6,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Tinha."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinham passado a manhã inteira do sétimo dia andando pelos pastos ao sul de Tingen, devagar, parando, voltando, perguntando. Oliver ia atrás, com o caderno, desenhando tudo o que mandavam e muita coisa que não mandavam, e Mira atrás dele, de revólver e xale, bocejando de vez em quando, porque fazia três noites que dormia três horas e já era demais até para ela."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Primeiro tinham voltado à granja dos Corbett. O pai do rapaz morto, um homem grande de mãos vermelhas, tinha recebido os dois de cara fechada na porta do curral e respondido a cada pergunta como quem cospe. Geralt não se importou. Perguntou a que horas o rapaz saiu. Quanto tempo depois o grito veio. De que lado. Se o grito subiu ou ficou no chão. Se as vacas berraram antes do grito ou depois. Se alguém ouviu bater de asa. Se o vento estava do norte ou do sul. Se a lua já tinha nascido. O Sr. Corbett foi respondendo, cada vez com menos raiva e mais atenção, até que, na décima pergunta, parou e disse:"
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O grito subiu. Eu me lembro agora. Subiu e foi diminuindo. Para lá."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E apontou para o sudoeste. Para as montanhas."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois tinham ido ao pasto onde acharam o rapaz. Geralt não olhou o lugar do corpo, que a chuva tinha lavado. Olhou o céu em cima. Andou em círculo, de cabeça erguida, por um tempo comprido, e depois mandou Oliver desenhar o pasto de cima, com o lugar do corpo, o curral dos Corbett, a casinha do velho Haddock e a granja dos Whitfield, cada um no seu lugar, e uma flecha em cada um mostrando para onde o bicho tinha ido depois."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As três flechas, no desenho, apontaram para o mesmo lado. Sudoeste. A montanha."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Ele leva a presa para casa"
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E por que larga às vezes? — perguntou Oliver, antes que pudesse se segurar. — O rapaz. Por que largou?"
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel o olhou com os olhos amarelos, sem impaciência."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Ovelha",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque o rapaz se debateu — disse."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Escolhendo como?"
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você viu as ovelhas no curral."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver tinha visto. Tinha sonhado com elas a noite inteira."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na granja dos Whitfield, à tarde, Geralt achou o excremento."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver não sabia que aquilo era uma coisa que se procurava. Viu Geralt parar no meio do pasto, de repente, com a cabeça levantada, como cachorro de caça; viu-o virar para a direita, dar vinte passos até uma pedra grande coberta de musgo, se agachar ao lado dela e afastar o capim com a ponta da bota."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Atrás da pedra, no chão, havia um monte de coisa branca e cinza, do tamanho de um chapéu, com fios de lã e pedacinhos de osso. E o ar em volta tinha um fedor de carniça adocicado, enjoativo, que Oliver só sentiu quando já estava a dois passos e que Geralt, pelo visto, tinha sentido de trinta."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desenha"
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver desenhou, respirando pela boca."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt tirou uma faca da bota e mexeu no monte, sem nojo nenhum, separando as coisas com a ponta. Lã. Osso. Um pedaço de casco. E, no meio, umas coisas que não eram de ovelha. Fiapos marrons e duros, que se partiam como graveto seco. Sementes pequenas e escuras, dezenas, inteiras, brilhando de leve na luz cinzenta da chuva."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt pegou uma semente com a ponta da faca e a ergueu diante dos olhos."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel veio. Olhou a semente. Olhou os fiapos marrons. Partiu um entre os dedos."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Raiz",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Madeira — disse."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Grifo não come planta."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Esse come. Ou alguma coisa nele come."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mira, que estava de guarda a dez passos, se aproximou para ver. Quando viu as sementes, ficou um momento parada e depois disse, com o sotaque de roça voltando sem querer:"
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Isso é semente de trigo. Trigo de Awwa. Do bom."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Trigo — repetiu Geralt."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Meu pai plantava. Eu conheço."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt tirou a semente da mão dela, com a faca, rápido, e a jogou no monte."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Desculpe",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não toca — disse, seco. Depois, mais brando:"
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mira limpou os dedos no casaco. Estava pálida."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O capitão disse a mesma coisa"
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt olhou para ela, para as sementes, para a montanha ao sudoeste."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Mas",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ainda não sei se isso é de vocês — disse."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "À tarde, quando voltaram à delegacia da Rua Norte para comer, Oliver pediu para usar o pêndulo."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pediu a Geralt, porque era o que o capitão tinha dito: se eles pedirem, use; se não, só com alguém deles vendo. Ninguém tinha pedido. Mas Oliver tinha passado o dia inteiro vendo os dois trabalharem, e tinha uma coisa coçando na nuca que ele conhecia bem."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt estava sentado na mesa do sargento, comendo pão com toucinho, com o desenho dos pastos aberto ao lado do prato. Ergueu os olhos para o rapaz."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para quê?"
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para perguntar onde ele dorme."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu já sei onde ele dorme. Sudoeste. Na montanha. Penhasco, rocha alta, perto de água, com vista para os pastos."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Qual penhasco?"
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt não respondeu. Eskel, do outro lado da sala, sentado num banco com as costas na parede, sorriu de canto."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Ele te pegou"
+  },
+  {
+    "ordem": 51,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Daqui a dois dias eu sei qual penhasco"
+  },
+  {
+    "ordem": 52,
+    "personagem": "Bligh",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do jeito de sempre, mais duas ovelhas morrem"
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt ficou calado. Depois empurrou o prato para o lado."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mostra"
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver pôs o caderno aberto na mesa, sobre o desenho dos pastos. Na página da esquerda, tinha desenhado, de memória e com a ajuda de Bligh, a montanha ao sudoeste de Tingen como se via da estrada do sul: a crista, os três penhascos maiores, o pinheiral, a linha da neve. Numerou os penhascos. Um, dois, três."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tirou o pêndulo do bolso do colete. Segurou a corrente entre o polegar e o indicador, a gota de latão a um palmo do papel, sobre o centro da montanha desenhada. Fechou os olhos. Esvaziou a cabeça, como tinha aprendido, até ouvir só a respiração e o barulho da chuva na janela da delegacia."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O animal que matou o Sr. Haddock dorme neste lugar — disse."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Abriu os olhos."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O pêndulo começou a girar sobre o papel. Pequeno. Depois maior. Oliver sentiu o frio nas têmporas, o formigamento atrás dos olhos, e se segurou. Ao lado dele, Mira tinha prendido a respiração. Bligh tinha entrado na sala. Eskel tinha se levantado do banco."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O pêndulo girou, girou e foi se deslocando, num caminho que Oliver não comandava, para a esquerda, para cima, até ficar girando em cima do penhasco número três. O mais alto. O mais longe. Ali, o círculo foi encolhendo, encolhendo, até a gota de latão parar, perfeitamente parada, a um dedo do papel, sobre a ponta do penhasco."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E então, sem que Oliver mexesse a mão, a gota afundou. Desceu um pouco, como se alguma coisa a puxasse para dentro do papel, e a corrente esticou nos dedos dele."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver soltou o ar."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt estava olhando o pêndulo. Não disse nada por um tempo. Depois pegou o desenho dos pastos, o que tinha as três flechas, e o pôs ao lado do caderno de Oliver. Pegou um lápis. Prolongou as três flechas pelo papel, cada uma do seu ponto, com uma régua de Bligh, até a borda, até onde a montanha começaria se o desenho continuasse. Depois pôs um papel do lado, emendando, e continuou as linhas até a montanha desenhada por Oliver."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As três linhas se cruzaram no penhasco número três."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém falou na delegacia."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver sentiu uma coisa morna escorrer do nariz e passou a manga do casaco. Eskel jogou para ele um lenço limpo, de pano grosso, sem bordado."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Fica com esse"
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt guardou o lápis."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bom trabalho"
+  },
+  {
+    "ordem": 70,
+    "personagem": "Oliver",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O seu chegou com as flechas"
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt o encarou um momento. Depois fez uma coisa que Oliver não esperava: um aceno curto de cabeça, o mesmo que tinha visto Geralt fazer para Eskel quando Eskel achou as ovelhas vazias."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hoje à noite a gente confirma"
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Antes de escurecer, na sala dos fundos da delegacia, Geralt preparou as coisas."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver ficou olhando da porta, de caderno na mão, sem saber se podia desenhar. Geralt não disse que não. Tinha aberto sobre a mesa um rolo de couro, e dentro do rolo, cada um no seu bolso, havia frascos pequenos de vidro grosso, tampados com cera, cheios de líquidos de cores que Oliver nunca tinha visto num frasco: um verde-musgo, um amarelo de enxofre, um quase preto, que se mexia sozinho quando ele inclinava o vidro."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt escolheu um, de óleo grosso, da cor de mel escuro. Tirou a espada de prata da bainha, pôs atravessada nos joelhos e passou o óleo na lâmina com um pano, do cabo à ponta, em movimentos longos, sem pressa. A lâmina ficou baça e oleosa, com um brilho de lesma."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que é? — perguntou Oliver, antes que conseguisse se segurar."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Óleo para híbrido. Bicho que é metade uma coisa, metade outra. Grifo, mantícora, harpia."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E se ele não for mais só metade uma coisa e metade outra?"
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt parou o pano no meio da lâmina. Olhou o rapaz."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Boa pergunta — disse. E voltou a passar o óleo."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel, do outro lado da mesa, enchia uma bola de ferro do tamanho de um punho com pedaços de prego, cascalho e um pó escuro que tirava de um saquinho com uma colher de pau. Fazia isso com o cuidado de quem enche um ovo. Mira o observava de perto, fascinada, com o revólver no colo."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Isso explode? — perguntou ela."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Se der sorte"
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Só — repetiu Mira."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Só."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver abriu o caderno e começou a desenhar os frascos, um por um. Geralt o deixou desenhar. Quando o rapaz chegou ao frasco preto, o que se mexia sozinho, Geralt estendeu a mão e o virou de lado, para que a luz da lamparina passasse através dele, e Oliver pudesse ver a cor."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Os",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O senhor faz isso tudo sozinho? — perguntou Oliver."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Com receita de mais de quatrocentos anos. Escrita por gente que morreu aprendendo."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver pensou nisso. No caderno de anotações que o capitão Gideon guardava trancado, com as regras do que se podia e do que não se podia fazer com uma poção na barriga. Nas coisas que Gideon dizia que tinham custado a vida de gente para que alguém soubesse."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Igual",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É — disse."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt pôs a espada de volta na bainha e se levantou."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Esperaram na granja dos Whitfield, no escuro, deitados no capim molhado atrás do muro de pedra do curral."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Whitfield tinha deixado no meio do pasto, presa a uma estaca por uma corda comprida, uma ovelha velha e manca, que ia ser abatida de qualquer jeito na semana seguinte. Tinha feito isso de boca fechada, sem perguntar por que, com o jeito de ex-soldado que sabe que isca é isca. Depois tinha entrado em casa, trancado a porta e apagado a luz."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt e Eskel ficaram no muro. Oliver e Mira um pouco atrás, encostados no paiol, como Geralt tinha mandado: se ele descer, vocês não se mexem. Bligh tinha ficado na estrada, com dois policiais e uma lanterna fechada."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A chuva tinha parado. Pela primeira vez desde o tremor, as nuvens sobre Tingen tinham se aberto, e o céu da cidade estava limpo. Oliver olhou para cima e sentiu o estômago virar."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lá estavam as estrelas de Tingen, as que ele conhecia desde menino, e a lua, alta, vermelha e quase cheia, a mesma de sempre. Mas do lado do norte, por cima das montanhas, onde em Loen ficava a planície de Backlund, havia outras estrelas. Desconhecidas. Frias. Mais numerosas. Arrumadas em desenhos que não eram nenhum dos que a avó dele ensinava a apontar da janela. E entre umas e outras, exatamente em cima da linha da neve, uma faixa de céu onde as estrelas pareciam tremer, como vistas através de água."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver olhou aquilo e não conseguiu desenhar."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O grifo veio às duas da manhã."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver não o ouviu. Ninguém ouviu. Viu primeiro a ovelha velha erguer a cabeça, de repente, e puxar a corda até ela estalar na estaca. Depois viu a sombra passar sobre o pasto, cobrindo a lua por um instante, enorme, e o vento que veio depois da sombra, um bafo frio de asas que amassou o capim em círculo e jogou água nos olhos dele."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O bicho pousou em cima da ovelha. Não houve barulho de luta. A ovelha simplesmente sumiu debaixo dele."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E Oliver o viu."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era maior do que tudo o que ele tinha imaginado. Do tamanho de uma carroça de mudança, como dissera o Whitfield. Corpo de leão, peito e cabeça de águia, asas que, abertas, iam de um muro ao outro do pasto. As penas eram de um marrom muito escuro, quase preto à luz da lua. E por elas, por todas elas, das pontas das asas até o pescoço, corriam linhas finas de luz. Não brilhavam como fogo. Brilhavam como uma folha de árvore contra o sol, de um verde-dourado pálido, em veios que se dividiam e se juntavam de novo, pulsando devagar, no ritmo de uma respiração."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O grifo baixou a cabeça sobre a ovelha. Oliver esperou o barulho de bico rasgando carne. Não veio. O bicho ficou parado, de cabeça baixa, com as garras da frente cravadas na lã, e os veios de luz das asas e do pescoço ficaram mais fortes, mais claros, subindo dos pés para o peito, para as asas, como água subindo por um pavio."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Durou o tempo de vinte respirações. Depois o grifo ergueu a cabeça, abriu as asas e subiu, sem a ovelha."
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A ovelha ficou no pasto. Inteira. Deitada de lado."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando o vento das asas passou e a sombra se afastou, Oliver ouviu Eskel dizer, baixo, do muro:"
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sudoeste."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O três"
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver não disse nada. Estava olhando a ovelha deitada no pasto, sob a lua vermelha, e tinha certeza absoluta de que, se alguém fosse até lá e apertasse o flanco dela, a mão afundaria até o pulso."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Antes de clarear, Geralt foi até a ovelha."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver foi atrás. Ninguém mandou que ficasse. A ovelha velha estava deitada de lado no meio do pasto, com a corda arrebentada ainda presa ao pescoço, e Geralt se ajoelhou ao lado dela, pôs a mão no flanco e apertou. A mão afundou até o pulso, com aquele barulho seco de pergaminho que Oliver já conhecia."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt tirou a faca da bota e, com a ponta, abriu a pele da barriga, um corte curto. Afastou as bordas. Aproximou a lanterna que Mira segurava."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por dentro, a pele estava limpa como couro curtido. E cheia de furos. Centenas. Furinhos finos como os de uma agulha de costura, em grupos de quatro e de três, onde as garras do bicho tinham apertado. De alguns furos ainda saíam, para dentro, fios brancos, finíssimos, enrolados, que se desfaziam em pó quando a luz da lanterna os tocava."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Raiz"
+  },
+  {
+    "ordem": 115,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Saindo das garras dele"
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver desenhou a pele aberta, com os furos, à luz da lanterna. A mão tremia, e o desenho saiu tremido. Ele não o refez."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Subiram à montanha com a primeira luz do oitavo dia."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt e Eskel na frente. Oliver no meio. Mira atrás. Bligh tinha ficado na estrada com os policiais; tinha dito que um sargento de cinquenta anos com joelho ruim não subia penhasco e que alguém tinha de ficar para buscar a carroça se precisasse. Ninguém perguntou para que seria a carroça."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Antes de eles atravessarem a linha, Bligh tinha segurado Geralt pelo braço, um instante, na beira da neve."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Brigava",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Haddock era um velho chato — disse."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt fez que sim."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Bligh",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E o rapaz Corbett tinha dezessete anos e queria entrar para a polícia no ano que vem"
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do outro lado da linha, a neve chegava aos joelhos e o frio de Kaedwen mordia o rosto depois de dias de chuva morna. O pinheiral subia íngreme, escuro, silencioso. Os bruxos andavam sem parar, sem conversar, lendo o chão; de vez em quando Eskel apontava uma coisa e Geralt fazia que sim. Oliver não via nada. Via neve, tronco, pedra. Na terceira vez que Eskel apontou, Oliver teve coragem de perguntar."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que o senhor está vendo?"
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel parou e deixou o rapaz chegar ao lado dele. Mostrou com a ponta da bota: um galho de pinheiro quebrado a três metros do chão, com a casca arrancada de um lado. Mais acima, outro. Mais acima ainda, um tufo de neve caído de um galho alto, num lugar onde não tinha caído de nenhum outro."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Ele não voa alto aqui"
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver olhou a fileira de galhos e, de repente, a viu. Estava ali o tempo todo. Uma linha de estragos pequenos, subindo, reta como régua, para o penhasco número três."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu teria passado por isso cem vezes — disse."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "E eu teria passado cem vezes pelo seu pêndulo sem saber que ele servia para alguma coisa."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na metade da subida, onde o pinheiral ficava ralo e começava a pedra, Eskel parou de repente e ergueu a mão."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver parou. Mira parou. Geralt foi até Eskel e ficou ao lado dele, olhando o chão."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver se aproximou como tinha aprendido, pisando onde eles pisavam."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No meio da neve, ao pé de uma rocha grande, havia verde."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não musgo. Não pinheiro. Capim. Capim verde, novo, fino, brotando da neve num círculo do tamanho de uma mesa de jantar, como brota num pasto de Awwa em maio. E no meio do capim, umas plantinhas de folha larga que Oliver não conhecia, já com botão. E, em volta da rocha, subindo pela pedra, um emaranhado de ramos finos, escuros, cheios de espinhos, que não tinha como estar ali, no meio do inverno, na neve, a meia montanha."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel se agachou e afastou o capim com a ponta da faca, com cuidado."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Debaixo do capim, na terra preta que a neve devia cobrir, estavam as penas."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eram três. Do tamanho do antebraço de Oliver, marrom-escuras, quase pretas, como a que o sargento guardava na delegacia. Mas aquelas estavam vivas. Não havia outra palavra. Da raiz até a ponta, pelos fios da pena, corriam veios finos de luz verde-dourada, os mesmos da noite anterior, e pulsavam, como respiração. E de cada raiz de pena, de onde ela tinha caído do corpo do bicho, saía uma coisa branca e fina, como um fio de cabelo, e entrava na terra."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Raízes."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As penas tinham criado raiz."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém se mexeu. Oliver sentiu o pêndulo, no bolso do colete, pesar como uma pedra. Mira tinha puxado o revólver sem perceber e o segurava apontado para o chão. Eskel, ainda de cócoras, olhava as penas com a faca parada na mão."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt foi o único que ergueu a cabeça. Olhou para cima, para o penhasco, para a ponta mais alta da montanha, a do número três, que agora se via inteira contra o céu claro da manhã. Lá no alto, na beira da rocha, onde não devia haver nada além de pedra e gelo, havia uma mancha verde. Grande. Do tamanho de uma casa. Pendendo do penhasco como uma barba."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senhor Penn"
+  }
+]

@@ -1,0 +1,944 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vesemir disse não."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Disse sem levantar a voz, sentado na cama de campanha, com a chave de ferro escuro em cima da mesa, entre o bestiário e o frasco de Regis. Disse uma vez, e depois explicou, porque o vampiro era hóspede e merecia explicação."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Duas chaves"
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis ficou calado. As mãos dele, em cima da mesa, perto do frasco, estavam firmes. Longe do frasco, tremiam. Ele sabia disso e não as afastou."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então mande chamá-lo — disse."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É noite. São três milhas de montanha e mais uma de cidade."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu vou."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os três se viraram para a porta. Lambert estava encostado no batente, de braços cruzados, sem que ninguém o tivesse ouvido chegar. Tinha a cara de quem estava ali fazia tempo."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ouviu tudo"
+  },
+  {
+    "ordem": 10,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "O suficiente. Barbeiro bebe sangue de bicho com asas, sangue vira caroço, caroço puxa para o porão, porão tem uma semente, e eu durmo em cima."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vesemir o olhou um tempo comprido, com o olho bom."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A perna."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A perna está boa. Subi e desci a escada da muralha cinquenta vezes hoje."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A trilha não é escada. É gelo."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu desci essa trilha bêbado aos dezesseis anos, de noite, sem lanterna, fugindo de você."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E quebrou o braço."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "E voltei de braço quebrado e você me fez lavar o estábulo com a outra mão."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O velho bufou pelo nariz, um bufo que podia ser riso. Depois tirou a mão de cima da chave."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vai. Leva lanterna. E não arranja briga com a polícia."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lambert já estava no corredor."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis passou a noite no salão, sentado num banco junto da lareira, com o frasco na mão."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não por escolha. Tinha tentado deitar no quarto que Ciri lhe tinha arrumado, no andar de cima, com uma cama de verdade e uma pilha de cobertores. Pôs o frasco na mesinha de cabeceira, a um braço de distância, como tinha feito na estrebaria da estalagem, para testar. O tremor voltou em menos de um minuto. Mas não foi só o tremor. Foi o ponto no meio do peito acordando, se virando inteiro para baixo, para o chão, para a cripta, e uma coisa subindo pela garganta dele que não era sede, mas parecia. Uma vontade de levantar da cama, descer a escada, descer outra escada, e outra, até encontrar."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele pegou o frasco de volta. O ponto se aquietou. Foi para o salão."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan apareceu meia hora depois, de camisola de lã e machado na mão. Não perguntou nada. Sentou-se no banco ao lado do amigo, pôs o machado atravessado nos joelhos e ficou olhando o fogo."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você não precisa ficar"
+  },
+  {
+    "ordem": 26,
+    "personagem": "Zoltan",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "A gente combinou."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis riu baixo."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não vou descer a escada, Zoltan."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei que não vai. — O anão pôs mais um tronco no fogo. — É por isso que eu vou ficar acordado. Para você ter alguém para dizer que não vai."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficaram os dois ali a noite inteira. Zoltan dormiu duas vezes, sentado, e acordou as duas vezes com o machado escorregando dos joelhos. Regis não dormiu. Segurava o frasco e olhava o fogo e, de vez em quando, sem querer, olhava o chão de pedra do salão, entre as botas, como quem olha a superfície de um lago sabendo que tem alguma coisa no fundo."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O caroço vermelho, no fundo do vidro, estava morno. A noite inteira. Mais morno a cada hora."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lambert desceu a trilha do vau em uma hora e meia, de lanterna, escorregando, xingando, feliz."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era a primeira vez em doze dias que respirava ar que não fosse o do salão. O frio de Kaedwen mordia o rosto. A neve rangia. A perna direita doía de leve no lugar da quebra, uma dor surda, limpa, que ele recebia como um velho amigo. No vau, o decurião Lenn o parou de espada em punho, viu a cara dele à luz da lanterna e baixou a espada com uma expressão de quem preferia ter encontrado um urso."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senhor Lambert."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Decurião. Belo sol bordado."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O senhor vai à cidade? A esta hora?"
+  },
+  {
+    "ordem": 37,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Vou acordar um padre."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Atravessou a linha. A chuva o pegou no primeiro passo, morna, fina, e ele parou, de cara para cima, de olhos fechados, e deixou a água escorrer no rosto por um tempo, como um homem que sai da prisão e sente a primeira chuva."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois foi procurar Eskel."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A delegacia da Rua do Canal tinha uma lanterna acesa na porta e um policial gordo dormindo sentado num banco, que acordou com o barulho das botas de Lambert, viu os olhos amarelos e apontou o corredor das celas sem dizer uma palavra. A porta da última cela estava aberta. Lá dentro, à luz de uma vela, Eskel estava sentado na cama de palha, com a perna direita esticada, sem faixa nenhuma, e a Pequena Balida deitada no chão, dormindo de barriga para cima, com as quatro patas para o teto."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel ergueu os olhos."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lambert."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Irmão."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "É."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lambert olhou a perna dele. Os furinhos, que o grifo tinha feito, tinham sumido. A pele estava lisa, rosada, com umas pintas mais claras onde eles tinham estado, como sardas desbotadas."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você sarou."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você também."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Eu levantei de madrugada e arranquei a tala."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Eu levantei ontem e fui até a padaria do Morris, que reabriu. Comprei pão de centeio."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os dois ficaram se olhando, à luz da vela, dois homens que tinham crescido na mesma pedra, apanhado do mesmo mestre e quase morrido na mesma semana de dois jeitos diferentes. Lambert foi o primeiro a desviar os olhos."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ainda sonha? Com a luz?"
+  },
+  {
+    "ordem": 52,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Não. Desde que vim para cá."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Bom."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei. A Triss mandou recado."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E vamos levar o rapaz da forquilha. Para desenhar."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel sorriu."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele vai vomitar no seu cavalo."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Por que todo mundo diz isso?"
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon Marsh abriu a porta da Rua Zouteland às quatro e dez da manhã, de camisa, sem colete, sem cartola, com um revólver na mão e a cara de quem não dormia de verdade fazia doze dias."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Viu o bruxo de cabelo escuro na soleira, encharcado, de lanterna, sorrindo."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senhor Lambert."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Capitão. Sem chapéu. Eu achei que o senhor dormia com ele."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon baixou o revólver."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que aconteceu?"
+  },
+  {
+    "ordem": 65,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Nada, ainda."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon ficou muito quieto. Atrás dele, no escuro da recepção, o relógio de parede continuava parado nas doze e dez."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quer descer — repetiu."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Puxa. O barbeiro diz que puxa. Desde que entrou no pátio. E ele está sentado no salão a noite inteira, com o frasco na mão, com um anão de machado do lado, para não descer sozinho."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon olhou para o bruxo por mais um instante. Depois se virou para dentro, sem dizer nada, e Lambert ouviu-o subir a escada, abrir uma gaveta, fechar outra, e voltar, dois minutos depois, de colete, casaco abotoado até o queixo, cartola na cabeça e uma sacola de couro no ombro."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senhorita Holloway"
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Já estou de pé, capitão"
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Às seis, antes de o capitão chegar, Regis bateu na porta do quarto de Vesemir."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O velho estava acordado. Velho não dorme, Regis sabia; cochila, entre uma dor e outra. Estava sentado na cama de campanha, de camisa de lã, com a perna de pau encostada na parede e o coto da perna esquerda, cortado logo acima do joelho, enrolado num pano de lã grossa."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu disse ontem que examinava"
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vesemir o olhou com o olho bom por um tempo. Depois desenrolou o pano."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O coto era bem-feito. Regis viu isso antes de qualquer coisa, com o olho de quem tinha feito centenas: o osso serrado limpo, a pele dobrada e costurada por cima com cuidado, a cicatriz larga, branca, antiga, sem nenhum sinal de infecção. Quem quer que tivesse cortado aquela perna, na noite da batalha, tinha feito um trabalho de mestre, com as mãos tremendo e o castelo pegando fogo."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Vesemir",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Yennefer"
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis pôs as mãos no coto, de leve, como se põe a mão num animal assustado. Apertou em três pontos. Vesemir não se mexeu."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dói aqui"
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não. Dói no pé."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No pé que não existe."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Como",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No dedão do pé que não existe. — O velho fez uma careta."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis fez que sim. Conhecia aquilo. Tinha visto em soldados de três reinos e de cinco guerras."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O corpo lembra — disse. — O pé foi embora, mas a cabeça não recebeu a notícia. Continua mandando recado para ele, e o recado volta como dor."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que coisa?"
+  },
+  {
+    "ordem": 86,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olhar o coto. Antes de dormir. Por um minuto. E dizer em voz alta, para ninguém: o pé não está aí."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vesemir o encarou como se o vampiro tivesse acabado de lhe propor que dançasse no pátio."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você está brincando."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estou falando sério, mestre Vesemir. Eu faço isso há trezentos anos com outra coisa. Toda noite. Em voz alta. Para ninguém."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O velho ficou calado. Lá fora, pela janela estreita, o céu começava a clarear."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A ruiva de Oxenfurt vai dizer a mesma coisa? — perguntou, por fim."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Shani vai dizer coisa melhor. Ela é melhor médica do que eu."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Abriram a cripta às sete da manhã, com as duas chaves."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estavam todos. Vesemir, que tinha descido a escada em caracol um degrau por vez, com Geralt de um lado e Lambert do outro. Gideon e Mira. Yennefer e Triss, que tinham feito o selo e tinham de desfazê-lo. Ciri, que tinha feito o acordo. E Regis, por último, descendo a escada com o frasco na mão e o rosto tão branco quanto a parede, com Zoltan atrás dele, de machado."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quanto mais desciam, mais o frasco esquentava. No último degrau, Regis teve de passá-lo para a outra mão, porque a palma estava ardendo. O caroço lá dentro não estava mais parado. Tremia. Encostado no vidro do lado que dava para o centro da cripta, para a laje, vibrava como um inseto preso numa garrafa."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon e Vesemir puseram as chaves nas duas fechaduras de ferro que Edgar tinha mandado fazer, uma em cada borda da laje, e as giraram ao mesmo tempo. Geralt e Lambert ergueram a laje."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por baixo, a trama violeta e prateada do selo misto brilhava na borda da pedra, zumbindo. E no fundo do buraco, a caixinha de metal escuro com o emblema da Noite estava exatamente onde a tinham deixado."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mas não estava quieta."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A caixinha tremia também. Pouco. A tampa batia de leve no corpo, num tique-tique miúdo, contínuo, como dente batendo de frio. E o tique-tique tinha o mesmo ritmo da vibração do caroço no frasco de Regis."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para trás"
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém se mexeu, a não ser ele. Gideon se ajoelhou na borda do buraco, sem tocar no selo, e olhou a caixinha, depois o frasco na mão de Regis, depois de novo a caixinha. Tirou a cartola. Pôs no chão, ao lado dele."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Aproxime",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senhor Regis — disse."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis se aproximou. Um passo. O tique-tique da caixinha ficou mais forte. Dois passos. O caroço no frasco se jogou contra o vidro com tanta força que Regis ouviu o estalo. Três passos."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pare."
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis parou. Estava a dois passos da borda do buraco. Dentro da caixinha, alguma coisa batia contra a tampa como um punho fechado. Dentro do frasco, o caroço vermelho estava colado no vidro, na direção do buraco, e o vidro em volta dele tinha começado a embaçar, de dentro para fora, com um calor que não era de fogo."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E Regis sentiu, no meio do peito, o ponto. Não se virando para baixo, agora. Puxando. Como um anzol cravado puxa a boca de um peixe para a linha. Ele deu, sem querer, meio passo à frente."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan o segurou pelo braço."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan o segurou. Gideon se levantou da borda do buraco e se pôs entre Regis e a laje."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É isso"
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis recuou. Um passo, dois, três, com Zoltan segurando o braço dele. A cada passo, a batida dentro da caixinha diminuía. No pé da escada, o caroço desgrudou do vidro e caiu de volta no fundo do frasco. A caixinha parou de tremer."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém falou por um tempo."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Chama-se agregação"
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estavam de volta ao salão. Regis sentado no banco junto da lareira, com o frasco no colo e as mãos firmes em volta dele. Zoltan ao lado. Os outros em volta, de pé ou sentados, e Vesemir na cadeira grande, com o bestiário aberto no colo e a pena molhada pela primeira vez naquela manhã."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que o senhor Penn explicou na montanha, ao lado do grifo — continuou Gideon. — A Lei da Conservação. A coisa que a gente bebe não se perde. Quando a gente morre, ela sai e se junta."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A minha e a sua"
+  },
+  {
+    "ordem": 118,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não. O que o senhor carrega, pelo que descreveu, as asas, o sangue, os animais, é de um caminho que nós chamamos da Lua. A semente do grifo é de outro, que nós chamamos da Mãe. Não são o mesmo. Mas são vizinhos. Muito próximos."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E se tivessem se juntado? — perguntou Ciri."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sei."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não terminou. Não precisava."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis olhou o frasco no colo. O caroço vermelho, quieto no fundo, à luz da lareira."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Não",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela quer se juntar com outras — disse, baixo, mais para si do que para os outros."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Todas querem"
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na cadeira grande, Vesemir escrevia. Triss, ao lado da lareira, tinha o caderninho aberto e também escrevia."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Triss",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Capitão"
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon se virou para ela."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sei, senhora Merigold. A Lume-de-Cabana não é gente que bebeu. É bicho do nosso lado, nascido assim. O que ela tem dentro, tem de nascença."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então ela não puxa a semente."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não deveria."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não deveria — repetiu Triss, anotando. — O senhor diz muito essa frase."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Há doze dias, senhora Merigold, é a única que eu tenho certeza de poder dizer sem mentir."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Yennefer, de braços cruzados, olhava Gideon com uma atenção nova, quase respeitosa, que não tinha tido no dia anterior."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então não podem ficar na mesma casa"
+  },
+  {
+    "ordem": 135,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Podem. Separadas. Bem separadas. Cada uma dentro de um muro."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Vesemir",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A torre norte"
+  },
+  {
+    "ordem": 137,
+    "personagem": "Gideon",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A torre norte."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Regis apertou o frasco nas mãos. O tremor, longe dele, ia voltar. Ele sabia. E ia ter de aprender a viver com ele, como tinha aprendido a viver com outra fome, havia muito tempo, sem frasco nenhum."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Faça — disse, e entregou o frasco a Gideon."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fizeram o segundo muro no topo da torre norte, ao meio-dia, numa caixa de ferro que Lambert trouxe da forja, com as quatro velas de Gideon e o óleo e a invocação, e sem a teia de Yennefer, que Gideon recusou, educadamente, porque ainda não sabia o que a teia tinha feito com o primeiro selo."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando a tampa da caixa fechou e as velas se inclinaram para dentro, Regis, que tinha ficado no pé da torre, noventa e seis degraus abaixo, sentiu o ponto no meio do peito se aquietar. Não sumiu. Ficou ali, pequeno, encolhido, como um cachorro que deita ao pé da porta e espera. Mas se aquietou."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As mãos dele tremiam. Pouco. Mas tremiam."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele as olhou e, pela primeira vez em nove dias, sorriu de boca aberta."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Zoltan, que tinha subido com ele até o pé da torre, de machado no ombro, viu o sorriso e não disse nada. Tirou do bolso a garrafa de gim de Loen que Jaskier tinha trazido da cidade, abriu, bebeu um gole, fez careta e estendeu ao amigo."
+  },
+  {
+    "ordem": 145,
+    "personagem": "Regis",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não bebo"
+  },
+  {
+    "ordem": 146,
+    "personagem": "Zoltan",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Isso aí ninguém bebe. Isso se aguenta."
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "À tarde, no pátio, Gideon se despediu de Vesemir, de cartola, com a chave da cripta de volta no bolso e uma terceira chave, a da caixa da torre, que ele deu ao velho. Lambert ia descer com ele até a linha. Tinha pedido. Ninguém discutiu."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi descendo para o pátio, pela escada da ala norte, que Lambert passou ao lado da porta baixa de onde saía a escada em caracol para a cripta."
+  },
+  {
+    "ordem": 149,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon, que vinha logo atrás dele, parou."
+  },
+  {
+    "ordem": 150,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do fundo da escada, de três andares de pedra abaixo, através da laje, do selo misto e do muro de espírito, veio um barulho. Fraco. Abafado. Inconfundível."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tique-tique. Tique-tique."
+  },
+  {
+    "ordem": 152,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A caixinha. Batendo."
+  },
+  {
+    "ordem": 153,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lambert, dois degraus adiante, se virou para ver por que o capitão tinha parado. E, enquanto se virava, enquanto o corpo dele passava de frente para a porta da cripta, o tique-tique lá embaixo ficou mais forte. Mais rápido. Como um coração que acelera quando quem ele espera entra na sala."
+  },
+  {
+    "ordem": 154,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lambert deu mais um passo, para baixo, para o pátio."
+  },
+  {
+    "ordem": 155,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O tique-tique diminuiu."
+  },
+  {
+    "ordem": 156,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Gideon ficou parado na escada, de cartola, olhando as costas do bruxo de cabelo escuro, que já descia, assobiando, para o pátio. Depois olhou a porta baixa da cripta, por um tempo comprido."
+  },
+  {
+    "ordem": 157,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E não disse nada a ninguém."
+  }
+]

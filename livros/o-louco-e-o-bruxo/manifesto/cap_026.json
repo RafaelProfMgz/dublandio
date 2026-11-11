@@ -1,0 +1,890 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Yennefer tirou as faixas das mãos na manhã do nono dia e ficou um tempo olhando as palmas."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A pele tinha fechado. Estava rosada, fina, brilhante, como pele de criança, e repuxava quando ela abria os dedos inteiros. Mas fechava o punho. Segurava a pena. Segurava uma xícara sem que a xícara tremesse. Fazia oito dias que não segurava nada direito, desde a noite em que o portal dela bateu numa parede lisa a dez passos de distância e devolveu a força toda nas mãos dela, como um cavalo que empina e joga o cavaleiro."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oito dias de xenovox à meia-noite. Oito dias de olhar a cidade lá embaixo, pela janela do laboratório, sem poder descer, porque alguém tinha de ficar e porque Vesemir tinha dito, com aquela voz de quem não discute, que uma feiticeira de mãos enfaixadas era tão útil numa descida quanto um bruxo de perna quebrada. Oito dias vendo os outros irem e voltarem. Geralt e Eskel para o grifo. Ciri e Triss atrás deles. Eskel, agora, deitado numa cela de polícia em Tingen, com uma cabra."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Yennefer fechou as mãos de novo e foi procurar Triss."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Achou-a no salão, ainda de capa de viagem, com o caderninho aberto na mesa e um prato de mingau frio ao lado, escrevendo depressa. Tinha subido de Tingen de madrugada, com Ciri e Geralt, e não tinha dormido. Tinha olheiras e uma mancha marrom de sangue seco debaixo de uma das narinas que esquecera de limpar."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Yennefer",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você está horrível"
+  },
+  {
+    "ordem": 7,
+    "personagem": "Triss",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Bom dia para você também."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Yennefer",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri me contou às quatro da manhã. Com detalhes."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Triss",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Eu não ia fechar nada com magia."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Yennefer",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sei."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Triss levantou os olhos."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Yennefer",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O portal"
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você nem ouviu."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Triss",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Não preciso ouvir. Eu vi as suas mãos na noite do tremor. Eu vi o que o Igni do Geralt fez num penhasco ontem. Eu pedi uma luz do tamanho de uma noz em Tingen e saiu uma maçã e um nariz sangrando."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Yennefer",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Um portal que chega mais longe."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Triss ficou calada. Yennefer viu que ela estava pensando, contra a vontade."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na noite do tremor — continuou Yennefer —, alguma coisa estava sendo feita com o mundo. Costurada, empurrada, eu não sei. Tudo estava mexendo. Talvez por isso nem a dez passos. Agora faz nove dias. O chão não treme mais. O que ainda se mexe, se mexe longe e devagar."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por exemplo?"
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O vau. O acampamento do Lenn. Uma milha e meia. Uma reta. Eu vejo de cima da torre."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E por que agora? Por que não esperar a Keira chegar? Mais uma feiticeira, mais segurança."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Yennefer",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque a Keira está andando pela neve há quatro dias, a pé, com um elfo que não fala, e ainda não sabe a quanto está daqui. Porque Nilfgaard acha que a filha morreu. Porque Roche, Regis e Zoltan estão em algum lugar desse mundo que ninguém sabe o tamanho, e o único jeito de chegar até eles mais depressa que um cavalo é este."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Triss a encarou por um tempo comprido. Depois soltou o ar pelo nariz, com uma risadinha cansada."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você sempre disse que eu era a sensata."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Yennefer",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você é a sensata. Por isso eu quero você junto."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri desceu ao vau antes do sol, com o anel de Triss no bolso."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fazia frio de rachar. A trilha estava dura de gelo, e ela desceu metade do caminho escorregando, de mão nas pedras, sem lanterna, porque os olhos dela se ajeitavam ao escuro mais depressa que os de qualquer pessoa. No vau, a fogueira do acampamento ainda ardia baixa. O decurião Lenn estava de pé ao lado dela, de capa e elmo. Parecia ter adivinhado que ela vinha. Talvez tivesse. Os outros quatro dormiam enrolados nas tendas. Cassel, de braço ainda na tipoia, montava guarda na beira do rio."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Majestade."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Ciri",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Lenn."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lenn não perguntou nada. Era a coisa que Ciri mais apreciava nele."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim, majestade."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela se levantou e limpou a terra das mãos. O decurião continuava de pé, olhando para ela, com aquela cara de homem que tem uma pergunta na boca e não sabe se pode fazer."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pergunte, Lenn."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As ordens, majestade. Para Nilfgaard. A senhora disse que ia pensar."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri olhou o rio, o Gwenllech, escuro na madrugada, correndo para o lado da cidade, que dali era só uma claridade amarela atrás dos pinheiros."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você sabe escrever, Lenn?"
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sei, majestade. Mal, mas sei."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então escreva. Hoje. Um relatório. Tudo o que você viu desde a noite do tremor. A cidade. O sargento. Os homens de preto. Os afogadores. O grifo. A estrada de Ard Carraigh que acaba num campo de tijolo. Que a imperatriz está viva, em Kaer Morhen, com saúde, e que não pode voltar por enquanto porque não existe caminho. Escreva tudo, com data e com hora, em duas cópias."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lenn ficou um momento parado. Depois bateu o punho no peito, sobre o sol de Nilfgaard bordado na capa."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim, majestade."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E Lenn."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Majestade?"
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mande o Cassel subir à fortaleza duas vezes por semana para comer. Ele está com cara de quem só come mingau."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O decurião quase sorriu."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fizeram no pátio, ao meio-dia, com Vesemir na cadeira dele, ao lado da porta do salão, com o olho bom aberto, e Lambert deitado na porta da despensa sobre dois cavaletes, que tinha mandado Jaskier e Ciri o carregarem até ali porque não ia perder isso por nada."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt ficou de pé ao lado da paliçada da muralha leste, de onde se via o vau. Tinha o braço esquerdo enfaixado do cotovelo à ponta dos dedos e a cara de quem não estava de acordo e tinha desistido de dizer. Ciri ficou ao lado dele."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Dez coroas que ela cai na fonte da praça de Tingen"
+  },
+  {
+    "ordem": 48,
+    "personagem": "Jaskier",
+    "voz": "826be797681d4b1a92042b54b3c75c64",
+    "texto": "Ninguém aposta com você"
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tenho quatro libras do Geralt."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As libras são do Geralt."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Detalhe."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt não respondeu. Mas Triss, que passava por ele carregando o giz, viu o canto da boca dele se mexer."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Triss tinha passado a manhã preparando. Antes de tudo, abriu o caderninho na página em que vinha anotando, desde o primeiro dia, cada feitiço que tinha feito e o tamanho com que tinha saído, e mostrou a Yennefer. Eram trinta e duas linhas. Uma luz, um calor, um escudo, uma limpeza de ferida, um feitiço de sono para Lambert na primeira noite, uma extração de farpa num soldado do Lenn. Do lado de cada uma, Triss tinha escrito onde, quanto pediu e quanto veio. E tinha percebido uma coisa."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Na",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Aqui em cima, em Kaer Morhen, sai duas vezes, três vezes maior — disse, com o dedo nas linhas."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Yennefer leu as trinta e duas linhas sem dizer nada. Depois devolveu o caderninho."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então a gente faz aqui. No pátio. O mais longe da cidade que dá."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi o que eu pensei."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você devia publicar isso, Triss. Na Academia de Ban Ard. Ia ser o tratado mais lido do século."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Triss",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "A Academia de Ban Ard pode não existir mais."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois desenhou no chão do pátio, com giz, um círculo de dois passos, e dentro dele os sinais de ancoragem que se usavam em Aretuza para os portais de aprendiz, os que garantiam que, se o portal falhasse, ao menos não levaria metade do chão junto. Mandou Ciri descer ao vau de madrugada, antes do sol, e enterrar ao lado da fogueira do Lenn um anel de prata de Triss, um anel velho, de que ela gostava, que tinha usado dez anos. Um farol. Uma coisa dela, do outro lado, para o portal ter onde mirar."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Triss",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Se eu sentir que puxa demais, eu corto"
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E se cortar com você no meio..."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Yennefer",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei o que acontece, Triss. Eu ensino isso a aprendiz de dezesseis anos."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Da cadeira, Vesemir pigarreou."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Yennefer."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela se virou para o velho, dentro do círculo, com uma impaciência educada."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Vesemir",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando eu era moço"
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Isso é para me acalmar?"
+  },
+  {
+    "ordem": 70,
+    "personagem": "Vai",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Isso é para você lembrar que portal sempre foi torto. Não é coisa desse mundo novo. Sempre foi. — O velho se recostou."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Yennefer o encarou um instante. Depois, contra a vontade, o canto da boca dela subiu."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Triss pôs as duas mãos no ar, de palmas para dentro, na direção de Yennefer e do vau ao mesmo tempo. Fechou os olhos. Lá longe, uma milha e meia abaixo, ela sentiu o anel. Pequeno, frio, conhecido, uma pinta de prata no meio de um mundo que tinha gosto de ferro e de chuva. Segurou aquela pinta com a mente, feito a ponta de um fio de linha."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Yennefer ergueu as mãos novas, rosadas, e disse as palavras."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O ar à frente dela se rasgou."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não se abriu: rasgou, com um barulho de pano grosso, e o rasgo tinha a forma certa, o oval de um portal, alto como uma porta de igreja, e bordas que tremiam e soltavam faíscas violeta. Dentro dele, em vez da escuridão de um portal de sempre, havia luz. Uma luz branca, leitosa, que se mexia como água de rio."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E a luz puxava."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Triss sentiu antes de todos. O fio que segurava, o fio do anel, esticou de repente nas mãos dela, como linha de pesca quando o peixe morde. Esticou e torceu. Não apontava mais para o vau. Apontava para outro lugar. Para o lado. Para longe. E puxava tudo junto: o ar do pátio, a neve, o giz do chão. Os sinais de ancoragem do círculo começaram a fumegar, um a um."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Está",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Yen! — gritou Triss."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Yennefer estava a um passo do rasgo. Virou a cabeça para Triss. Triss viu nos olhos violeta dela, em menos de um segundo, o cálculo inteiro: o portal aberto, o puxão crescendo, o círculo queimando, a chance de nunca mais abrir outro."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Yennefer",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então corta depois que eu passar"
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E entrou."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Triss cortou."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não por escolha. O portal fechou sozinho, um instante depois de Yennefer sumir na luz leitosa, com um estalo seco como de chicote, e a força que ele vinha puxando voltou toda de uma vez pelo fio que Triss ainda segurava. Bateu nela como uma porta batendo na cara. Ela voou para trás e caiu de costas na neve, a três passos do círculo, com o gosto de ferro na boca e o mundo girando."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando conseguiu sentar, o pátio estava em silêncio."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O círculo de giz não existia mais. No lugar dele havia um anel de chão nu, sem neve, com a terra preta e lisa, como vidro, e brilhando de leve. Em volta, a neve tinha derretido num círculo maior e congelado de novo em placas de gelo transparente, com coisas presas dentro: folhas de pinheiro, um botão de casaco, um fio de cabelo preto e cacheado."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Yennefer não estava em lugar nenhum."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri foi a primeira a chegar ao círculo. Parou na beira do vidro preto, sem pisar. Geralt chegou logo depois. Jaskier ficou parado no meio do pátio, com as mãos na cabeça, e pela primeira vez desde que Triss o conhecia, não disse nada. Lambert tinha se apoiado num cotovelo na porta, com a cara branca."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Ciri",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Triss"
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Triss fechou os olhos. Procurou o anel, lá embaixo, no vau. Estava lá. Pequeno, frio, intacto. Yennefer não estava perto dele. Procurou Yennefer. Procurou o jeito do Caos dela, que Triss conhecia havia trinta anos como se conhece a voz de uma pessoa num salão cheio. Procurou para o lado onde o fio tinha torcido."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sentiu alguma coisa. Muito longe. Muito fraca. Como uma vela vista do outro lado de um lago, numa noite de névoa. Para o noroeste. Muito além do vau. Muito além de tudo."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E depois nada."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Triss",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Viva"
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Onde?"
+  },
+  {
+    "ordem": 94,
+    "personagem": "Triss",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Longe. Noroeste."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Jaskier",
+    "voz": "826be797681d4b1a92042b54b3c75c64",
+    "texto": "O xenovox"
+  },
+  {
+    "ordem": 96,
+    "personagem": "Triss",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Ela não levou"
+  },
+  {
+    "ordem": 97,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Jaskier abriu a boca e fechou."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lambert, da porta, soltou um palavrão comprido e baixo, de três ou quatro palavras emendadas, e bateu com o punho na madeira, uma vez. Depois ficou quieto. Ninguém lembrou da aposta."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri se virou para o noroeste. Para as montanhas atrás do bosque enxertado, atrás da muralha oeste, onde não se via nada além de pinheiro, pedra e neve."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu vou buscar — disse."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Vesemir",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você não salta"
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu vou a cavalo. A pé. De quatro, se precisar."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para onde? Noroeste é metade do mundo."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri se virou para ele, e Triss viu, por um instante, no rosto dela, a menina de Cintra que perdeu a avó e o castelo numa noite só."
+  },
+  {
+    "ordem": 105,
+    "personagem": "Ciri",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Ela entrou porque não queria passar o nono dia olhando por uma janela"
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vesemir a encarou com o olho bom. Depois olhou para Geralt."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você"
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt tocou o medalhão."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Enquanto os dois selavam os cavalos, Triss voltou ao círculo."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sentou-se na neve, na beira do vidro preto, com as pernas cruzadas e o caderninho no colo, e ficou olhando. Jaskier veio e se sentou ao lado dela, sem pedir, com o chapéu de pena nas mãos. Não falou. Isso, nele, era tão raro que Triss quase agradeceu."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O vidro preto era liso como a superfície de um lago parado. Triss se debruçou sobre ele e viu o próprio rosto refletido, pálido, com o rastro de sangue sob o nariz. E viu, por baixo do reflexo, ou por dentro dele, umas linhas finas, prateadas, que corriam no vidro em todas as direções. Não eram rachaduras. Pareciam o desenho dos sinais de ancoragem que ela tinha feito a giz, mas torcidos, esticados, todos puxados para o mesmo lado. Para o noroeste. Como capim deitado pelo vento."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela abriu o caderninho e, embaixo da linha trinta e dois, escreveu a trinta e três."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Portal curto, pátio de KM → vau (1,5 milha), âncora: meu anel. Pedi o tamanho de uma porta. Veio maior e com luz dentro, em vez de escuro. Abriu. O destino não ficou onde eu segurei: torceu para o noroeste, muito além. Yen passou. Fechou sozinho depois dela. Força de volta em mim. Chão vitrificado, linhas torcidas para o noroeste."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Parou. Pensou. Escreveu mais uma linha."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Abre. Não obedece."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Jaskier",
+    "voz": "826be797681d4b1a92042b54b3c75c64",
+    "texto": "Ela vai ficar bem"
+  },
+  {
+    "ordem": 117,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei, Julian."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele se calou. Era a primeira vez em anos que alguém o chamava pelo nome de batismo, e Triss o viu piscar."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desculpe"
+  },
+  {
+    "ordem": 120,
+    "personagem": "Jaskier",
+    "voz": "826be797681d4b1a92042b54b3c75c64",
+    "texto": "Eu, quando estou com medo, fico falando de Aedirn"
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Triss deu uma risada que saiu molhada. Encostou a cabeça no ombro do poeta, por um instante, e depois se levantou e foi buscar o caderninho de mapas no laboratório, para quando Geralt e Ciri voltassem."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O medalhão começou a tremer assim que Geralt passou pelo círculo de vidro preto."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não era a vibração baixa e contínua de todos os dias desde o tremor, aquela corda de alaúde que ninguém abafou. Era outra coisa. Um puxão. Como se o lobo de prata, pendurado no pescoço dele, quisesse ir para algum lugar e estivesse preso pela corrente. Geralt parou na beira do círculo e deixou o medalhão pender. Ele não pendeu reto. Inclinou-se. Um pouco. Para o noroeste."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que é isso? — perguntou Ciri, já montada, de capa e espada, segurando a rédea do cavalo dele."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Resto de magia."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para onde?"
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt montou, com a mão boa, sem responder."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Saíram pela brecha da muralha oeste, a velha, atrás da estrebaria, e passaram rente ao bosque enxertado, com a garoa de Loen pingando dos carvalhos do lado de lá da linha e a neve de Kaedwen do lado de cá. Geralt ia na frente, com a mão boa na rédea e o medalhão por fora do gibão, olhando para ele de tempos em tempos. O lobo de prata continuava inclinado. Às vezes mais, às vezes menos. Sempre para o mesmo lado."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na metade do caminho, Ciri emparelhou o cavalo com o dele."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Que",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela entrou sabendo — disse."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu vi."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por quê?"
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt demorou a responder."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque se ela não entrasse, nunca ia saber para onde ia — disse. — E porque a Yen prefere cair num lugar errado a ficar parada num lugar certo. Sempre foi assim. Você sabe. Você é igual."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri não respondeu. Mas Geralt viu, de canto, que ela tinha apertado a rédea até os nós dos dedos ficarem brancos."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela vai estar furiosa quando a gente achar"
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vai."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ótimo. Quero que esteja. Furiosa quer dizer viva."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Subiram a encosta da crista oeste, por uma trilha de caçador que Geralt conhecia desde menino, e que o levou, em uma hora de subida, ao alto de um contraforte de onde se via, num dia limpo, todo o vale do noroeste: uma sucessão de serras baixas, cobertas de pinheiro, descendo em ondas até um lago comprido chamado Olho de Vidro, que Vesemir pescava quando era moço e que Geralt tinha visto mil vezes daquele mesmo lugar."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Chegaram ao alto ao pôr do sol. O céu estava limpo. A luz era de ouro velho, baixa, e iluminava tudo de lado, e as sombras dos pinheiros eram compridas como lanças."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt parou o cavalo. Ciri parou ao lado."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficaram os dois olhando."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As serras estavam lá. Os pinheiros. A neve. A crista do outro lado. Até ali, nada diferente. Mas depois da terceira serra, onde a terra devia descer para o lago Olho de Vidro, ela não descia. Subia. Havia ali, no lugar do lago, um planalto. Largo, alto, de bordas retas como corte de faca, que não estava ali, que nunca tinha estado ali, coberto de uma coisa que de longe parecia capim amarelado e que não tinha neve nenhuma em cima. Por cima do planalto, o céu tinha outra cor. Mais quente. Mais pálido. Uma luz de fim de tarde de outro lugar, de outra estação, que parava exatamente na borda do planalto e não passava."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do lago, nenhum sinal."
+  },
+  {
+    "ordem": 145,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri tirou do alforje o mapa que tinha desenhado no escritório da Blackthorn no terceiro dia, o mapa do Continente feito de cabeça, e o mapa velho de Kaedwen que Vesemir guardava no salão havia cinquenta anos e que ela tinha pegado sem pedir. Abriu os dois sobre o pescoço do cavalo. Procurou com o dedo."
+  },
+  {
+    "ordem": 146,
+    "personagem": "No",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O lago está aqui — disse."
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt não respondeu. Tinha tirado o medalhão de dentro do gibão e o segurava pela corrente, à frente dos olhos, contra a luz do pôr do sol."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O lobo de prata tremia na ponta da corrente como um cão de caça que achou o cheiro. E apontava, reto, firme, sem hesitar, por cima das três serras, por cima do lugar onde ontem havia um lago e hoje havia um planalto de capim amarelo sob um céu que não era daquele mundo."
+  }
+]

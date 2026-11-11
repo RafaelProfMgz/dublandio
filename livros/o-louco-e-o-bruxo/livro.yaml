@@ -1,0 +1,38 @@
+titulo: O Louco e o Bruxo
+origem: ~/Documentos/livros/o-louco-e-o-bruxo/05_manuscrito/vol1
+provedor: heygen          # heygen | openrouter
+reserva: openrouter       # se a cota do principal acabar, a síntese continua aqui
+idioma: pt
+
+# Usados pelo `preparar` para adivinhar quem fala quando o diálogo não diz.
+personagens: [Geralt, Ciri, Vesemir, Eskel, Lambert, Gideon, Regis, Yennefer, Triss, Roche,
+              Bligh, Jaskier, Shani, Zoltan, Oliver, Ilaen, Keira, Mira, Holger, Sra. Thorne]
+
+# Nome que aparece no roteiro -> nome canônico (o que tem voz).
+apelidos:
+  Ele: Narrador      # roteiros antigos marcavam falas sem falante claro assim
+  Ela: Narrador
+  Eu: Narrador
+
+# Personagem sem voz aqui usa a do Narrador (veja `dublandio vozes o-louco-e-o-bruxo`).
+vozes:
+  openrouter:
+    Narrador: lucian
+    Zoltan: weston
+    Ciri: tabitha
+    Vesemir: lucian
+    Sra. Thorne: nadine
+    Jaskier: gareth
+    Triss: meredith
+    Eskel: sabrina
+    Lambert: bram
+  heygen:
+    Narrador: 049413e41c334753984c294d694afb5c  # lucian
+    Zoltan: 742d54da82fb46a8be11480d9ec6e3c3  # weston
+    Ciri: a6752292cd204ac4a80a25fb575b1327  # tabitha
+    Vesemir: 049413e41c334753984c294d694afb5c  # lucian
+    Sra. Thorne: 83548de556df48ba8c09c42a57c51d85  # nadine
+    Jaskier: 826be797681d4b1a92042b54b3c75c64  # gareth
+    Triss: aa9746e325ff46d482a54fe5bc87890f  # meredith
+    Eskel: 75300849b571414c8d62693289cb6509  # sabrina
+    Lambert: fca00394b42949c2a939acd456e3291f  # bram

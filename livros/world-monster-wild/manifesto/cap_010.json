@@ -1,0 +1,920 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As velas não são para os mortos"
+  },
+  {
+    "ordem": 2,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os mortos não enxergam. São para a gente lembrar quanto custou a passagem."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele disse isso com uma vela apagada em cada mão, de pé no meio do convés, com sessenta pessoas em volta dele em silêncio e o céu inteiro ficando vermelho atrás das costas. E eu, que tinha passado dois dias agarrado à amurada daquele navio, percebi que tinha soltado as mãos sem perceber."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O enjoo passou no segundo dia, não no terceiro, como o capitão tinha prometido. Ou não passou: só mudou de lugar. Saiu do estômago e foi para as pernas, que continuavam moles cada vez que o chão respirava, e para a nuca, onde ficou um formigamento frio que não ia embora. Mas eu conseguia comer. E, lá pelo meio da tarde, consegui atravessar o convés de uma ponta à outra sem encostar em nada. Tami aplaudiu. Os Dace apagaram alguma coisa na ardósia."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O ar tinha mudado. Era a primeira coisa que se notava ao subir a escada: um frio seco, fino, que entrava pelo nariz e ardia lá dentro, com um cheiro que eu não conhecia. Não era cheiro de neve, embora parecesse. Era mais metálico. A planície marrom lá embaixo tinha acabado de manhã, e agora o Andorinha-Cinza passava por cima de serras cada vez mais altas, de pedra cinzenta e nua, com neve nos cumes e nenhum sinal de gente. Nenhuma vila. Nenhuma estrada. Nenhuma fumaça."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amanhã"
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse o velho Orsolo, passando por mim com o cachimbo apagado nos dentes."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Se o tempo deixar, amanhã vocês veem as Coroas."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Dace",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E se não deixar?"
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele olhou para o norte, onde o horizonte estava liso e claro como vidro. Cheirou o ar, como um cão."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Dace",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então vocês veem depois."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dita me achou no porão, no meio da tarde, quando eu estava cantarolando para a Pena."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Veio mancando, com o tornozelo enfaixado e uma bengala improvisada de cabo de vassoura, e parou do lado de fora da baia, sem saber o que fazer com as mãos. Tinha a cintura enrolada em pano limpo por baixo da camisa, e dava para ver, pelo jeito como se mexia, que ainda doía."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Cabo disse que você estava aqui"
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Com a galinha."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela não é galinha."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desculpa."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dita olhou para a Pena. A Pena olhou para ela, com a crista meio arrepiada, e não trinou. Era um bom sinal."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu trouxe uma coisa."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tirou do bolso uma tira comprida de couro trançado, em três cores, marrom, preto e um vermelho desbotado, com as pontas bem amarradas. Estendeu para mim de longe, com o braço esticado, como se eu fosse morder."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para o escudo"
+  },
+  {
+    "ordem": 22,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A alça velha está rachada. Eu vi, no charco, quando você... Quando você me segurou. Estava quase soltando."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Peguei. Era um trabalho bonito, apertado, firme, do tipo que leva muitas noites."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você fez isso?"
+  },
+  {
+    "ordem": 25,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Minha avó me ensinou. A gente trançava rédea para vender na feira, lá em casa."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela deu de ombros, envergonhada."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fiz ontem à noite. Não conseguia dormir. Toda vez que fechava o olho..."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não precisou terminar. Eu também via a língua."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Obrigado, Dita."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não precisa agradecer."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela levantou o queixo, séria, com uma dignidade de dezesseis anos que me deu vontade de rir e de chorar ao mesmo tempo."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu é que agradeço. A Cabo disse que carregador não deve nada a caçador, que é o contrário, que caçador é que deve a vida a quem carrega a comida dele. Mas eu devo. Então eu pago."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E, antes de ir embora, mancando:"
+  },
+  {
+    "ordem": 34,
+    "personagem": "Dita",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando estragar, me avisa. Eu faço outra."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Troquei a alça naquela mesma tarde. O vermelho desbotado ficou bem na parte de dentro, onde minha mão segurava. Eu ia olhar para ele muitas vezes."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ao entardecer, o vento morreu."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não diminuiu. Morreu, de uma vez, como os sapos no Charco das Rãs. Num instante, os cabos do balão zuniam, as velas de lona estalavam e as hélices laterais giravam com um ronco grave. No instante seguinte, silêncio. As velas caíram moles. O Andorinha-Cinza ficou parado no ar, suspenso, sem balançar, como se alguém tivesse segurado o navio com a mão."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "um: É sempre assim"
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse um tripulante, quando viu minha cara."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "um: Na última noite antes das Coroas. O vento para. Ninguém sabe por quê. O velho diz que é o vale prendendo a respiração."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi nessa hora que Veyra Holt subiu ao convés com o maço de velas."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu as reconheci na hora. Velas de sebo, curtas e grossas, amarradas com barbante. As mesmas trinta e duas da mesa dela em Varnhal."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela não disse nada. Atravessou o convés, parou na frente de Brann, que estava sentado num barril ajeitando a correia do martelo, e estendeu o maço para ele. Brann olhou para as velas. Olhou para ela. Largou a correia devagar, se levantou e pegou o maço com as duas mãos, com um cuidado que eu nunca tinha visto nele, como quem recebe um bebê."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sempre eu, hein, Comandante?"
+  },
+  {
+    "ordem": 45,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você conta melhor"
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E foi se encostar na amurada da proa, sozinha, de braços cruzados."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não precisou chamar ninguém. A notícia correu pelo navio como fogo em palha. Em poucos minutos, o convés estava cheio: caçadores, carregadores, soldados, a tripulação inteira, os condenados com seus guardas, os Palicos empoleirados nos rolos de corda. O Mestre Tobias subiu da cozinha enxugando as mãos no avental. O velho Orsolo tirou o chapéu e o segurou contra o peito. Até o doutor Crane apareceu, por último, com o caderno aberto, e ficou num canto perto da escada, com Pell atrás dele, pálido."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann se ajoelhou no meio do convés e começou a pôr as velas no chão, em fila, em cima de uma tábua comprida que dois tripulantes trouxeram. Uma do lado da outra. Trinta e duas. Pingou um pouco de sebo derretido embaixo de cada uma para que ficassem de pé. Não havia vento nenhum. A chama da lanterna que ele usava não tremia."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois se levantou, com a primeira vela na mão, e disse aquilo sobre os mortos não enxergarem."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A primeira"
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse ele, e acendeu a vela da ponta com a chama da lanterna."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém sabe o nome do comandante. Faz cento e quarenta anos. Entraram pela Garganta num outono como este e sumiram. Trinta anos depois, a sétima achou o estandarte deles pregado numa pedra, no meio do Cinzal, a floresta logo depois da Garganta, sem nenhum osso por perto. Só o estandarte. Pregado com um prego de ferro, bem firme, por alguém que queria que fosse achado."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pôs a vela no lugar. A chama subiu reta, fina, amarela."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Acendeu",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Segunda. Terceira. Quarta."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Acendeu as três, uma atrás da outra."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Acendeu",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As três morreram no mesmo lugar, para o mesmo bicho, em oito anos. Um Ancião tinha feito ninho na Garganta. Um dragão que anda dentro do próprio vento, e que os velhos chamam de Kushala Daora. A Guilda demorou três expedições para entender que aquele dragão não ia sair do caminho. A quarta levou canhões."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele pôs as velas no lugar."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Acendeu",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os canhões estão lá até hoje. Vocês vão ver."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Houve um murmúrio. Alguém, atrás de mim, fez o sinal de proteção dos pescadores do leste. Tami, do meu lado, fez o mesmo."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Acendeu.",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quinta."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Acendeu."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Acendeu.",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A primeira que voltou. Pouca gente, mas voltou. E achou gente vivendo lá dentro. Gente, sim, senhores. Gente que mora em costela de dragão e não gosta de visita."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sorriu."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Acendeu.",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vocês também vão conhecer."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E foi assim. Uma a uma. A sexta, que tentou minerar uma montanha feita de osso e foi enterrada dentro dela. A sétima, que fundou Última Luz, e cujos filhos casaram com a gente das costelas. A décima, que mapeou os Lagos, e Nessa, sentada no chão perto de mim, escreveu alguma coisa no caderno quando ouviu isso. A décima segunda."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na décima segunda, Brann parou um pouco mais."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Expedição Muda"
+  },
+  {
+    "ordem": 68,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Voltaram. Quase todos. Chegaram a Varnhal andando em fila, com as roupas em farrapos, e ninguém conseguiu entender por que não falavam. Até que um médico abriu a boca de um deles."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann acendeu a vela."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não tinham mais língua. Nenhum. Cortada rente, com cuidado, bem cicatrizada. E nenhum sabia escrever. Morreram todos no mesmo mês, e ninguém nunca soube o que eles tinham visto."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O convés estava tão quieto que dava para ouvir o sebo chiando nos pavios."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vieram os Quatro Invernos, quatro velas acesas juntas, e Brann falou de uma doença que deixava os monstros loucos e os homens também. Veio a décima quarta, que trouxe para fora do vale o primeiro Wyveriano. — Orelha comprida, quatro dedos em cada mão — disse Brann —, e enterrou todos os netos de quem trouxe ele. A décima sétima, a vigésima segunda. A vigésima sexta."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Essa levou um rapaz de vinte e poucos anos que não quis voltar"
+  },
+  {
+    "ordem": 74,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando a vigésima sexta foi embora de Última Luz, ele ficou no portão, vendo a coluna subir a encosta. Não disse por quê. Nunca disse."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Acendeu a vela."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hoje ele manda em Última Luz. Chama-se Oren Vask. E, se vocês quiserem um conselho do velho Brann, não perguntem a ele sobre a vigésima sexta."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então chegou a vigésima sétima. E Brann não a acendeu."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele ficou parado, com a vela apagada na mão, olhando para ela. Depois levantou os olhos e procurou alguém no meio do povo. Me procurou."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Garoto"
+  },
+  {
+    "ordem": 80,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quer acender essa?"
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senti todas as cabeças se virarem para mim. Senti Nessa parar de escrever. Senti, sem precisar olhar, os olhos de Veyra Holt na proa e os do doutor Crane perto da escada."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann tinha ouvido. É claro que tinha ouvido. Todo mundo em Varnhal tinha ouvido o voluntário burro perguntar da vigésima sétima no salão dos mapas. Mas ele não disse nada disso. Só ficou esperando, com a vela estendida, e a cara larga e vermelha dele não tinha nenhuma pena. Só uma pergunta."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Me levantei. Atravessei o convés, com as pernas moles, e peguei a vela da mão dele. Era leve. Mais leve do que eu esperava. Aproximei o pavio da lanterna, e ele pegou fogo na hora, com um estalinho."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A vigésima sétima"
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse Brann, baixo, para o convés inteiro, enquanto eu a punha no lugar, entre a vigésima sexta e a vigésima oitava."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi a mais longe. Ou tentou. Diziam que ia chegar ao Coração, o lugar que ninguém viu. Tinha gente boa. Das melhores que a Guilda já mandou."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele fez uma pausa."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém voltou. Ninguém achou nada. Nem estandarte, nem osso, nem diário."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Voltei para o meu lugar. Não olhei para ninguém."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A vigésima oitava."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann acendeu."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi mandada para achar a vigésima sétima. Três anos depois."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pôs a vela no lugar."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Também não voltou."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Acendeu.",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A vigésima nona."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Acendeu."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Acendeu.",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Essa era diferente. Levava mais soldado que caçador. Mais canhão que tenda. A Guilda disse que era pesquisa."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele fungou."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Acendeu.",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O capitão dela se chamava Morrec Dahl. Desertou. Ficou no vale e nunca mais saiu. A Guilda pôs a cabeça dele a prêmio."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "uma: Desertou"
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "disse uma voz, do lado dos condenados."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era Sila Varn. Falou baixo, mas no silêncio do convés soou alto. Estava sentada no chão, com a corrente curta entre os pulsos, olhando para a vela da vigésima nona. Não havia deboche na voz dela. Havia outra coisa, dura e fria, que eu não soube nomear."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Sila",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É o que dizem"
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "completou ela. E não disse mais nada a noite inteira."
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann olhou para ela um instante. Depois pegou a vela seguinte."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E não a acendeu. Estendeu-a para a proa."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Veyra Holt veio devagar. Atravessou o convés sem pressa, e as pessoas se afastaram para ela passar. Pegou a vela da mão de Brann. Aproximou da lanterna. Acendeu."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não disse nada. Nenhuma palavra sobre a trigésima: nem que eram sessenta e dois, nem que voltaram treze, nem que tinha sido ela. Ficou só um instante parada, olhando a chama pequena subir, com o lado queimado do rosto virado para a luz. E o lado queimado, sob a luz da vela, parecia derreter de novo."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois se agachou, pôs a vela no lugar e voltou para a proa."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann esperou que ela chegasse lá. Então acendeu a trigésima primeira."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Viu",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A trigésima primeira pegou o Clamor."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Viu a nossa cara, a dos voluntários."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Viu",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando os velhos lá de dentro acordam, e o céu acorda junto. Ninguém sabe onde estão."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E a trigésima segunda."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Viu",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A trigésima segunda chegou a Última Luz com seis. Seis. Um deles voltou para contar que o vale está mudando. Que os ciclos, a Vigília, o Clamor, o Luto, estão vindo mais depressa."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele pôs a última vela no lugar e se endireitou, com a mão nas costas, como um velho."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Viu",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E aqui estamos nós."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Trinta e duas chamas. Em fila, em cima da tábua, no meio do convés parado, no meio de um céu que já estava roxo, com as primeiras estrelas aparecendo. Nenhuma tremia. Não havia vento nenhum."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era a coisa mais bonita e mais triste que eu já tinha visto."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Tami",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E a nossa?"
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela perguntou baixinho, sem querer, do jeito que as crianças perguntam as coisas que os adultos não perguntam. Estava com os olhos brilhando, olhando para a fila de chamas."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Brann virou-se para ela."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A nossa, menina, a gente não acende."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por quê?"
+  },
+  {
+    "ordem": 125,
+    "personagem": "Deu",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque não é a gente que acende."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele sorriu, e o sorriso foi triste."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Deu",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "São os próximos. A trigésima quarta vai acender a nossa, numa noite como esta, e algum velho gordo vai contar a nossa história."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Deu de ombros."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Deu",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Só espero que conte direito. E que tenha alguma coisa boa para contar."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tami ficou calada. Depois, bem devagar, encostou a cabeça no meu ombro, e eu deixei."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi aí que a vela apagou."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não foi um sopro. Não foi uma rajada. Não havia vento, nenhum. As outras trinta e uma chamas continuavam subindo retas, finas, paradas, como se tivessem sido pintadas no ar."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Só uma apagou. Sem tremer antes. Sem se inclinar. Num instante estava acesa, no instante seguinte não estava, como se alguém tivesse fechado dois dedos em volta do pavio."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A vigésima sétima."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ouvi Tami prender a respiração. Ouvi alguém da tripulação, atrás de mim, murmurar uma palavra que eu não conhecia, e depois outra pessoa fazer o sinal de proteção, e depois outra. O convés inteiro tinha visto. Sessenta pessoas, paradas, olhando para uma vela apagada numa fila de velas acesas."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O fio de fumaça subiu do pavio. Subiu um palmo, cinzento, fino."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E então fez uma coisa que fumaça não faz."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desceu. Dobrou-se sobre si mesma, como um fio de linha que cai, e desceu até a tábua, e escorreu dela até o chão do convés, e, rente à madeira, rastejando, se afastou devagar da fila de velas. Foi para o norte. Para a proa. Serpenteou entre as botas das pessoas, que recuavam sem entender, e chegou até a amurada da frente do navio, onde Veyra Holt estava, e passou entre as botas dela. E lá, bem na ponta da proa, onde a madeira do casco fazia uma curva, se desfez."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No lugar exato, eu pensei, onde um homem da vigésima sétima tinha passado três noites deitado, de ouvido no casco."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém disse nada. Nem Brann."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu fui o primeiro a me mexer. Não decidi. Minhas pernas foram sozinhas, e eu me ajoelhei na frente da fila de velas e estendi a mão para a vela apagada. Queria acendê-la de novo. Não sei por quê. Só sabia que não podia deixar aquela vela ser a única apagada."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Toquei o pavio."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava frio."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não morno, como fica um pavio que acabou de apagar. Frio. Frio de pedra no inverno, frio de água de degelo. O sebo em volta dele, que um instante antes estava derretido e brilhante, tinha endurecido, branco e opaco, e na ponta do pavio negro havia, eu juro, eu vi, uma camada finíssima de geada."
+  },
+  {
+    "ordem": 145,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Recolhi a mão como se tivesse me queimado."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Brann",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Deixa."
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era Veyra. Tinha vindo da proa sem que eu ouvisse. Estava parada do meu lado, olhando para a vela apagada, e o rosto dela, o bom e o queimado, não mostrava nada."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mas, Comandante..."
+  },
+  {
+    "ordem": 149,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Deixa, Kest."
+  },
+  {
+    "ordem": 150,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela não levantou a voz."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Veyra",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tem coisa que não se acende de novo."
+  },
+  {
+    "ordem": 152,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficamos todos ali, parados no meio do céu, em volta de trinta e uma chamas que não tremiam e uma que não queimava. Lá no canto, perto da escada, o único som em todo o navio era o de um lápis correndo sobre papel."
+  },
+  {
+    "ordem": 153,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O doutor Crane estava escrevendo."
+  }
+]

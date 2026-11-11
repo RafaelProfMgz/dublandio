@@ -1,0 +1,998 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver Penn nunca tinha visto neve de verdade."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Em Tingen nevava duas ou três vezes por inverno, uma neve fina e molhada que virava lama cinzenta antes do meio-dia e que os meninos da Rua da Cruz de Ferro juntavam nas valetas para fazer bolas de gelo sujo. Aquilo era neve. Isto era outra coisa. Isto chegava aos joelhos dele no primeiro passo depois da linha, entrava pelo cano das botas de domingo, que ele tinha engraxado na véspera à luz de vela, e cobria o mundo inteiro de um branco tão limpo, tão sem marca, que dava vergonha de pisar."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Ciri",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Pise onde eu piso"
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele pisou onde ela pisava. Atrás dele, Mira Holloway pisava onde ele pisava, de casaco preto abotoado até o queixo, com um xale de lã de Kaedwen que Ciri lhe tinha jogado no ombro na linha e que ela usava com uma dignidade ofendida."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era a manhã do quarto dia. Às oito em ponto, Oliver tinha batido na porta da Blackthorn, na Rua Zouteland, com o pêndulo no bolso do colete, o papel da noite do tremor dobrado no caderno de desenho e o caderno de desenho debaixo do braço. O capitão Gideon o tinha recebido de chapéu na mão, tinha conferido o pêndulo, o papel e o caderno como quem confere a mala de um filho que vai para o colégio, e tinha dito três coisas."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desenhe tudo o que puder. Pergunte pouco. E não use o pêndulo lá em cima sem que alguém deles esteja vendo."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E se eles pedirem?"
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então use, e me conte depois exatamente o que aconteceu."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A trilha subia em curvas pela encosta, entre pinheiros carregados, e cada curva era mais íngreme que a anterior. Na quinta, Oliver já não sentia os pés. Na oitava, parou para respirar, com as mãos nos joelhos, e quando ergueu a cabeça viu, pela primeira vez de perto, a fortaleza."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficava no alto de uma ponta de rocha, contra o céu, cinzenta e enorme. Muralhas grossas de pedra, mais velhas do que qualquer coisa em Tingen, mais velhas do que a catedral. Uma torre redonda. Outra quadrada, mais alta. Telhados de ardósia com neve em cima. E no lado esquerdo, o lado que dava para a cidade, um rasgo na muralha, uma dentada de gigante, tapado com uma paliçada de troncos de pinheiro ainda com casca."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver tirou o lápis do bolso, abriu o caderno ali mesmo, de pé na neve, e começou a desenhar."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Ciri",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Lá em cima tem mesa"
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Só um minuto. A luz está boa agora. Depois muda."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri esperou. Mira suspirou alto. Oliver desenhou depressa, como desenhava os fregueses da papelaria escondido debaixo do balcão: a linha da muralha, a torre, o rasgo, a paliçada, a fumaça que subia de três chaminés. Quando terminou, olhou o desenho, olhou a fortaleza e sentiu uma coisa que não sabia nomear. Era como olhar a capa de um livro que se leu na infância e que se tinha esquecido que existia."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu já vi este lugar — disse."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Ciri",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Viu da cidade"
+  },
+  {
+    "ordem": 17,
+    "personagem": "Oliver",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não. Antes."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri olhou para ele um tempo, e depois recomeçou a subir, mais devagar."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vesemir o recebeu no salão, sentado na cadeira grande ao lado da lareira, com a perna de pau esticada num banquinho e o olho bom fixo nele desde a porta."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver já tinha ouvido falar do velho. Ciri tinha contado alguma coisa na subida: que era o mestre deles, que tinha mais de duzentos anos, que tinha perdido a perna e o olho numa batalha naquele mesmo castelo, e que não gostava de gente que falava demais. Oliver tinha decidido, por isso, falar o menos possível. Mas quando o velho estendeu a mão para ele, uma mão enorme, nodosa, cheia de cicatrizes brancas, e disse \"Então você é o rapaz da forquilha\", Oliver ouviu a própria voz responder antes que pudesse impedir."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pêndulo, senhor. É um pêndulo. Mas pode ser forquilha, se o senhor preferir."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O velho riu. Foi uma risada curta, rouca, que acabou em tosse."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senta, rapaz da forquilha. Come. Depois a gente vê o que você sabe fazer."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Comeu. Era um ensopado de carne de cabrito com cevada, grosso, salgado, e Oliver comeu dois pratos sem perceber, sentado na ponta de um banco comprido, enquanto o salão se enchia de gente para olhar para ele."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Havia um homem de cabelo branco e olhos amarelos, como os de um gato, que Oliver tinha visto no dia anterior na rua, com Gideon; Geralt, Ciri disse, e ele fez um aceno de cabeça e se encostou na parede de braços cruzados. Havia uma mulher de cabelo ruivo, de xale verde, que sorriu para ele e lhe perguntou se o capitão Gideon tinha mandado lembranças, e que se chamava Triss. Mira Holloway ficou de pé junto da porta, de xale no ombro e mãos atrás das costas, com a cara de quem vigia um baile de que não gosta. Havia outra mulher, de cabelo preto e cacheado, vestida de preto e branco, de mãos enfaixadas, que não sorriu e não perguntou nada e que o olhou de um jeito que fez Oliver sentir que ela sabia exatamente quantos pence ele tinha no bolso. Havia um homem de chapéu de pena, de gibão colorido, que se sentou do lado dele no banco antes que Oliver terminasse o primeiro prato e se apresentou como Jaskier, também chamado Dandelion, poeta, visconde e o maior trovador vivo de dois mundos, e que queria saber, com urgência, que tipo de música se tocava nas tavernas de Tingen."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não frequento tavernas, senhor."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém frequenta tavernas, meu jovem. Elas é que nos frequentam. Que canção se canta em Tingen quando se está bêbado e triste?"
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver pensou."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Mas",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Rosa do Cais de Pritz — disse."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O poeta pôs a mão no peito, comovido."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você vai me ensinar inteira."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E havia um homem deitado sobre uma porta, no canto do salão, perto do fogo, com a perna esquerda numa tala do tornozelo à coxa e a cara de quem não dormia bem fazia dias. Tinha olhos amarelos também. Desde que Oliver entrou, não tinha tirado esses olhos dele."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Esse",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Esse é o vidente? — perguntou o homem da porta, alto, para o salão inteiro."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Vesemir",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lambert"
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu só estou dizendo."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Oliver",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sou balconista, senhor"
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Houve um silêncio. Depois o homem de cabelo branco, Geralt, soltou um som pelo nariz que podia ser um riso, e o homem da porta, Lambert, olhou para Oliver de outro jeito."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Ele responde"
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "À tarde, Oliver desenhou."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desenhou o salão, com a lareira grande e as armas penduradas nas paredes. Desenhou o pátio, com o poste de madeira onde Ciri treinava, um tronco de pé com braços de pau saindo para os lados, que girava quando se batia nele. Desenhou a muralha leste com as escoras e a paliçada, de pé em cima dela, com Geralt ao lado explicando, em frases curtas, o que tinha caído e o que tinha ficado. Desenhou o velho Vesemir sentado na cadeira, de lado, com o tapa-olho e a perna de pau, enquanto o velho fingia não perceber."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E desenhou o bestiário."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vesemir o deixou ver. Abriu o caderno grosso de couro marrom no colo, na página da primeira entrada, e o virou para Oliver. Oliver não conseguiu ler nenhuma palavra. A letra era miúda, trêmula, cheia de voltas, e se desmanchava diante dos olhos dele como todas as letras daquele mundo. Mas os desenhos estavam ali, inteiros: uma criatura magra e alta, de braços compridos demais, com um saco de luz no peito; uma mão de dedos longos, com unhas ocas; um corte do tronco por dentro, com tubos no lugar do estômago, desenhado com cuidado de anatomista."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Oliver",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Lume-de-Cabana"
+  },
+  {
+    "ordem": 44,
+    "personagem": "Vesemir",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lanterneiro"
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os desenhos são muito bons, senhor."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Mas",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os desenhos são péssimos. Eu desenho como um urso de luva. — O velho bateu o dedo na página."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver copiou os desenhos para o caderno dele, um por um, com o máximo cuidado, enquanto Vesemir olhava. Quando terminou, o velho pegou o caderno de Oliver, olhou as cópias por um tempo e o devolveu."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você desenha melhor que eu."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sou balconista, senhor. A gente passa o dia desenhando letreiro."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Vesemir",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então faça uma coisa por mim."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver prometeu."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O pêndulo ele usou no fim da tarde, na despensa."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não por vontade própria. Foi a mulher de cabelo preto, Yennefer, quem pediu, com uma voz que não era bem um pedido. Queria saber o que o pêndulo dizia perto da caixa. Ciri, que estava junto, explicou a Oliver em duas frases o que era a caixa: a luz da criatura do desenho, ainda acesa três dias depois de a criatura morrer, trancada a cadeado no fundo da despensa porque o capitão Gideon tinha mandado que ninguém a olhasse."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver lembrou do que Gideon tinha dito. Então use, e me conte depois."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A despensa era fria, de pedra, cheia de sacos e barris. A caixa de ferro estava no fundo, no chão, com um cadeado grosso. Em volta dela, em semicírculo, ficaram Yennefer, Triss, Ciri, Geralt e, sentado num barril que alguém trouxe para ele, Vesemir, com o olho bom aberto."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Oliver tirou o pêndulo do bolso do colete. Ficou de pé a três passos da caixa, segurou a corrente entre o polegar e o indicador, esvaziou a cabeça como tinha aprendido e disse em voz baixa, para o pêndulo, a frase que tinha escolhido na subida:"
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Esta luz é perigosa para quem está nesta casa."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O pêndulo começou a girar."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Primeiro devagar, um círculo pequeno, depois mais rápido, mais largo. Oliver sentiu aquele frio conhecido nas têmporas, aquele formigamento atrás dos olhos, e se segurou para não perder a concentração. Girou, girou e de repente parou, no ar, e ficou apontando."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não para a caixa."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para Geralt. Não para Geralt: um palmo ao lado dele, para o vão da porta da despensa, por onde se via o corredor e, no fim do corredor, a escada que subia para os quartos."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quem dorme lá em cima? — perguntou Oliver, sem desviar os olhos do pêndulo."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Ciri",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Todo mundo"
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No primeiro quarto depois da escada."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Houve um silêncio."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel"
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O pêndulo baixou, pesado, a corrente esticada, e voltou a pender reto. Oliver sentiu a coisa morna escorrer do nariz e passou a manga do casaco antes que alguém visse. Alguém viu. Triss já estava com um lenço estendido para ele, um lenço bordado que Oliver reconheceu, com um susto, como sendo do Sr. Kett, da Blackthorn."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Ciri",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Ele já está melhor"
+  },
+  {
+    "ordem": 69,
+    "personagem": "Vesemir",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não é o que a forquilha acha"
+  },
+  {
+    "ordem": 70,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O velho se levantou do barril, apoiado na muleta, e ficou olhando a porta da despensa por um tempo, para o corredor, para a escada. Depois olhou o rapaz com o lenço no nariz."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Vamos",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Muito bem, rapaz da forquilha — disse."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri o levou de volta até a linha ao anoitecer."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desceram calados a maior parte do caminho, com Mira atrás, resmungando da neve. Na última curva antes do vau, onde os pinheiros se abriam e já se via, lá embaixo, a chuva de Tingen parando no ar, Oliver parou e abriu o caderno."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Na",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu fiz uma coisa — disse."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Arrancou a folha com cuidado e a estendeu."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era ela. De perfil, de pé na trilha, olhando para cima, para a fortaleza, com o cabelo curto bagunçado pelo vento e a mão no punho da espada. Uns vinte traços de lápis, rápidos, e estava tudo ali: o queixo erguido, a boca fechada, a cicatriz na bochecha, que ele não tinha suavizado nem escondido."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri olhou o desenho por um tempo comprido."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você me desenhou com cara de imperatriz — disse."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu desenhei como a senhorita estava."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É a mesma coisa. Esse é o problema."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele corou até as orelhas, fechou o caderno e desceu a última curva quase correndo, e só parou na linha, com um pé na neve e o outro na lama, para se virar e erguer o chapéu para ela. Mira o puxou pela manga para dentro da chuva."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri ficou na curva até a luz amarela do primeiro lampião engolir os dois."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri passou a manhã seguinte na forja, sem conversar com ninguém."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A forja de Kaer Morhen ficava num galpão de pedra encostado à muralha sul, com uma bigorna que tinha mais de cem anos e um fole de couro remendado tantas vezes que já era mais remendo que couro. Vesemir sentava num tamborete ao lado do fogo, com a perna de pau esticada, e mandava. Ciri batia."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava refazendo as quatro argolas de ferro do poste de treino, as que prendiam os braços de pau ao tronco e que tinham empenado na noite do tremor. Era trabalho simples, de aprendiz, e era por isso que ela tinha pedido para fazer. Martelo, ferro, fogo, martelo. Não precisava pensar."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Vesemir",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mais quente"
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela pôs o ferro de volta no fogo. Pisou no fole. As brasas ficaram brancas."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Vesemir",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A escolta mandou alguém subir ontem à noite"
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ele perguntou se a senhora tinha ordens para Nilfgaard."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei, Vesemir."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E a senhora disse que ia pensar."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri tirou o ferro do fogo com a tenaz, pôs na bigorna e bateu. Três vezes, fortes, e as faíscas voaram pelo chão de terra."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Não",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não tem como mandar ordem — disse."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kaer Morhen tem pombos."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que voam até onde? Até a próxima ilha de Loen?"
+  },
+  {
+    "ordem": 97,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vesemir não respondeu. Ciri bateu mais duas vezes no ferro, menos forte, e parou."
+  },
+  {
+    "ordem": 98,
+    "personagem": "De",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Faz quanto tempo que você não tem notícias de lá? — perguntou o velho."
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Da última carta de var Dhoon, três semanas antes do tremor. Dizia que os generais estavam ficando com ideias."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E o que eles estão fazendo?"
+  },
+  {
+    "ordem": 101,
+    "personagem": "Ciri",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "O que eu faria no lugar deles."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O fole respirou sozinho, com o peso do próprio couro."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Vesemir ficou um tempo olhando o fogo. Depois falou, ainda de olho nas brasas."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando eu era moço, menos que você, a escola mandou um bruxo para o sul, para Ebbing, num contrato grande. Um tal Brehen. Ficou dois anos fora. Não mandou notícia. A gente achou que tinha morrido. Dividimos as coisas dele, o cavalo, as espadas. Um dia ele apareceu no portão, magro, de barba, com um contrato pago e uma cicatriz nova na cara. Encontrou o quarto dele ocupado e as botas dele no pé do Oskar."
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E o que ele fez?"
+  },
+  {
+    "ordem": 106,
+    "personagem": "Vesemir",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pediu as botas de volta. E deu um soco no Oskar."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri riu, contra a vontade."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você está dizendo que eu vou voltar e dar um soco em var Dhoon."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Os",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estou dizendo que quem fica no portão sempre acha que quem saiu morreu. E quem saiu sempre acha que vai encontrar a casa do jeito que deixou. — O velho a encarou."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri pôs o martelo na bigorna. Ficou olhando as mãos, pretas de fuligem, com uma bolha nova na palma direita."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Não",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E se eu não conseguir voltar? — disse, baixo."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O velho não disse nada por muito tempo. Depois se inclinou, pegou a tenaz e pôs outro pedaço de ferro no fogo."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Voc",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mais quente — disse."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ciri pisou no fole."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lambert e Eskel jogavam gwent à noite, no salão, perto do fogo, com o baralho velho de Eskel, que tinha as pontas tão gastas que as cartas pareciam folhas de outono."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lambert jogava deitado, com a porta da despensa apoiada em dois cavaletes à altura de mesa e as cartas espalhadas sobre a manta no peito. Eskel jogava sentado num banco, de frente para ele. Pequena Balida, a cabra branca de Eskel, estava deitada no chão entre os dois e mastigava, com toda a calma do mundo, a ponta da manta de Lambert."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Tira esse bicho daqui"
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela gosta de você."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Ela gosta da minha manta. É diferente."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel olhou a carta. Coçou a cicatriz."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você roubou."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu? Eu estou de perna quebrada e costela rachada. Como eu ia roubar?"
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Essa carta estava no fundo do meu monte. Eu sei porque eu pus."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Então você é que roubou, pondo ela no fundo."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel recolheu as cartas, sem discutir. Embaralhou. Distribuiu de novo. Jogaram mais uma rodada em silêncio, com o fogo estalando e a cabra mastigando."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "O rapaz da forquilha"
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu ouvi."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você dormiu a noite inteira. Eu estava acordado do outro lado da parede. Você roncou feito um urso."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então por que porra a forquilha apontou?"
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel pôs uma carta na mesa. Ficou um tempo olhando para ela."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hoje à tarde — disse —, eu estava no estábulo com o Scorpion. Escovando. E parei. Não sei quanto tempo. Quando voltei a mim, estava com a escova na mão e olhando pela porta do estábulo para o lado do bosque, para trás da muralha oeste. Para o lado de onde a gente trouxe o bicho."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lambert baixou as cartas."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quanto tempo?"
+  },
+  {
+    "ordem": 135,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sei. O Scorpion estava inquieto. Acho que ele me chamou."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eskel..."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Eskel",
+    "voz": "75300849b571414c8d62693289cb6509",
+    "texto": "Eu não vou atrás de luz nenhuma."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Lambert ficou olhando o irmão. A cabra parou de mastigar e olhou os dois, com os olhos amarelos e horizontais."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Lambert",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Vou amarrar o nó direito"
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você nunca dormiu de olho aberto."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hoje eu aprendo."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt estava na muralha leste, ao lado da paliçada, quando viu a lanterna."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tinha subido depois do jantar com Triss, porque ela queria ver a cidade à noite, e tinham ficado ali muito tempo, encostados no parapeito frio, olhando as luzes amarelas e paradas de Tingen lá embaixo, no meio da chuva. Triss falava baixo do caderninho, das anotações, do gosto do Caos, que ficava mais forte do lado da catedral e mais fraco do lado do rio. Do pêndulo do rapaz. De como a corrente tinha ficado mais pesada quando apontou para o quarto de Eskel, ela tinha visto a mão dele afundar. Geralt ouvia. De vez em quando, passava o braço em volta dos ombros dela, e ela continuava falando, encostada nele, sem perder o fio."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você não está me ouvindo"
+  },
+  {
+    "ordem": 145,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estou."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O que eu disse por último?"
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que o pêndulo afundou."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Antes disso."
+  },
+  {
+    "ordem": 149,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt pensou."
+  },
+  {
+    "ordem": 150,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que você está com frio."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu não disse isso."
+  },
+  {
+    "ordem": 152,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mas está."
+  },
+  {
+    "ordem": 153,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ela riu e se encostou mais nele."
+  },
+  {
+    "ordem": 154,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Ciri passou a manhã na forja"
+  },
+  {
+    "ordem": 155,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ouviu."
+  },
+  {
+    "ordem": 156,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você sabe o quê?"
+  },
+  {
+    "ordem": 157,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sei o bastante."
+  },
+  {
+    "ordem": 158,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Triss ficou quieta, com a cabeça no ombro dele. Lá embaixo, o sino da catedral não tinha batido ainda."
+  },
+  {
+    "ordem": 159,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi aí que ele viu. Lá embaixo, na trilha do vau, entre os pinheiros, uma luz subindo. Uma lanterna, balançando no ritmo de um cavalo que anda depressa demais para o terreno. Sozinha."
+  },
+  {
+    "ordem": 160,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Geralt se endireitou. Triss sentiu e se virou também."
+  },
+  {
+    "ordem": 161,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quem é?"
+  },
+  {
+    "ordem": 162,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sei."
+  },
+  {
+    "ordem": 163,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desceram a escada da muralha, atravessaram o pátio e chegaram ao portão no momento em que o cavalo parou do lado de fora, bufando, coberto de espuma. O cavaleiro desceu, ou caiu, da sela. Estava encharcado da cabeça aos pés, com a chuva de Tingen ainda escorrendo da capa por cima da neve de Kaedwen, e tinha a farda xadrez preta e branca colada no corpo e o quepe torto. O bigode grisalho pingava."
+  },
+  {
+    "ordem": 164,
+    "personagem": "Geralt",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sargento Bligh"
+  },
+  {
+    "ordem": 165,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Harold Bligh se endireitou, com uma mão na sela, e tirou do bolso de dentro da farda um papel dobrado, envolvido em oleado para não molhar. Estendeu para Geralt."
+  },
+  {
+    "ordem": 166,
+    "personagem": "Tenho",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senhor Geralt — disse, sem fôlego."
+  }
+]

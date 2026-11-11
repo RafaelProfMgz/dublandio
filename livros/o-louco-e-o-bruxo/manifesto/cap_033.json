@@ -1,0 +1,1154 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna Ambray estava escrevendo a palavra \"transmutação\" pela terceira vez quando a ilha deu um passo."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi o que ela anotou depois, com a letra torta: a ilha deu um passo. Na hora não anotou nada. O tinteiro escorregou pela mesa e parou na borda, a vela deitou a chama para o lado da janela e ficou deitada, e o chão do quarto subiu um palmo e desceu, inteiro, de uma vez, feito o convés de um barco que bate numa onda que ninguém viu."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilse acordou na cama de baixo e sentou de um pulo."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi você?"
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu estava escrevendo."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi a ilha."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As duas ficaram paradas ouvindo. Na torre das aprendizes, que era a mais velha de Aretuza e rangia sempre que ventava do mar, nada rangeu. O silêncio era tão grande que Senna ouviu a própria vela. Depois, longe, embaixo, no estreito, um som comprido subiu do lado de Gors Velen, um apito grosso, de garganta de ferro, que durou mais do que qualquer fôlego e acabou num soluço."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna foi à janela."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do outro lado do estreito, onde a cidade costumava ter meia dúzia de luzes àquela hora, as do porto e a da torre do templo de Melitele, não havia nenhuma. A água estava preta, a margem estava preta, e por cima da margem havia uma escuridão diferente, mais grossa, que não refletia as estrelas."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então as luzes voltaram."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Voltaram muitas, e em fila. Uma linha de pontos brancos, um pouco esverdeados, correu pela margem da esquerda para a direita, depois outra atrás dela, mais alta, depois outra, e outra, e foram subindo e se espalhando para dentro da terra muito além de onde Gors Velen terminava, muito além das colinas onde o pai de Senna levava os sapatos para entregar nos sítios. Eram mais luzes do que estrelas naquele pedaço do céu. Algumas eram altas demais para estar no chão. Uma, maior que as outras, redonda e branca, ficava sozinha em cima de alguma coisa comprida e acesa por dentro, e tinha dois ponteiros."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Ilse",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna"
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Um relógio."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do tamanho de uma casa?"
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os sinos começaram depois. Senna conhecia o sino do templo de Gors Velen desde menina, um sino rachado que tocava meio-tom abaixo do certo. Aqueles eram outros, muitos, com uma voz funda e limpa, e tocavam todos juntos, uns atrasados dos outros, como uma cidade inteira acordando para um incêndio."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No corredor já havia gente. Noviças de camisola, de pés descalços na pedra fria, com as tranças desfeitas, se empurrando na janela do fim da galeria. Alguém chorava. Alguém dizia que era Nilfgaard. Alguém dizia que era o fim do mundo e que a mãe tinha avisado."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Mestra Corisande Vell apareceu no alto da escada com uma lamparina e o xale preto por cima da camisola, e o corredor ficou quieto."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Para dentro"
+  },
+  {
+    "ordem": 19,
+    "personagem": "Senna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mestra"
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Corisande parou a lamparina na altura do rosto dela. Conhecia a história de cada menina daquela torre: sabia que o pai de Senna tinha uma oficina de sapateiro na Rua dos Curtidores, a terceira porta depois do poço, e que Senna descia de barca todo primeiro dia do mês para almoçar com ele."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Amanhã"
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna voltou para o quarto. Não fechou a janela. Ficou sentada no parapeito, de xale, até a vela acabar, olhando as luzes do outro lado. Elas não se apagaram. Às vezes uma delas se movia, devagar, ao longo da margem, e soltava outro apito, mais curto."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No caderno, antes de a vela morrer, ela escreveu: Gors Velen não tem tantas luzes. Gors Velen não tem relógio."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "De manhã havia neblina."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Era uma neblina amarela e pesada, que vinha do lado de lá e se deitava na água do estreito sem se mexer com o vento. Tinha gosto. Senna sentiu na língua quando desceu para o terraço baixo, embaixo da Loxia, onde metade de Aretuza já estava encostada na balaustrada: gosto de carvão, de ferrugem e de alguma coisa doce e queimada que ela não conhecia."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém falava alto. As mestras estavam junto das noviças e não mandavam ninguém embora."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O sol levou duas horas para comer a neblina. Ela não subiu, foi rasgando, e o que aparecia por baixo aparecia aos pedaços. Primeiro uma chaminé. Depois vinte. Depois tantas que Senna parou de contar: chaminés de tijolo, altas, finas, soltando fumaça cinza e preta que subia reta e se juntava lá em cima numa tampa suja sobre a cidade. Depois telhados, milhares de telhados, cinza-escuros, molhados, encostados uns nos outros até o fim da vista. Depois cúpulas. Uma, enorme, de pedra clara. Outra, mais longe, escura, com uma ponta que parecia uma lança. Depois uma ponte de ferro, de arcos, por cima de um rio largo que entrava no estreito onde antes só havia um riacho de lavadeiras. Depois os barcos."
+  },
+  {
+    "ordem": 28,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os barcos não tinham velas. Tinham chaminés, uma ou duas, e soltavam fumaça branca e apitavam, e andavam contra o vento."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna procurou o morro do templo. Não achou. Procurou o cais de pedra onde a barca de Aretuza atracava, o mercado do peixe, o telhado vermelho da casa do burgomestre, a torre rachada. Nada daquilo existia. No lugar do morro havia uma rua larga, reta, com postes pretos dos dois lados, e na rua passavam carroças fechadas, puxadas por cavalos, muito mais carroças do que Gors Velen tinha visto num ano. A cidade não acabava. Seguia pela margem para a esquerda até sumir na fumaça e para a direita até sumir na fumaça, e subia para dentro da terra até um horizonte que também era fumaça."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Onde fica a Rua dos Curtidores? — perguntou ela, baixo, para ninguém."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilse pegou a mão dela."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Do alto da escada da Loxia desceu Ysolde Vanrell, sozinha, de vestido cinza de gola alta e o cabelo preso sem um fio fora do lugar. A vice-reitora tinha cara de quarenta anos e andava com a calma de quem tinha visto o golpe de Thanedd daquela mesma escada, oito anos antes, e as fogueiras de Radovid depois. As noviças abriram espaço. Ysolde parou na balaustrada, pôs as duas mãos na pedra e olhou a cidade por muito tempo, sem mexer o rosto."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "por: Mestra Vell"
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E as famílias das meninas de Gors Velen?"
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não existe Gors Velen."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Disse sem crueldade, do jeito que se lê um número. Depois levantou a mão direita, a palma para cima, e Senna entendeu que ela ia testar ali mesmo, na frente de todas, para que ninguém precisasse perguntar."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi então que Senna sentiu."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Começou nos dentes. Uma pressão miúda, igual à que dá nos ouvidos quando se mergulha fundo demais, só que de fora para dentro, vindo da palma de Ysolde. Depois desceu para o peito e ficou pesada. Senna conhecia aquilo do mar: era o que sentia nas pedras de baixo da ilha, de menina, no segundo antes de a onda grande quebrar, quando a água recua e o corpo sabe de que tamanho ela vai voltar."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É grande, pensou. É dez vezes. Mais."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ysolde disse uma palavra. Na palma dela devia ter aparecido uma chama do tamanho de uma noz. Subiu uma coluna de fogo branco da altura de um homem, reta, com um ronco de fole, e as noviças da frente gritaram e caíram umas por cima das outras. Ysolde fechou a mão. A coluna sumiu. Ficou um anel de pedra escurecida na balaustrada e o ar tremendo."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A vice-reitora tirou um lenço da manga e limpou o nariz. O lenço saiu vermelho."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bom"
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna estava com o caderno aberto na mão. Escreveu, com a mão tremendo: antes de sair, pesa. Pesei antes dela. Depois riscou a segunda frase, porque parecia loucura, e escreveu de novo embaixo, menor."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nos três dias seguintes, Aretuza testou tudo."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ysolde dividiu o trabalho como dividia um ano letivo. Cada mestra ficou com uma escola, cada escola com uma sala, cada sala com uma aprendiz que anotava. Senna ficou com a Mestra Corisande, porque tinha a letra mais limpa da torre, e passou os dias de pé num canto, com o caderno, escrevendo o que via."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na sala de cura, a Mestra Helvi fechou um corte num braço de porco com um feitiço que devia ter levado meia hora, e a carne fechou em três batidas de coração, por cima de uma lasca de osso que tinha ficado dentro. A pele ficou lisa, perfeita, com o osso preso embaixo. A Mestra Helvi sentou e pediu água."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na sala das ilusões, uma aprendiz do quarto ano fez uma borboleta azul para a mestra corrigir, e a borboleta ficou. Ficou na sala o dia inteiro, batendo as asas no mesmo canto do teto, e ninguém conseguiu desfazê-la. À noite ainda estava lá. Na manhã seguinte também."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No pátio da fonte, a Mestra Orla pediu à água que subisse um palmo, e a fonte inteira subiu, a bacia toda, numa coluna da altura do segundo andar, ficou suspensa um momento, tremendo, e desabou em cima de três noviças, que saíram ensopadas e rindo, as únicas risadas daqueles dias."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna sentiu cada uma antes. Na cura, a pressão foi pequena, nos dentes. Na borboleta, foi esquisita, comprida, um peso que não acabava. Na fonte, foi tão forte que ela deu um passo para trás antes de a mestra abrir a boca, e Corisande viu."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por que você recuou, Ambray?"
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque ia sair grande."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sai tudo grande, menina. Faz três dias que sai tudo grande."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Senna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sei quanto"
+  },
+  {
+    "ordem": 54,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Corisande a encarou por cima dos óculos, a boca fina, e Senna esperou o castigo por insolência. A mestra só suspirou."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Todas sentimos. Chama-se medo. Anote a altura da coluna."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna anotou a altura da coluna. Embaixo, na margem, escreveu: fonte: pesou nos joelhos. Ilusão: pesou e não parou. Cura: pouco. E começou, sem dizer a ninguém, uma lista com três colunas: o que a mestra pediu, o que saiu, o que ela tinha sentido. Os números da segunda e da terceira coluna batiam."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na segunda noite, Ysolde tentou o megascópio."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna estava lá porque Corisande estava lá, e Corisande estava lá porque a vice-reitora queria testemunhas. A sala do megascópio ficava no alto da Loxia, redonda, com as janelas fechadas por cortinas de veludo, e o cristal ficava num pedestal de bronze no meio, do tamanho de uma cabeça, lapidado em mil faces. Ysolde pôs as mãos nele e chamou Ban Ard."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A pressão veio enorme. Senna mordeu a língua."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O cristal acendeu por dentro, branco, depois amarelo, depois ficou quente; a Mestra Orla, que segurava o outro lado, tirou as mãos com um grito. No ar em cima do pedestal apareceu um rosto, grande demais, três vezes maior que um rosto, com uma barba branca em ponta e olhos que mudavam de tamanho, um maior, outro menor, como num espelho de feira."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "...Aretuza..."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ysolde Vanrell. Holger, estamos vivas. A ilha está inteira. Gors Velen..."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "...não ouço... a coroa exige..."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O cristal estalou. Uma rachadura correu por dentro dele de cima a baixo, fina como fio de cabelo, e o rosto se partiu em dois pela rachadura, metade da barba de um lado, metade do outro, e sumiu. O pedestal de bronze ficou quente demais para tocar."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ysolde tirou as mãos. Tinha as palmas vermelhas. Ficou olhando a rachadura."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A coroa exige — repetiu ela, sem expressão."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "À meia-noite da terceira noite, o xenovox da sala chiou sozinho, um rumor comprido de concha encostada no ouvido, e no meio do rumor, por três segundos, uma voz de homem, macia, educada, quase alegre:"
+  },
+  {
+    "ordem": 68,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "...Rissberg... todos vivos... uma proposta, quando houver como... aos três..."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois veio uma batida, lenta e funda, e mais nada. Ysolde mandou anotar a hora exata. Senna anotou: meia-noite e um pouco. Quem sabe a hora exata, agora? E riscou a pergunta."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O portal de Kovir, Ysolde já tinha tentado na primeira noite, sozinha, antes de qualquer outra coisa. Ninguém viu. Contaram depois, na torre, que a vice-reitora tinha descido do quarto de manhã com luvas e que, à tarde, quando tirou as luvas para assinar uma ordem, as palmas estavam em carne viva."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No quarto dia, o velho Kasimir atravessou o estreito."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém mandou. Kasimir era o barqueiro da ilha fazia quarenta anos, levava as noviças, o peixe, as cartas e as mestras, e tinha uma filha casada em Gors Velen. Desamarrou o barco a remo de madrugada, sem pedir licença, e quando os guardas do cais viram, ele já estava no meio da água, remando contra a neblina amarela com as costas curvadas."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Voltou no fim da tarde. Metade de Aretuza estava no cais quando ele encostou, e Ysolde estava lá também, de capa, sem dizer uma palavra sobre a ordem que ele tinha quebrado."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kasimir amarrou o barco com as mãos tremendo. Tinha a cara cinza. Ficou sentado no banco do barco um tempo, com os remos atravessados nos joelhos."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Fala, homem"
+  },
+  {
+    "ordem": 76,
+    "personagem": "Kasimir",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eles falam"
+  },
+  {
+    "ordem": 77,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ysolde pegou o papel e o dobrou de novo sem olhar muito."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E a sua filha?"
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O velho abanou a cabeça."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não tem a rua dela. Não tem o templo. Não tem a praça. Eu perguntei de Gors Velen pra uns vinte, senhora. Um guarda, uns estivadores, uma mulher vendendo flor. Ninguém conhece. Um homem de uniforme azul perguntou se eu era \"da ilha nova\" e anotou meu nome num caderninho. Disse que a ilha apareceu pra eles na mesma noite. Que pra eles a ilha é que é a coisa nova."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que mais?"
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Tem muita gente. A senhora não imagina. Mais gente numa rua do que em Gors Velen inteira. E tem medo. Eles também têm medo. Tem soldado nas pontes. Tem igreja tocando sino de hora em hora. Disseram que uns graúdos sumiram na noite. Que os bispos deles sumiram, os grandes. Que de manhã não estavam mais."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna estava atrás das mestras. Deu um passo à frente."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A Rua dos Curtidores"
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Kasimir levantou a cabeça. Conhecia a cara dela, porque a levava de barca todo primeiro dia do mês."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não tem, menina. Onde era o poço tem um galpão de tijolo, com uma chaminé. Fábrica de alguma coisa. Faz um barulho de martelo que não para."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna disse obrigada. Depois subiu sozinha a escada do cais, os cento e doze degraus até o terraço de baixo, e foi até o canto da balaustrada onde a pedra ainda estava escura do fogo de Ysolde, e ficou ali olhando para o galpão que não sabia qual era, porque havia mil galpões de tijolo e mil chaminés."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não chorou. Achou que ia e não veio. Pegou o caderno e escreveu: Papai está do outro lado de tudo. Ou em lugar nenhum. Depois escreveu embaixo, pequeno: ou do outro lado da ilha, em algum lugar longe, num pedaço que foi parar onde não devia. Porque se uma cidade inteira tinha aparecido no lugar errado, Gors Velen podia também."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilse a achou ali quando já estava escuro e a levou pela mão para jantar."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No quinto dia, Ysolde Vanrell anunciou o portal."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Anunciou no refeitório, de pé na cabeceira da mesa das mestras, com a voz que usava nas aulas, sem pressa e sem dúvida. Aretuza estava cega e surda. Os megascópios rachavam, o xenovox dava três palavras por noite, a barca não chegava a Kaedwen nem a Temeria, e as cartas, se alguém quisesse mandá-las, atravessariam um mundo que ninguém sabia mais desenhar. Sem portais, a escola era uma ilha. Com portais, voltava a ser Aretuza."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Um portal curto"
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quem segura a âncora? — perguntou Corisande."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Três noviças."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O refeitório ficou quieto. Corisande pousou a colher."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Noviças."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Ysolde",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Três noviças seguram menos força que uma mestra. Eu quero menos. Quanto menos a âncora puxar, menos o portal cresce."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Corisande",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ysolde"
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "São feiticeiras, Mestra Vell. Ou vão ser, se esta escola continuar existindo."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Escolheu as três depois do jantar, pela lista das notas de teoria de portais: Marit Hollen, de Lyria, que tinha dezesseis anos e a melhor mão para runas da turma; Dorota Wenz, de Aedd Gynvael, quinze anos, calada; e Ilse Brannick, de Vengerberg, que dividia o quarto com Senna e ria alto e roía a ponta das tranças quando lia."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "À noite, no quarto, Ilse ensaiou o círculo na frente do espelho, as mãos abertas, dizendo as palavras da âncora em voz baixa e errando a terceira."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "É fácil"
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilse."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Hm?"
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna estava sentada na cama com a lista de três colunas no colo. Tinha dezoito linhas. As dezoito batiam."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não segura amanhã."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Que é isso, Senna?"
+  },
+  {
+    "ordem": 108,
+    "personagem": "Mostrou",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu sinto quanto vai sair. Antes. Não é medo. Eu tenho anotado."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilse leu as dezoito linhas com a testa franzida, depois devolveu o caderno."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então amanhã você me avisa, e eu solto."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "E se não der tempo?"
+  },
+  {
+    "ordem": 112,
+    "personagem": "Ilse",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Dá."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna não dormiu. De madrugada, pensou em ir à porta da vice-reitora com o caderno. Chegou a se vestir. Ficou parada com a mão no trinco, pensando em Corisande dizendo chama-se medo, pensando em Ysolde dizendo não existe Gors Velen do jeito que se lê um número, e voltou para a cama."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O Salão das Colunas era a sala mais bonita de Aretuza. Tinha doze colunas de mármore verde, um teto pintado com as constelações de inverno e, no fundo, três janelas altas de vidro colorido, com as figuras das primeiras feiticeiras da escola segurando livros e estrelas. No chão de mármore branco, no meio, a Mestra Corisande desenhou com giz de prata um triângulo e, no centro dele, pôs um anel de prata do tamanho de um prato."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Marit, Dorota e Ilse ficaram nas três pontas, de mãos dadas, de vestido de noviça, os pés descalços no giz, como mandava o livro. As aprendizes ficaram encostadas nas paredes, vinte delas, de caderno. Senna ficou na primeira fila, perto da segunda coluna da direita, a dez passos de Ilse."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Corisande ficou ao lado do triângulo, de braços cruzados."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quando o espelho piscar na janela"
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim, mestra."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilse procurou Senna por cima do ombro e fez uma careta, a língua de fora, pequena, para ninguém ver."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Na janela do meio, por um vidro claro entre duas estrelas, via-se o jardim da Loxia, duzentos passos acima, e lá uma figura cinza de pé ao lado de um espelho grande, num cavalete. O espelho piscou: uma, duas vezes, o sol batendo."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As três começaram as palavras."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna sentiu a primeira coisa no segundo verso. Foi pequeno, de início, nos dentes, igual à cura. Ela soltou o ar. Depois, no fim do primeiro verso da segunda vez, sentiu o outro lado: lá em cima, no jardim, Ysolde começando a puxar. E a pressão veio de lá, da direção da janela, e não parou de crescer."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Cresceu nos dentes. Desceu para o peito. Desceu para os joelhos, como na fonte, e passou da fonte, e continuou. Senna sentiu o salão inteiro ficar pesado, as colunas, o teto pintado, o ar entre ela e Ilse, tudo puxado para baixo e para dentro, para o anel de prata, e por baixo daquilo, mais fundo, a coisa que ela sempre sentia nas pedras do mar quando era menina: a água recuando, recuando, recuando muito mais do que devia, deixando à mostra pedras que ela nunca tinha visto."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não é dez. Não é vinte. É mais do que a sala."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Ilse",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Solta! — gritou ela."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As aprendizes da parede olharam para ela. Corisande virou a cabeça. Ilse, no triângulo, ouviu, porque o ombro dela se mexeu, e Senna viu os dedos dela começarem a abrir, e viu Marit, do outro lado, apertar a mão de Ilse mais forte, porque o livro dizia todas juntas e Marit tinha a melhor nota da turma."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna se jogou no chão."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Bateu o queixo no mármore. Ainda viu, de lado, deitada, o oval abrir em cima do anel."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Abriu grande demais. Devia ter a altura de uma porta e teve a altura do salão, de borda a borda, o alto encostando nas constelações do teto. Dentro dele não havia escuro: havia uma luz branca de leite, densa, que não iluminava nada, e as bordas soltavam faíscas violeta que estalavam no mármore. O oval tremeu. Torceu. Esticou para o lado da janela, depois para o lado do estreito, para o leste, como um pano puxado pelo vento, e Senna sentiu, deitada, que a coisa queria ir para outro lugar, muito longe, e não para a escada da Loxia, duzentos passos acima."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois a força voltou."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Voltou toda, pelo mesmo caminho por onde tinha vindo, e voltou para quem segurava a âncora. Fez um som que Senna ouviria pelo resto da vida, o som de um sino grande partido ao meio com uma pancada só. O ar do salão saiu de uma vez para fora. As três janelas de vidro colorido explodiram para o jardim. As feiticeiras de vidro, com seus livros e suas estrelas, viraram mil pedaços de cor que voaram para fora e caíram na grama lá embaixo. As aprendizes que estavam de pé foram jogadas contra as paredes. Uma coluna, a quarta da esquerda, rachou de cima a baixo."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O oval fechou sozinho."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ficou um silêncio de ouvido entupido. Senna levantou a cabeça. Tinha sangue na boca, do queixo, e não sentia o queixo."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No meio do salão, onde estava o triângulo, o mármore branco tinha virado vidro preto. Um círculo de vidro preto, liso, do tamanho de uma sala, com linhas prateadas torcidas por dentro, finas como fio, e todas as linhas apontavam para o leste, para a janela quebrada, para o estreito, para a cidade de fumaça do outro lado da água."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Marit estava no chão, perto do anel, com as mãos queimadas até o pulso e os olhos abertos e brancos. Dorota estava a cinco passos dela, de costas, parada."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ilse estava junto da segunda coluna da direita, sentada, encostada no mármore verde, a cabeça caída para o lado, onde tinha sido jogada. A dez passos de onde estava Senna."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ysolde Vanrell chegou correndo."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém em Aretuza tinha visto a vice-reitora correr. Ela entrou pela porta do jardim com a saia na mão, o cabelo solto de um lado, sangue escorrendo das duas narinas até o queixo e uma queimadura vermelha subindo pelo antebraço esquerdo, onde a manga do vestido tinha sumido. Parou na porta. Olhou o vidro preto, as janelas, a coluna rachada, as aprendizes gemendo nas paredes, Corisande de joelhos ao lado de Dorota, com o rosto cortado de vidro."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Olhou as três."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Foi primeiro até Marit e fechou os olhos dela com dois dedos. Depois até Dorota. Depois até Ilse, junto da coluna, e ajoelhou ali, e ficou ajoelhada mais tempo, com a mão no ombro da menina, sem dizer nada."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Corisande levantou."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você"
+  },
+  {
+    "ordem": 143,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Disse só isso. Tinha a voz rouca e o rosto cheio de cortes finos, e não chorava. Ysolde não se virou."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Mestra Vell, leve as feridas para a Mestra Helvi. Sem feitiço de cura. Agulha, linha e vinagre."
+  },
+  {
+    "ordem": 145,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Ysolde",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu ouvi."
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém respondeu. Duas aprendizes choravam."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Então Ysolde olhou para Senna, que estava de pé, a única da primeira fila sem um corte de vidro, com o queixo sangrando e o caderno ainda na mão, porque não tinha soltado o caderno nem quando caiu."
+  },
+  {
+    "ordem": 149,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Você se jogou no chão antes — disse a vice-reitora."
+  },
+  {
+    "ordem": 150,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Sim, senhora."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Por quê?"
+  },
+  {
+    "ordem": 152,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna viu Ilse, sentada contra a coluna. Viu Corisande, que a encarava agora, com uma cara que Senna não conhecia."
+  },
+  {
+    "ordem": 153,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Porque eu senti quanto ia sair"
+  },
+  {
+    "ordem": 154,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Corisande fechou os olhos."
+  },
+  {
+    "ordem": 155,
+    "personagem": "Ysolde",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Venha comigo, Ambray"
+  },
+  {
+    "ordem": 156,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O gabinete da vice-reitora ficava no alto da Loxia, com uma janela para o estreito. Ysolde não sentou. Lavou o rosto numa bacia, a água ficou rosa, enxugou com uma toalha branca e enrolou a mesma toalha no antebraço queimado, apertando com os dentes, sem um som. Depois estendeu a mão."
+  },
+  {
+    "ordem": 157,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "O caderno."
+  },
+  {
+    "ordem": 158,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna entregou. Ysolde leu as três colunas de pé, junto da janela, página por página, as dezoito linhas, e depois a linha dezenove, que Senna tinha escrito na escada, no caminho, com a letra pior da vida: portal do Salão: mais do que a sala."
+  },
+  {
+    "ordem": 159,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desde quando?"
+  },
+  {
+    "ordem": 160,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Desde a manhã do terraço. Desde a sua chama."
+  },
+  {
+    "ordem": 161,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Antes da conjunção, você sentia isso?"
+  },
+  {
+    "ordem": 162,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sei, senhora. Antes saía sempre do tamanho certo. Não tinha o que sentir."
+  },
+  {
+    "ordem": 163,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ysolde fechou o caderno e ficou com ele na mão."
+  },
+  {
+    "ordem": 164,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Quanto saiu, hoje?"
+  },
+  {
+    "ordem": 165,
+    "personagem": "Senna",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Muito."
+  },
+  {
+    "ordem": 166,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A vice-reitora ficou de frente para a cidade por um tempo. A queimadura do braço tinha manchado a toalha."
+  },
+  {
+    "ordem": 167,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Ninguém mais sabe disso"
+  },
+  {
+    "ordem": 168,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A senhora proibiu a magia."
+  },
+  {
+    "ordem": 169,
+    "personagem": "Ysolde",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Proibi que conjurem. Não proibi que pensem."
+  },
+  {
+    "ordem": 170,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna pegou o caderno. Na porta, parou."
+  },
+  {
+    "ordem": 171,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A senhora vai abrir outro portal?"
+  },
+  {
+    "ordem": 172,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Não sem você na sala."
+  },
+  {
+    "ordem": 173,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna saiu. Ysolde Vanrell ficou sozinha no gabinete, de pé junto da janela, e olhou as próprias mãos, as palmas ainda em carne viva da primeira noite, por muito tempo."
+  },
+  {
+    "ordem": 174,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Enterraram as três no sétimo dia, no cemitério pequeno da encosta, entre os ciprestes, de frente para o mar. Aretuza não tinha sacerdotisa. Corisande disse os nomes, as cidades e as idades, e mais nada. Ysolde ficou do outro lado das covas, com o braço enfaixado por baixo da capa, e Corisande não olhou para ela nenhuma vez."
+  },
+  {
+    "ordem": 175,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "As mães das três estavam longe, em Lyria, em Aedd Gynvael, em Vengerberg, e ninguém sabia se Lyria e Aedd Gynvael e Vengerberg ainda estavam onde deviam. Ysolde escreveu três cartas à noite, mesmo assim, e as guardou na gaveta."
+  },
+  {
+    "ordem": 176,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna jogou terra na cova de Ilse e, junto da terra, a ponta de uma trança, que tinha cortado do próprio cabelo de manhã, porque não tinha nada da amiga para jogar e não queria jogar só terra."
+  },
+  {
+    "ordem": 177,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "No fim da tarde, a vice-reitora mandou chamá-la ao cais."
+  },
+  {
+    "ordem": 178,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Estava lá com dois guardas da ilha, mercenários de Kovir que Aretuza contratara depois de Radovid, e com Kasimir sentado no barco, a remendar uma rede. O sol baixava atrás de Thanedd e jogava a sombra da ilha na água. Do outro lado, a cidade acendia as luzes uma a uma, em fila, como na primeira noite."
+  },
+  {
+    "ordem": 179,
+    "personagem": "Ysolde",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Escute"
+  },
+  {
+    "ordem": 180,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna escutou. Por cima do barulho do mar, vinha um ronco ritmado, miúdo, de bicho respirando rápido, e um apito curto."
+  },
+  {
+    "ordem": 181,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Uma lancha saiu da sombra da margem do lado de lá e atravessou o estreito na direção do cais de Aretuza. Era pequena, de casco escuro, sem vela, com uma chaminé fina no meio que soltava fumaça branca e um pouco de faísca. Andava contra o vento e a corrente sem ninguém remar. Na proa havia uma lanterna acesa, e a luz da lanterna era branca e firme, sem chama que se visse."
+  },
+  {
+    "ordem": 182,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Os guardas puseram a mão na espada. Kasimir largou a rede."
+  },
+  {
+    "ordem": 183,
+    "personagem": "Ysolde",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna"
+  },
+  {
+    "ordem": 184,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Senna fechou os olhos. Nos dentes, nada. No peito, nada. Ninguém do lado de lá estava puxando força nenhuma. Mas havia, bem no fundo, uma coisa que ela não sabia anotar, miúda, parecida com a sensação de alguém lendo por cima do ombro."
+  },
+  {
+    "ordem": 185,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Nada para pesar"
+  },
+  {
+    "ordem": 186,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "A lancha diminuiu o ronco, encostou no cais com um baque de madeira e ficou balançando. Um rapaz de boné e camisa listrada jogou um cabo para o cais, e como ninguém pegou, pulou e amarrou ele mesmo, rápido, olhando para os guardas."
+  },
+  {
+    "ordem": 187,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Atrás dele saiu um homem de uns cinquenta e cinco anos."
+  },
+  {
+    "ordem": 188,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Usava um casaco preto comprido, luvas cinza, um cachecol de lã e um chapéu alto, de copa reta, de seda preta, que brilhava com a última luz. Trazia uma bengala de castão de prata e uma pasta de couro debaixo do braço. Tinha costeletas grisalhas, óculos redondos de aro de ouro e o rosto de um homem que tinha passado a vida lendo e não se arrependia. Subiu no cais com cuidado, apoiado na bengala, e ficou parado olhando tudo, os guardas, o barco de Kasimir, os cento e doze degraus subindo a encosta, as torres de Aretuza contra o céu vermelho, a Loxia, o Garstang no alto, com a ala que nunca reconstruíram. Olhava com uma fome tranquila, como quem chega a uma biblioteca que acharam que tinha pegado fogo."
+  },
+  {
+    "ordem": 189,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Depois tirou o chapéu e fez uma pequena reverência na direção de Ysolde, a única pessoa no cais que não estava com a mão numa arma."
+  },
+  {
+    "ordem": 190,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Boa tarde, senhora"
+  },
+  {
+    "ordem": 191,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Pôs o chapéu de volta e sorriu."
+  },
+  {
+    "ordem": 192,
+    "personagem": "Narrador",
+    "voz": "049413e41c334753984c294d694afb5c",
+    "texto": "Eu gostaria muito de falar com os magos."
+  }
+]
