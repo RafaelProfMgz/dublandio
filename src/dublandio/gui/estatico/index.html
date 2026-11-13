@@ -17,6 +17,8 @@
     <symbol id="i-pause" viewBox="0 0 24 24"><path d="M7 5h4v14H7zM14 5h4v14h-4z" fill="currentColor" stroke="none"/></symbol>
     <symbol id="i-anterior" viewBox="0 0 24 24"><path d="M5 5h3v14H5zM19 5 9 12l10 7z" fill="currentColor" stroke="none"/></symbol>
     <symbol id="i-proximo" viewBox="0 0 24 24"><path d="M16 5h3v14h-3zM5 5l10 7-10 7z" fill="currentColor" stroke="none"/></symbol>
+    <symbol id="i-loop" viewBox="0 0 24 24"><path d="m16 2 4 4-4 4M20 6H7a4 4 0 0 0-4 4m5 12-4-4 4-4M4 18h13a4 4 0 0 0 4-4"/><path d="M12 10v4"/></symbol>
+    <symbol id="i-fila-auto" viewBox="0 0 24 24"><path d="M3 5h18M3 10h10M3 15h6"/><path d="m15 13 7 4-7 4z" fill="currentColor" stroke="none"/></symbol>
     <symbol id="i-volume" viewBox="0 0 24 24"><path d="M11 4 6 8H3v8h3l5 4zM15 8a6 6 0 0 1 0 8M18 5a10 10 0 0 1 0 14"/></symbol>
     <symbol id="i-mudo" viewBox="0 0 24 24"><path d="M11 4 6 8H3v8h3l5 4zM16 9l6 6M22 9l-6 6"/></symbol>
     <symbol id="i-livro" viewBox="0 0 24 24"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/></symbol>
@@ -100,6 +102,8 @@
         <button data-player="anterior" class="reprodutor-botao" type="button" aria-label="Áudio anterior" disabled><svg class="icone" aria-hidden="true"><use href="#i-anterior"/></svg></button>
         <button data-player="play" class="reprodutor-botao reprodutor-play" type="button" aria-label="Reproduzir áudio"><svg class="icone" aria-hidden="true"><use data-player="icone" href="#i-play"/></svg></button>
         <button data-player="proximo" class="reprodutor-botao" type="button" aria-label="Próximo áudio" disabled><svg class="icone" aria-hidden="true"><use href="#i-proximo"/></svg></button>
+        <button data-player="loop" class="reprodutor-botao reprodutor-opcao" type="button" aria-label="Repetir áudio atual em loop" aria-pressed="false" title="Ativar loop do áudio atual"><svg class="icone" aria-hidden="true"><use href="#i-loop"/></svg></button>
+        <button data-player="automatico" class="reprodutor-botao reprodutor-opcao" type="button" aria-label="Próximo áudio automático" aria-pressed="true" title="Desativar próximo áudio automático"><svg class="icone" aria-hidden="true"><use href="#i-fila-auto"/></svg></button>
       </div>
       <div class="reprodutor-tempo">
         <span data-player="decorrido">0:00</span>

@@ -584,6 +584,8 @@ kbd { font: 12px var(--codigo); border: 1px solid var(--linha-forte); border-bot
 .reprodutor-botao { display: grid; place-items: center; width: 32px; height: 32px; padding: 0; border: 0; border-radius: 50%; color: #b3b3b3; background: transparent; cursor: pointer; }
 .reprodutor-botao .icone { width: 20px; height: 20px; }
 .reprodutor-botao:hover:not(:disabled) { color: #fff; }
+.reprodutor-opcao[aria-pressed="true"] { color: #1ed760; background: #1ed7601a; }
+.reprodutor-opcao[aria-pressed="true"]:hover { color: #62ee93; }
 .reprodutor-botao:disabled { opacity: .28; cursor: default; }
 .reprodutor-play { width: 36px; height: 36px; color: #181818; background: #fff; }
 .reprodutor-play:hover:not(:disabled) { color: #181818; transform: scale(1.05); }

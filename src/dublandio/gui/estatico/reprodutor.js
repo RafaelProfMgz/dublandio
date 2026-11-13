@@ -9,10 +9,22 @@ class ReprodutorAudio {
     this.indice = -1;
     this.versao = 0;
     this.carregando = false;
+    this.automatico = true;
+    audio.loop = false;
     this.el = Object.fromEntries([...raiz.querySelectorAll('[data-player]')].map((el) => [el.dataset.player, el]));
     this.el.play.addEventListener('click', () => this.alternarAtual());
     this.el.anterior.addEventListener('click', () => this.mover(-1));
     this.el.proximo.addEventListener('click', () => this.mover(1));
+    this.el.loop.addEventListener('click', () => {
+      audio.loop = !audio.loop;
+      try { localStorage.setItem('dublandio-loop', String(audio.loop)); } catch { /* Sem armazenamento. */ }
+      this.atualizar();
+    });
+    this.el.automatico.addEventListener('click', () => {
+      this.automatico = !this.automatico;
+      try { localStorage.setItem('dublandio-automatico', String(this.automatico)); } catch { /* Sem armazenamento. */ }
+      this.atualizar();
+    });
     this.el.posicao.addEventListener('input', () => {
       const duracao = this.duracao();
       if (duracao) audio.currentTime = Math.max(0, Math.min(duracao, Number(this.el.posicao.value) || 0));
@@ -30,6 +42,8 @@ class ReprodutorAudio {
     try {
       const salvo = localStorage.getItem('dublandio-volume');
       if (salvo !== null && Number.isFinite(Number(salvo))) audio.volume = Math.max(0, Math.min(1, Number(salvo)));
+      audio.loop = localStorage.getItem('dublandio-loop') === 'true';
+      this.automatico = localStorage.getItem('dublandio-automatico') !== 'false';
     } catch { /* O player funciona sem armazenamento local. */ }
     audio.addEventListener('volumechange', () => {
       try { localStorage.setItem('dublandio-volume', String(audio.volume)); } catch { /* Sem armazenamento. */ }
@@ -48,7 +62,8 @@ class ReprodutorAudio {
       this.aoFalhar('Não foi possível carregar este áudio. Tente reproduzir novamente.');
     });
     audio.addEventListener('ended', () => {
-      if (this.indice + 1 < this.fila.length) this.mover(1);
+      if (audio.loop) { audio.currentTime = 0; this.reproduzir(); }
+      else if (this.automatico && this.indice + 1 < this.fila.length) this.mover(1);
       else this.atualizar();
     });
     this.atualizar();
@@ -143,6 +158,10 @@ class ReprodutorAudio {
     this.el.proximo.disabled = this.indice < 0 || this.indice + 1 >= this.fila.length;
     this.el.anterior.title = this.indice > 0 ? `Anterior: ${this.fila[this.indice - 1].titulo}` : 'Não há áudio anterior';
     this.el.proximo.title = this.indice + 1 < this.fila.length ? `Próximo: ${this.fila[this.indice + 1].titulo}` : 'Não há próximo áudio';
+    this.el.loop.setAttribute('aria-pressed', String(this.audio.loop));
+    this.el.loop.title = this.audio.loop ? 'Desativar loop do áudio atual' : 'Ativar loop do áudio atual';
+    this.el.automatico.setAttribute('aria-pressed', String(this.automatico));
+    this.el.automatico.title = this.automatico ? 'Desativar próximo áudio automático' : 'Ativar próximo áudio automático';
     const duracao = this.duracao();
     const posicao = Math.max(0, Math.min(duracao, this.audio.currentTime || 0));
     this.el.posicao.disabled = !duracao;
