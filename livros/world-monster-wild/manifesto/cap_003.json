@@ -331,7 +331,7 @@
   },
   {
     "ordem": 56,
-    "personagem": "Me",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "E o pagamento?"
   },
@@ -343,7 +343,7 @@
   },
   {
     "ordem": 58,
-    "personagem": "Me",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Para os perdidos. O pagamento da família."
   },
@@ -650,19 +650,19 @@
   {
     "ordem": 109,
     "personagem": "Tami",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "75300849b571414c8d62693289cb6509",
     "texto": "Kest! Você também?"
   },
   {
     "ordem": 110,
     "personagem": "Tami",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "75300849b571414c8d62693289cb6509",
     "texto": "Eu ainda não assinei."
   },
   {
     "ordem": 111,
     "personagem": "Tami",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "75300849b571414c8d62693289cb6509",
     "texto": "Eu vou assinar."
   },
   {
@@ -674,7 +674,7 @@
   {
     "ordem": 113,
     "personagem": "Tami",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "75300849b571414c8d62693289cb6509",
     "texto": "É o triplo, né? Adiantado?"
   },
   {
@@ -686,7 +686,7 @@
   {
     "ordem": 115,
     "personagem": "Tami",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "75300849b571414c8d62693289cb6509",
     "texto": "Um terço do triplo é mais que o barco do meu pai rende em dois anos."
   },
   {
@@ -698,7 +698,7 @@
   {
     "ordem": 117,
     "personagem": "Tami",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "75300849b571414c8d62693289cb6509",
     "texto": "A gente deve o barco. Se não pagar até o inverno, eles tomam. Meu pai tem seis filhos. Eu sou a mais velha."
   },
   {
@@ -752,13 +752,13 @@
   {
     "ordem": 126,
     "personagem": "Tami",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "75300849b571414c8d62693289cb6509",
     "texto": "Nunca ouvi falar."
   },
   {
     "ordem": 127,
     "personagem": "Tami",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "75300849b571414c8d62693289cb6509",
     "texto": "Nem eu"
   },
   {
@@ -788,7 +788,7 @@
   {
     "ordem": 132,
     "personagem": "Tami",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "75300849b571414c8d62693289cb6509",
     "texto": "Que bom para você"
   },
   {
@@ -800,7 +800,7 @@
   {
     "ordem": 134,
     "personagem": "Tami",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "75300849b571414c8d62693289cb6509",
     "texto": "É, é bom mesmo."
   },
   {
@@ -812,7 +812,7 @@
   {
     "ordem": 136,
     "personagem": "Tami",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "75300849b571414c8d62693289cb6509",
     "texto": "Eu ouvi falar do cartaz pequeno, Kest. Meu pai ouviu também. Sabe o que ele disse?"
   },
   {
@@ -854,13 +854,13 @@
   {
     "ordem": 143,
     "personagem": "Tami",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "75300849b571414c8d62693289cb6509",
     "texto": "Que coisa horrível de se dizer"
   },
   {
     "ordem": 144,
     "personagem": "Tami",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "75300849b571414c8d62693289cb6509",
     "texto": "É"
   },
   {
@@ -872,7 +872,7 @@
   {
     "ordem": 146,
     "personagem": "Tami",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "75300849b571414c8d62693289cb6509",
     "texto": "O pior é que ele não está errado."
   },
   {

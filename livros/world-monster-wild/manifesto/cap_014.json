@@ -80,13 +80,13 @@
   {
     "ordem": 14,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Os outros ficam"
   },
   {
     "ordem": 15,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Ninguém passa da curva. Marn, ninguém."
   },
   {
@@ -146,7 +146,7 @@
   {
     "ordem": 25,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Ninguém se mexe"
   },
   {
@@ -170,13 +170,13 @@
   {
     "ordem": 29,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Kest"
   },
   {
     "ordem": 30,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "O chão."
   },
   {
@@ -229,7 +229,7 @@
   },
   {
     "ordem": 39,
-    "personagem": "Apontei",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Varreram"
   },
@@ -241,7 +241,7 @@
   },
   {
     "ordem": 41,
-    "personagem": "Apontei",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Com um galho, ou um feixe de palha. Do fogo até lá."
   },
@@ -253,7 +253,7 @@
   },
   {
     "ordem": 43,
-    "personagem": "Apontei",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Voltaram de costas, varrendo."
   },
@@ -308,13 +308,13 @@
   {
     "ordem": 52,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Estão queimando a carroça deles"
   },
   {
     "ordem": 53,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Aos poucos."
   },
   {
@@ -362,7 +362,7 @@
   {
     "ordem": 61,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "O que é isso?"
   },
   {
@@ -374,7 +374,7 @@
   {
     "ordem": 63,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Não sei"
   },
   {
@@ -428,7 +428,7 @@
   {
     "ordem": 72,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Estão todas assim?"
   },
   {
@@ -476,7 +476,7 @@
   {
     "ordem": 80,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Então saiu como?"
   },
   {
@@ -614,7 +614,7 @@
   {
     "ordem": 103,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Quarenta camas"
   },
   {
@@ -626,7 +626,7 @@
   {
     "ordem": 105,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Quarenta pares de botas. Quarenta e um pratos."
   },
   {
@@ -668,13 +668,13 @@
   {
     "ordem": 112,
     "personagem": "Tami",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "75300849b571414c8d62693289cb6509",
     "texto": "Eles morreram?"
   },
   {
     "ordem": 113,
     "personagem": "Dita",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
     "texto": "Não sei"
   },
   {
@@ -686,13 +686,13 @@
   {
     "ordem": 115,
     "personagem": "Dita",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
     "texto": "Não tem ninguém. Nem corpo. Nem osso. As botas ficaram."
   },
   {
     "ordem": 116,
     "personagem": "Dita",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
     "texto": "As botas?"
   },
   {
@@ -728,7 +728,7 @@
   {
     "ordem": 122,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Peixe?"
   },
   {
@@ -794,7 +794,7 @@
   {
     "ordem": 133,
     "personagem": "Nessa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "e808da2329754929803c8bd98dc36857",
     "texto": "Você me mostra depois?"
   },
   {
@@ -806,13 +806,13 @@
   {
     "ordem": 135,
     "personagem": "Nessa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "e808da2329754929803c8bd98dc36857",
     "texto": "O desenho."
   },
   {
     "ordem": 136,
     "personagem": "Nessa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "e808da2329754929803c8bd98dc36857",
     "texto": "Mostro."
   },
   {
@@ -824,19 +824,19 @@
   {
     "ordem": 138,
     "personagem": "Nessa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "e808da2329754929803c8bd98dc36857",
     "texto": "Ilian. Na trigésima segunda tinha uma mulher procurando o marido da vigésima oitava. A Comandante falou, lá no Posto."
   },
   {
     "ordem": 139,
     "personagem": "Nessa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "e808da2329754929803c8bd98dc36857",
     "texto": "Eu lembro."
   },
   {
     "ordem": 140,
     "personagem": "Nessa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "e808da2329754929803c8bd98dc36857",
     "texto": "Ela passou por aqui."
   },
   {
@@ -848,7 +848,7 @@
   {
     "ordem": 142,
     "personagem": "Nessa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "e808da2329754929803c8bd98dc36857",
     "texto": "Há dois anos. Ela viu isso."
   },
   {
@@ -908,7 +908,7 @@
   {
     "ordem": 152,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Rhel. O óleo das lanternas. Todo o que der para gastar."
   },
   {
@@ -920,13 +920,13 @@
   {
     "ordem": 154,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Comandante?"
   },
   {
     "ordem": 155,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Queimem."
   },
   {
@@ -938,7 +938,7 @@
   {
     "ordem": 157,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Tudo."
   },
   {
@@ -950,7 +950,7 @@
   {
     "ordem": 159,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "As tendas. A mesa. As camas. As armas que pegarem fogo. O mastro. Tudo."
   },
   {
@@ -992,7 +992,7 @@
   {
     "ordem": 166,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Terceira regra, doutor. No vale, ninguém discute ordem."
   },
   {
@@ -1004,7 +1004,7 @@
   {
     "ordem": 168,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "A Comissão pode perguntar para mim."
   },
   {
@@ -1064,7 +1064,7 @@
   {
     "ordem": 178,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Veyra."
   },
   {
@@ -1076,7 +1076,7 @@
   {
     "ordem": 180,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Veyra. Por quê?"
   },
   {

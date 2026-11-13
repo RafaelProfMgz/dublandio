@@ -65,6 +65,23 @@ uma amostra de cada e mostra quais personagens já usam cada voz. Salvar um rote
 `separar`. A síntese sempre pede confirmação mostrando quantas falas novas vão
 gastar crédito; o `preparar` da interface nunca sobrescreve roteiros.
 
+Na aba **Vozes** ou em **Vozes do capítulo**, clique na voz de um personagem para
+abrir a busca com filtros de gênero e sotaque e ouvir amostras. A lista mostra idade,
+sotaque e descrição quando disponíveis; dados ausentes ficam identificados. Sotaques
+reconhecidos explicitamente no nome da voz são marcados como “no nome”; idioma não
+é usado para deduzir sotaque. **Atualizar catálogo** busca os dados mais recentes.
+Selecionar salva a voz do personagem para todos os capítulos do livro e atualiza os
+manifestos, preservando os comentários da configuração. A seleção não gera áudio;
+use **Sintetizar** para produzir as falas com a nova voz.
+
+Ao ouvir um capítulo ou uma amostra de voz, uma barra fixa no rodapé mostra o nome
+do áudio, tempo decorrido e duração, avanço pela faixa, anterior/próximo, play/pausa
+e volume com opção de silenciar. Pausar e retomar mantém a posição. A reprodução
+continua ao navegar pelo aplicativo. A fila de capítulos inclui só os áudios prontos
+do livro em que a reprodução começou; amostras seguem a lista filtrada no momento
+da escolha. Ao terminar uma faixa, o player avança se houver outra na fila.
+O volume é lembrado neste navegador.
+
 A barra lateral mostra se cada chave está funcionando, e o livro avisa em destaque quando
 não dá para sintetizar: chave faltando no `.env`, chave recusada, créditos acabados ou a cota
 gratuita do dia esgotada (essa só aparece depois que uma síntese esbarra nela). Conferir as

@@ -1,5 +1,6 @@
 """Configuração: variáveis do .env e o livro (livros/<slug>/livro.yaml)."""
 
+import json
 import os
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -133,6 +134,36 @@ def ler_livro(texto: str, slug: str, raiz: Path = Path(".")) -> Livro:
         avatares=dict(dados.get("avatares") or {}),
         video=dict(dados.get("video") or {}),
     )
+
+
+def definir_voz(texto: str, provedor: str, personagem: str, voz: str) -> str:
+    """Altera só a entrada escolhida, preservando comentários e demais provedores."""
+    node = yaml.compose(texto)
+    caminho = ["vozes", provedor, personagem]
+    for i, chave in enumerate(caminho):
+        if isinstance(node, yaml.MappingNode):
+            encontrado = next((v for k, v in node.value if k.value == chave), None)
+            if encontrado is not None:
+                node = encontrado
+                continue
+        valor = voz
+        for parte in reversed(caminho[i:]):
+            valor = {parte: valor}
+        if isinstance(node, yaml.MappingNode):
+            if node.flow_style:
+                trecho = json.dumps(valor, ensure_ascii=False)[1:-1]
+                inicio = node.start_mark.index + 1
+                return texto[:inicio] + trecho + (", " if node.value else "") + texto[inicio:]
+            inicio = node.start_mark.index
+            indent = " " * node.start_mark.column
+            trecho = yaml.safe_dump(valor, allow_unicode=True, sort_keys=False).rstrip()
+            trecho = trecho.replace("\n", "\n" + indent) + "\n" + indent
+            return texto[:inicio] + trecho + texto[inicio:]
+        # Um mapa opcional pode estar vazio (vozes: null).
+        if node is None:
+            return texto + "\n" + yaml.safe_dump(valor, allow_unicode=True, sort_keys=False)
+        return texto[:node.start_mark.index] + json.dumps(valor, ensure_ascii=False) + texto[node.end_mark.index:]
+    return texto[:node.start_mark.index] + json.dumps(voz, ensure_ascii=False) + texto[node.end_mark.index:]
 
 
 def salvar_env(path: Path, chave: str, valor: str) -> None:

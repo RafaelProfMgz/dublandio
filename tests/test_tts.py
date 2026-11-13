@@ -14,6 +14,14 @@ def _resp(status=200, content=b"", headers=None, json_data=None):
     return r
 
 
+def test_heygen_preserva_metadados_opcionais_de_voz():
+    dados = {"data": {"voices": [{"voice_id": "v", "name": "Ana", "age": "young adult",
+                                  "accent": "Brazilian", "description": "Calma e acolhedora"}]}}
+    with patch("dublandio.tts.heygen.requests.get", return_value=_resp(json_data=dados)):
+        voz = HeyGen("k").listar_vozes()[0]
+    assert (voz.idade, voz.sotaque, voz.descricao) == ("young adult", "Brazilian", "Calma e acolhedora")
+
+
 def test_openrouter_le_rate_do_content_type():
     resp = _resp(content=b"\x00\x00", headers={"Content-Type": "audio/pcm; rate=24000; channels=1"})
     with patch("dublandio.tts.openrouter.requests.post", return_value=resp) as post:

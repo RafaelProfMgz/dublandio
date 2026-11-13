@@ -44,7 +44,7 @@
   {
     "ordem": 8,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Eu sei"
   },
   {
@@ -86,7 +86,7 @@
   {
     "ordem": 15,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Comandante…"
   },
   {
@@ -98,7 +98,7 @@
   {
     "ordem": 17,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Se você me agradecer, Kest, eu mudo de ideia."
   },
   {
@@ -110,7 +110,7 @@
   {
     "ordem": 19,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Irena Vadell."
   },
   {
@@ -122,7 +122,7 @@
   {
     "ordem": 21,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "A Duna me contou."
   },
   {
@@ -134,7 +134,7 @@
   {
     "ordem": 23,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Fez bem. Isso você fez bem."
   },
   {
@@ -224,7 +224,7 @@
   {
     "ordem": 38,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Território"
   },
   {
@@ -236,7 +236,7 @@
   {
     "ordem": 40,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Mas velho. A casca já fechou por cima."
   },
   {
@@ -265,7 +265,7 @@
   },
   {
     "ordem": 45,
-    "personagem": "Levantei.",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Cinco"
   },
@@ -277,7 +277,7 @@
   },
   {
     "ordem": 47,
-    "personagem": "Levantei.",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Talvez seis. Passaram aqui hoje de manhã, indo para o riacho. Não voltaram ainda. Estavam sem pressa. Um deles manca da pata de trás esquerda; ele pisa mais leve daquele lado."
   },
@@ -289,7 +289,7 @@
   },
   {
     "ordem": 49,
-    "personagem": "Levantei.",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Não tem grande. Nenhum."
   },
@@ -320,7 +320,7 @@
   {
     "ordem": 54,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Seis"
   },
   {
@@ -362,13 +362,13 @@
   {
     "ordem": 61,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Ela atira"
   },
   {
     "ordem": 62,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Eles correm. Metade vem para cá, porque é o caminho mais fácil para a floresta. Você fica aqui."
   },
   {
@@ -380,19 +380,19 @@
   {
     "ordem": 64,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "É a porta. Quem passar pela porta, você corta."
   },
   {
     "ordem": 65,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "E você?"
   },
   {
     "ordem": 66,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Eu vou ficar olhando você cortar."
   },
   {
@@ -404,7 +404,7 @@
   {
     "ordem": 68,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "É treino, garoto. Não é festa."
   },
   {
@@ -470,13 +470,13 @@
   {
     "ordem": 79,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Brann!"
   },
   {
     "ordem": 80,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Estou vendo"
   },
   {
@@ -488,19 +488,19 @@
   {
     "ordem": 82,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Está ótimo. Continua."
   },
   {
     "ordem": 83,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Ele está na minha perna!"
   },
   {
     "ordem": 84,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Está na sua bota. A bota é boa. Paguei por ela em Varnhal."
   },
   {
@@ -512,7 +512,7 @@
   {
     "ordem": 86,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "A espada, garoto. A ponta. Deixa ela cair."
   },
   {
@@ -524,13 +524,13 @@
   {
     "ordem": 88,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Você briga com ela"
   },
   {
     "ordem": 89,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "O tempo todo. Levanta, e ela quer cair, e você não deixa. Então deixa. Levanta ela lá em cima e deixa a ponta fazer o que ela quer. Ela quer descer. Deixa ela descer em cima dele."
   },
   {
@@ -572,13 +572,13 @@
   {
     "ordem": 96,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Isso"
   },
   {
     "ordem": 97,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Isso é a espada do Bertram."
   },
   {
@@ -614,7 +614,7 @@
   {
     "ordem": 103,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Vento de cinza"
   },
   {
@@ -650,13 +650,13 @@
   {
     "ordem": 109,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Você não ia me ajudar."
   },
   {
     "ordem": 110,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Ia. Se ele tivesse atravessado a bota, eu ia."
   },
   {
@@ -668,19 +668,19 @@
   {
     "ordem": 112,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Mas ele não atravessou. E agora você sabe uma coisa que não sabia de manhã."
   },
   {
     "ordem": 113,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Que a bota é boa."
   },
   {
     "ordem": 114,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Que a espada do Bertram não é a do Tadeu."
   },
   {
@@ -692,19 +692,19 @@
   {
     "ordem": 116,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Espada de morto tem o jeito do morto, garoto. Você não ensina o seu jeito para ela. Primeiro aprende o dela. O Hadrek disse que o Bertram era ruim de espada?"
   },
   {
     "ordem": 117,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Disse. E bom de sobreviver."
   },
   {
     "ordem": 118,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Então ele não cortava. Ele deixava cair."
   },
   {
@@ -716,7 +716,7 @@
   {
     "ordem": 120,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Quem é ruim de espada e sobrevive dois Clamores não briga com a arma. Deixa a arma trabalhar e cuida de não morrer. É o que você vai aprender com ela. Não é pouco."
   },
   {
@@ -734,7 +734,7 @@
   {
     "ordem": 123,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Não vai apostar?"
   },
   {
@@ -746,7 +746,7 @@
   {
     "ordem": 125,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Que eu morro na próxima?"
   },
   {
@@ -782,25 +782,25 @@
   {
     "ordem": 131,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "O de trança"
   },
   {
     "ordem": 132,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Da muralha. O do arco torcido. Qual é o nome dele?"
   },
   {
     "ordem": 133,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Kellan."
   },
   {
     "ordem": 134,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Hum."
   },
   {
@@ -860,7 +860,7 @@
   {
     "ordem": 144,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Brann"
   },
   {
@@ -872,25 +872,25 @@
   {
     "ordem": 146,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "De manhã, isto não estava aqui."
   },
   {
     "ordem": 147,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Eu sei."
   },
   {
     "ordem": 148,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Isto passou por aqui hoje. Enquanto a gente estava no riacho."
   },
   {
     "ordem": 149,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Eu sei, garoto."
   },
   {
@@ -908,13 +908,13 @@
   {
     "ordem": 152,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Atravessa"
   },
   {
     "ordem": 153,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Depressa. Ninguém pisa na borda."
   },
   {
@@ -938,7 +938,7 @@
   {
     "ordem": 157,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Viram?"
   },
   {
@@ -950,19 +950,19 @@
   {
     "ordem": 159,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Vimos"
   },
   {
     "ordem": 160,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Na curva dos dois morros?"
   },
   {
     "ordem": 161,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Na curva dos dois morros."
   },
   {
@@ -998,7 +998,7 @@
   {
     "ordem": 167,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Que imperador?"
   },
   {
@@ -1016,13 +1016,13 @@
   {
     "ordem": 170,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "O dono do Cinzal, menino"
   },
   {
     "ordem": 171,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "O que fez o Cinzal. As árvores pretas, a cinza, a brasa dentro delas. Tudo isso é ele. Faz séculos que ele faz. Todo mundo que mora aqui mora na casa dele."
   },
   {
@@ -1058,13 +1058,13 @@
   {
     "ordem": 177,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Não precisa"
   },
   {
     "ordem": 178,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Eu sei qual é."
   },
   {
@@ -1112,13 +1112,13 @@
   {
     "ordem": 186,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Garoto"
   },
   {
     "ordem": 187,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Hum."
   },
   {
@@ -1184,13 +1184,13 @@
   {
     "ordem": 198,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Eu nunca contei isso para ninguém"
   },
   {
     "ordem": 199,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Nem para o meu pai. Principalmente para o meu pai."
   },
   {
@@ -1202,7 +1202,7 @@
   {
     "ordem": 201,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Coragem e burrice são o mesmo homem em dias diferentes. Naquele dia eu não era nenhum dos dois. Era só um menino que correu."
   },
   {
@@ -1214,7 +1214,7 @@
   {
     "ordem": 203,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "E se ele vier?"
   },
   {
@@ -1226,7 +1226,7 @@
   {
     "ordem": 205,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Aqui?"
   },
   {

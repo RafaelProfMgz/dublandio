@@ -1,0 +1,86 @@
+titulo: O Bom Detetive
+origem: livros/o-bom-detetive/originais
+provedor: heygen
+# Sem reserva: preservar as vozes escolhidas na HeyGen.
+idioma: pt
+
+# O prólogo (cap_000 na obra) é o primeiro capítulo no aplicativo.
+# TXT já contém os falantes revisados e não passa pela heurística de prosa.
+arquivos:
+  - roteiro/vol1/cap_000.txt
+  - roteiro/vol1/cap_002.txt
+  - roteiro/vol1/cap_003.txt
+  - roteiro/vol1/cap_004.txt
+  - roteiro/vol1/cap_005.txt
+
+personagens:
+  - Nell Tasker
+  - Pybus
+  - Sra. Agnes Gaunt
+  - Margaret Marchbank
+  - Lucian Ashcombe
+  - Hollis Brand
+  - Inspetor Thomas Garside
+  - Inspetor James Dunmore
+  - Sargento Joseph Tunstall
+  - Guarda Bly
+  - Dra. Eleanor Pell
+  - Arthur Fenwick
+  - Sra. Martha Garside
+  - Lady Honoria Marchbank
+  - Cecily Marchbank
+  - Sr. Lister
+  - Srta. Vale
+  - Walter Rudd
+  - Vendedora
+  - Lavadeira
+
+apelidos:
+  Nell: Nell Tasker
+  Tasker: Nell Tasker
+  Sr. Pybus: Pybus
+  Sra. Gaunt: Sra. Agnes Gaunt
+  Agnes: Sra. Agnes Gaunt
+  Agnes Gaunt: Sra. Agnes Gaunt
+  Margaret: Margaret Marchbank
+  Sra. Marchbank: Margaret Marchbank
+
+  Ashcombe: Lucian Ashcombe
+  Lucian: Lucian Ashcombe
+  Sr. Ashcombe: Lucian Ashcombe
+  Hollis: Hollis Brand
+  Brand: Hollis Brand
+  Garside: Inspetor Thomas Garside
+  Inspetor Garside: Inspetor Thomas Garside
+  Thomas Garside: Inspetor Thomas Garside
+  Dunmore: Inspetor James Dunmore
+  Inspetor Dunmore: Inspetor James Dunmore
+  James Dunmore: Inspetor James Dunmore
+
+  Tunstall: Sargento Joseph Tunstall
+  Bly: Guarda Bly
+  Dra. Pell: Dra. Eleanor Pell
+  Fenwick: Arthur Fenwick
+  Martha Garside: Sra. Martha Garside
+  Lady Honoria: Lady Honoria Marchbank
+  Cecily: Cecily Marchbank
+  Lister: Sr. Lister
+
+# Personagens sem voz própria usam a voz do Narrador (padrão do aplicativo).
+# Catálogo HeyGen consultado em 2026-11-12; gênero conferido nas fichas.
+# O texto continua em português. English identifica a origem da voz.
+# Somente Educated British Baritone declara sotaque britânico no nome.
+# Demais vozes inglesas são provisórias quanto ao sotaque regional.
+# Lancashire (Hollis), Yorkshire (Garside) e escocês (Dunmore) não estão
+# identificados no catálogo. Não equivalem a sotaques confirmados em português.
+vozes:
+  heygen:
+    Narrador: d703f08d1ef34302a36945aa3efc7b3f  # Murilo — masculino, Portuguese
+    Nell Tasker: a6752292cd204ac4a80a25fb575b1327  # Tabitha — feminino, English
+    Pybus: kbxy8S61KI1ZTJZFHKQV  # Educated British Baritone — masculino, English
+    Sra. Agnes Gaunt: 83548de556df48ba8c09c42a57c51d85  # Nadine — feminino, English; calma
+    Margaret Marchbank: aa9746e325ff46d482a54fe5bc87890f  # Meredith — feminino, English; contida
+    Lucian Ashcombe: 9ce5f601f9e04382bb26141d5a3f839d  # Afonso — masculino, Portuguese; diferente do narrador
+    Hollis Brand: 742d54da82fb46a8be11480d9ec6e3c3  # Weston — masculino, English; Lancashire pendente
+    Inspetor Thomas Garside: fca00394b42949c2a939acd456e3291f  # Bram — masculino, English; Yorkshire pendente
+    Inspetor James Dunmore: 826be797681d4b1a92042b54b3c75c64  # Gareth — masculino, English; escocês pendente

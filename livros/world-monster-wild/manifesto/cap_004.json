@@ -32,13 +32,13 @@
   {
     "ordem": 6,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "A senhora sabia."
   },
   {
     "ordem": 7,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Tua mãe me contou. Há muito tempo."
   },
   {
@@ -50,19 +50,19 @@
   {
     "ordem": 9,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Sai da minha cozinha, Ilian."
   },
   {
     "ordem": 10,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Maren..."
   },
   {
     "ordem": 11,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Sai."
   },
   {
@@ -122,13 +122,13 @@
   {
     "ordem": 21,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Bento, eu não posso..."
   },
   {
     "ordem": 22,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Pode."
   },
   {
@@ -140,7 +140,7 @@
   {
     "ordem": 24,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Ela disse que, se você não levar, ela vai pessoalmente até esse tal norte para entregar. E ela vai. Você conhece a minha Dalva."
   },
   {
@@ -170,7 +170,7 @@
   {
     "ordem": 29,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "O que tem?"
   },
   {
@@ -218,13 +218,13 @@
   {
     "ordem": 37,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "E vocês queimaram?"
   },
   {
     "ordem": 38,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Tentamos."
   },
   {
@@ -236,7 +236,7 @@
   {
     "ordem": 40,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "O fogo não pegava. A gente jogou óleo, jogou palha, jogou lenha seca. Pegava na lenha, na palha, mas não pegava nela. Parecia que a carne estava... sei lá. Molhada por dentro. Levou a tarde inteira. No fim, sobrou uma coisa preta e dura, e a gente enterrou fundo, longe do riacho."
   },
   {
@@ -260,13 +260,13 @@
   {
     "ordem": 44,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Eu não sei."
   },
   {
     "ordem": 45,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Mas acha."
   },
   {
@@ -302,18 +302,18 @@
   {
     "ordem": 51,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Não."
   },
   {
     "ordem": 52,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Por que não?"
   },
   {
     "ordem": 53,
-    "personagem": "Me",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Porque eu não sei."
   },
@@ -325,7 +325,7 @@
   },
   {
     "ordem": 55,
-    "personagem": "Me",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Sabe o Kulu-Ya-Ku que eu enfrentei na prova? Ele me jogou no rio. Com uma pedra."
   },
@@ -356,7 +356,7 @@
   {
     "ordem": 60,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Obrigado"
   },
   {
@@ -428,7 +428,7 @@
   {
     "ordem": 72,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Oi, mãe."
   },
   {
@@ -439,7 +439,7 @@
   },
   {
     "ordem": 74,
-    "personagem": "Tirei",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Eu assinei."
   },
@@ -451,7 +451,7 @@
   },
   {
     "ordem": 76,
-    "personagem": "Tirei",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Rank mais baixo que existe. O examinador disse que abaixo disso só tem os mortos e os escrivães."
   },
@@ -463,7 +463,7 @@
   },
   {
     "ordem": 78,
-    "personagem": "Minha",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Eu vi o Muro, mãe. Em Três Pontes."
   },
@@ -475,7 +475,7 @@
   },
   {
     "ordem": 80,
-    "personagem": "Minha",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Vi o nome dele. E o círculo."
   },
@@ -487,7 +487,7 @@
   },
   {
     "ordem": 82,
-    "personagem": "Apertei",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Você nunca me contou. Doze anos, mãe. Doze anos descendo aquela estrada, subindo aquela estrada, e você dizia que ia no mercado."
   },
@@ -499,7 +499,7 @@
   },
   {
     "ordem": 84,
-    "personagem": "Apertei",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Por que você não me contou? Eu podia ter ido com você. Eu podia ter... sei lá. Brigado. Gritado com aquele escrivão. Qualquer coisa."
   },
@@ -547,7 +547,7 @@
   },
   {
     "ordem": 92,
-    "personagem": "Encostei",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Mas você não me deixou. Você cumpriu. Até o fim."
   },
@@ -559,7 +559,7 @@
   },
   {
     "ordem": 94,
-    "personagem": "Encostei",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Sou eu que estou indo. Sozinho. Isso não é culpa sua. Está me ouvindo? Não é culpa sua."
   },
@@ -578,7 +578,7 @@
   {
     "ordem": 97,
     "personagem": "Tami",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "75300849b571414c8d62693289cb6509",
     "texto": "Eu vou trazer ele de volta, mãe. Nem que seja uma parte suficiente."
   },
   {
@@ -632,13 +632,13 @@
   {
     "ordem": 106,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Eu não estava pensando."
   },
   {
     "ordem": 107,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Estava. Te conheço."
   },
   {
@@ -650,7 +650,7 @@
   {
     "ordem": 109,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Morreu no sul, numa caçada de Rathalos, quando eu tinha trinta anos. Um tiro de fogo, bem no peito. Me mandaram o escudo, as botas e uma carta dizendo que ele tinha sido muito corajoso."
   },
   {
@@ -662,7 +662,7 @@
   {
     "ordem": 111,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Eu preferia que ele tivesse sido um covarde vivo."
   },
   {
@@ -674,7 +674,7 @@
   {
     "ordem": 113,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Era dele também. Não é arma. É para trabalhar a carne depois."
   },
   {
@@ -686,7 +686,7 @@
   {
     "ordem": 115,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Os caçadores esquecem que a caçada não termina quando o bicho cai. Termina quando você aproveitou tudo. Tadeu dizia isso. Era a única coisa inteligente que ele dizia."
   },
   {
@@ -698,13 +698,13 @@
   {
     "ordem": 117,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Maren, eu..."
   },
   {
     "ordem": 118,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Tua mãe me fez prometer"
   },
   {
@@ -716,7 +716,7 @@
   {
     "ordem": 120,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "No quinto dia. Depois que ela te pediu a caixa e você foi buscar. Ela segurou minha mão, assim, e me fez prometer que eu não ia te deixar ir. Nunca. Para lá."
   },
   {
@@ -728,7 +728,7 @@
   {
     "ordem": 122,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Eu prometi."
   },
   {
@@ -740,7 +740,7 @@
   {
     "ordem": 124,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Menti para uma moribunda. Porque eu sabia, desde que você tinha quatro anos e desenhava aquela espiral nas paredes do meu celeiro com carvão, que um dia você ia. E que nem eu, nem ela, nem o Tadeu voltando dos mortos, ninguém ia te segurar."
   },
   {
@@ -758,13 +758,13 @@
   {
     "ordem": 127,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Estou ouvindo."
   },
   {
     "ordem": 128,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Aquele escudo volta."
   },
   {
@@ -776,7 +776,7 @@
   {
     "ordem": 130,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Aquela faca volta."
   },
   {
@@ -788,7 +788,7 @@
   {
     "ordem": 132,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "E você volta junto, porque eu não sei carregar escudo e faca ao mesmo tempo, estou velha."
   },
   {
@@ -806,7 +806,7 @@
   {
     "ordem": 135,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "E traz um cachimbo novo. Esse não tem conserto."
   },
   {
@@ -872,7 +872,7 @@
   {
     "ordem": 146,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Não olha"
   },
   {
@@ -884,7 +884,7 @@
   {
     "ordem": 148,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Não olha para baixo, não olha para trás. Não olha para nada."
   },
   {

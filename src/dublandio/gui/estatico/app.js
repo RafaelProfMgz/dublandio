@@ -25,6 +25,13 @@ const estado = {
 };
 const player = new Audio();
 const $ = (id) => document.getElementById(id);
+const reprodutor = new ReprodutorAudio(player, $("reprodutor"), {
+  aoMudar: (item, tocando) => {
+    const chave = tocando ? item.chave : null;
+    if (estado.tocando !== chave) { estado.tocando = chave; marcarTocando(); }
+  },
+  aoFalhar: (mensagem) => avisar(mensagem, true),
+});
 
 // ---------- utilitários ----------
 
@@ -421,12 +428,12 @@ function descricaoEstado(c) {
 }
 
 // Um player só, para capítulos e amostras de voz; `chave` identifica o que está tocando.
-function botaoTocar(chave, url, rotulo) {
+function botaoTocar(chave, url, rotulo, opcoes = {}) {
   const tocando = estado.tocando === chave;
   const botao = h("button", {
     class: "tocar", type: "button", "data-tocar": chave, "aria-pressed": String(tocando),
     "aria-label": `${tocando ? "Pausar" : "Ouvir"} ${rotulo}`,
-    onclick: () => alternarAudio(chave, url),
+    onclick: () => alternarAudio(chave, url, rotulo, opcoes),
   });
   botao.append(iconeTocar(tocando));
   return botao;
@@ -443,7 +450,14 @@ function marcarTocando() {
 
 function botaoTocarCapitulo(c) {
   if (!c.tem_audio) return null;
-  return botaoTocar(c.cap, `/api/livros/${estado.slug}/audio/${c.cap}?v=${c.audio_versao}`, nomeCap(c.cap));
+  const slug = estado.slug;
+  const livro = estado.livro;
+  const fila = livro.lista.filter((cap) => cap.tem_audio).map((cap) => ({
+    chave: `cap:${slug}:${cap.cap}`, url: `/api/livros/${slug}/audio/${cap.cap}?v=${cap.audio_versao}`,
+    titulo: nomeCap(cap.cap), subtitulo: livro.titulo,
+  }));
+  const item = fila.find((f) => f.chave === `cap:${slug}:${c.cap}`);
+  return botaoTocar(item.chave, item.url, item.titulo, { item, fila });
 }
 
 function iconeTocar(tocando) {
@@ -454,22 +468,15 @@ function iconeTocar(tocando) {
   return svg;
 }
 
-function alternarAudio(chave, url) {
-  if (estado.tocando === chave) {
-    player.pause();
-    estado.tocando = null;
-  } else {
-    player.src = url;
-    player.play().catch((e) => {
-      estado.tocando = null;
-      marcarTocando();
-      avisar(`Não deu para tocar: ${e.message}`, true);
-    });
-    estado.tocando = chave;
-  }
-  marcarTocando();
+function faixaVoz(v) {
+  return { chave: `voz:${v.id}`, url: v.amostra, titulo: v.nome, subtitulo: `Amostra de voz · ${rotuloIdioma(v.idioma)}` };
 }
-player.addEventListener("ended", () => { estado.tocando = null; marcarTocando(); });
+
+function alternarAudio(chave, url, rotulo, opcoes = {}) {
+  const item = opcoes.item || { chave, url, titulo: rotulo, subtitulo: "Amostra de voz" };
+  const fila = typeof opcoes.fila === "function" ? opcoes.fila() : opcoes.fila || [item];
+  reprodutor.alternar(item, fila);
+}
 
 function telaCapitulos(l) {
   if (!l.lista.length) {
@@ -568,12 +575,15 @@ function telaCapitulo(l) {
         ),
         c.tem_audio ? h("section", {},
           h("h3", {}, "Ouvir"),
-          h("audio", { controls: true, preload: "none", src: `/api/livros/${estado.slug}/audio/${c.cap}?v=${c.audio_versao}` }),
+          botaoTocarCapitulo(c),
+          h("p", { class: "dica" }, "Controle a reprodução na barra inferior."),
         ) : null,
         Object.keys(elenco).length ? h("section", {},
-          h("h3", {}, "Quem fala"),
+          h("h3", {}, "Vozes do capítulo"),
           h("ul", { class: "elenco" }, Object.entries(elenco).sort((a, b) => b[1] - a[1]).map(([p, n]) => h("li", {},
-            h("span", { class: "amostra", style: { "--cor": corDe(p) } }), p, h("span", { class: "numero" }, n)))),
+            h("div", { class: "elenco-personagem" }, h("span", { class: "amostra", style: { "--cor": corDe(p) } }), p, h("span", { class: "numero" }, n)),
+            botaoEscolherVoz(l, p)))),
+          h("p", { class: "dica" }, "A voz do personagem vale para todos os capítulos deste livro."),
         ) : null,
       ),
     ),
@@ -595,13 +605,13 @@ function telaVozes(l) {
         h("td", {}, h("span", { class: "nome-cor" }, h("span", { class: "amostra", style: { "--cor": corDe(v.personagem) } }), v.personagem)),
         h("td", { class: "numero" }, v.falas),
         h("td", {},
-          h("span", { class: "voz" }, v.voz ?? "sem voz"),
+          botaoEscolherVoz(l, v.personagem),
           v.voz_propria ? null : h("div", { class: "herdada" }, "Sem voz própria: usa a do Narrador")),
       ))),
     ),
     h("p", { class: "dica" },
       semVoz ? `${plural(semVoz, "personagem usa", "personagens usam")} a voz do Narrador. ` : "",
-      "Vozes e apelidos ficam no livro.yaml: ",
+      "Escolha uma voz para salvar e atualizar as falas do livro. Apelidos: ",
       h("button", { class: "botao sutil", type: "button", onclick: () => ir(estado.slug, "config") }, "editar configuração"),
     ),
   );
@@ -616,6 +626,132 @@ const NOMES_IDIOMA = {
 const NOMES_GENERO = { female: "Feminina", male: "Masculina" };
 const LOTE = 120;
 const rotuloIdioma = (i) => NOMES_IDIOMA[i] ?? i;
+
+const buscasCatalogo = {};
+function obterCatalogo(provedor) {
+  if (estado.catalogo[provedor]) return Promise.resolve(estado.catalogo[provedor]);
+  return buscasCatalogo[provedor] ||= carregarCatalogo(provedor).finally(() => delete buscasCatalogo[provedor]);
+}
+
+function sotaqueDaVoz(v) {
+  if (v.sotaque) return v.sotaque;
+  // Só reconhece termos explícitos do nome; idioma não determina sotaque.
+  const termos = { British: "Britânico", Brazilian: "Brasileiro", American: "Americano",
+    Scottish: "Escocês", Irish: "Irlandês", Australian: "Australiano", Yorkshire: "Yorkshire", Lancashire: "Lancashire" };
+  return Object.entries(termos).find(([termo]) => new RegExp(`\\b${termo}\\b`, "i").test(v.nome))?.[1] || "";
+}
+
+function botaoEscolherVoz(l, personagem) {
+  const propria = l.mapa_vozes[personagem];
+  const id = propria || l.mapa_vozes[NARRADOR];
+  const botao = h("button", { class: "seletor-voz", type: "button", "aria-haspopup": "dialog",
+    "aria-label": `Escolher voz de ${personagem}`, "data-personagem-voz": personagem,
+    disabled: !!estado.tarefa, onclick: () => abrirSeletorVoz(l, personagem, botao) });
+  const rotular = (dados) => {
+    const voz = dados?.vozes.find((v) => v.id === id);
+    botao.replaceChildren(h("span", {}, voz?.nome || id || "Selecionar voz"), h("span", { "aria-hidden": "true" }, "⌄"));
+    if (!propria && personagem !== NARRADOR) botao.append(h("small", {}, "Voz do Narrador"));
+  };
+  rotular(estado.catalogo[l.provedor]);
+  if (!estado.catalogo[l.provedor]) obterCatalogo(l.provedor).then(rotular).catch(() => {});
+  return botao;
+}
+
+function abrirSeletorVoz(l, personagem, origem) {
+  const slug = estado.slug;
+  const atual = l.mapa_vozes[personagem] || l.mapa_vozes[NARRADOR];
+  const modal = h("dialog", { class: "dialogo seletor-vozes", "aria-labelledby": "seletor-voz-titulo" });
+  const fechar = h("button", { class: "botao", type: "button", onclick: () => modal.close() }, "Fechar");
+  const corpo = h("div", {}, h("p", { role: "status" }, "Carregando vozes…"));
+  let salvando = false;
+  modal.append(h("div", { class: "seletor-cabecalho" }, h("h2", { id: "seletor-voz-titulo" }, `Voz de ${personagem}`), fechar),
+    h("p", { class: "dica" }, "Escolha uma voz para o personagem em todos os capítulos do livro. Ouvir amostras não gasta créditos."), corpo);
+  modal.addEventListener("cancel", (e) => { if (salvando) e.preventDefault(); });
+  modal.addEventListener("close", () => {
+    modal.remove();
+    if (origem.isConnected) origem.focus();
+    else document.querySelectorAll("[data-personagem-voz]").forEach((b) => { if (b.dataset.personagemVoz === personagem) b.focus(); });
+  }, { once: true });
+  document.body.append(modal);
+  modal.showModal();
+  reprodutor.acoplarModal(modal);
+
+  async function montar(atualizar = false) {
+    try {
+      const dados = atualizar ? await carregarCatalogo(l.provedor, true) : await obterCatalogo(l.provedor);
+      if (!modal.open) return;
+      const busca = h("input", { type: "search", class: "campo busca", placeholder: "Buscar nome, descrição ou idioma", "aria-label": "Buscar voz" });
+      const genero = h("select", { class: "campo", "aria-label": "Filtrar gênero" },
+        h("option", { value: "" }, "Todos os gêneros"),
+        Object.entries(NOMES_GENERO).map(([id, nome]) => h("option", { value: id }, nome)),
+        h("option", { value: "?" }, "Gênero não informado"));
+      const sotaques = [...new Set(dados.vozes.map(sotaqueDaVoz).filter(Boolean))].sort((a, b) => a.localeCompare(b, "pt-BR"));
+      const sotaque = h("select", { class: "campo", "aria-label": "Filtrar sotaque" },
+        h("option", { value: "" }, "Todos os sotaques"), sotaques.map((s) => h("option", { value: s }, s)),
+        h("option", { value: "?" }, "Sotaque não informado"));
+      const resumo = h("p", { class: "dica", role: "status", "aria-live": "polite" });
+      const erro = h("p", { class: "erro", role: "alert", hidden: true });
+      const lista = h("ul", { class: "escolhas-vozes", "aria-label": "Vozes disponíveis" });
+      let limite = LOTE;
+      const normalizar = (s) => String(s || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+      async function selecionar(v) {
+        if (salvando) return;
+        salvando = true;
+        fechar.disabled = true;
+        erro.hidden = true;
+        lista.querySelectorAll("button").forEach((b) => b.disabled = true);
+        try {
+          const r = await api(`/api/livros/${slug}/voz`, { method: "PUT", body: JSON.stringify({ personagem, voz: v.id, provedor: l.provedor }) });
+          const novo = await api(`/api/livros/${slug}`);
+          if (estado.slug === slug) {
+            estado.livro = novo;
+            if (estado.sujo) {
+              document.querySelectorAll("[data-personagem-voz]").forEach((b) => b.replaceWith(botaoEscolherVoz(novo, b.dataset.personagemVoz)));
+            } else render();
+          }
+          modal.close();
+          avisar(r.aviso || `Voz de ${personagem} atualizada`, !!r.aviso);
+        } catch (e) { erro.textContent = e.message; erro.hidden = false; }
+        finally { salvando = false; fechar.disabled = false; listar(); }
+      }
+      function listar() {
+        const termo = normalizar(busca.value.trim());
+        const vozes = dados.vozes.filter((v) => (!genero.value || (genero.value === "?" ? !v.genero : v.genero === genero.value)) &&
+          (!sotaque.value || (sotaque.value === "?" ? !sotaqueDaVoz(v) : sotaqueDaVoz(v) === sotaque.value)) &&
+          (!termo || normalizar([v.nome, v.id, v.descricao, v.idade, sotaqueDaVoz(v), rotuloIdioma(v.idioma)].join(" ")).includes(termo)))
+          .sort((a, b) => (b.id === atual) - (a.id === atual) || (b.idioma === l.idioma_catalogo) - (a.idioma === l.idioma_catalogo));
+        resumo.textContent = `${plural(vozes.length, "voz encontrada", "vozes encontradas")} · Idioma e sotaque são informações distintas.`;
+        lista.replaceChildren(...vozes.slice(0, limite).map((v) => {
+          const descricao = v.descricao || v.nome.split(" - ").slice(1).join(" - ");
+          const meta = [NOMES_GENERO[v.genero] || v.genero || "Gênero não informado", `Idade: ${v.idade || "não informada"}`,
+            `Sotaque: ${sotaqueDaVoz(v) || "não informado"}${!v.sotaque && sotaqueDaVoz(v) ? " (no nome)" : ""}`, rotuloIdioma(v.idioma)];
+          return h("li", { class: `escolha-voz${v.id === atual ? " atual" : ""}` },
+            v.amostra ? botaoTocar(`voz:${v.id}`, v.amostra, `amostra de ${v.nome}`, {
+              item: faixaVoz(v), fila: () => vozes.filter((voz) => voz.amostra).map(faixaVoz),
+            }) : h("span", { class: "tocar-vazio" }),
+            h("div", { class: "escolha-detalhes" }, h("strong", {}, v.nome), h("p", { class: "voz-meta" }, meta.join(" · ")),
+              descricao ? h("p", {}, descricao) : null),
+            h("button", { class: "botao", type: "button", disabled: salvando || (v.id === atual && !!l.mapa_vozes[personagem]),
+              "aria-label": `Selecionar ${v.nome} para ${personagem}`, onclick: () => selecionar(v) }, v.id === atual ? (l.mapa_vozes[personagem] ? "Selecionada" : "Usar esta voz") : "Selecionar"));
+        }));
+        if (!vozes.length) lista.append(h("li", { class: "catalogo-vazio" }, "Nenhuma voz encontrada. Tente mudar a busca ou os filtros."));
+        if (vozes.length > limite) lista.append(h("li", { class: "catalogo-mais" }, h("button", { class: "botao", type: "button",
+          onclick: () => { limite += LOTE; listar(); } }, "Mostrar mais vozes")));
+      }
+      for (const [campo, evento] of [[busca, "input"], [genero, "change"], [sotaque, "change"]]) campo.addEventListener(evento, () => { limite = LOTE; listar(); });
+      corpo.replaceChildren(h("div", { class: "filtros" }, busca, genero, sotaque),
+        h("div", { class: "barra-selecao" }, resumo, h("button", { class: "botao sutil", type: "button", onclick: () => {
+          corpo.replaceChildren(h("p", { role: "status" }, "Atualizando catálogo…")); montar(true);
+        } }, "Atualizar catálogo")), erro, lista);
+      listar();
+      busca.focus();
+    } catch (e) {
+      if (modal.open) corpo.replaceChildren(h("p", { role: "alert" }, `Não foi possível carregar o catálogo: ${e.message}`),
+        h("button", { class: "botao", type: "button", onclick: () => montar(atualizar) }, "Tentar novamente"));
+    }
+  }
+  montar();
+}
 
 function telaCatalogo(l) {
   const raiz = h("div", {});
@@ -676,7 +812,10 @@ function montarCatalogo(raiz, l, dados) {
     const [nome, ...descricao] = v.nome.split(" - ");
     const quem = usos[v.id] || [];
     return h("li", { class: "voz-linha" },
-      v.amostra ? botaoTocar(`voz:${v.id}`, v.amostra, `amostra de ${nome}`) : h("span", { class: "tocar-vazio" }),
+      v.amostra ? botaoTocar(`voz:${v.id}`, v.amostra, `amostra de ${nome}`, {
+        item: faixaVoz(v), fila: () => filtradas().sort((a, b) => (a.idioma === "Multilingual") - (b.idioma === "Multilingual"))
+          .filter((voz) => voz.amostra).map(faixaVoz),
+      }) : h("span", { class: "tocar-vazio" }),
       h("div", { class: "voz-nome" },
         h("strong", {}, nome),
         descricao.length ? h("span", {}, descricao.join(" - ")) : null),

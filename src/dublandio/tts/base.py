@@ -39,6 +39,9 @@ class Voz:
     idioma: str
     genero: str
     amostra: str | None = None
+    idade: str = ""
+    sotaque: str = ""
+    descricao: str = ""
 
 
 class Provedor(Protocol):

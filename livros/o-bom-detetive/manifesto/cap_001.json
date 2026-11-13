@@ -1,0 +1,914 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Nell Tasker bateu duas vezes à porta do gabinete. A luz passava pela fresta junto ao chão. Do outro lado, o relógio de bronze continuava batendo, sem o ruído da pena ou da cadeira que costumava acompanhá-lo."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Senhor? O fogo, senhor."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Esperou a ordem de ir dormir. Quando ela vinha com um xelim, Nell sabia que teria uma garrafa vazia para tirar da copa antes que a Sra. Marchbank a encontrasse. Naquela noite, nem o ronco do patrão atravessava a porta."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Girou a maçaneta. A porta não abriu."
+  },
+  {
+    "ordem": 5,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O Sr. Augustus nunca trancava o gabinete. A chave ficava por dentro; Nell a via toda terça ao espanar o espelho da fechadura. Trancar portas era coisa de quem tinha medo da própria casa, dizia."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ela se ajoelhou, apoiou o castiçal de lata no tapete e encostou o olho à fechadura. O buraco estava vazio."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Dava para ver a quina da escrivaninha de mogno, o lampião de cúpula verde, uma ponta do mata-borrão e a mão do patrão. Espalmada sobre o tampo, com o anel de sinete no dedo mínimo."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Senhor?"
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Nell moveu a vela para clarear o outro lado da fechadura. Dentro do gabinete, os dedos não se moveram."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Fazia poucos minutos que passara pelo hall. O relógio de caixa alta marcava onze e quarenta e sete. Naquele outono, dezessete das quarenta e uma lareiras de Saltgrave House precisavam ser abaixadas à noite; começara às onze e meia, com uma bolha aberta no calcanhar esquerdo e o atiçador embrulhado num pano. Só faltava aquela sala."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A meio caminho do corredor, os pingos de cera que raspara com a unha continuavam presos no tapete vermelho. Brancos, do tamanho de uma unha, um a cada dois ou três passos, vinham da porta do quarto da Sra. Marchbank até ali. Amanhã seria preciso papel pardo e ferro quente, de joelhos, antes do café da família. A fuligem saía com escova; aquilo tomaria a manhã inteira."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "No recorte estreito da fechadura, ela não alcançava o resto do braço. A mão podia estar apoiada daquele jeito porque o patrão dormia sobre a mesa; se fosse isso, encontraria o rosto encostado nos papéis quando Pybus abrisse. Nell endireitou a cabeça para tentar ver mais. A luz do lampião se reduziu à borda do tampo. Precisaria se afastar para alguém entrar, e a ideia de deixar a mão fora de vista a fez tornar à primeira posição."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Nell recuou da fechadura. Podia ser sono pesado. O patrão bebia, adormecia sentado, reclamava se o acordavam. Mas deixá-lo ali, com a porta trancada e o fogo aceso, era uma coisa pela qual teria de responder à governanta."
+  },
+  {
+    "ordem": 14,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A Sra. Gaunt contava às meninas que, em 1871, uma criada abandonara a ronda para encontrar um rapaz no estábulo. Um quarto da ala oeste queimou. A menina saiu sem referência, e a governanta encerrava a história antes que alguém perguntasse onde ela conseguira emprego."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Nell ergueu a vela mais uma vez junto à fechadura. A mão permanecia no mesmo lugar. Levantou-se segurando a barra da saia para não pisar nela e foi buscar o Sr. Pybus."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O corredor leste dava trinta e quatro passos de uma ponta à outra. Ela sabia desde que entrara na casa, aos catorze anos, quando ainda contava degraus e portas em voz alta. Agora, com o gabinete às costas, levou mais tempo para chegar à curva do tapete. A chama inclinava-se em direção à sala que deixara."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Lembrou o caderno que fechara na sala de bilhar antes de subir. O Sr. Edwin o esquecera aberto: uma escada vista de cima, os degraus em quadrados cada vez menores, até o centro da folha ficar preto de grafite. Tinha alinhado o caderno à beira da mesa, como a governanta exigia, e ido conferir a próxima lareira. Uma brasa fora da grelha teria bastado para mandá-la de volta à Cidade Velha."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Desceu pela beira da escada principal, onde o tapete já estava gasto. A bolha colava à meia e soltava a cada passo. Para alcançar a copa do mordomo, precisaria passar outra vez pelo relógio do hall."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A copa do mordomo ficava no térreo, ao lado da sala de prata, e a porta estava aberta. O lampião de Pybus não estava no gancho. A cama estreita no quartinho dos fundos estava feita, com o lençol dobrado em ângulo reto. O casaco de serviço não estava no cabide."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Acordar a Sra. Gaunt era a outra regra. Nell parou na entrada da copa, dividida entre o corredor dos criados e a escada que acabara de descer. Recebia catorze libras por ano, além de comida e uniforme. Dez iam para a mãe, para o aluguel e a comida dos cinco irmãos. A governanta podia tirar tudo isso com uma carta de referência ruim; o patrão podia tirá-lo sem carta alguma. Nell voltou a examinar o quartinho dos fundos, procurando um sinal de que Pybus sairia de lá."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Os passos vieram da galeria oeste, além das cozinhas velhas. Naquela direção ficavam os quartos fechados desde o incêndio de 1871 e, ao fundo, a capela. Nell ergueu a vela, mas o lampião do mordomo já iluminava a curva."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Pybus trazia o lampião na mão esquerda. Usava casaco de serviço abotoado, colarinho duro, gravata branca e luvas brancas. Nenhuma dobra de travesseiro no rosto cinzento. Àquela hora, o casaco deveria estar no cabide que ela acabara de encontrar vazio."
+  },
+  {
+    "ordem": 23,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Tasker."
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Parou a uma distância que a obrigou a sair da sombra para responder."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "O gabinete do patrão, Sr. Pybus. Está trancado por dentro, com a luz acesa, e ele não responde. Eu olhei pela fechadura. A chave não está lá. A mão dele está em cima da mesa e não mexe."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Pybus tirou o relógio do bolso do colete, abriu a tampa, olhou e fechou. Nell não viu os ponteiros."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Que horas eram, no hall?"
+  },
+  {
+    "ordem": 28,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Onze e quarenta e sete, senhor, quando passei. Subi direto."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Venha."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Nell precisou apressar o passo para acompanhá-lo. Na escada, a meia arrancou a pele solta do calcanhar; ela apertou os dentes e continuou. Diante dos pingos de cera, Pybus abaixou o lampião. Contornou cada um deles sem perguntar quem os deixara."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Bateu uma vez."
+  },
+  {
+    "ordem": 32,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Sr. Marchbank. É Pybus, senhor."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Esperou o tempo de uma respiração, tirou do bolso o molho com a chave-mestra, escolheu-a sem olhar e a pôs na fechadura. A chave entrou inteira, sem bater em nada do outro lado. Ele girou. A lingueta correu com um estalo seco."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Pybus abriu até a metade e reteve a porta com o corpo. O braço endureceu dentro da manga; o lampião ficou à altura de sua coxa."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Fique aí, Tasker."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Nell se deteve na soleira. O ombro do mordomo escondia parte da escrivaninha."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O fogo ainda levantava chamas na lareira, e o lampião da mesa ardia sem fumaça. As cortinas estavam fechadas. Na bandeja, a garrafa de conhaque ia pela metade, ao lado de um copo limpo. Um chinelo de couro tombara no tapete turco, perto da grelha. Nell procurou o pé que deveria estar dentro dele."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O Sr. Augustus permanecia na cadeira de espaldar alto, de roupão vinho sobre a camisa, com as costas retas e as mãos abertas, uma de cada lado do mata-borrão. Os olhos fixavam a porta."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ela quase pediu desculpas ao homem sentado ali."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O cabelo era o do patrão. O roupão também, reconhecível pela costura que ela remendara no punho. Mas o nariz quebrado não pendia para a esquerda. A boca já não descia de um lado. Por um instante, Nell esperou que Augustus aparecesse no corredor e perguntasse o que um estranho fazia na cadeira dele."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Em 1880, ele caíra do cavalo e quebrara o nariz. Desde que Nell entrara na casa, a ponta apontava para a bochecha esquerda; ela a via primeiro quando ele se voltava para reclamar de alguma coisa. Agora a ponta descia pelo meio, sem calombo nem marca antiga. Uma gota de água lançada entre os olhos teria encontrado o centro da boca."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O bigode tinha as pontas do mesmo comprimento. Antes, a direita era mais curta, queimada por um charuto; ela vira o patrão xingar Pybus por não conseguir disfarçar o corte. A risca do cabelo, sempre à esquerda, dividia a cabeça em duas metades. Na testa, as sobrancelhas faziam a mesma curva, e as orelhas se prendiam à mesma altura."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Havia dois sinais marrons. O da bochecha esquerda, que as crianças chamavam de moeda do patrão, e outro à direita. Mesmo tamanho de lentilha, mesma distância do canto da boca. Nell inclinou a vela para conferir se o segundo era uma sombra. Os dois continuaram no rosto."
+  },
+  {
+    "ordem": 44,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "As duas pupilas, do mesmo diâmetro, não acompanharam a mudança de luz. A superfície dos olhos já não tinha o brilho que Nell via quando ele dormia de pálpebras entreabertas."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Pensou num irmão. Augustus não tinha irmão."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Pybus entrou pelo lado do fogo e pousou o lampião na cômoda. Segurou o pulso esquerdo do patrão. Aguardou, soltou-o e tirou a luva direita, dedo por dedo. Encostou as costas da mão nua no rosto."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Retirou a mão depressa."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Está frio."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Falou para a sala, não para ela."
+  },
+  {
+    "ordem": 50,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O calor da lareira alcançava a soleira, a dois metros da cadeira. A mão descoberta de Pybus permaneceu suspensa entre o fogo e o rosto do morto; ele a fechou e tornou a calçar a luva. Ao abotoá-la, precisou segurar o pulso com mais força para firmar o tecido."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Inclinou-se sobre a escrivaninha, sem tocar no mata-borrão, na pena seca ou na bandeja de lacrar. A vela de lacrar estava apagada junto ao lacre verde. Em seguida, examinou a fechadura pelo lado de dentro, dobrado o suficiente para ocultar o rosto de Nell."
+  },
+  {
+    "ordem": 52,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "A porta estava trancada quando você chegou?"
+  },
+  {
+    "ordem": 53,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Sim, senhor."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Você tocou em alguma coisa além da maçaneta?"
+  },
+  {
+    "ordem": 55,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Não, senhor."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Você viu alguém no corredor?"
+  },
+  {
+    "ordem": 57,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Não, senhor. Só a cera no tapete."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Pybus se endireitou. Antes de falar, conferiu a posição do lampião na cômoda e a passagem livre entre a cadeira e a porta. Uniu as mãos diante da barriga, na postura em que esperava uma ordem durante o jantar."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Sr. Pybus."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Nell virou com tanta pressa que a cera quente alcançou a borda do castiçal. A Sra. Gaunt viera por trás sem fazer ranger as tábuas. Vestido preto abotoado até o queixo, cabelo preso, a argola completa de chaves na cintura: até o avental estava liso. Não levava vela nem lampião."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Pybus ergueu o queixo. Na cozinha, diziam que os dois se odiavam desde a entrada da governanta em Saltgrave, trinta e quatro anos antes. Fora dos horários, cardápios e contas de roupa branca, Nell raramente os ouvia trocar uma frase."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Sra. Gaunt."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A governanta atravessou a soleira e contornou a escrivaninha. Detinha os olhos em cada lado do rosto, com as mãos cruzadas sobre o avental. Nell conhecia aquele exame: uma toalha caída mais de um lado da mesa obrigava todas as meninas a esperar enquanto ela a acertava."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A fita amarela saiu do bolso do avental. Nell a conhecia do dia em que recebera o uniforme: a governanta medira sua cintura e mandara soltar a saia para que pudesse se ajoelhar. Na manhã anterior, usara a mesma fita para verificar uma toalha encolhida na lavagem. Agora procurava uma ponta livre da fita, sem pedir água, sem fazer as perguntas que Pybus fizera."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A mão de Nell escorregou no metal do castiçal. Segurou-o com a outra e esperou que Gaunt lhe desse uma tarefa. A governanta desenrolou o pano amarelo até o chão."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Sra. Gaunt."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Gaunt passou atrás da cadeira, sustentou o braço direito do morto pelo cotovelo e esticou a fita do ombro até a articulação, sobre a seda. Apertou o polegar na marca para ler."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Quarenta e um vírgula dois."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Desceu a fita do cotovelo até o osso do pulso."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Quarenta e um vírgula dois."
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Abaixou-se com um estalo dos joelhos e afastou a barra do roupão. Mediu a canela, do joelho ao tornozelo, segurando a fita junto à meia de seda."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Quarenta e um vírgula dois."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ainda ajoelhada, voltou os olhos para o rosto do morto. Os lábios se moviam; Nell tentou reconhecer uma oração, mas a governanta interrompia o movimento a cada vez que a boca fechava."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Agnes."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Pybus disse o nome dela."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Nell nunca ouvira aquele nome na boca do mordomo. Gaunt enrolou a fita e a guardou. Apoiou-se na cadeira para levantar e puxou a barra do roupão até cobrir o tornozelo, acertando a dobra que fizera ao medir."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Ele está na medida, Sr. Pybus."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O mordomo voltou-se para a porta."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Tasker. Desça para a cozinha. Ponha água no fogo e não acorde ninguém. Se alguém acordar, diga que o patrão passou mal e que eu estou cuidando. Não fale da sala. Não fale do rosto. Entendeu?"
+  },
+  {
+    "ordem": 80,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Sim, senhor."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Sra. Gaunt, a senhora fica na porta. Ninguém entra, nem família. Vou avisar Milady."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Pybus apanhou o lampião e saiu. Passou outra vez ao lado da cera. Em vez de tomar o caminho da ala sul, onde ficava o quarto de Lady Honoria, virou para a galeria oeste. A luz diminuiu nas paredes até desaparecer."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Nell continuou voltada para a curva. Milady dormia do outro lado."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Desça, menina."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A voz dela vinha da porta, a mesma que mandava as meninas trocarem o avental sujo de fuligem antes de subir."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "E quando a água ferver, faça chá forte. Eu desço."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A porta do meio se abriu quando Nell passou por ela."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A Sra. Marchbank surgiu de camisola e xale, a trança loira caída sobre um ombro. Levava um castiçal de prata sem pires, com uma vela reduzida a um toco de dois dedos. A cera escorrera pelo metal e endurecera perto da mão."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Margaret Marchbank",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Tasker. O que é isso? Por que há gente no corredor a esta hora?"
+  },
+  {
+    "ordem": 90,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "É o patrão, senhora. O Sr. Pybus disse para..."
+  },
+  {
+    "ordem": 91,
+    "personagem": "Margaret Marchbank",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Ele está morto?"
+  },
+  {
+    "ordem": 92,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Nell teve de engolir antes de responder. A ordem era dizer que o patrão passara mal. A Sra. Marchbank ainda não tinha ouvido nem isso."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Eu não sei, senhora. O Sr. Pybus foi chamar Milady."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A viúva procurou o fim do corredor por cima da cabeça dela. Gaunt ocupava a porta do gabinete, recortada contra a luz. O castiçal oscilou, projetando a sombra da trança sobre a parede."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Senhora, quer que eu chame..."
+  },
+  {
+    "ordem": 96,
+    "personagem": "Margaret Marchbank",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Não."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A Sra. Marchbank deu um passo para o corredor, e outro, e parou."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Margaret Marchbank",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Sra. Gaunt?"
+  },
+  {
+    "ordem": 99,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A governanta falou da porta, sem levantar a voz."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Melhor não, senhora. Espere Milady. Volte para a cama e espere Milady."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A Sra. Marchbank recuou para o quarto. Nell ouviu a chave girar atrás da porta fechada."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A porta forrada de pano verde levava à escada de serviço. Nell empurrou-a com o ombro, mantendo a vela afastada do revestimento. Ali o piso de pedra substituía o tapete, e uma corda presa a argolas de ferro servia de corrimão. Dois lances a separavam do corredor das cozinhas, no porão."
+  },
+  {
+    "ordem": 103,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Vinte e três degraus. Doze até o patamar, onze até a laje das cozinhas. Tinha contado na primeira semana de trabalho, aos catorze anos, e parara de dizer os números quando a governanta a repreendeu. Criada de Saltgrave não andava pela casa feito menina da Cidade Velha, chamando o Homem que Mede a cada degrau."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A janela estreita do patamar de cima dava para o pátio interno. Nell baixou a vela para que a chama não se refletisse no vidro. Do outro lado, os quartos abandonados da ala oeste formavam uma fileira escura. No fim, mais altas que as outras, erguiam-se as três janelas em arco da capela."
+  },
+  {
+    "ordem": 105,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Na do meio havia luz."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Uma fresta vertical entre duas folhas da veneziana deixava escapar a claridade amarela de uma vela. Do tamanho de um homem, a linha atravessava o vitral escurecido pela poeira. Nell se aproximou do vidro até a testa quase tocá-lo."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A porta da capela estava fechada desde 1864. O velho Lorde Marchbank morrera ali, de apoplexia; Lady Honoria guardava a chave. Lucy jurara ouvir canto nas noites de vento e recebera um tapa na boca, diante da cozinha inteira. Na manhã seguinte, fora mandada limpar os castiçais. Perguntara se eram os da capela, e a governanta a fizera repetir a pergunta até Lucy desistir dela."
+  },
+  {
+    "ordem": 108,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Nell tentava encontrar o contorno de uma pessoa na fresta quando a luz se apagou."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Nenhuma chama minguou. Uma das janelas deixou de se distinguir das outras duas."
+  },
+  {
+    "ordem": 110,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Segurou a corda e desceu. No primeiro degrau, os lábios já formavam um número. Lembrou Annie, a irmã de sete anos, contando gaivotas e botões do casaco que pertencera ao pai, morto no mar. A menina precisava chegar ao fim; se alguém a interrompia, começava outra vez. Nell apertou a boca, mas o próximo número veio mesmo assim. Onze, doze. O patamar, a volta da parede. Treze. A bolha ardeu ao esticar o pé. Dezessete, dezoito. A lamparina do corredor clareava a pedra dos últimos degraus."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Vinte e um. Vinte e dois."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O pé dela tocou a laje do porão."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O esquerdo pousara na pedra lisa; o direito ainda estava no último degrau. Nell dobrou o joelho, procurando com a ponta do sapato a queda que faltava. Encontrou a laje. Acima dela, o lance sumia na curva do patamar. Talvez tivesse pulado um número. Com a bolha, podia ter descido dois degraus de uma vez."
+  },
+  {
+    "ordem": 114,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Soltou a corda. Para conferir, teria de voltar até a janela da capela. Levou o pé direito ao chão e seguiu para a cozinha."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Na cozinha, a luz da vela alcançou as vigas e se perdeu no teto abobadado. A mesa de pinho, esfregada até ficar branca, ocupava quase todo o caminho até o fogão de três fornos. Atrás da despensa ficava o quartinho de Hester Rudd e do marido; o ronco de Walter atravessava a porta."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Abriu a fornalha, pôs dois pedaços de carvão sobre as brasas e abriu o registro. Encheu a chaleira grande na bomba da copa de lavar e a pôs na chapa. Ficou de pé ao lado do fogão, com as mãos abertas no calor, porque estavam geladas e ela não sabia desde quando."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Sobre a entrada ficava o quadro das vinte e duas campainhas. Cada sineta de bronze tinha uma plaquinha: Sala de Estar, Biblioteca, Quarto de Milady. Nell encontrou a do Gabinete. O fio de cobre saía da mola, subia até uma roldana e seguia pelas vigas antes de desaparecer na parede. Ela esperou um movimento. As sinetas continuaram imóveis."
+  },
+  {
+    "ordem": 118,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O relógio da cozinha, redondo, com mostrador branco e números romanos, marcava cinco minutos depois da meia-noite."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Nell refez o caminho desde o hall: a porta trancada, a copa vazia, o mordomo, o gabinete. Quinze minutos, talvez. Se não tivesse demorado mais, o relógio da cozinha estava três minutos adiantado. Pybus acertava todos aos domingos pelo relógio de bolso, regulado na estação; o da estação recebia a hora de Londres. Na segunda, Gaunt conferia a cozinha. Nell procurou uma lembrança de ter esperado o relógio ser corrigido e só encontrou a governanta assentindo diante dele."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A chaleira começou a chiar."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ela escaldou o bule marrom, mediu quatro colheres de chá preto, das boas, das de cima, e despejou a água. Pôs o bule na mesa, com duas xícaras de louça grossa e a lata de açúcar, e sentou no banco, porque a Sra. Gaunt não estava ali para dizer que criada não sentava na cozinha antes de terminar o serviço."
+  },
+  {
+    "ordem": 122,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Pensou na mãe."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A mãe morava na Henrietta Row, a duas casas da defumadora dos Ainsley, num cômodo e meio com os cinco irmãos de Nell. Na terça, Joe Harland levara o envelope do salário junto com um bilhete. O filho do padeiro subia com o pão e descia com o dinheiro; lia as linhas para a mãe, que não sabia ler, e trazia a resposta na semana seguinte. Nell prometera escrever de novo antes de segunda-feira, sua folga. Tinha separado os xelins que o patrão lhe dava numa meia, dentro do colchão, para o Natal das crianças."
+  },
+  {
+    "ordem": 124,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Uma casa de luto podia cortar despesas. O Sr. Edwin tinha dezenove anos, tossia e agora era o herdeiro; as contas continuariam nas mãos da Srta. Cecily. Na última semana, as velas das criadas tinham passado a ser distribuídas uma a uma. Se alguém resolvesse que bastava uma menina para os quartos, ainda havia Lucy. Nell baixou a xícara para não derramar chá no uniforme."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Deixou o chá molhar a boca e pensou no próximo bilhete à mãe. Precisaria pedir a Joe que não o lesse diante das crianças. Annie repetiria as palavras antes de chegar ao fim e iria contá-las às outras meninas; na terça seguinte, a história subiria com o pão até a mesa em que Nell estava sentada. Precisaria explicar que, se a dispensassem, não haveria dinheiro para mandar na terça."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Enfiou a ponta do avental entre a meia e o calcanhar para descolar o tecido. Havia uma mancha pequena de sangue. Dobrou o pano para dentro, endireitou a meia e tornou a calçar o sapato antes que a governanta descesse."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Bebeu o chá sem açúcar, porque o açúcar era contado também."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Quando o relógio marcou meia-noite e vinte e oito, a porta forrada de verde se abriu. Nell acompanhou os passos da governanta, um por degrau. Perdeu a conta quando o som mudou no patamar e já não conseguiu retomá-la. Puxou o pano de prato para junto da chaleira, embora a mesa estivesse seca."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A governanta entrou, puxou a cadeira da cabeceira da mesa, a única cadeira da cozinha que não era banco, e sentou. Nell se levantou."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Sente, filha."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Nell sentou. Serviu o chá na segunda xícara e empurrou a lata de açúcar. A Sra. Gaunt pôs duas colheres, mexeu e não bebeu."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Milady já está lá em cima. Milady e o Sr. Pybus. O Sr. Pybus vai mandar o Walter a cavalo para a delegacia, quando clarear, e o Sargento Tunstall vai mandar telegrama para Whitby. De manhã vai ter polícia em casa. Você vai contar o que viu. A porta, a luz, a mão. Mais nada."
+  },
+  {
+    "ordem": 133,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Sim, senhora."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "O rosto você não precisa contar. Eles vão ver o rosto."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Sim, senhora."
+  },
+  {
+    "ordem": 136,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Gaunt segurou a alça da xícara sem levá-la à boca. Na cozinha, as meninas corriam para aquelas mãos quando se cortavam e escondiam os dedos feridos se o trabalho ainda não estivesse pronto."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "O que você achou, Tasker? Do rosto."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O polegar de Nell procurou uma lasca no banco. Gaunt esperava. Uma mentira malcontada daria outra conversa, talvez diante de Lucy pela manhã."
+  },
+  {
+    "ordem": 139,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Achei que não era ele, senhora. Que era outro homem na cadeira dele."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A governanta assentiu uma vez."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Era ele."
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ela enfiou a mão no bolso do avental, ao lado da fita amarela, e tirou o prumo."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O peso de chumbo tinha forma de pião, do tamanho de um polegar, com uma argola na parte superior. Pendia de uns quarenta centímetros de lã vermelha. Gaunt o levava no avental para conferir quadros e cortinas; Nell já precisara segurar uma moldura até a ponta parar diante da parede. Às meninas que perguntavam para que servia, ela dizia: para saber onde era o chão."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A governanta segurou a ponta do fio entre o polegar e o indicador e estendeu o braço sobre a mesa. O prumo balançou, foi diminuindo a volta e parou, pendurado, a dois dedos da madeira branca. Ela fechou os olhos."
+  },
+  {
+    "ordem": 145,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A Sra. Gaunt falou com a voz da missa, só que para uma pessoa."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Onde estavas tu quando eu lançava os fundamentos da terra? Faze-mo saber, se tens inteligência. Quem lhe pôs as medidas, se é que o sabes? Ou quem estendeu sobre ela o cordel?"
+  },
+  {
+    "ordem": 147,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Era o livro de Jó. Nell reconheceu a passagem lida pelo reverendo Hare na Páscoa. Na igreja, ouvira-a de cabeça inclinada, examinando um ponto solto na manga. Agora a mão que segurava o prumo lhe ocultava parte do rosto da governanta."
+  },
+  {
+    "ordem": 148,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Sobre que estão fundadas as suas bases?. Ou quem assentou a sua pedra de esquina?"
+  },
+  {
+    "ordem": 149,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A ponta de chumbo permanecia a dois dedos da madeira. Nell procurou o pequeno balanço que atrasava o serviço dos quadros. Nem o peso nem a lã se moviam. Deslocou a xícara, encostando o pires à tábua, e o ruído fez a própria mão saltar. O prumo não respondeu ao tremor da mesa."
+  },
+  {
+    "ordem": 150,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Lá em cima, em algum lugar da casa, uma porta bateu, e alguém andou depressa num assoalho, e parou."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Gaunt abriu os olhos e baixou o braço até encostar a ponta na mesa. O fio afrouxou. O chumbo tombou de lado, no centro da tábua."
+  },
+  {
+    "ordem": 152,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Começou."
+  }
+]

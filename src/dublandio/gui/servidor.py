@@ -10,6 +10,7 @@ from collections.abc import Callable
 from dataclasses import asdict
 from pathlib import Path
 
+import yaml
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.responses import FileResponse, StreamingResponse
 from fastapi.staticfiles import StaticFiles
@@ -18,7 +19,7 @@ from pydantic import BaseModel, Field
 from dublandio import audio, avatares as avatares_livro, imagem_ia
 from dublandio.chaves import ARTIGOS, ROTULOS, Registro, conferir, situacao
 from dublandio.catalogo import IDIOMAS, carregar_catalogo
-from dublandio.config import PROVEDORES, Livro, carregar_livro, ler_livro, livros_disponiveis, salvar_env
+from dublandio.config import PROVEDORES, Livro, carregar_livro, definir_voz, ler_livro, livros_disponiveis, salvar_env
 from dublandio.gui import status, videos
 from dublandio.capitulo_hf import executar_capitulo, preparar_capitulo
 from dublandio.gui.tarefas import Emitir, Ocupado, Tarefas
@@ -35,6 +36,12 @@ CONFERIR_A_CADA = 300  # segundos entre conferências online da mesma chave
 
 class Texto(BaseModel):
     texto: str
+
+
+class EscolhaVoz(BaseModel):
+    personagem: str = Field(min_length=1, max_length=200)
+    voz: str = Field(min_length=1, max_length=300)
+    provedor: str
 
 
 class NovoLivro(BaseModel):
@@ -432,6 +439,28 @@ def criar_app(
     @app.get("/api/livros/{slug}/config")
     def ler_config(slug: str) -> dict:
         return {"texto": (livro(slug).dir / "livro.yaml").read_text(encoding="utf-8")}
+
+    @app.put("/api/livros/{slug}/voz")
+    def escolher_voz(slug: str, corpo: EscolhaVoz) -> dict:
+        lv = livro(slug)
+        if corpo.provedor != lv.provedor:
+            raise HTTPException(409, "O provedor do livro mudou. Abra o seletor novamente.")
+        if tarefas.estado()["rodando"]:
+            raise HTTPException(409, "Espere a etapa atual terminar antes de trocar uma voz.")
+        personagem = lv.nome_canonico(corpo.personagem.strip())
+        voz = corpo.voz.strip()
+        conhecidos = {"Narrador", *lv.personagens, *lv.vozes.get(lv.provedor, {}),
+                      *(v["personagem"] for v in status.vozes(lv))}
+        if personagem not in conhecidos or not voz:
+            raise HTTPException(400, "Personagem ou voz inválidos.")
+        arquivo = lv.dir / "livro.yaml"
+        try:
+            texto = definir_voz(arquivo.read_text(encoding="utf-8"), lv.provedor, personagem, voz)
+            novo = ler_livro(texto, slug, raiz)
+        except (ValueError, yaml.YAMLError) as e:
+            raise HTTPException(400, str(e)) from e
+        arquivo.write_text(texto, encoding="utf-8")
+        return {"aviso": separar_com_aviso(novo)}
 
     @app.put("/api/livros/{slug}/config")
     def salvar_config(slug: str, corpo: Texto) -> dict:

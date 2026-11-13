@@ -211,7 +211,7 @@ def test_catalogo_e_mapa_de_vozes(projeto):
         r = c.get("/api/catalogo/heygen")
         livro = c.get("/api/livros/ex").json()
     assert r.status_code == 200
-    assert r.json()["vozes"] == [{"id": "X", "nome": "Yuri", "idioma": "Portuguese", "genero": "male", "amostra": "https://x/y.mp3"}]
+    assert r.json()["vozes"] == [{"id": "X", "nome": "Yuri", "idioma": "Portuguese", "genero": "male", "amostra": "https://x/y.mp3", "idade": "", "sotaque": "", "descricao": ""}]
     assert livro["mapa_vozes"] == {"Narrador": "N", "Fonoti": "X"}
     assert livro["idioma_catalogo"] == "Portuguese"
 
@@ -450,3 +450,67 @@ def test_imagem_ia_sem_chave_responde_400(cliente, monkeypatch):
     r = cliente.post("/api/livros/ex/videos/avatares/imagem-ia", json={"personagem": "Narrador", "nome": "N"})
     assert r.status_code == 400
     assert "OPENAI_API_KEY" in r.json()["detail"]
+
+
+def test_escolha_canonica_atualiza_manifestos_sem_sintese(cliente, projeto, provedor):
+    cliente.post('/api/livros/ex/tarefas', json={'etapa': 'separar'})
+    cliente.tarefas.aguardar(5)
+    r = cliente.put('/api/livros/ex/voz', json={'personagem': 'Ele', 'voz': 'nova', 'provedor': 'heygen'})
+    assert r.status_code == 200, r.text
+    livro = cliente.get('/api/livros/ex').json()
+    assert livro['mapa_vozes']['Fonoti'] == 'nova'
+    assert livro['mapa_vozes']['Narrador'] == 'N'
+    manifesto = json.loads((projeto / 'livros/ex/manifesto/cap_001.json').read_text())
+    assert manifesto[0]['voz'] == 'nova'
+    assert manifesto[1]['voz'] == 'N'
+    assert '# comentário mantido' in (projeto / 'livros/ex/livro.yaml').read_text()
+    assert provedor.textos == []
+
+
+@pytest.mark.parametrize('pedido,codigo', [
+    ({'personagem': 'Fonoti', 'voz': 'nova', 'provedor': 'openrouter'}, 409),
+    ({'personagem': 'inexistente', 'voz': 'nova', 'provedor': 'heygen'}, 400),
+    ({'personagem': 'Fonoti', 'voz': ' ', 'provedor': 'heygen'}, 400),
+])
+def test_escolha_invalida_nao_altera_livro(cliente, projeto, pedido, codigo):
+    path = projeto / 'livros/ex/livro.yaml'
+    antes = path.read_bytes()
+    assert cliente.put('/api/livros/ex/voz', json=pedido).status_code == codigo
+    assert path.read_bytes() == antes
+
+
+def test_voz_propria_nova_vale_para_todos_os_capitulos(cliente, projeto):
+    pasta = projeto / 'livros/ex'
+    (pasta / 'roteiro/cap_002.txt').write_text('Kamille: Outro capítulo.')
+    rodar(cliente, 'separar')
+    resposta = cliente.put('/api/livros/ex/voz', json={'personagem': 'Kamille', 'voz': 'K', 'provedor': 'heygen'})
+    assert resposta.status_code == 200
+    for nome in ('cap_001', 'cap_002'):
+        falas = json.loads((pasta / f'manifesto/{nome}.json').read_text())
+        assert next(f for f in falas if f['personagem'] == 'Kamille')['voz'] == 'K'
+
+
+def test_voz_nao_muda_durante_uma_etapa(cliente, projeto):
+    import threading
+
+    fim = threading.Event()
+    cliente.tarefas.iniciar({'livro': 'ex', 'etapa': 'sintetizar'}, lambda emitir: fim.wait(5))
+    path = projeto / 'livros/ex/livro.yaml'
+    antes = path.read_bytes()
+    try:
+        resposta = cliente.put('/api/livros/ex/voz', json={'personagem': 'Narrador', 'voz': 'nova', 'provedor': 'heygen'})
+        assert resposta.status_code == 409
+        assert path.read_bytes() == antes
+    finally:
+        fim.set()
+        cliente.tarefas.aguardar(5)
+
+
+def test_player_fixo_e_script_disponiveis(cliente):
+    html = cliente.get('/').text
+    assert 'id="reprodutor"' in html
+    assert html.index('src="reprodutor.js"') < html.index('src="app.js"')
+    resposta = cliente.get('/reprodutor.js')
+    assert resposta.status_code == 200
+    assert 'class ReprodutorAudio' in resposta.text
+    assert resposta.headers['cache-control'] == 'no-cache'

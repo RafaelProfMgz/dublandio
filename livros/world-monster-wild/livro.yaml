@@ -8,11 +8,51 @@ idioma: pt
 personagens: [Brann, Nessa, Brasa, Veyra, Oren, Sila, Tami, Mira, Pell, Tessk, Hadrek, Tor, Crane, Dita, Lio, Gorrim, Wessel, Selma, Osmar, Irena, Maren, Tadeu, Dace, Mãe Duna]
 
 # Nome que aparece no roteiro -> nome canônico (o que tem voz).
-apelidos: {}
+# "Brasa." é o Brasa com ponto; os verbos em 1ª pessoa são falas do Ilian, que é o Narrador.
+apelidos:
+  Brasa.: Brasa
+  Me: Narrador
+  Minha: Narrador
+  Apontei: Narrador
+  Apontei.: Narrador
+  Olhei: Narrador
+  Levantei: Narrador
+  Levantei.: Narrador
+  Engoli.: Narrador
+  Subi: Narrador
+  Tirei: Narrador
+  Apertei: Narrador
+  Encostei: Narrador
 
 # Personagem sem voz aqui usa a do Narrador. Escolha vozes na aba Catálogo da interface.
+# O Narrador é o Ilian (narra em 1ª pessoa). Vozes únicas para quem mais fala ou pesa
+# na história; os demais ficam com a do Narrador.
 vozes:
   heygen:
-    Narrador: 049413e41c334753984c294d694afb5c  # lucian
+    Narrador: 049413e41c334753984c294d694afb5c  # lucian: Ilian, 19, observador, humor seco
+    Nessa: e808da2329754929803c8bd98dc36857     # lucilene (pt): coordenadora, 22, clara e confiável
+    Brann: 9ce5f601f9e04382bb26141d5a3f839d     # afonso (pt): mentor, 51, bonachão e sábio
+    Brasa: d703f08d1ef34302a36945aa3efc7b3f     # murilo (pt): Palico que fala demais
+    Veyra: aa9746e325ff46d482a54fe5bc87890f     # meredith: comandante, 42, fria e de poucas palavras
+    Maren: 83548de556df48ba8c09c42a57c51d85     # nadine: a velha pastora, calma
+    Tessk: 826be797681d4b1a92042b54b3c75c64     # gareth: guia Vashti, 23, sarcástico e curioso
+    Pell: 742d54da82fb46a8be11480d9ec6e3c3      # weston: ecólogo, 26, doce e medroso
+    Tami: 75300849b571414c8d62693289cb6509      # sabrina: arqueira, 18, sorri para todo mundo
+    Crane: fca00394b42949c2a939acd456e3291f     # bram: cientista, 58, voz macia de professor
+    Sila: a8c7b58e38c44719b3ab36342f080e95      # thaís (pt): arqueira, 24, arrogante e afiada
+    Dita: a6752292cd204ac4a80a25fb575b1327      # tabitha: carregadora, 16
   openrouter:
+    # A reserva só tem estas vozes; as pt (lucilene, afonso, murilo, thaís) não existem
+    # nela, então esses personagens usam a mais parecida, repetindo outra voz.
     Narrador: lucian
+    Nessa: nadine
+    Brann: weston
+    Brasa: gareth
+    Veyra: meredith
+    Maren: nadine
+    Tessk: gareth
+    Pell: weston
+    Tami: sabrina
+    Crane: bram
+    Sila: meredith
+    Dita: tabitha

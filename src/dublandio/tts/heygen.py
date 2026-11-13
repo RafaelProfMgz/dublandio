@@ -82,6 +82,9 @@ class HeyGen:
                 idioma=v.get("language") or "",
                 genero=v.get("gender") or "",
                 amostra=v.get("preview_audio") or None,
+                idade=str(v.get("age") or ""),
+                sotaque=str(v.get("accent") or ""),
+                descricao=str(v.get("description") or ""),
             )
             for v in (resp.json().get("data") or {}).get("voices") or []
             if v.get("voice_id")

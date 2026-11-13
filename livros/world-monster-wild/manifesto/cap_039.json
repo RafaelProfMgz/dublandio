@@ -8,7 +8,7 @@
   {
     "ordem": 2,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Não fui eu"
   },
   {
@@ -74,13 +74,13 @@
   {
     "ordem": 13,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Isto não é pata de Palico"
   },
   {
     "ordem": 14,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Palico pisa com peso. Com dignidade."
   },
   {
@@ -92,7 +92,7 @@
   {
     "ordem": 16,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Isto é pata de quem não come direito."
   },
   {
@@ -103,7 +103,7 @@
   },
   {
     "ordem": 18,
-    "personagem": "Apontei.",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Dois"
   },
@@ -115,7 +115,7 @@
   },
   {
     "ordem": 20,
-    "personagem": "Apontei.",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Um maior e um menor. O menor carregava alguma coisa comprida; está vendo aqui, onde tem um risco do lado das pegadas, como se arrastasse?"
   },
@@ -127,7 +127,7 @@
   },
   {
     "ordem": 22,
-    "personagem": "Apontei.",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Ele levava a colher na boca, e a ponta batia no chão."
   },
@@ -176,13 +176,13 @@
   {
     "ordem": 30,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Comandante, é uma colher."
   },
   {
     "ordem": 31,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "É o Cinzal."
   },
   {
@@ -194,7 +194,7 @@
   {
     "ordem": 33,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Faz dois dias que uma coisa passou a meio caminho daqui e deixou o chão de vidro. Não."
   },
   {
@@ -224,19 +224,19 @@
   {
     "ordem": 38,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Eu sou uma pessoa"
   },
   {
     "ordem": 39,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Você é um gato."
   },
   {
     "ordem": 40,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Um gato é uma pessoa. A Guilda diz. Tem papel."
   },
   {
@@ -248,13 +248,13 @@
   {
     "ordem": 42,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Até onde a torre do meio vê"
   },
   {
     "ordem": 43,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Nenhum passo além. Levem a Seikret. E voltem antes de o sol tocar o paredão, Kest."
   },
   {
@@ -266,13 +266,13 @@
   {
     "ordem": 45,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Antes. Não na hora. Antes."
   },
   {
     "ordem": 46,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Sim, Comandante."
   },
   {
@@ -296,13 +296,13 @@
   {
     "ordem": 50,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Como você sabe?"
   },
   {
     "ordem": 51,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Eu dei besouro para um. Quando eu era pequeno."
   },
   {
@@ -314,7 +314,7 @@
   {
     "ordem": 53,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Ele levou o meu pente também."
   },
   {
@@ -344,13 +344,13 @@
   {
     "ordem": 58,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Como você sabe?"
   },
   {
     "ordem": 59,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Porque é o que eu faria."
   },
   {
@@ -434,7 +434,7 @@
   {
     "ordem": 73,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Não é para você"
   },
   {
@@ -446,7 +446,7 @@
   {
     "ordem": 75,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "O besouro. Eles não querem que o de fora dê. Querem que o gato dê. Me dá."
   },
   {
@@ -470,13 +470,13 @@
   {
     "ordem": 79,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Eu entendo uma palavra em três"
   },
   {
     "ordem": 80,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "A minha avó falava assim quando brigava com o meu avô."
   },
   {
@@ -488,19 +488,19 @@
   {
     "ordem": 82,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Acho que ele disse que a colher é deles agora, porque estava em cima de um fogo e tudo que está em cima de um fogo é de quem pegar primeiro. Ou disse que eu tenho cheiro de peixe. Uma das duas."
   },
   {
     "ordem": 83,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Pergunta qual."
   },
   {
     "ordem": 84,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Ilian, eu entendo uma palavra em três."
   },
   {
@@ -530,7 +530,7 @@
   {
     "ordem": 89,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Ele se lembra de mim"
   },
   {
@@ -542,7 +542,7 @@
   {
     "ordem": 91,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Ele contou para eles. Do peixe."
   },
   {
@@ -566,13 +566,13 @@
   {
     "ordem": 95,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Ele está dizendo o nome dela"
   },
   {
     "ordem": 96,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Da Seiva. Eu acho."
   },
   {
@@ -584,7 +584,7 @@
   {
     "ordem": 98,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Brasa… alguma coisa. Brasa que vai na frente. Brasa que mostra."
   },
   {
@@ -596,7 +596,7 @@
   {
     "ordem": 100,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Brasa-guia. Acho que é isso. Brasa-guia."
   },
   {
@@ -608,13 +608,13 @@
   {
     "ordem": 102,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Ele me deu o que guia eles"
   },
   {
     "ordem": 103,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Por um peixe."
   },
   {
@@ -638,7 +638,7 @@
   {
     "ordem": 107,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Ilian! Eles têm fogo!"
   },
   {
@@ -680,19 +680,19 @@
   {
     "ordem": 114,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "O que foi?"
   },
   {
     "ordem": 115,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Nada."
   },
   {
     "ordem": 116,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Brasa."
   },
   {
@@ -734,7 +734,7 @@
   {
     "ordem": 123,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "É a Seiva"
   },
   {
@@ -746,7 +746,7 @@
   {
     "ordem": 125,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "O calor da Seiva. Não queima por fora. Cozinha por dentro, devagar. E a folha. Que folha é essa?"
   },
   {
@@ -758,7 +758,7 @@
   {
     "ordem": 127,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Eu não conheço essa folha. Eu conheço todas as folhas."
   },
   {
@@ -788,7 +788,7 @@
   {
     "ordem": 132,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Rá"
   },
   {
@@ -800,7 +800,7 @@
   {
     "ordem": 134,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Rá."
   },
   {
@@ -854,19 +854,19 @@
   {
     "ordem": 143,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "É um nome"
   },
   {
     "ordem": 144,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Eles me deram um nome. Da língua deles."
   },
   {
     "ordem": 145,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Qual?"
   },
   {
@@ -878,13 +878,13 @@
   {
     "ordem": 147,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "E o que quer dizer?"
   },
   {
     "ordem": 148,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Eu não sei."
   },
   {
@@ -896,7 +896,7 @@
   {
     "ordem": 150,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Não é uma das palavras que eu entendo. A minha avó nunca disse essa."
   },
   {
@@ -908,7 +908,7 @@
   {
     "ordem": 152,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Pode ser amigo. Pode ser o que traz pimenta. Pode ser gordo."
   },
   {
@@ -920,7 +920,7 @@
   {
     "ordem": 154,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Com a sorte que eu tenho, é gordo."
   },
   {
@@ -956,13 +956,13 @@
   {
     "ordem": 160,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Ele quer que você veja"
   },
   {
     "ordem": 161,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Não que você fique. Ele disse olha. Essa eu entendo."
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "ordem": 169,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Onde"
   },
   {
@@ -1022,7 +1022,7 @@
   {
     "ordem": 171,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Brasa. Pergunta onde ele achou."
   },
   {
@@ -1052,13 +1052,13 @@
   {
     "ordem": 176,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Lá embaixo"
   },
   {
     "ordem": 177,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Ele disse lá embaixo."
   },
   {

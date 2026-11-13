@@ -13,6 +13,12 @@
 </head>
 <body>
   <svg class="sprite" aria-hidden="true" focusable="false">
+    <symbol id="i-play" viewBox="0 0 24 24"><path d="m8 5 11 7-11 7z" fill="currentColor" stroke="none"/></symbol>
+    <symbol id="i-pause" viewBox="0 0 24 24"><path d="M7 5h4v14H7zM14 5h4v14h-4z" fill="currentColor" stroke="none"/></symbol>
+    <symbol id="i-anterior" viewBox="0 0 24 24"><path d="M5 5h3v14H5zM19 5 9 12l10 7z" fill="currentColor" stroke="none"/></symbol>
+    <symbol id="i-proximo" viewBox="0 0 24 24"><path d="M16 5h3v14h-3zM5 5l10 7-10 7z" fill="currentColor" stroke="none"/></symbol>
+    <symbol id="i-volume" viewBox="0 0 24 24"><path d="M11 4 6 8H3v8h3l5 4zM15 8a6 6 0 0 1 0 8M18 5a10 10 0 0 1 0 14"/></symbol>
+    <symbol id="i-mudo" viewBox="0 0 24 24"><path d="M11 4 6 8H3v8h3l5 4zM16 9l6 6M22 9l-6 6"/></symbol>
     <symbol id="i-livro" viewBox="0 0 24 24"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/></symbol>
     <symbol id="i-mais" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
     <symbol id="i-capitulos" viewBox="0 0 24 24"><path d="M9 6h12M9 12h12M9 18h12"/><path d="M4 6h.01M4 12h.01M4 18h.01" stroke-width="3"/></symbol>
@@ -80,6 +86,34 @@
 
   <div id="aviso" class="aviso" role="status" hidden></div>
 
+  <section id="reprodutor" class="reprodutor" aria-label="Reprodutor de áudio" hidden>
+    <div class="reprodutor-faixa">
+      <div class="reprodutor-capa" aria-hidden="true"><svg class="icone"><use href="#i-catalogo"/></svg></div>
+      <div class="reprodutor-info">
+        <strong data-player="titulo"></strong>
+        <span data-player="subtitulo"></span>
+        <span data-player="estado" class="somente-leitor" role="status"></span>
+      </div>
+    </div>
+    <div class="reprodutor-centro">
+      <div class="reprodutor-controles">
+        <button data-player="anterior" class="reprodutor-botao" type="button" aria-label="Áudio anterior" disabled><svg class="icone" aria-hidden="true"><use href="#i-anterior"/></svg></button>
+        <button data-player="play" class="reprodutor-botao reprodutor-play" type="button" aria-label="Reproduzir áudio"><svg class="icone" aria-hidden="true"><use data-player="icone" href="#i-play"/></svg></button>
+        <button data-player="proximo" class="reprodutor-botao" type="button" aria-label="Próximo áudio" disabled><svg class="icone" aria-hidden="true"><use href="#i-proximo"/></svg></button>
+      </div>
+      <div class="reprodutor-tempo">
+        <span data-player="decorrido">0:00</span>
+        <input data-player="posicao" class="reprodutor-range" type="range" min="0" max="1" step="0.1" value="0" aria-label="Posição da reprodução" disabled>
+        <span data-player="duracao">--:--</span>
+      </div>
+    </div>
+    <div class="reprodutor-volume">
+      <button data-player="mudo" class="reprodutor-botao" type="button" aria-label="Silenciar áudio"><svg class="icone" aria-hidden="true"><use data-player="volumeIcone" href="#i-volume"/></svg></button>
+      <input data-player="volume" class="reprodutor-range" type="range" min="0" max="100" step="1" value="100" aria-label="Volume">
+    </div>
+  </section>
+
+  <script src="reprodutor.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

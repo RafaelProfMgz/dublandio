@@ -1,0 +1,20 @@
+{
+  "origem": "/home/angel/Documentos/livros/o_bom_detetive/05_manuscrito/roteiro/vol1/cap_000.md",
+  "sha256_origem": "9bf9460613804d055c08cfb34a4bdc28166bcb6cd97123ba849ff175604533a4",
+  "capitulo_aplicativo": "cap_001",
+  "falas": 152,
+  "personagens": {
+    "Narrador": 104,
+    "Nell Tasker": 14,
+    "Pybus": 14,
+    "Sra. Agnes Gaunt": 16,
+    "Margaret Marchbank": 4
+  },
+  "pendentes": 83,
+  "falas_em_cache": 69,
+  "audios_anteriores": [
+    "livros/o-bom-detetive/audio/anteriores/20261113T203209681043Z/cap_001.wav",
+    "livros/o-bom-detetive/audio/anteriores/20261113T203209681043Z/cap_001.falas.json"
+  ],
+  "sintese_executada": false
+}

@@ -32,7 +32,7 @@
   {
     "ordem": 6,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Todo mundo no convés!"
   },
   {
@@ -44,7 +44,7 @@
   {
     "ordem": 8,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Quem tem braço, no convés! Carga solta! Amarrem tudo o que se mexe!"
   },
   {
@@ -152,7 +152,7 @@
   {
     "ordem": 26,
     "personagem": "Crane",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "fca00394b42949c2a939acd456e3291f",
     "texto": "PELL! A MALETA! PELL!"
   },
   {
@@ -200,7 +200,7 @@
   {
     "ordem": 34,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Alguém!"
   },
   {
@@ -212,7 +212,7 @@
   {
     "ordem": 36,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "ALGUÉM!"
   },
   {
@@ -224,7 +224,7 @@
   {
     "ordem": 38,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Chefe"
   },
   {
@@ -236,31 +236,31 @@
   {
     "ordem": 40,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Chefe, você vai subir, não vai?"
   },
   {
     "ordem": 41,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Não."
   },
   {
     "ordem": 42,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Vai, sim."
   },
   {
     "ordem": 43,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Eu não consigo, Brasa. Eu não consigo nem olhar para a amurada."
   },
   {
     "ordem": 44,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Eu sei."
   },
   {
@@ -272,7 +272,7 @@
   {
     "ordem": 46,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Mas vai."
   },
   {
@@ -284,7 +284,7 @@
   {
     "ordem": 48,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Então vem comigo."
   },
   {
@@ -314,7 +314,7 @@
   {
     "ordem": 53,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Isso. Isso, chefe. Olha para mim. Só para mim."
   },
   {
@@ -332,7 +332,7 @@
   {
     "ordem": 56,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Chefe."
   },
   {
@@ -344,13 +344,13 @@
   {
     "ordem": 58,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Chefe, conta alguma coisa."
   },
   {
     "ordem": 59,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "O quê?"
   },
   {
@@ -439,7 +439,7 @@
   },
   {
     "ordem": 74,
-    "personagem": "Subi",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Pell."
   },
@@ -451,20 +451,20 @@
   },
   {
     "ordem": 76,
-    "personagem": "Subi",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Pell, sou eu. Kest. Abre o olho."
   },
   {
     "ordem": 77,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Não."
   },
   {
     "ordem": 78,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Abre o olho. Olha para mim. Não para baixo. Para mim."
   },
   {
@@ -494,7 +494,7 @@
   {
     "ordem": 83,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Não!"
   },
   {
@@ -506,7 +506,7 @@
   {
     "ordem": 85,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Não posso. Ninguém pode..."
   },
   {
@@ -577,8 +577,8 @@
   },
   {
     "ordem": 97,
-    "personagem": "Brasa.",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "personagem": "Brasa",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Chefe!"
   },
   {
@@ -589,8 +589,8 @@
   },
   {
     "ordem": 99,
-    "personagem": "Brasa.",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "personagem": "Brasa",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "A rede! A rede está indo!"
   },
   {
@@ -602,13 +602,13 @@
   {
     "ordem": 101,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Desce comigo."
   },
   {
     "ordem": 102,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Eu não consigo..."
   },
   {
@@ -632,19 +632,19 @@
   {
     "ordem": 106,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "O quê?"
   },
   {
     "ordem": 107,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Conta comigo. Uma."
   },
   {
     "ordem": 108,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Uma"
   },
   {
@@ -656,7 +656,7 @@
   {
     "ordem": 110,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "Duas."
   },
   {
@@ -698,7 +698,7 @@
   {
     "ordem": 117,
     "personagem": "Crane",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "fca00394b42949c2a939acd456e3291f",
     "texto": "ROLOU!"
   },
   {
@@ -710,7 +710,7 @@
   {
     "ordem": 119,
     "personagem": "Crane",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "fca00394b42949c2a939acd456e3291f",
     "texto": "VIRAM? ELE ROLOU! EU ENSINEI ISSO!"
   },
   {
@@ -746,7 +746,7 @@
   {
     "ordem": 125,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "O senhor viu alguma coisa que o interessou, senhor Kest?"
   },
   {
@@ -758,7 +758,7 @@
   {
     "ordem": 127,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Só chuva, doutor."
   },
   {

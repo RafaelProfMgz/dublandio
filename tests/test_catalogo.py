@@ -52,6 +52,19 @@ def test_cache_valido_nao_precisa_de_chave(tmp_path):
     assert len(vozes) == 4
 
 
+def test_cache_antigo_sem_metadados_continua_legivel(tmp_path):
+    import json
+
+    cache = tmp_path / '.cache/catalogo/heygen.json'
+    cache.parent.mkdir(parents=True)
+    cache.write_text(json.dumps([{'id': 'v', 'nome': 'Ana', 'idioma': 'Portuguese',
+                                 'genero': 'female', 'amostra': None}]))
+    def nao_buscar(nome):
+        raise AssertionError('o cache válido não deve depender de rede')
+    vozes, _ = carregar_catalogo('heygen', nao_buscar, tmp_path)
+    assert (vozes[0].idade, vozes[0].sotaque, vozes[0].descricao) == ('', '', '')
+
+
 def test_provedor_sem_lista(tmp_path):
     class SoSintetiza:
         nome = "openrouter"

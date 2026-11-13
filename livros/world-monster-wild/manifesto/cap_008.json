@@ -26,7 +26,7 @@
   {
     "ordem": 5,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Chefe"
   },
   {
@@ -38,13 +38,13 @@
   {
     "ordem": 7,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "É a luz."
   },
   {
     "ordem": 8,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Não tem luz. Está nublado."
   },
   {
@@ -74,7 +74,7 @@
   {
     "ordem": 13,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Nem para mijar"
   },
   {
@@ -92,7 +92,7 @@
   {
     "ordem": 16,
     "personagem": "Tami",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "75300849b571414c8d62693289cb6509",
     "texto": "Kest com Varn."
   },
   {
@@ -122,13 +122,13 @@
   {
     "ordem": 21,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Ela não vai fugir"
   },
   {
     "ordem": 22,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Não tem para onde."
   },
   {
@@ -140,7 +140,7 @@
   {
     "ordem": 24,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "E ele precisa aprender a andar do lado de gente perigosa."
   },
   {
@@ -158,7 +158,7 @@
   {
     "ordem": 27,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Vai na frente, pastor"
   },
   {
@@ -170,7 +170,7 @@
   {
     "ordem": 29,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Dizem que você é bom nisso."
   },
   {
@@ -206,13 +206,13 @@
   {
     "ordem": 35,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Brasa."
   },
   {
     "ordem": 36,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Estou só dizendo."
   },
   {
@@ -224,7 +224,7 @@
   {
     "ordem": 38,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Que foi?"
   },
   {
@@ -254,7 +254,7 @@
   {
     "ordem": 43,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Sila"
   },
   {
@@ -266,7 +266,7 @@
   {
     "ordem": 45,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Os sapos pararam."
   },
   {
@@ -277,7 +277,7 @@
   },
   {
     "ordem": 47,
-    "personagem": "Levantei",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Tem alguma coisa grande na água"
   },
@@ -289,7 +289,7 @@
   },
   {
     "ordem": 49,
-    "personagem": "Levantei",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Grande mesmo. Passou por aqui faz menos de uma hora. Anda de quatro, apoiada nas mãos fechadas. E carrega pedra."
   },
@@ -301,7 +301,7 @@
   },
   {
     "ordem": 51,
-    "personagem": "Levantei",
+    "personagem": "Narrador",
     "voz": "049413e41c334753984c294d694afb5c",
     "texto": "Precisamos avisar a Comandante."
   },
@@ -320,13 +320,13 @@
   {
     "ordem": 54,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Sila..."
   },
   {
     "ordem": 55,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "A gente pega a estaca e volta. Você vai chorando para a Comandante no caminho."
   },
   {
@@ -338,7 +338,7 @@
   {
     "ordem": 57,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Se tiver alguma coisa na água, eu atiro nela. É para isso que eu sirvo. Descartável."
   },
   {
@@ -368,7 +368,7 @@
   {
     "ordem": 62,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Pronto, pastor. Ninguém morreu."
   },
   {
@@ -398,7 +398,7 @@
   {
     "ordem": 67,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Chatacabra"
   },
   {
@@ -434,13 +434,13 @@
   {
     "ordem": 73,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Recuem"
   },
   {
     "ordem": 74,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Devagar. Carregadores primeiro."
   },
   {
@@ -482,7 +482,7 @@
   {
     "ordem": 81,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "SAI DA FRENTE!"
   },
   {
@@ -566,7 +566,7 @@
   {
     "ordem": 95,
     "personagem": "Dita",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
     "texto": "BRASA!"
   },
   {
@@ -596,7 +596,7 @@
   {
     "ordem": 100,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "TEM GOSTO DE PÉ!"
   },
   {
@@ -656,7 +656,7 @@
   {
     "ordem": 110,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Garoto"
   },
   {
@@ -668,7 +668,7 @@
   {
     "ordem": 112,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Eu sei"
   },
   {
@@ -692,7 +692,7 @@
   {
     "ordem": 116,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Amanhã. Cinco da manhã. No pátio."
   },
   {
@@ -704,7 +704,7 @@
   {
     "ordem": 118,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Vou te ensinar a cair. Depois, se você sobreviver, a segurar uma espada. Nessa ordem."
   },
   {
@@ -716,7 +716,7 @@
   {
     "ordem": 120,
     "personagem": "Dita",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
     "texto": "Perdi o fardo."
   },
   {
@@ -746,19 +746,19 @@
   {
     "ordem": 125,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Você entrou na minha linha"
   },
   {
     "ordem": 126,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Eu sei."
   },
   {
     "ordem": 127,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Eu tinha o olho dele. A quarta flecha ia no olho."
   },
   {
@@ -770,7 +770,7 @@
   {
     "ordem": 129,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Da próxima vez que você entrar na minha linha, pastor, eu atiro através de você."
   },
   {
@@ -788,13 +788,13 @@
   {
     "ordem": 132,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Os sapos"
   },
   {
     "ordem": 133,
     "personagem": "Sila",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "a8c7b58e38c44719b3ab36342f080e95",
     "texto": "Você ouviu os sapos antes de mim."
   },
   {
@@ -848,7 +848,7 @@
   {
     "ordem": 142,
     "personagem": "Pell",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
     "texto": "De quê, doutor?"
   },
   {
@@ -866,25 +866,25 @@
   {
     "ordem": 145,
     "personagem": "Crane",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "fca00394b42949c2a939acd456e3291f",
     "texto": "Senhor Kest"
   },
   {
     "ordem": 146,
     "personagem": "Crane",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "fca00394b42949c2a939acd456e3291f",
     "texto": "Disseram-me que foi o senhor quem percebeu o animal antes de todos."
   },
   {
     "ordem": 147,
     "personagem": "Crane",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "fca00394b42949c2a939acd456e3291f",
     "texto": "Foram os sapos, doutor. Pararam de coaxar."
   },
   {
     "ordem": 148,
     "personagem": "Crane",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "fca00394b42949c2a939acd456e3291f",
     "texto": "Ah. Os sapos."
   },
   {
@@ -896,7 +896,7 @@
   {
     "ordem": 150,
     "personagem": "Crane",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "fca00394b42949c2a939acd456e3291f",
     "texto": "Só os sapos? Não ouviu mais nada? Nenhum... outro som?"
   },
   {
@@ -908,7 +908,7 @@
   {
     "ordem": 152,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Não, senhor"
   },
   {
@@ -920,13 +920,13 @@
   {
     "ordem": 154,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Só os sapos."
   },
   {
     "ordem": 155,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Claro."
   },
   {
@@ -938,7 +938,7 @@
   {
     "ordem": 157,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Claro que não. Cuide desse braço, senhor Kest. Vamos precisar de todos os braços."
   },
   {
@@ -980,7 +980,7 @@
   {
     "ordem": 164,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "De pé! Todo mundo de pé! Ordem da Comandante!"
   },
   {
@@ -992,7 +992,7 @@
   {
     "ordem": 166,
     "personagem": "Maren",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
     "texto": "Os ventos abriram. Partimos ao amanhecer."
   },
   {

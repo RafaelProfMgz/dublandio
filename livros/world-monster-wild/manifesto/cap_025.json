@@ -26,19 +26,19 @@
   {
     "ordem": 5,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Chefe. Pergunta agora."
   },
   {
     "ordem": 6,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Quanto tem?"
   },
   {
     "ordem": 7,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Farinha para hoje. Carne seca para amanhã, se ninguém mastigar. Depois, nada."
   },
   {
@@ -50,7 +50,7 @@
   {
     "ordem": 9,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "A comandante disse quatro dias ontem. Eu fiz milagre. Milagre acaba."
   },
   {
@@ -74,7 +74,7 @@
   {
     "ordem": 13,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Comandante. Eu queria sair."
   },
   {
@@ -86,7 +86,7 @@
   {
     "ordem": 15,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Sair para quê?"
   },
   {
@@ -110,7 +110,7 @@
   {
     "ordem": 19,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Se tiver musgo, você vai curar o que o doutor não curou."
   },
   {
@@ -122,7 +122,7 @@
   {
     "ordem": 21,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Não sei"
   },
   {
@@ -134,7 +134,7 @@
   {
     "ordem": 23,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "A minha mãe morreu de febre. A barba-de-pedra não salvou ela."
   },
   {
@@ -158,13 +158,13 @@
   {
     "ordem": 27,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Sem autorização, não se caça. E ninguém sai sozinho."
   },
   {
     "ordem": 28,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Então você não sai sozinho. Leva o Palico e a Seikret."
   },
   {
@@ -176,19 +176,19 @@
   {
     "ordem": 30,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Volta antes de o sol tocar as Coroas. Não entra na floresta. Não segue nada que não caiba numa panela. Se vir alguma coisa maior que um Jagras, você não pensa, você volta. Entendeu?"
   },
   {
     "ordem": 31,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Sim, senhora."
   },
   {
     "ordem": 32,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "E, Kest."
   },
   {
@@ -200,7 +200,7 @@
   {
     "ordem": 34,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Se você morrer lá fora, quem fica com ela na descida?"
   },
   {
@@ -230,13 +230,13 @@
   {
     "ordem": 39,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Que tipo de bicho?"
   },
   {
     "ordem": 40,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "De pasto. Grande. Suado."
   },
   {
@@ -248,7 +248,7 @@
   {
     "ordem": 42,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "E de outro, que come o de pasto."
   },
   {
@@ -284,13 +284,13 @@
   {
     "ordem": 48,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Brasa. O outro cheiro. O que come o de pasto."
   },
   {
     "ordem": 49,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Está por toda parte, chefe."
   },
   {
@@ -302,7 +302,7 @@
   {
     "ordem": 51,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Mais velho que o dos grandes. Mas por toda parte."
   },
   {
@@ -440,13 +440,13 @@
   {
     "ordem": 74,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Pedi."
   },
   {
     "ordem": 75,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Três caçadores me devolveram, chefe. Nenhum deles pedia desculpa para o bicho."
   },
   {
@@ -458,7 +458,7 @@
   {
     "ordem": 77,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Eu gosto que você pede."
   },
   {
@@ -488,25 +488,25 @@
   {
     "ordem": 82,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Isso é bom?"
   },
   {
     "ordem": 83,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Não sei. Minha mãe achava que era."
   },
   {
     "ordem": 84,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "E curou ela?"
   },
   {
     "ordem": 85,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Não."
   },
   {
@@ -542,13 +542,13 @@
   {
     "ordem": 91,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "Jagras"
   },
   {
     "ordem": 92,
     "personagem": "Brasa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
     "texto": "O cheiro. É esse."
   },
   {
@@ -602,7 +602,7 @@
   {
     "ordem": 101,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Antes de o sol tocar as Coroas."
   },
   {
@@ -614,7 +614,7 @@
   {
     "ordem": 103,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Sim, senhora."
   },
   {
@@ -662,13 +662,13 @@
   {
     "ordem": 111,
     "personagem": "Nessa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "e808da2329754929803c8bd98dc36857",
     "texto": "O senhor acha que ajuda?"
   },
   {
     "ordem": 112,
     "personagem": "Nessa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "e808da2329754929803c8bd98dc36857",
     "texto": "Acho que não faz mal, Kest."
   },
   {
@@ -680,7 +680,7 @@
   {
     "ordem": 114,
     "personagem": "Nessa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "e808da2329754929803c8bd98dc36857",
     "texto": "É mais do que se pode dizer da maioria das coisas."
   },
   {
@@ -722,7 +722,7 @@
   {
     "ordem": 121,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Olha para baixo, garoto. Não para a floresta. Para o chão. Entre nós e ela."
   },
   {
@@ -734,7 +734,7 @@
   {
     "ordem": 123,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Vê as trilhas?"
   },
   {
@@ -746,13 +746,13 @@
   {
     "ordem": 125,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Não é o bicho de pasto que fez isso"
   },
   {
     "ordem": 126,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Ele passa, vai embora. Isso é de quem mora. De quem anda por aqui todo dia. Todo dia, o mesmo caminho."
   },
   {
@@ -764,7 +764,7 @@
   {
     "ordem": 128,
     "personagem": "Brann",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
     "texto": "Ali, no pé daquela pedra. Está vendo o risco? Na casca daquela árvore preta, a primeira. Três riscos, na altura do meu peito."
   },
   {
@@ -776,7 +776,7 @@
   {
     "ordem": 130,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Marca. Quem arranha ali está dizendo: é meu. Até aqui."
   },
   {
@@ -788,7 +788,7 @@
   {
     "ordem": 132,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Território, garoto, é uma casa. Tem a porta, tem a cozinha, tem o quarto onde se dorme. A fonte é a cozinha deles. A carcaça que você achou é a mesa. E a gente…"
   },
   {
@@ -800,7 +800,7 @@
   {
     "ordem": 134,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "A gente está acampado na cozinha deles"
   },
   {
@@ -812,7 +812,7 @@
   {
     "ordem": 136,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Na cozinha. Com carne fresca no fogo."
   },
   {
@@ -824,7 +824,7 @@
   {
     "ordem": 138,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Cheirando a Talioth até lá embaixo."
   },
   {
@@ -836,7 +836,7 @@
   {
     "ordem": 140,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Como o senhor sabe de tudo isso?"
   },
   {
@@ -848,7 +848,7 @@
   {
     "ordem": 142,
     "personagem": "Veyra",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
     "texto": "Só de olhar?"
   },
   {
@@ -926,7 +926,7 @@
   {
     "ordem": 155,
     "personagem": "Nessa",
-    "voz": "049413e41c334753984c294d694afb5c",
+    "voz": "e808da2329754929803c8bd98dc36857",
     "texto": "Oskel?"
   },
   {

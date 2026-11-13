@@ -1,0 +1,1400 @@
+[
+  {
+    "ordem": 1,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O guarda barrou a passagem de Ashcombe antes de ver a chave."
+  },
+  {
+    "ordem": 2,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Estava sentado no corredor leste, com o livro de entradas apoiado numa cadeira de braço e um lampião aos pés. Levantou-se, recolheu o caderno e procurou uma página que os dedos já tinham amolecido na margem. Ashcombe esperou que a encontrasse. Atrás dele, Cecily segurava a saia para não arrastá-la sobre os pingos brancos no tapete."
+  },
+  {
+    "ordem": 3,
+    "personagem": "Guarda Bly",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Preciso saber seu nome, senhor."
+  },
+  {
+    "ordem": 4,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Ashcombe. O seu?"
+  },
+  {
+    "ordem": 5,
+    "personagem": "Guarda Bly",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Bly, senhor."
+  },
+  {
+    "ordem": 6,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A chave continuava na palma enluvada. Bly se inclinou para ler a etiqueta, conferiu a assinatura e mostrou uma linha no livro: «Segunda cópia, em poder de Lady Honoria»."
+  },
+  {
+    "ordem": 7,
+    "personagem": "Guarda Bly",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O inspetor mandou anotar se fosse entregue a outra pessoa."
+  },
+  {
+    "ordem": 8,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Então já temos uma ocupação para ambos."
+  },
+  {
+    "ordem": 9,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O guarda escreveu o nome. No corredor, a porta do quarto de Margaret se abriu apenas o suficiente para mostrar uma faixa de vestido preto. Cecily soltou a barra da saia."
+  },
+  {
+    "ordem": 10,
+    "personagem": "Cecily Marchbank",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Foi minha mãe quem lhe deu acesso, Margaret. O inspetor já sabe que ele vinha."
+  },
+  {
+    "ordem": 11,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A porta voltou a encostar. O trinco não encaixou."
+  },
+  {
+    "ordem": 12,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe pediu que Bly mantivesse o lampião onde estava e se agachou diante da fechadura. Abaixo do buraco, uma linha curva atravessava o metal escurecido. A ponta da ranhura levantava uma lasca do verniz da madeira, ainda presa por uma extremidade."
+  },
+  {
+    "ordem": 13,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Quem tentou usar uma chave no escuro?"
+  },
+  {
+    "ordem": 14,
+    "personagem": "Guarda Bly",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Não fui eu, senhor."
+  },
+  {
+    "ordem": 15,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Fico satisfeito. Não era uma acusação."
+  },
+  {
+    "ordem": 16,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Cecily se aproximou. Ele ergueu a chave da matriarca sem introduzi-la na fechadura. A extremidade alcançava a parte inferior da placa, onde a ranhura começava."
+  },
+  {
+    "ordem": 17,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Do fim da galeria vieram duas vozes e o som de um fecho de metal sendo apertado. Garside apareceu com Tunstall. Trazia a maleta contra o quadril e o chapéu na mão; a borda de um papel saía pelo vão que o fecho deixara aberto."
+  },
+  {
+    "ordem": 18,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "O senhor é Ashcombe."
+  },
+  {
+    "ordem": 19,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "E o senhor é o homem que assina as etiquetas. Inspetor Garside, suponho."
+  },
+  {
+    "ordem": 20,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Garside examinou o ponto em que ele estava agachado."
+  },
+  {
+    "ordem": 21,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Já vi o risco. Está no meu registro."
+  },
+  {
+    "ordem": 22,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "E o que fez com ele?"
+  },
+  {
+    "ordem": 23,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Impedi que o mordomo mandasse polir a placa. Posso ver a chave?"
+  },
+  {
+    "ordem": 24,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe a entregou. O inspetor conferiu o metal e devolveu a peça pela haste, sem tocar na etiqueta."
+  },
+  {
+    "ordem": 25,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "A outra fica comigo. E esta vai voltar ao livro quando o senhor terminar. A família pode lhe oferecer os quartos; os objetos desta sala não são presentes."
+  },
+  {
+    "ordem": 26,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Garside abriu a maleta sobre a cadeira do guarda. Dentro dela havia o embrulho da chave e uma relação de objetos em que a última entrada estava sublinhada. Ashcombe acompanhou a ordem das folhas antes de se voltar para Cecily."
+  },
+  {
+    "ordem": 27,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "A família entregou todas as cópias?"
+  },
+  {
+    "ordem": 28,
+    "personagem": "Cecily Marchbank",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Minha mãe entregou a relação. Eu não sabia que guardava uma."
+  },
+  {
+    "ordem": 29,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "A que o senhor tem na mão foi apresentada esta manhã. A do ocupante continua faltando. Procurei nos bolsos, nos móveis e pedi à médica que verificasse as roupas."
+  },
+  {
+    "ordem": 30,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "E a cópia permaneceu com a família."
+  },
+  {
+    "ordem": 31,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Permaneceu identificada, do lado de fora de uma sala com guarda. Seria mais útil no meu bolso?"
+  },
+  {
+    "ordem": 32,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe examinou a assinatura na etiqueta outra vez. Bly tinha deixado a página aberta para ele rubricar o recebimento. O detetive assinou por extenso, traçando o último sobrenome sobre a linha que o guarda lhe oferecia."
+  },
+  {
+    "ordem": 33,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Se desaparecer mais uma chave, espero que o senhor considere a pergunta de novo."
+  },
+  {
+    "ordem": 34,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Se desaparecer esta, vou fazê-la ao senhor."
+  },
+  {
+    "ordem": 35,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Cecily se afastou para dar lugar ao inspetor. Pediu a Bly que mandasse chamar a criada quando pudessem ouvi-la e desceu antes de a porta ser aberta."
+  },
+  {
+    "ordem": 36,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Tunstall puxou a cadeira para deixar a passagem livre. Ashcombe abriu o caderno preto e anotou uma linha antes de se levantar."
+  },
+  {
+    "ordem": 37,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Por favor, sargento, não pise na cera."
+  },
+  {
+    "ordem": 38,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O homem parou com uma bota suspensa sobre o tapete. Recuou até a parte descoberta do piso. Garside pediu a Bly que anotasse os presentes, e o guarda precisou virar a folha para caberem todos."
+  },
+  {
+    "ordem": 39,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A cópia girou sem resistência. Ashcombe deixou a porta aberta e esperou o lampião iluminar o interior."
+  },
+  {
+    "ordem": 40,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O tampo da escrivaninha conservava duas marcas claras onde as mãos do morto haviam impedido a poeira de se depositar. A cadeira vazia estava afastada da mesa. No tapete, um chinelo tombado apontava para a lareira. O outro estava de pé, perto da cadeira. A grelha guardava cinza escura e um pedaço de carvão que não terminara de queimar."
+  },
+  {
+    "ordem": 41,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Garside indicou a posição original do corpo. Tunstall mostrou onde ficara o lampião de Pybus. Ashcombe passou entre os dois sem tirar as luvas, até chegar à janela."
+  },
+  {
+    "ordem": 42,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A lingueta estava fechada. Poeira preenchia a junta entre a moldura e a madeira; num canto, o fio de uma teia prendia as duas partes. Do lado de fora, o vidro refletia os rostos dos homens. Ashcombe inclinou o lampião até conseguir ver a parede que descia sem varanda para o pátio."
+  },
+  {
+    "ordem": 43,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Alguma outra entrada?"
+  },
+  {
+    "ordem": 44,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Não. Inspecionei a lareira. O conduto estreita antes de chegar à parte que um homem precisaria atravessar."
+  },
+  {
+    "ordem": 45,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Que pena. As famílias preferem que seus problemas entrem pela chaminé."
+  },
+  {
+    "ordem": 46,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O inspetor retirou duas folhas da maleta. Uma delas era o depoimento assinado por Nell. A outra trazia um desenho da sala com os móveis numerados."
+  },
+  {
+    "ordem": 47,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Leia antes de perguntar a mesma coisa à menina. Ela já perdeu trabalho bastante."
+  },
+  {
+    "ordem": 48,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe recebeu o depoimento e permaneceu junto ao lampião enquanto o lia. O polegar parou sobre a palavra «dentro», riscada com uma linha e substituída por uma descrição da porta. Ao chegar aos números da fita, recuou até o início do parágrafo."
+  },
+  {
+    "ordem": 49,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "A governanta mediu o corpo?"
+  },
+  {
+    "ordem": 50,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Braço, antebraço e canela. A médica conferiu por fora ontem. Precisa abrir para afirmar o que existe por dentro."
+  },
+  {
+    "ordem": 51,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "E a porta?"
+  },
+  {
+    "ordem": 52,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Trancada. Não escrevi que foi o ocupante quem trancou."
+  },
+  {
+    "ordem": 53,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe devolveu a folha. No relógio francês, os cupidos sustentavam um mostrador que marcava dezoito e vinte e oito. Hollis entrou com a caixa dos instrumentos e consultou o próprio relógio antes de pousá-la."
+  },
+  {
+    "ordem": 54,
+    "personagem": "Hollis Brand",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "Dezoito e vinte e seis, senhor. O do hall acompanhava o meu quando passei."
+  },
+  {
+    "ordem": 55,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Garside conferiu o relógio de bolso. Os ponteiros concordavam com os de Hollis."
+  },
+  {
+    "ordem": 56,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Ninguém acerte este aqui."
+  },
+  {
+    "ordem": 57,
+    "personagem": "Sargento Joseph Tunstall",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O mordomo faz isso aos domingos."
+  },
+  {
+    "ordem": 58,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Amanhã terá de encontrar outra forma de passar o tempo."
+  },
+  {
+    "ordem": 59,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe contornou a escrivaninha. Havia uma garrafa pela metade, um copo limpo e uma pequena bandeja de prata com vela apagada e um bastão de lacre verde. A pena permanecia no tinteiro. O mata-borrão ocupava o meio exato da mesa, entre as marcas em que as mãos tinham repousado."
+  },
+  {
+    "ordem": 60,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Hollis abriu a caixa no chão, longe do tapete. A dobradiça emperrou. Ele segurou a tampa com a base da mão, soltou o fecho com o polegar e encontrou a lente para a qual o patrão estendia a mão."
+  },
+  {
+    "ordem": 61,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe voltou à porta. Examinou a placa interna, aproximou a lente e percorreu a borda da fechadura até a madeira. Em seguida pediu a Garside a chave usada pelo mordomo."
+  },
+  {
+    "ordem": 62,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O inspetor retirou um embrulho. No papel, além da data, havia o nome de quem a entregara. Ashcombe leu, abriu a dobra sem rasgá-la e alinhou as duas peças sobre uma folha limpa."
+  },
+  {
+    "ordem": 63,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A cabeça da chave de Pybus era mais simples. A ponta tinha uma borda arredondada; a da cópia de Honoria terminava num canto estreito. Ashcombe pediu a Tunstall que segurasse o lampião junto à placa externa e aproximou a primeira chave sem tocar na madeira."
+  },
+  {
+    "ordem": 64,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O sargento inclinou o lampião para enxergar."
+  },
+  {
+    "ordem": 65,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "A cópia de Honoria tem um canto que pode ter feito o risco. A chave-mestra é arredondada. Quero comparar também a do ocupante."
+  },
+  {
+    "ordem": 66,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Não foi encontrada."
+  },
+  {
+    "ordem": 67,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Dentro da fechadura também não estava. Sua testemunha viu através dela."
+  },
+  {
+    "ordem": 68,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Isso não prova que a porta foi trancada por fora. Um homem pode tirar uma chave depois de fechar."
+  },
+  {
+    "ordem": 69,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe pediu a cópia de volta e tornou a comparar a placa dos dois lados. No interior havia círculos antigos de desgaste. Do lado do corredor, a curva clara terminava na lasca de verniz."
+  },
+  {
+    "ordem": 70,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Pode. Pode até guardá-la. Onde?"
+  },
+  {
+    "ordem": 71,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Garside abriu a folha do inventário. Os bolsos do roupão estavam vazios. A chave não aparecia nos móveis, no chão nem entre as roupas retiradas por Pell."
+  },
+  {
+    "ordem": 72,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Alguém entrou ou saiu usando uma chave que ainda falta. Fez esta marca ao procurar o buraco. A chave que a criada viu abrir a sala está conosco; falta a que ficava por dentro. Aqui, ninguém precisaria procurar a fechadura à luz da mesa. E não há outro caminho para sair."
+  },
+  {
+    "ordem": 73,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Tunstall levou os olhos até a janela."
+  },
+  {
+    "ordem": 74,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "O risco pode ser anterior à morte."
+  },
+  {
+    "ordem": 75,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "A madeira exposta está limpa. A placa não foi limpa; o senhor cuidou disso. Uma marca antiga teria recebido a mesma poeira que as bordas. A criada não achou chave por dentro, e o homem já estava imóvel quando ela chegou. O que temos é uma porta trancada por outra pessoa. Precisaremos saber quando, mas não há razão para construir uma fuga impossível para um morto."
+  },
+  {
+    "ordem": 76,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Tunstall juntou as mãos sobre a barriga. A maleta de Garside tinha ficado aberta no chão, e a folha com os horários escorregara até a borda. Ashcombe a apanhou antes que caísse."
+  },
+  {
+    "ordem": 77,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Aqui está o intervalo em que ninguém guardou a porta."
+  },
+  {
+    "ordem": 78,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Em que o nome não estava na relação. O sargento completou hoje de manhã."
+  },
+  {
+    "ordem": 79,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Tunstall mostrou o próprio caderno. Entre meio-dia e duas de sexta, ele estivera no corredor, enquanto recolhiam nomes e preparavam o corpo para o transporte. Na relação da família, aquele período ficara em branco; as anotações do policial ocupavam o verso de outra folha. Bly assinara a passagem de guarda às duas."
+  },
+  {
+    "ordem": 80,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe leu o verso e colocou os papéis na ordem das horas."
+  },
+  {
+    "ordem": 81,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "O senhor podia tê-los prendido juntos, inspetor."
+  },
+  {
+    "ordem": 82,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Foi o que tentei fazer antes de vir buscar a minha chave."
+  },
+  {
+    "ordem": 83,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O inspetor recolheu o embrulho e esperou que a chave-mestra fosse devolvida. Ashcombe a pousou no papel. A cópia da família continuou sobre a folha limpa."
+  },
+  {
+    "ordem": 84,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "A menina diz que a mão estava parada. Ainda não podemos afirmar que ele já tivesse morrido."
+  },
+  {
+    "ordem": 85,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe aproximou da cópia o desenho da sala. Indicou a janela, a porta, a cadeira e a linha entre esta e a lareira. Nenhuma passagem ligava o gabinete ao quarto do ocupante."
+  },
+  {
+    "ordem": 86,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Se Augustus trancou por dentro e morreu, a chave precisa ficar aqui. Para sair, trancar por fora e voltar, precisaria de uma entrada que o senhor não encontrou. Basta que outra pessoa tenha retirado a chave e fechado a porta ao sair. Essa hipótese não exige uma passagem escondida nem um defunto que engula chaves."
+  },
+  {
+    "ordem": 87,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Exige saber que ele morreu antes de trancarem."
+  },
+  {
+    "ordem": 88,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "A criada viu a mão imóvel, o mordomo abriu a porta e encontrou o corpo. Temos uma chave retirada e uma marca recente do lado do corredor. É por aí que vou procurar. Se a autópsia disser outra coisa, o senhor terá a satisfação de me apresentar o laudo."
+  },
+  {
+    "ordem": 89,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Garside conferiu o desenho. Seu lápis fez um pequeno traço junto à cadeira, sem apagar a posição anterior. Anotou a hipótese na margem, separada da descrição do que encontrara."
+  },
+  {
+    "ordem": 90,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Guardou a porta desde ontem. Na quinta, guardaram-na de quem?"
+  },
+  {
+    "ordem": 91,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Garside conteve a mão antes de fechar o embrulho."
+  },
+  {
+    "ordem": 92,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Quem voltou para trancar tinha uma razão para fechar a sala. A morte não a explica. Um homem morto não reclama de visitas."
+  },
+  {
+    "ordem": 93,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Hollis levantou a caixa para afastá-la da passagem. Tunstall a ajudou sem receber ordem. Garside amarrou o embrulho, conferiu o nó e pediu que chamassem o mordomo."
+  },
+  {
+    "ordem": 94,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Pybus parou junto à cadeira vazia. A faixa de poeira que a separava da parede ficava a poucos centímetros da barra de seu casaco. Ashcombe ocupou o lado oposto da escrivaninha."
+  },
+  {
+    "ordem": 95,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Que horas eram quando abriu a porta?"
+  },
+  {
+    "ordem": 96,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Meia-noite e doze, senhor."
+  },
+  {
+    "ordem": 97,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A pena de Garside deixou um ponto no papel. No depoimento de Nell, a passagem pelo hall estava marcada às vinte e três e quarenta e sete."
+  },
+  {
+    "ordem": 98,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "No relógio do gabinete?"
+  },
+  {
+    "ordem": 99,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "No meu, senhor."
+  },
+  {
+    "ordem": 100,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Mostre."
+  },
+  {
+    "ordem": 101,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Pybus retirou o relógio. A corrente deslizou pelo colete, e o mordomo o sustentou aberto para que Ashcombe comparasse os ponteiros aos de Hollis. Coincidiam dentro do tempo que demoraram para aproximá-los."
+  },
+  {
+    "ordem": 102,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Foi acertado hoje?"
+  },
+  {
+    "ordem": 103,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Não, senhor."
+  },
+  {
+    "ordem": 104,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Na quinta, estava certo?"
+  },
+  {
+    "ordem": 105,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Sim, senhor."
+  },
+  {
+    "ordem": 106,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe fez uma anotação no caderno preto. Não corrigiu a hora do depoimento nem a do mordomo."
+  },
+  {
+    "ordem": 107,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "O sargento encontrou o corpo onde a criada o viu?"
+  },
+  {
+    "ordem": 108,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Sim, senhor."
+  },
+  {
+    "ordem": 109,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Não foi vestido nem mudado de cadeira?"
+  },
+  {
+    "ordem": 110,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Não, senhor."
+  },
+  {
+    "ordem": 111,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "As roupas foram retiradas na casa da médica. A cadeira foi afastada para passar o corpo; está anotado no desenho."
+  },
+  {
+    "ordem": 112,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe colocou a folha de Nell ao lado da descrição do sargento. A palavra «roupão» aparecia nos dois papéis, com grafias diferentes. Uniu os cantos para comparar as posições das mãos."
+  },
+  {
+    "ordem": 113,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "O senhor sabia que a chave particular tinha desaparecido?"
+  },
+  {
+    "ordem": 114,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Não a encontrei, senhor."
+  },
+  {
+    "ordem": 115,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Perguntarei também a quem procurou a última vez. Quero o nome de cada pessoa que mexeu nesta mesa antes de a polícia chegar."
+  },
+  {
+    "ordem": 116,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O mordomo apertou os lábios; a prótese se ajustou com um pequeno estalo. Garside ergueu os olhos até ele e deixou espaço na linha que acabara de começar."
+  },
+  {
+    "ordem": 117,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Estava na cama quando a menina foi buscá-lo?"
+  },
+  {
+    "ordem": 118,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Recolhido, senhor."
+  },
+  {
+    "ordem": 119,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Ela encontrou a cama feita. O senhor apareceu de casaco de serviço e luvas. Uma forma exigente de repouso."
+  },
+  {
+    "ordem": 120,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Pybus manteve o relógio aberto até Ashcombe lhe indicar que podia guardá-lo. Ao recolher a corrente, um dos elos se prendeu no botão; soltou-o com a unha sem baixar a cabeça."
+  },
+  {
+    "ordem": 121,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "O que o patrão fazia quando o senhor entrou às nove e meia?"
+  },
+  {
+    "ordem": 122,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Escrevia, senhor."
+  },
+  {
+    "ordem": 123,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Onde estava o papel em que escrevia, quando voltou?"
+  },
+  {
+    "ordem": 124,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Pela primeira vez, Pybus girou o rosto em direção à mesa. O olhar passou pela pena, pelo mata-borrão e pela bandeja de lacrar. Não havia carta sobre o tampo."
+  },
+  {
+    "ordem": 125,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Não reparei, senhor."
+  },
+  {
+    "ordem": 126,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Garside separou uma linha nova no caderno. O mordomo aguardava junto à cadeira, com os dedos reunidos na costura da luva."
+  },
+  {
+    "ordem": 127,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Pode chamar a governanta. E não deixe ninguém limpar esse tapete."
+  },
+  {
+    "ordem": 128,
+    "personagem": "Pybus",
+    "voz": "kbxy8S61KI1ZTJZFHKQV",
+    "texto": "Sim, senhor."
+  },
+  {
+    "ordem": 129,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ao sair, Pybus segurou a porta até ela ficar inteiramente aberta. Não tocou na maçaneta do lado do corredor."
+  },
+  {
+    "ordem": 130,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Gaunt veio com Nell, embora a ordem fosse chamar apenas a governanta. A menina trazia a tampa de um bule sobre um pires e procurou onde pousá-los até Tunstall lhe oferecer a cadeira."
+  },
+  {
+    "ordem": 131,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Está esperando para saber se deve levar o jantar ao senhor."
+  },
+  {
+    "ordem": 132,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Brand sabe onde me encontrar. Tasker, pode deixar o pires fora da sala, por favor?"
+  },
+  {
+    "ordem": 133,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Nell saiu para o corredor. A governanta acompanhou o movimento da menina até Garside perguntar pela fita."
+  },
+  {
+    "ordem": 134,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Uma fita de costura. Queria saber de quanto pano precisaríamos."
+  },
+  {
+    "ordem": 135,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Para vestir o morto?"
+  },
+  {
+    "ordem": 136,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Para a mortalha, senhor."
+  },
+  {
+    "ordem": 137,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "As mãos permaneciam juntas sobre o avental. Na direita, a luva de pano tinha um remendo junto à base do polegar. Na esquerda, um ponto malfeito repuxava a mesma região, mas o tecido não se abrira."
+  },
+  {
+    "ordem": 138,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Mede uma mortalha pelo braço, pelo antebraço e pela canela?"
+  },
+  {
+    "ordem": 139,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "A menina estava aflita. Não sabe dizer o que viu."
+  },
+  {
+    "ordem": 140,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Garside ergueu o depoimento assinado. Gaunt se voltou para ele, e Ashcombe indicou o papel que a médica entregara ao inspetor com as primeiras observações."
+  },
+  {
+    "ordem": 141,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "A médica conferiu os segmentos. É curioso: a menina se enganou justamente nas partes que outra pessoa encontrou iguais. Deixou de medir a altura? A largura dos ombros?"
+  },
+  {
+    "ordem": 142,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A governanta soltou as mãos para alisar o avental."
+  },
+  {
+    "ordem": 143,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Não terminei. O Sr. Pybus mandou a menina descer."
+  },
+  {
+    "ordem": 144,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Ele interrompeu a medição ou mandou a menina descer?"
+  },
+  {
+    "ordem": 145,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Garside anotou as duas perguntas. O relógio francês continuava adiantado em relação ao de Hollis. Da porta, Nell levantou o pires; a tampa bateu na louça e ela os separou com um dedo."
+  },
+  {
+    "ordem": 146,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "Não pensei que fossem precisar de tudo isso para permitir um enterro."
+  },
+  {
+    "ordem": 147,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Está guardada a fita?"
+  },
+  {
+    "ordem": 148,
+    "personagem": "Sra. Agnes Gaunt",
+    "voz": "83548de556df48ba8c09c42a57c51d85",
+    "texto": "No meu avental, senhor."
+  },
+  {
+    "ordem": 149,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Conserve-a. Por enquanto, a menina fica."
+  },
+  {
+    "ordem": 150,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Gaunt retirou a fita e a pôs sobre a mesa lateral antes de sair. O rolo amarelo permaneceu com a ponta para cima, preso por um alfinete. Tunstall o cobriu com uma folha depois de Garside registrar a entrega."
+  },
+  {
+    "ordem": 151,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe pediu a Nell que entrasse. A menina começou a explicar que não teria feito Gaunt perder trabalho se o inspetor não tivesse insistido em ouvi-la."
+  },
+  {
+    "ordem": 152,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "A senhora que acabou de sair sabe ler números. Não foi a senhorita quem escolheu quais ela mediu."
+  },
+  {
+    "ordem": 153,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Nell ficou segurando o pires até Hollis aparecer na porta e tomá-lo de suas mãos. Ashcombe abriu o depoimento na linha em que constava o que ela vira pela fechadura."
+  },
+  {
+    "ordem": 154,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Era esta a posição da cadeira?"
+  },
+  {
+    "ordem": 155,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ela confirmou. Mostrou onde estava a mão direita e corrigiu Tunstall quando ele indicou a outra borda da mesa. Augustus estava mais próximo do mata-borrão; os dedos quase o tocavam."
+  },
+  {
+    "ordem": 156,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Parecia que tinha acabado de pôr as mãos ali, senhor. Não estava caído para a frente."
+  },
+  {
+    "ordem": 157,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe puxou a própria cadeira e se sentou. A altura da escrivaninha lhe deixou os antebraços apoiados com folga. Para manter as costas na posição descrita, precisou afastar o corpo do tampo."
+  },
+  {
+    "ordem": 158,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Quem o endireitou?"
+  },
+  {
+    "ordem": 159,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Já estava assim quando o Sr. Pybus abriu."
+  },
+  {
+    "ordem": 160,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Os homens que o retiraram confirmaram isso. Tiveram de separar os braços da mesa para levantá-lo."
+  },
+  {
+    "ordem": 161,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O detetive baixou as mãos sobre o papel em branco que Hollis estendera diante dele. Olhou a distância entre os próprios punhos e, em seguida, a borda do mata-borrão. Não anotou medida alguma."
+  },
+  {
+    "ordem": 162,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Tasker, quando o encontrou, quem mais estava no corredor?"
+  },
+  {
+    "ordem": 163,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Ninguém, senhor."
+  },
+  {
+    "ordem": 164,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "E quando desceu?"
+  },
+  {
+    "ordem": 165,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A menina começou por Pybus e terminou na porta de Margaret. Ao repetir a pergunta da viúva, mordeu a parte interna do lábio."
+  },
+  {
+    "ordem": 166,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Eu não tinha dito. Só falei que era o patrão, e ela perguntou se estava morto."
+  },
+  {
+    "ordem": 167,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Garside virou uma página. Ashcombe deixou que Nell terminasse sem repetir a pergunta."
+  },
+  {
+    "ordem": 168,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Era para eu ter chamado antes, senhor?"
+  },
+  {
+    "ordem": 169,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Antes de quê?"
+  },
+  {
+    "ordem": 170,
+    "personagem": "Nell Tasker",
+    "voz": "a6752292cd204ac4a80a25fb575b1327",
+    "texto": "Se eu tivesse feito primeiro o gabinete. Se não tivesse passado pela sala de bilhar."
+  },
+  {
+    "ordem": 171,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O inspetor parou de escrever. Nell manteve os pés juntos sobre a parte descoberta do piso, protegendo a meia rasgada com a borda do sapato."
+  },
+  {
+    "ordem": 172,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Na hora em que o encontrou, já não respondia. Ao abrir, o mordomo o achou frio. Não há no seu relato uma ocasião em que a senhorita pudesse ter feito alguma coisa para impedi-lo."
+  },
+  {
+    "ordem": 173,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ela ficou junto à porta até o inspetor recolher as folhas. Hollis abriu passagem, e a menina fez uma reverência curta, sem apoiar todo o peso no pé esquerdo."
+  },
+  {
+    "ordem": 174,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe acrescentou duas palavras ao caderno e riscou a segunda. Quando tornou a abri-lo, para falar com Margaret, Garside ainda segurava a pena sem escrever."
+  },
+  {
+    "ordem": 175,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Margaret não quis entrar no gabinete. Ficou do lado de fora, junto à porta do quarto, e pediu que afastassem o lampião de seu rosto."
+  },
+  {
+    "ordem": 176,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe saiu para falar com ela. Garside o acompanhou; Tunstall permaneceu à porta da sala, perto o suficiente para ouvir. Nell foi dispensada para a cozinha, onde Hollis deixara o pires."
+  },
+  {
+    "ordem": 177,
+    "personagem": "Margaret Marchbank",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Minha cunhada disse que o senhor vinha ajudar. Não pensei que começasse trazendo as criadas para nos acusar."
+  },
+  {
+    "ordem": 178,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "A senhorita Tasker descreveu uma porta, uma mão e uma conversa. Ainda não há acusação alguma."
+  },
+  {
+    "ordem": 179,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Margaret apertava um lenço em torno do dedo indicador. Ao dobrar o punho do vestido, descobriu uma mancha clara na manga da camisola que ainda usava por baixo. Ashcombe aproximou o lampião do tapete, sem movê-lo na direção dela."
+  },
+  {
+    "ordem": 180,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Os pingos de cera formavam uma linha interrompida entre as duas portas. Perto do quarto, um deles se alongara numa ponta; mais adiante, a forma era redonda. Ashcombe se agachou, tirou uma luva e recolheu, com a lâmina de um canivete, um fragmento já solto da borda. Deixou-o no papel que Garside abriu para receber e se levantou."
+  },
+  {
+    "ordem": 181,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "A senhora se levantou naquela noite."
+  },
+  {
+    "ordem": 182,
+    "personagem": "Margaret Marchbank",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Quando ouvi as vozes. Foi o que disse ao inspetor."
+  },
+  {
+    "ordem": 183,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "E antes?"
+  },
+  {
+    "ordem": 184,
+    "personagem": "Margaret Marchbank",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Fiquei no meu quarto. Não saí desde o jantar."
+  },
+  {
+    "ordem": 185,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "A menina viu uma vela em sua mão. Ainda está no castiçal?"
+  },
+  {
+    "ordem": 186,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A viúva recolheu o braço para dentro da manga preta."
+  },
+  {
+    "ordem": 187,
+    "personagem": "Margaret Marchbank",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Tenho muitas velas, Sr. Ashcombe. Não sei qual delas interessa ao senhor."
+  },
+  {
+    "ordem": 188,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Um pequeno frasco tilintou dentro do bolso de seu vestido quando ela procurou um canto seco do lenço. Garside baixou o lampião para lhe dar menos luz no rosto. A viúva soltou o tecido da boca, mas conservou a mão diante do peito."
+  },
+  {
+    "ordem": 189,
+    "personagem": "Margaret Marchbank",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Meu filho pergunta se pode dormir no próprio quarto. Os homens passam diante da porta dele a noite inteira. Minha filha quer vir ver o lugar em que o pai morreu. O senhor espera que eu saiba ainda o que fizeram com uma vela?"
+  },
+  {
+    "ordem": 190,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Espero que me diga se veio por este corredor."
+  },
+  {
+    "ordem": 191,
+    "personagem": "Margaret Marchbank",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Eles não têm outro pai para perder. Será que podemos deixar as crianças fora disso?"
+  },
+  {
+    "ordem": 192,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Não fizemos perguntas a elas esta noite, senhora."
+  },
+  {
+    "ordem": 193,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Margaret voltou a cabeça para o outro lado da galeria. Uma porta se fechou a distância, e ela esperou o passo de quem a atravessara. Quando ninguém apareceu, tornou a encarar o inspetor."
+  },
+  {
+    "ordem": 194,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Quero ver a vela que a senhora carregava sem pires."
+  },
+  {
+    "ordem": 195,
+    "personagem": "Margaret Marchbank",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Não a tenho mais."
+  },
+  {
+    "ordem": 196,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Garside ergueu a pena."
+  },
+  {
+    "ordem": 197,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Alguém limpou seu quarto hoje?"
+  },
+  {
+    "ordem": 198,
+    "personagem": "Margaret Marchbank",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "As meninas entram. Não fico observando o que fazem com cada resto de vela."
+  },
+  {
+    "ordem": 199,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A porta atrás dela se abriu alguns centímetros. Sobre uma cômoda, Ashcombe distinguiu um castiçal de prata; a borda tinha cera endurecida, mas o encaixe da vela estava vazio. Não podia ver a lareira do quarto."
+  },
+  {
+    "ordem": 200,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Não mande raspar o metal. Talvez seja possível identificar o tipo de cera."
+  },
+  {
+    "ordem": 201,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Margaret levou o lenço à boca. O tecido encontrou o dedo que continuava enrolado nele, e a mão desceu antes de chegar aos lábios."
+  },
+  {
+    "ordem": 202,
+    "personagem": "Margaret Marchbank",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "Acha que uma mulher precisa de motivo para procurar o próprio marido?"
+  },
+  {
+    "ordem": 203,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "A senhora disse que não saiu."
+  },
+  {
+    "ordem": 204,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "A viúva abriu mais a porta para entrar. Ashcombe recuou para deixá-la passar, e o inspetor anotou a resposta seguinte antes de fechar o caderno."
+  },
+  {
+    "ordem": 205,
+    "personagem": "Margaret Marchbank",
+    "voz": "aa9746e325ff46d482a54fe5bc87890f",
+    "texto": "E não saí. Estou tentando entender suas perguntas."
+  },
+  {
+    "ordem": 206,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O trinco encaixou entre eles. Ashcombe tornou a calçar a luva. Uma marca do tapete ficara no joelho de sua calça; ele a retirou com o lenço e guardou o pano separado dos outros objetos."
+  },
+  {
+    "ordem": 207,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Hollis esperava junto à mesa do gabinete. Uma bandeja tampada ocupava a cadeira fora da sala, sob a vigilância de Bly. O criado segurava um papel com duas colunas de horas."
+  },
+  {
+    "ordem": 208,
+    "personagem": "Hollis Brand",
+    "voz": "742d54da82fb46a8be11480d9ec6e3c3",
+    "texto": "O relógio da cozinha adianta quatro minutos. Conferi com o meu. O do hall continua certo; este adianta dois."
+  },
+  {
+    "ordem": 209,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe recebeu o papel. A anotação de cada relógio tinha a hora da comparação ao lado, para que o tempo gasto no caminho não entrasse na diferença."
+  },
+  {
+    "ordem": 210,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "São mecanismos diferentes."
+  },
+  {
+    "ordem": 211,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "E o mesmo homem lhes dá corda. Brand, verifique outra vez amanhã, sem alterar nenhum."
+  },
+  {
+    "ordem": 212,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Tunstall levou a mão à cadeira em que a bandeja aguardava, mas não levantou a tampa. Ashcombe ficou de pé entre a escrivaninha e o lugar onde o morto estivera sentado."
+  },
+  {
+    "ordem": 213,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "O mordomo trouxe comida às nove e meia. Disse que o patrão escrevia. Quem recolheu a bandeja?"
+  },
+  {
+    "ordem": 214,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Garside consultou as folhas."
+  },
+  {
+    "ordem": 215,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Ele mesmo. O prato veio de volta. A bebida ficou."
+  },
+  {
+    "ordem": 216,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "E o papel?"
+  },
+  {
+    "ordem": 217,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Não temos uma relação dos papéis que havia antes da morte."
+  },
+  {
+    "ordem": 218,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe indicou o tinteiro. A pena, ainda no tinteiro, conservava tinta seca na junção entre o metal e a haste. Ao lado, a vela de lacrar deixara uma pequena crosta verde sobre a prata. O mata-borrão tinha uma moldura de couro com um canto rachado; dentro dela, a folha absorvente escurecia no meio."
+  },
+  {
+    "ordem": 219,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Ele não passou a noite olhando para uma pena. Escreveu alguma coisa. A criada viu as duas mãos, separadas, ao lado disto. Onde punha a folha para secar?"
+  },
+  {
+    "ordem": 220,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Hollis abriu uma das gavetas sob a supervisão do inspetor. Havia envelopes, folhas limpas e uma caixa de penas. Garside anotou o conteúdo enquanto Tunstall segurava o lampião."
+  },
+  {
+    "ordem": 221,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe se inclinou sobre o mata-borrão. Um traço de tinta vinha da margem até a parte que a mão esquerda do morto escondera. A figura parecia uma letra, mas a curva se abria para o lado errado. Perto dela havia outra, mais fraca, cortada por uma mancha antiga."
+  },
+  {
+    "ordem": 222,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Isto foi levantado desde quinta?"
+  },
+  {
+    "ordem": 223,
+    "personagem": "Inspetor Thomas Garside",
+    "voz": "fca00394b42949c2a939acd456e3291f",
+    "texto": "Não. Não quis misturar as folhas da mesa antes de saber o que era de quem."
+  },
+  {
+    "ordem": 224,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Ashcombe pediu uma folha limpa. Tirou as luvas e as deixou sobre o próprio caderno. Soltou a borda do papel absorvente com a ponta de uma espátula da caixa de Hollis. O couro não veio junto; a folha se ergueu sem rasgar."
+  },
+  {
+    "ordem": 225,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Do outro lado da mesa, Tunstall tentou acompanhar os sinais inclinando a cabeça."
+  },
+  {
+    "ordem": 226,
+    "personagem": "Sargento Joseph Tunstall",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Está do avesso."
+  },
+  {
+    "ordem": 227,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "O papel recebeu a tinta antes de secar. Considere a possibilidade de que quem escreveu sabia usar uma pena."
+  },
+  {
+    "ordem": 228,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Garside se aproximou, conservando distância suficiente para não tocar na folha. Ashcombe a apoiou sobre papel limpo. Havia linhas sobrepostas de várias cartas, mais escuras junto às margens, quase apagadas no centro. Uma delas atravessava o espaço que ficara entre as mãos do morto."
+  },
+  {
+    "ordem": 229,
+    "personagem": "Lucian Ashcombe",
+    "voz": "9ce5f601f9e04382bb26141d5a3f839d",
+    "texto": "Hollis. Um espelho."
+  },
+  {
+    "ordem": 230,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "O criado foi buscar o de barbear na própria bagagem. Enquanto esperavam, Garside e Tunstall imobilizaram dois cantos da folha com pequenos pesos retirados da caixa. Hollis já deixara papel limpo sob cada um; o metal não tocava na tinta."
+  },
+  {
+    "ordem": 231,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "Quando Hollis voltou, o chá da bandeja já não soltava vapor. Ashcombe segurou o espelho acima da folha e mudou o ângulo até o lampião deixar de se refletir diretamente nele."
+  },
+  {
+    "ordem": 232,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "As primeiras letras se separaram das manchas. Garside parou com a pena a poucos centímetros do caderno. No espelho, a linha dizia:"
+  },
+  {
+    "ordem": 233,
+    "personagem": "Narrador",
+    "voz": "d703f08d1ef34302a36945aa3efc7b3f",
+    "texto": "«…deixo a Ruth Ainsley e ao menino Thomas…»"
+  }
+]
