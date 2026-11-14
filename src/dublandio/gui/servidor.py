@@ -3,6 +3,7 @@
 import json
 import base64
 import os
+import shutil
 import threading
 import time
 import webbrowser
@@ -25,6 +26,7 @@ from dublandio.capitulo_hf import executar_capitulo, preparar_capitulo
 from dublandio.gui.tarefas import Emitir, Ocupado, Tarefas
 from dublandio.novo import criar_livro, importar_livro, parece_capitulo, textos_da_pasta
 from dublandio.preparar import CAP, EXTENSOES, preparar_livro
+from dublandio.projeto_video import analisar_roteiro, criar_projeto
 from dublandio.roteiro import separar_livro
 from dublandio.sintetizar import cadeia_do_livro, sintetizar_capitulo
 from dublandio.tts import VARIAVEIS, ErroConfig, ErroTTS, Provedor, Verificacao, criar_provedor
@@ -100,6 +102,23 @@ class EscolhaAvatar(BaseModel):
 
 class PedidoVideo(BaseModel):
     cap: str
+    gerar_audio: bool = False
+
+
+class RoteiroVideo(BaseModel):
+    texto: str = Field(min_length=1, max_length=1_000_000)
+
+
+class PersonagemVideo(BaseModel):
+    nome: str = Field(min_length=1, max_length=100)
+    voz: str = Field(min_length=1, max_length=300)
+    avatar: str = Field(min_length=1, max_length=14_000_000)
+
+
+class ProjetoVideo(RoteiroVideo):
+    titulo: str = Field(min_length=1, max_length=200)
+    provedor: str = 'heygen'
+    personagens: list[PersonagemVideo] = Field(min_length=1, max_length=100)
 
 
 def criar_app(
@@ -252,9 +271,9 @@ def criar_app(
         except PermissionError as e:
             raise HTTPException(403, f"sem permissão para ler {pasta}") from e
         return {
-            "caminho": str(pasta),
-            "pai": str(pasta.parent) if pasta != raiz_pastas else None,
-            "pastas": [{"nome": p.name, "caminho": str(p)} for p in itens if p.is_dir()],
+            "caminho": pasta.as_posix(),
+            "pai": pasta.parent.as_posix() if pasta != raiz_pastas else None,
+            "pastas": [{"nome": p.name, "caminho": p.as_posix()} for p in itens if p.is_dir()],
             "textos": sum(p.suffix in EXTENSOES for p in itens if p.is_file()),
         }
 
@@ -263,7 +282,7 @@ def criar_app(
         pasta = pasta_permitida(caminho)
         arquivos = textos_da_pasta(pasta)
         return {
-            "caminho": str(pasta),
+            "caminho": pasta.as_posix(),
             "nome": pasta.name,
             # Pasta no padrão cap_NNN: os capítulos já estão nomeados e em ordem.
             "padrao": any("/" not in a and CAP.fullmatch(Path(a).stem) for a in arquivos),
@@ -304,6 +323,29 @@ def criar_app(
             raise HTTPException(400, str(e)) from e
         return preparar_adicionado(lv)
 
+    @app.post('/api/video/roteiro')
+    def previa_roteiro_video(pedido: RoteiroVideo) -> dict:
+        try:
+            return analisar_roteiro(pedido.texto)
+        except ValueError as e:
+            raise HTTPException(400, str(e)) from e
+
+    @app.post('/api/video/projetos')
+    def importar_projeto_video(pedido: ProjetoVideo) -> dict:
+        try:
+            fichas = []
+            total = 0
+            for p in pedido.personagens:
+                imagem = base64.b64decode(p.avatar, validate=True)
+                total += len(imagem)
+                if total > 30_000_000:
+                    raise ValueError('envie até 30 MB de avatares por projeto')
+                fichas.append({'nome': p.nome, 'voz': p.voz, 'avatar': imagem})
+            lv = criar_projeto(raiz, pedido.titulo, pedido.texto, fichas, pedido.provedor)
+        except (ValueError, OSError) as e:
+            raise HTTPException(400, str(e)) from e
+        return {'slug': lv.slug}
+
     @app.get('/api/video/huggingface')
     def chave_video(atualizar: bool = False) -> dict:
         return videos.chave_hf(atualizar)
@@ -322,6 +364,7 @@ def criar_app(
                 except (ValueError, OSError) as e:
                     aviso = str(e)
             lista.append({'cap': cap, 'tem_audio': tem_audio, 'aviso': aviso,
+                          'falas_novas': status.status_capitulo(lv, cap)['pendentes'],
                           'personagens': avatares_livro.personagens_do_capitulo(lv, cap), **p})
         donos = {a['personagem']: a['id'] for a in avatares_livro.listar(lv) if a['personagem']}
         return {'avatares': [{k: v for k, v in a.items() if k != 'caminho'} for a in avatares_livro.listar(lv)],
@@ -396,12 +439,35 @@ def criar_app(
         cap = cap_valido(pedido.cap)
         if not os.getenv('HF_TOKEN'):
             raise HTTPException(400, 'Configure o token do Hugging Face na aba Vídeos.')
+        cadeia = None
         try:
-            preparar_capitulo(lv, int(cap[4:]))
-        except (ValueError, OSError) as e:
+            if pedido.gerar_audio:
+                audio.executavel_ffmpeg()
+                nomes = avatares_livro.personagens_do_capitulo(lv, cap)
+                if not nomes:
+                    raise ValueError('este capítulo não tem falas; confira o roteiro')
+                faltam = set(nomes) - avatares_livro.mapa(lv).keys()
+                if faltam:
+                    raise ValueError('envie um avatar para: ' + ', '.join(sorted(faltam)))
+                # Um progresso existente deve ser retomado com as fontes originais.
+                if (lv.dir / 'video' / 'hf' / cap / 'progresso.json').exists():
+                    raise ValueError('este vídeo já foi preparado; retome com o áudio original')
+                cadeia, _ = cadeia_do_livro(lv, fabrica_provedor)
+            else:
+                preparar_capitulo(lv, int(cap[4:]))
+        except (ValueError, OSError, ErroConfig) as e:
             raise HTTPException(400, str(e)) from e
 
         def trabalho(emitir: Emitir) -> None:
+            if pedido.gerar_audio:
+                emitir({'tipo': 'log', 'mensagem': 'Gerando as falas e montando o áudio do roteiro…'})
+                resultado = sintetizar_capitulo(
+                    lv, lv.dir_manifesto / f'{cap}.json', cadeia, juntar=juntar, espera=espera,
+                    ao_progredir=lambda fala, situacao: emitir({
+                        'tipo': 'log', 'mensagem': f'{fala.personagem}, fala {fala.ordem}: {situacao}'}))
+                if resultado.falhas or resultado.arquivo is None:
+                    raise ValueError('o áudio ficou incompleto; tente novamente para gerar só as falas que faltam')
+                preparar_capitulo(lv, int(cap[4:]))
             def atualizar(mensagem=None):
                 if mensagem:
                     emitir({'tipo': 'log', 'mensagem': mensagem})

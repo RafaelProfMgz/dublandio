@@ -149,6 +149,7 @@ def test_cliente_falha_render_nao_baixa(monkeypatch, tmp_path):
 
 
 def test_montagem_usa_audio_original_codificado_uma_vez(pronto, monkeypatch):
+    monkeypatch.setattr('dublandio.audio.executavel_ffmpeg', lambda: 'ffmpeg')
     trechos = planejar(pronto)
     comandos = []
     def executar(cmd, **kwargs):

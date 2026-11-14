@@ -9,6 +9,7 @@ import time
 import wave
 from pathlib import Path
 
+from dublandio.audio import executavel_ffmpeg
 from dublandio.video import ErroVideo
 
 SPACE_PADRAO = "henrybit/SadTalker-Demo"
@@ -22,7 +23,7 @@ def montar_com_audio_original(render: Path, audio: Path, destino: Path) -> None:
     with tempfile.TemporaryDirectory(dir=destino.parent) as pasta:
         temporario = Path(pasta) / "final.mp4"
         subprocess.run([
-            "ffmpeg", "-y", "-loglevel", "error", "-i", str(render), "-i", str(audio),
+            executavel_ffmpeg(), "-y", "-loglevel", "error", "-i", str(render), "-i", str(audio),
             "-map", "0:v:0", "-map", "1:a:0", "-c:v", "copy", "-c:a", "aac",
             "-t", str(duracao), "-movflags", "+faststart", str(temporario),
         ], check=True)
@@ -39,8 +40,7 @@ def gerar_video_hf(
             raise FileNotFoundError(f"arquivo não encontrado: {arquivo}")
     if not token:
         raise ValueError("HF_TOKEN não definido no .env")
-    if not shutil.which("ffmpeg"):
-        raise ValueError("ffmpeg não encontrado")
+    executavel_ffmpeg()
     try:
         with wave.open(str(audio)) as wav:
             if not wav.getnframes():

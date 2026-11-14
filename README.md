@@ -117,6 +117,39 @@ tests/
 
 ## Vídeos com avatares HeyGen
 
+### Criar vídeo enviando somente roteiro e avatares
+
+Na barra lateral, clique em **Criar vídeo do roteiro**:
+
+1. Dê um título, envie um `.txt`/`.md` em UTF-8 ou cole o roteiro. Use `Nome: fala`,
+   uma fala por linha ou parágrafo; trechos sem nome são do Narrador.
+2. Clique em **Identificar personagens**, escolha o provedor de voz e informe a voz
+   e a foto PNG/JPEG de cada personagem identificado. **Carregar catálogo de vozes**
+   oferece os IDs da HeyGen ou os nomes equivalentes para o OpenRouter.
+3. Salve o projeto. Isso organiza roteiro, manifestos e avatares em `livros/<slug>/`,
+   sem gerar áudio nem consumir créditos.
+4. Na aba Vídeos, configure `HF_TOKEN` e clique em **Gerar áudio e vídeo**.
+   Confira os avatares e a quantidade de falas novas antes de confirmar.
+
+O áudio é sintetizado automaticamente (consome créditos do provedor de voz), e a
+demo SadTalker do Hugging Face anima os rostos com a fala sincronizada. São usadas
+as mesmas cotas e a retomada do fluxo de capítulos descrito abaixo. Não é necessário
+enviar áudio. Se a síntese falhar, as falas prontas ficam em cache; a animação só
+começa quando o áudio do capítulo estiver completo. Use fotos próprias de cada
+personagem e livro. No Windows nativo, FFmpeg precisa estar no PATH; o Docker já o inclui.
+
+Pela CLI, `uv run dublandio novo-video roteiro.txt --titulo "Meu vídeo" --personagens elenco.yaml`
+cria o mesmo projeto, sem cobrar. O `elenco.yaml` associa cada nome do roteiro a
+`voz` (ID da HeyGen ou nome no OpenRouter) e `avatar` (foto relativa à pasta do YAML):
+
+```yaml
+Narrador: {voz: "ID_DA_VOZ", avatar: narrador.png}
+Ana: {voz: "OUTRO_ID", avatar: ana.png}
+```
+
+Depois, abra a aba Vídeos na interface. Para usar OpenRouter na importação pela CLI,
+acrescente `--provedor openrouter`.
+
 O comando `videos` usa **os áudios já gerados**, sem fazer uma nova leitura.
 Cada fala do roteiro identifica o personagem e localiza seu WAV no cache; falas longas
 são cortadas em trechos de até 30 segundos, preservando as amostras originais.

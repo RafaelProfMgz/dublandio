@@ -210,7 +210,7 @@ def juntar(trechos: list[Trecho], partes: list[Path], destino: Path, formato: st
             filtro = (f"scale={largura}:{altura}:force_original_aspect_ratio=decrease,"
                       f"pad={largura}:{altura}:(ow-iw)/2:(oh-ih)/2,setsar=1,fps=30,"
                       f"tpad=stop_mode=clone:stop_duration={trecho.duracao}")
-            subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(video),
+            subprocess.run([audio.executavel_ffmpeg(), "-y", "-loglevel", "error", "-i", str(video),
                             "-map", "0:v:0", "-an", "-vf", filtro,
                             "-frames:v", str(frames), "-c:v", "libx264", "-preset", "fast",
                             "-pix_fmt", "yuv420p",
@@ -221,7 +221,7 @@ def juntar(trechos: list[Trecho], partes: list[Path], destino: Path, formato: st
         lista = pasta / "lista.txt"
         lista.write_text("".join(f"file '{i}.mp4'\n" for i in range(len(partes))), encoding="utf-8")
         final = pasta / "final.mp4"
-        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0",
+        subprocess.run([audio.executavel_ffmpeg(), "-y", "-loglevel", "error", "-f", "concat", "-safe", "0",
                         "-i", str(lista), "-i", str(trilha), "-map", "0:v:0", "-map", "1:a:0",
                         "-c:v", "copy", "-c:a", "aac", "-movflags", "+faststart", str(final)], check=True)
         final.replace(destino)
@@ -230,8 +230,7 @@ def juntar(trechos: list[Trecho], partes: list[Path], destino: Path, formato: st
 def gerar(livro: Livro, trechos: list[Trecho], cliente: HeyGenVideo, ao_progredir=print) -> list[Path]:
     if faltam := sorted({t.personagem for t in trechos if not t.avatar.strip()}):
         raise ValueError(f"configure avatares no livro.yaml para: {', '.join(faltam)}")
-    if not shutil.which("ffmpeg"):
-        raise ValueError("ffmpeg não encontrado")
+    audio.executavel_ffmpeg()
     _, formato, motor = opcoes(livro)
     pasta = livro.dir_cache / "video"
     pasta.mkdir(parents=True, exist_ok=True)

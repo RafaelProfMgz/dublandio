@@ -610,3 +610,10 @@ kbd { font: 12px var(--codigo); border: 1px solid var(--linha-forte); border-bot
   .reprodutor-volume { grid-column: 2; grid-row: 1; }
 }
 @media (prefers-reduced-motion: reduce) { .reprodutor { animation: none; } }
+
+.novo-video { position: static; display: grid; gap: 16px; max-width: 900px; }
+.novo-video label { display: grid; gap: 8px; }
+.novo-video textarea { width: 100%; min-height: 220px; resize: vertical; }
+.novo-video .avatar-lista { max-height: none; overflow: visible; }
+.novo-video .avatar-campos { display: grid; gap: 8px; min-width: 0; }
+.novo-video input[type="file"] { max-width: 100%; }

@@ -125,6 +125,13 @@ async function aoMudarHash() {
   estado.hash = location.hash;
   const { slug, resto } = lerHash();
   $("adicionar-livro").setAttribute("aria-current", slug === NOVO ? "page" : "false");
+  if (slug === "+video") {
+    estado.slug = null;
+    estado.livro = null;
+    renderLateral();
+    telaNovoVideo();
+    return;
+  }
   if (slug === NOVO) {
     estado.slug = null;
     estado.livro = null;
@@ -947,9 +954,9 @@ function telaVideos(l) {
     const url = `/api/livros/${slug}/videos/${c.cap}/arquivo${c.final ? "" : "?parcial=true"}`;
     return h("section", { class: "video-card" },
       h("div", { class: "video-card-topo" }, h("div", {}, h("h3", {}, nomeCap(c.cap)),
-        h("p", { class: c.final ? "ok" : pausado ? "atencao" : "dica" }, c.tem_audio ? rotulo : "Gere o áudio deste capítulo primeiro")),
-        h("button", { class: "botao primario", type: "button", disabled: ocupado || !dados.hf.configurado || !c.tem_audio || c.final,
-          onclick: () => iniciarVideo(c) }, c.final ? "Concluído" : iniciado(c) ? "Retomar vídeo" : "Gerar vídeo")),
+        h("p", { class: c.final ? "ok" : pausado ? "atencao" : "dica" }, c.tem_audio ? rotulo : "O áudio será gerado a partir do roteiro")),
+        h("button", { class: "botao primario", type: "button", disabled: ocupado || !dados.hf.configurado || !c.personagens.length || c.final,
+          onclick: () => iniciarVideo(c) }, c.final ? "Concluído" : iniciado(c) ? "Retomar vídeo" : !c.tem_audio ? "Gerar áudio e vídeo" : "Gerar vídeo")),
       h("progress", { max: 100, value: pct, "aria-label": `Progresso do vídeo do ${nomeCap(c.cap)}` }),
       h("p", { class: "video-tempo" }, `${tempoVideo(c.segundos)} de ${c.total == null ? "—" : tempoVideo(c.total)} · ${pct.toFixed(1)}%`,
         c.avatar_unico ? " · Avatar único (começou antes dos avatares por personagem)" : ""),
@@ -1045,6 +1052,7 @@ function escolherAvatares(cap) {
   const fechado = confirmar(`Avatares do ${nomeCap(cap.cap)}`, [
     h("p", {}, `${plural(cap.personagens.length, "personagem fala", "personagens falam")} neste capítulo. Cada um precisa de um avatar próprio deste livro.`),
     lista, resumo, erro,
+    !cap.tem_audio ? h("p", { class: "atencao" }, `${plural(cap.falas_novas || 0, "fala nova será gerada", "falas novas serão geradas")} no ${estado.livro.provedor}. A síntese de voz consome créditos do provedor. Depois, o vídeo será gerado automaticamente.`) : null,
     h("p", {}, "As fotos e os trechos do áudio serão enviados à demo pública SadTalker no Hugging Face, usando só a cota gratuita."),
   ], "Gerar com a cota disponível");
   $("dialogo").classList.add("largo");
@@ -1208,7 +1216,7 @@ async function iniciarVideo(cap) {
   estado.tarefa = { etapa: "video", livro: slug, total: cap.total || 0, feitas: cap.segundos || 0 };
   render();
   try {
-    const r = await api(`/api/livros/${slug}/videos/tarefas`, { method: "POST", body: JSON.stringify({ cap: cap.cap }) });
+    const r = await api(`/api/livros/${slug}/videos/tarefas`, { method: "POST", body: JSON.stringify({ cap: cap.cap, gerar_audio: !cap.tem_audio }) });
     acompanhar(r.desde);
   } catch (e) { estado.tarefa = null; render(); avisar(e.message, true); }
 }
@@ -1249,6 +1257,105 @@ function telaConfig() {
 }
 
 // ---------- adicionar livro ----------
+
+function telaNovoVideo() {
+  let elenco = [], textoConferido = null, vozes = [];
+  const erro = h("p", { class: "erro-campo", role: "alert", hidden: true });
+  const falhar = (e) => { erro.textContent = e.message; erro.hidden = false; };
+  const titulo = h("input", { class: "campo", required: true, maxlength: 200, "aria-label": "Título do vídeo" });
+  const lista = h("div", { class: "avatar-lista" });
+  const salvar = h("button", { class: "botao primario", type: "submit", disabled: true }, "Salvar projeto e revisar geração");
+  const invalidar = () => {
+    estado.sujo = true;
+    textoConferido = null;
+    salvar.disabled = true;
+    lista.replaceChildren(h("p", { class: "dica" }, "Confira os personagens novamente após alterar o roteiro."));
+  };
+  const roteiro = h("textarea", { class: "campo", rows: 12, maxlength: 1000000, required: true,
+    "aria-label": "Roteiro do vídeo", placeholder: "Narrador: Era uma vez…\nAna: Olá!\nBruno: Oi, Ana!", oninput: invalidar });
+  const provedor = h("select", { class: "campo", "aria-label": "Provedor das vozes", onchange: () => {
+    vozes = [];
+    for (const p of elenco) p.voz = "";
+    estado.sujo = true;
+    desenhar();
+  } }, h("option", { value: "heygen" }, "HeyGen"), h("option", { value: "openrouter" }, "OpenRouter"));
+  const pronto = () => textoConferido === roteiro.value && elenco.length && elenco.every((p) => p.voz.trim() && p.avatar);
+  function desenhar() {
+    salvar.disabled = !pronto();
+    lista.replaceChildren(...elenco.map((p, i) => {
+      const voz = h("input", { class: "campo", value: p.voz, list: `vozes-video-${i}`,
+        "aria-label": `Voz de ${p.nome}`, placeholder: "Escolha no catálogo ou cole o ID da voz",
+        oninput: (e) => { p.voz = e.target.value; estado.sujo = true; salvar.disabled = !pronto(); } });
+      const imagem = h("input", { type: "file", accept: "image/png,image/jpeg", "aria-label": `Avatar de ${p.nome}`,
+        onchange: async (e) => {
+          const f = e.target.files[0];
+          if (!f) return;
+          if (f.size > 10000000) { falhar(new Error("Envie uma imagem de até 10 MB.")); return; }
+          try { p.avatar = await arquivoBase64(f); p.tipo = f.type; estado.sujo = true; desenhar(); }
+          catch (err) { falhar(err); }
+        } });
+      return h("section", { class: "avatar-linha" },
+        p.avatar ? h("img", { class: "rosto grande", src: `data:${p.tipo};base64,${p.avatar}`, alt: `Avatar de ${p.nome}` })
+          : h("span", { class: "rosto sem-rosto grande", "aria-hidden": "true" }, p.nome.slice(0, 1)),
+        h("div", { class: "avatar-campos" }, h("h3", {}, p.nome), h("p", { class: "dica" }, plural(p.falas, "fala", "falas")),
+          h("label", {}, "Voz", voz),
+          h("datalist", { id: `vozes-video-${i}` }, vozes.map((v) => h("option", { value: provedor.value === "heygen" ? v.id : v.nome }, `${v.nome} · ${v.idioma}`))),
+          h("label", {}, "Foto do personagem (PNG ou JPEG, de frente)", imagem)));
+    }));
+  }
+  const arquivo = h("input", { type: "file", accept: ".txt,.md", "aria-label": "Enviar roteiro",
+    onchange: async (e) => {
+      const f = e.target.files[0];
+      if (!f) return;
+      if (f.size > 1000000) { falhar(new Error("Envie um roteiro de até 1 MB.")); return; }
+      try { roteiro.value = await f.text(); invalidar(); }
+      catch (err) { falhar(err); }
+    } });
+  const conferir = h("button", { class: "botao", type: "button", onclick: async () => {
+    conferir.disabled = true;
+    erro.hidden = true;
+    const texto = roteiro.value;
+    try {
+      const r = await api("/api/video/roteiro", { method: "POST", body: JSON.stringify({ texto }) });
+      if (texto !== roteiro.value) return;
+      const anteriores = new Map(elenco.map((p) => [p.nome, p]));
+      elenco = r.personagens.map((p) => ({ voz: "", avatar: null, ...anteriores.get(p.nome), ...p }));
+      textoConferido = texto;
+      desenhar();
+    } catch (err) { falhar(err); }
+    finally { conferir.disabled = false; }
+  } }, "Identificar personagens");
+  const catalogo = h("button", { class: "botao", type: "button", onclick: async () => {
+    catalogo.disabled = true;
+    const escolhido = provedor.value;
+    try {
+      const d = await obterCatalogo("heygen");
+      if (provedor.value === escolhido) { vozes = d.vozes; desenhar(); }
+    } catch (err) { falhar(err); }
+    finally { catalogo.disabled = false; }
+  } }, "Carregar catálogo de vozes");
+  $("principal").replaceChildren(h("h1", {}, "Criar vídeo do roteiro"),
+    h("p", { class: "dica" }, "Envie o roteiro e a foto de cada personagem. O aplicativo gera as vozes e anima os rostos com a fala sincronizada."),
+    h("form", { class: "novo-video painel", onsubmit: async (e) => {
+      e.preventDefault();
+      if (!pronto()) return;
+      salvar.disabled = true;
+      try {
+        const r = await api("/api/video/projetos", { method: "POST", body: JSON.stringify({
+          titulo: titulo.value, texto: roteiro.value, provedor: provedor.value,
+          personagens: elenco.map(({ nome, voz, avatar }) => ({ nome, voz, avatar })),
+        }) });
+        estado.sujo = false;
+        await carregarLivros().catch(() => {});
+        ir(r.slug, "videos");
+      } catch (err) { falhar(err); salvar.disabled = !pronto(); }
+    } },
+    h("label", {}, "Título do vídeo", titulo),
+    h("h2", {}, "1. Roteiro"), arquivo,
+    h("p", { class: "dica" }, "Use Nome: fala, uma fala por linha ou parágrafo. Texto sem nome será lido pelo Narrador. Use nomes com iniciais maiúsculas e até 30 caracteres."), roteiro, conferir,
+    h("h2", {}, "2. Personagens, vozes e avatares"), h("label", {}, "Provedor das vozes", provedor), catalogo, lista,
+    h("p", { class: "dica" }, "Salvar organiza os arquivos e não gera cobranças. Na próxima tela, confira os avatares e confirme Gerar áudio e vídeo. A voz usa créditos; a animação usa a cota disponível no Hugging Face."), erro, salvar));
+}
 
 function arquivoBase64(arquivo) {
   return new Promise((resolve, reject) => {

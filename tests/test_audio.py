@@ -1,10 +1,37 @@
 import shutil
+import os
 import struct
 import subprocess
 
 import pytest
 
-from dublandio.audio import concatenar, formato_wav, pcm_to_wav
+from dublandio.audio import concatenar, executavel_ffmpeg, formato_wav, pcm_to_wav
+
+
+def test_ffmpeg_prioriza_o_path(monkeypatch):
+    monkeypatch.setattr(shutil, 'which', lambda _: '/ferramentas/ffmpeg')
+    assert executavel_ffmpeg() == '/ferramentas/ffmpeg'
+
+
+@pytest.mark.skipif(os.name != 'nt', reason='descoberta da instalação do Windows')
+@pytest.mark.parametrize('atalho', [True, False])
+def test_ffmpeg_encontra_winget_sem_path(tmp_path, monkeypatch, atalho):
+    monkeypatch.setattr(shutil, 'which', lambda _: None)
+    monkeypatch.setenv('LOCALAPPDATA', str(tmp_path / 'local'))
+    monkeypatch.setattr('pathlib.Path.home', lambda: tmp_path / 'casa')
+    caminho = tmp_path / 'local' / 'Microsoft' / 'WinGet'
+    caminho /= 'Links/ffmpeg.exe' if atalho else 'Packages/Gyan.FFmpeg_origem/ffmpeg-build/bin/ffmpeg.exe'
+    caminho.parent.mkdir(parents=True)
+    caminho.touch()
+    assert executavel_ffmpeg() == str(caminho)
+
+
+def test_ffmpeg_ausente_mostra_erro_claro(tmp_path, monkeypatch):
+    monkeypatch.setattr(shutil, 'which', lambda _: None)
+    monkeypatch.setenv('LOCALAPPDATA', str(tmp_path / 'local'))
+    monkeypatch.setattr('pathlib.Path.home', lambda: tmp_path / 'casa')
+    with pytest.raises(ValueError, match='FFmpeg não encontrado'):
+        executavel_ffmpeg()
 
 
 def test_pcm_to_wav_header():

@@ -1,9 +1,31 @@
 """Utilitários de áudio: PCM cru -> WAV e junção de partes com ffmpeg."""
 
 import struct
+import os
+import shutil
 import subprocess
 import tempfile
 from pathlib import Path
+
+
+def executavel_ffmpeg() -> str:
+    """Localiza também o FFmpeg do WinGet quando o processo herdou um PATH antigo."""
+    if encontrado := shutil.which('ffmpeg'):
+        return encontrado
+    if os.name == 'nt':
+        bases = [Path.home() / 'AppData' / 'Local']
+        if local := os.getenv('LOCALAPPDATA'):
+            bases.insert(0, Path(local))
+        for base in dict.fromkeys(bases):
+            winget = base / 'Microsoft' / 'WinGet'
+            atalho = winget / 'Links' / 'ffmpeg.exe'
+            if atalho.is_file():
+                return str(atalho)
+            for binario in sorted((winget / 'Packages').glob('Gyan.FFmpeg_*/*/bin/ffmpeg.exe')):
+                if binario.is_file():
+                    return str(binario)
+    raise ValueError('FFmpeg não encontrado. Instale-o no Windows com '
+                     'winget install --id Gyan.FFmpeg --exact ou use o Docker.')
 
 
 def pcm_to_wav(pcm: bytes, rate: int = 44100, channels: int = 1, bits: int = 16) -> bytes:
@@ -34,7 +56,7 @@ def formato_wav(caminho: Path) -> tuple[int, int, int] | None:
 def _converter(origem: Path, destino: Path, formato: tuple[int, int, int]) -> None:
     taxa, canais, bits = formato
     subprocess.run(
-        ["ffmpeg", "-y", "-loglevel", "error", "-i", str(origem),
+        [executavel_ffmpeg(), "-y", "-loglevel", "error", "-i", str(origem),
          "-ar", str(taxa), "-ac", str(canais), "-c:a", f"pcm_s{bits}le", str(destino)],
         check=True,
     )
@@ -46,6 +68,7 @@ def concatenar(partes: list[Path], destino: Path) -> None:
     Partes em formato diferente da primeira (ex.: um capítulo que trocou de provedor no
     meio) são convertidas antes, porque o concat sem recodificar exige formato único.
     """
+    ffmpeg = executavel_ffmpeg()
     destino.parent.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory() as pasta:
         alvo = formato_wav(partes[0]) if partes else None
@@ -61,9 +84,9 @@ def concatenar(partes: list[Path], destino: Path) -> None:
         lista = Path(pasta) / "lista.txt"
         with open(lista, "w", encoding="utf-8") as f:
             for p in uniformes:
-                caminho = str(p.resolve()).replace("'", r"'\''")
+                caminho = p.resolve().as_posix().replace("'", r"'\''")
                 f.write(f"file '{caminho}'\n")
         subprocess.run(
-            ["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", str(lista), "-c", "copy", str(destino)],
+            [ffmpeg, "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", str(lista), "-c", "copy", str(destino)],
             check=True,
         )

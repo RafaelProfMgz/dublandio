@@ -181,7 +181,7 @@ def _novo(args) -> int:
     )
     print(f"livro criado: {livro.dir / 'livro.yaml'}")
     for cap, origem in fontes(livro):
-        print(f"  {cap} <- {origem.relative_to(livro.origem)}")
+        print(f"  {cap} <- {origem.relative_to(livro.origem).as_posix()}")
     print(f"Revise o livro.yaml e rode `dublandio preparar {livro.slug}`.")
     return 0
 
@@ -190,6 +190,12 @@ def _parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(prog="dublandio", description="Capítulos de livro -> áudio dublado.")
     sub = p.add_subparsers(dest="comando", required=True)
     sub.add_parser("livros", help="lista os livros configurados")
+    novovideo = sub.add_parser('novo-video', help='cria um projeto com roteiro, vozes e fotos, sem gerar nem cobrar')
+    novovideo.add_argument('roteiro', type=Path, help='roteiro UTF-8 (.txt ou .md), com Nome: fala')
+    novovideo.add_argument('--titulo', required=True)
+    novovideo.add_argument('--personagens', required=True, type=Path,
+                          help='YAML: Nome: {voz: ID_OU_NOME, avatar: foto.png}; fotos relativas a este YAML')
+    novovideo.add_argument('--provedor', choices=PROVEDORES, default='heygen')
     novo = sub.add_parser("novo", help="adiciona um livro a partir de uma pasta com capítulos .md ou .txt")
     novo.add_argument("pasta", help="pasta com cap_NNN.md/.txt (ou outros textos, com --arquivos)")
     novo.add_argument("--titulo", help="padrão: o nome da pasta")
@@ -243,6 +249,27 @@ def main(argv: list[str] | None = None) -> int:
     if args.comando == "livros":
         for slug in livros_disponiveis():
             print(slug)
+        return 0
+    if args.comando == 'novo-video':
+        import yaml
+        from dublandio.projeto_video import criar_projeto
+
+        try:
+            dados = yaml.safe_load(args.personagens.read_text(encoding='utf-8-sig'))
+            if not isinstance(dados, dict) or not dados:
+                raise ValueError('o YAML deve listar Nome: {voz: ID_OU_NOME, avatar: foto.png}')
+            fichas = []
+            for nome, ficha in dados.items():
+                if (not isinstance(nome, str) or not isinstance(ficha, dict)
+                        or not isinstance(ficha.get('voz'), str) or not isinstance(ficha.get('avatar'), str)):
+                    raise ValueError('cada personagem deve ter voz e avatar em texto')
+                foto = args.personagens.parent / Path(ficha['avatar']).expanduser()
+                fichas.append({'nome': nome, 'voz': ficha['voz'], 'avatar': foto.read_bytes()})
+            lv = criar_projeto(Path('.'), args.titulo, args.roteiro.read_text(encoding='utf-8-sig'), fichas, args.provedor)
+        except (OSError, ValueError, yaml.YAMLError) as e:
+            print(f'erro: {e}', file=sys.stderr)
+            return 2
+        print(f'Projeto criado: {lv.slug}. Abra a aba Vídeos na interface para gerar áudio e animação.')
         return 0
     if args.comando == "novo":
         try:
